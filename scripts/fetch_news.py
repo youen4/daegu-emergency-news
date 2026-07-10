@@ -59,14 +59,22 @@ CATEGORIES = [
 
 MAX_ITEMS_PER_QUERY = 25   # topic 하나당 가져올 최대 건수 (대구/전국을 코드에서 나중에 구분하므로 넉넉하게)
 
+# 제목에 "대구"라는 글자가 없어도 아래 기관명이 있으면 대구 기사로 인식
+DAEGU_MARKERS = [
+    "대구", "동산의료원", "동산병원", "경북대병원", "경북대학교병원", "칠곡경대병원",
+    "대구가톨릭대병원", "대구가톨릭대학교병원", "대구파티마병원", "대구의료원",
+    "영남대병원", "영남대학교병원", "계명대 동산", "계명대학교 동산", "대구한의대병원",
+    "대구보훈병원", "대구시티병원", "대구굿모닝병원",
+]
+
 
 def detect_region(title):
-    """제목에 '대구'가 포함되어 있으면 대구 기사로 분류 (구글 검색 문법에 의존하지 않는 방식)"""
-    return "daegu" if "대구" in title else "national"
+    """제목에 '대구' 또는 대구 소재 주요 병원/기관명이 있으면 대구 기사로 분류"""
+    return "daegu" if any(marker in title for marker in DAEGU_MARKERS) else "national"
 
 
 def fetch_query(query, max_items=MAX_ITEMS_PER_QUERY):
-    RECENCY_FILTER = "when:2d"
+    RECENCY_FILTER = "when:3d"
     q = urllib.parse.quote(f"{query} {RECENCY_FILTER}")
     url = f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})

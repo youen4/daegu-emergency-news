@@ -259,10 +259,11 @@ function renderPanel(){
   });
 }
 
-const RECENCY_FILTER = "when:2d"; // 최근 2일 이내 뉴스로 검색 범위 제한
+const RECENCY_FILTER = "when:3d"; // 최근 3일 이내 뉴스로 검색 범위 제한
 
+const DAEGU_MARKERS = ["대구","동산의료원","동산병원","경북대병원","경북대학교병원","칠곡경대병원","대구가톨릭대병원","대구가톨릭대학교병원","대구파티마병원","대구의료원","영남대병원","영남대학교병원","계명대 동산","계명대학교 동산","대구한의대병원","대구보훈병원","대구시티병원","대구굿모닝병원"];
 function detectRegion(title){
-  return title.includes("대구") ? "daegu" : "national";
+  return DAEGU_MARKERS.some(m => title.includes(m)) ? "daegu" : "national";
 }
 
 async function fetchLiveQuery(query){
