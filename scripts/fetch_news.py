@@ -1,4 +1,13 @@
-# -*- coding: utf-8 -*-
+Process completed with exit code 1은 파이썬 스크립트 안에서 오류가 났다는 뜻인데, 정확히 어디서 문제인지는 로그를 더 열어봐야 압니다. 다만 지금까지 흐름을 보면, 카테고리 구조가 이번에 꽤 복잡하게 바뀌었어서(topics 리스트 형태로), 수동으로 부분부분 고치시다가 괄호나 콤마가 어긋났을 가능성이 높습니다.
+로그 파고들기보다, fetch_news.py 파일 전체를 통째로 교체하는 게 가장 확실하고 빠릅니다.
+방법
+
+저장소에서 scripts 폴더 → fetch_news.py 클릭해서 열기
+오른쪽 위 연필 아이콘(✏️ Edit) 클릭
+편집창 안에서 Ctrl+A(전체 선택) → Delete(전체 삭제)
+아래 내용을 처음부터 끝까지 통째로 복사해서 붙여넣기:
+
+python# -*- coding: utf-8 -*-
 """
 대구 응급의료 뉴스 자동 수집 스크립트
 - 구글 뉴스 RSS를 이용 (무료, API 키 불필요)
@@ -30,6 +39,7 @@ def parse_and_format_date(pubdate_raw):
         return dt_kst.timestamp(), display
     except Exception:
         return 0, pubdate_raw
+
 
 CATEGORIES = [
     {"id": "emergency_general", "label": "응급의료 일반", "limit": 15,
@@ -81,7 +91,6 @@ def fetch_query(query, region, max_items=MAX_ITEMS_PER_QUERY):
         pubdate_raw = (item.findtext("pubDate") or "").strip()
         source_el = item.find("source")
         source = source_el.text.strip() if source_el is not None and source_el.text else ""
-        # 구글 뉴스는 종종 제목 끝에 " - 언론사명"을 붙임 -> 제거
         title_clean = title
         if source:
             title_clean = re.sub(r"\s*-\s*" + re.escape(source) + r"\s*$", "", title).strip()
@@ -92,7 +101,7 @@ def fetch_query(query, region, max_items=MAX_ITEMS_PER_QUERY):
             "date": display_date,
             "url": link,
             "region": region,
-            "_ts": ts,   # 정렬 전용, 최종 출력 전에 제거됨
+            "_ts": ts,
         })
     return items
 
@@ -104,7 +113,7 @@ def fetch_category(cat):
         all_items += fetch_query(topic["query_daegu"], "daegu")
         all_items += fetch_query(topic["query_national"], "national")
 
-    all_items.sort(key=lambda x: x["_ts"], reverse=True)  # 최신순
+    all_items.sort(key=lambda x: x["_ts"], reverse=True)
 
     limit = cat.get("limit", 15)
     merged = []
