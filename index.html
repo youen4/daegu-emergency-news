@@ -117,22 +117,22 @@ const ACCENTS = {
 
 // scripts/fetch_news.py 의 CATEGORIES 와 동일한 구조 (브라우저에서 즉시 새로고침할 때 사용)
 const CATEGORIES = [
-  {id:"emergency_general", label:"응급의료 일반", limit:15, topics:[
-    {query_national:"응급의료 정책 OR 응급의료기관 OR 응급실 과밀화 OR 권역외상센터",
-     query_daegu:"대구 응급의료 OR 대구 응급실 OR 대구 응급의료기관 OR 대구 권역외상센터"},
+  {id:"emergency_general", label:"응급의료 일반", limit:20, topics:[
+    {query_national:"(응급의료 정책 OR 응급의료기관 OR 응급의료센터 OR 응급실 과밀화 OR 권역외상센터 OR 권역응급의료센터) -뺑뺑이 -미수용 -표류",
+     query_daegu:"(대구 응급의료 OR 대구 응급실 OR 대구 응급의료기관 OR 대구 응급의료센터 OR 대구 권역외상센터 OR 대구 권역응급의료센터) -뺑뺑이 -미수용 -표류"},
   ]},
-  {id:"er_runaround", label:"응급실 뺑뺑이", limit:15, topics:[
+  {id:"er_runaround", label:"응급실 뺑뺑이", limit:20, topics:[
     {query_national:"응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐",
      query_daegu:"대구 응급실 뺑뺑이 OR 대구 응급실 미수용 OR 대구 응급실 이송 지연 OR 대구 환자 이송 지연"},
   ]},
-  {id:"disaster", label:"재난의료", limit:15, topics:[
+  {id:"disaster", label:"재난의료", limit:20, topics:[
     {query_national:"재난의료", query_daegu:"대구 재난의료"},
   ]},
-  {id:"pediatric", label:"소아응급의료", limit:15, topics:[
+  {id:"pediatric", label:"소아응급의료", limit:20, topics:[
     {query_national:"소아응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR 신생아 사망 OR 고위험 분만",
      query_daegu:"대구 소아응급 OR 대구 소아과 응급실 OR 대구 달빛어린이병원 OR 대구 신생아중환자실 OR 대구 고위험 분만"},
   ]},
-  {id:"etc_misc", label:"기타", limit:24, topics:[
+  {id:"etc_misc", label:"기타", limit:30, topics:[
     {query_national:"명절 비상진료 OR 명절 응급실 OR 명절 문여는병원",
      query_daegu:"대구 명절 비상진료 OR 대구 설 추석 병원"},
     {query_national:"손상예방관리 OR 안전사고 통계 OR 손상예방",
@@ -143,7 +143,7 @@ const CATEGORIES = [
      query_daegu:"대구 헌혈 OR 대구 혈액원"},
   ]},
 ];
-const MAX_ITEMS_PER_QUERY = 8;
+const MAX_ITEMS_PER_QUERY = 15;
 const PROXIES = [
   url => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),
   url => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(url),
@@ -266,8 +266,10 @@ function renderPanel(){
   });
 }
 
+const RECENCY_FILTER = "when:2d"; // 최근 2일 이내 뉴스로 검색 범위 제한
+
 async function fetchLiveQuery(query, region){
-  const target = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ko&gl=KR&ceid=KR:ko`;
+  const target = `https://news.google.com/rss/search?q=${encodeURIComponent(query + " " + RECENCY_FILTER)}&hl=ko&gl=KR&ceid=KR:ko`;
   let lastError = null;
   for(const buildProxyUrl of PROXIES){
     try{
