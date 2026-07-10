@@ -34,40 +34,38 @@ def parse_and_format_date(pubdate_raw):
 CATEGORIES = [
     {"id": "emergency_general", "label": "응급의료 일반", "limit": 20,
      "topics": [
-         {"query_national": "응급의료 정책 OR 응급의료기관 OR 응급의료센터 OR 응급실 과밀화 OR 권역외상센터 OR 권역응급의료센터",
-          "query_daegu": '"대구 응급의료" OR "대구 응급실" OR "대구 응급의료기관" OR "대구 응급의료센터" OR "대구 권역외상센터" OR "대구 권역응급의료센터"'},
+         {"query": "응급의료 정책 OR 응급의료기관 OR 응급의료센터 OR 응급실 과밀화 OR 권역외상센터 OR 권역응급의료센터"},
      ]},
     {"id": "er_runaround", "label": "응급실 뺑뺑이", "limit": 20,
      "topics": [
-         {"query_national": "응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐",
-          "query_daegu": '"대구 응급실 뺑뺑이" OR "대구 응급실 미수용" OR "대구 응급실 이송 지연" OR "대구 환자 이송 지연"'},
+         {"query": "응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐"},
      ]},
     {"id": "disaster", "label": "재난의료", "limit": 20,
      "topics": [
-         {"query_national": "재난의료", "query_daegu": '"대구 재난의료"'},
+         {"query": '"재난의료"'},
      ]},
     {"id": "pediatric", "label": "소아응급의료", "limit": 20,
      "topics": [
-         {"query_national": "소아응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료",
-          "query_daegu": '"대구 소아응급" OR "대구 소아과 응급실" OR "대구 달빛어린이병원" OR "대구 신생아중환자실" OR "대구 NICU" OR "대구 고위험 분만" OR "대구 필수의료"'},
+         {"query": "소아응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료 OR 달빛어린이병원"},
      ]},
     {"id": "etc_misc", "label": "기타", "limit": 30,
      "topics": [
-         {"query_national": "명절 비상진료 OR 명절 응급실 OR 명절 문여는병원",
-          "query_daegu": '"대구 명절 비상진료" OR "대구 설 추석 병원"'},
-         {"query_national": "손상예방관리 OR 안전사고 통계 OR 손상예방",
-          "query_daegu": '"대구 손상예방" OR "대구 안전사고"'},
-         {"query_national": "심폐소생술 교육 OR 자동심장충격기 OR AED 설치",
-          "query_daegu": '"대구 심폐소생술" OR "대구 자동심장충격기" OR "대구 AED"'},
-         {"query_national": "헌혈 부족 OR 헌혈 캠페인 OR 혈액수급",
-          "query_daegu": '"대구 헌혈" OR "대구 혈액원"'},
+         {"query": "명절 비상진료 OR 명절 응급실 OR 명절 문여는병원"},
+         {"query": "손상예방관리 OR 안전사고 통계 OR 손상예방"},
+         {"query": "심폐소생술 교육 OR 자동심장충격기 OR AED 설치"},
+         {"query": "헌혈 부족 OR 헌혈 캠페인 OR 혈액수급"},
      ]},
 ]
 
-MAX_ITEMS_PER_QUERY = 15   # 전국/대구 검색어 각각에서 가져올 최대 건수
+MAX_ITEMS_PER_QUERY = 25   # topic 하나당 가져올 최대 건수 (대구/전국을 코드에서 나중에 구분하므로 넉넉하게)
 
 
-def fetch_query(query, region, max_items=MAX_ITEMS_PER_QUERY):
+def detect_region(title):
+    """제목에 '대구'가 포함되어 있으면 대구 기사로 분류 (구글 검색 문법에 의존하지 않는 방식)"""
+    return "daegu" if "대구" in title else "national"
+
+
+def fetch_query(query, max_items=MAX_ITEMS_PER_QUERY):
     RECENCY_FILTER = "when:2d"
     q = urllib.parse.quote(f"{query} {RECENCY_FILTER}")
     url = f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
@@ -92,18 +90,17 @@ def fetch_query(query, region, max_items=MAX_ITEMS_PER_QUERY):
             "source": source,
             "date": display_date,
             "url": link,
-            "region": region,
+            "region": detect_region(title_clean),
             "_ts": ts,   # 정렬 전용, 최종 출력 전에 제거됨
         })
     return items
 
 
 def fetch_category(cat):
-    """카테고리에 속한 모든 topic(대구+전국)의 결과를 합쳐서 최신순 정렬 후 중복 제거"""
+    """카테고리에 속한 모든 topic의 결과를 합쳐서 최신순 정렬 후 중복 제거"""
     all_items = []
     for topic in cat["topics"]:
-        all_items += fetch_query(topic["query_daegu"], "daegu")
-        all_items += fetch_query(topic["query_national"], "national")
+        all_items += fetch_query(topic["query"])
 
     all_items.sort(key=lambda x: x["_ts"], reverse=True)  # 최신순
 
