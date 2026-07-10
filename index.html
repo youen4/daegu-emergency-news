@@ -299,17 +299,22 @@ async function fetchLiveQuery(query){
   throw new Error((lastError && lastError.message) || "모든 중계 서버 연결에 실패했습니다.");
 }
 
+function sleep(ms){ return new Promise(r => setTimeout(r, ms)); }
+
 async function fetchLiveCategory(cat){
-  const queryCalls = cat.topics.map(t => fetchLiveQuery(t.query));
-  const results = await Promise.allSettled(queryCalls);
   const all = [];
-  for(const r of results){
-    if(r.status === "fulfilled") all.push(...r.value);
+  const errors = [];
+  for(let i=0; i<cat.topics.length; i++){
+    try{
+      const items = await fetchLiveQuery(cat.topics[i].query);
+      all.push(...items);
+    }catch(e){
+      errors.push(e);
+    }
+    if(i < cat.topics.length - 1) await sleep(400); // 프록시 과부하 방지용 간격
   }
   if(all.length === 0){
-    // 전부 실패한 경우에만 에러로 처리
-    const firstRejected = results.find(r=>r.status==="rejected");
-    throw new Error(firstRejected?.reason?.message || "뉴스를 가져오지 못했습니다.");
+    throw new Error((errors[0] && errors[0].message) || "뉴스를 가져오지 못했습니다.");
   }
   all.sort((a,b)=> b._ts - a._ts); // 최신순
   const limit = cat.limit || 15;
@@ -363,6 +368,7 @@ async function refreshAllCategories(){
     }catch(e){
       DATA.categories[cat.id] = {label: cat.label, items: DATA.categories[cat.id]?.items || [], error: e.message || "새로고침 실패"};
     }
+    if(i < CATEGORIES.length - 1) await sleep(400);
   }
   DATA.generatedAt = new Date().toISOString();
   document.getElementById("globalUpdated").innerHTML = `마지막 업데이트: <b>${fmtTime(DATA.generatedAt)}</b> (방금 전체 새로고침)`;
