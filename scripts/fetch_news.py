@@ -34,8 +34,8 @@ def parse_and_format_date(pubdate_raw):
 CATEGORIES = [
     {"id": "emergency_general", "label": "응급의료 일반", "limit": 20,
      "topics": [
-         {"query_national": "(응급의료 정책 OR 응급의료기관 OR 응급의료센터 OR 응급실 과밀화 OR 권역외상센터 OR 권역응급의료센터) -뺑뺑이 -미수용 -표류",
-          "query_daegu": "(대구 응급의료 OR 대구 응급실 OR 대구 응급의료기관 OR 대구 응급의료센터 OR 대구 권역외상센터 OR 대구 권역응급의료센터) -뺑뺑이 -미수용 -표류"},
+         {"query_national": "응급의료 정책 OR 응급의료기관 OR 응급의료센터 OR 응급실 과밀화 OR 권역외상센터 OR 권역응급의료센터",
+          "query_daegu": "대구 응급의료 OR 대구 응급실 OR 대구 응급의료기관 OR 대구 응급의료센터 OR 대구 권역외상센터 OR 대구 권역응급의료센터"},
      ]},
     {"id": "er_runaround", "label": "응급실 뺑뺑이", "limit": 20,
      "topics": [
@@ -48,8 +48,8 @@ CATEGORIES = [
      ]},
     {"id": "pediatric", "label": "소아응급의료", "limit": 20,
      "topics": [
-         {"query_national": "소아응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR 신생아 사망 OR 고위험 분만",
-          "query_daegu": "대구 소아응급 OR 대구 소아과 응급실 OR 대구 달빛어린이병원 OR 대구 신생아중환자실 OR 대구 고위험 분만"},
+         {"query_national": "소아응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료",
+          "query_daegu": "대구 소아응급 OR 대구 소아과 응급실 OR 대구 달빛어린이병원 OR 대구 신생아중환자실 OR 대구 NICU OR 대구 고위험 분만 OR 대구 필수의료"},
      ]},
     {"id": "etc_misc", "label": "기타", "limit": 30,
      "topics": [
