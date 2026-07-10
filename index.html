@@ -111,41 +111,44 @@
 
 <script>
 const ACCENTS = {
-  er_runaround:"var(--alert)", pediatric:"var(--teal)", holiday:"var(--slate)",
-  injury:"var(--amber)", cpr_aed:"var(--alert)", blood:"var(--amber)",
-  disaster_trauma:"var(--slate)", emergency_general:"var(--teal)"
+  emergency_general:"var(--teal)", er_runaround:"var(--alert)", disaster:"var(--slate)",
+  pediatric:"var(--teal)", etc_misc:"var(--amber)"
 };
 
-// scripts/fetch_news.py 의 CATEGORIES 와 동일한 검색어 (브라우저에서 즉시 새로고침할 때 사용)
+// scripts/fetch_news.py 의 CATEGORIES 와 동일한 구조 (브라우저에서 즉시 새로고침할 때 사용)
 const CATEGORIES = [
-  {id:"er_runaround", label:"응급실 뺑뺑이",
-   query_national:"응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류",
-   query_daegu:"대구 응급실 뺑뺑이 OR 대구 응급실 미수용"},
-  {id:"pediatric", label:"소아응급의료",
-   query_national:"소아응급의료 OR 소아전문응급의료센터 OR 소아 응급실",
-   query_daegu:"대구 소아응급 OR 대구 소아과 응급실 OR 대구 달빛어린이병원"},
-  {id:"holiday", label:"명절비상진료",
-   query_national:"명절 비상진료 OR 명절 응급실 OR 명절 문여는병원",
-   query_daegu:"대구 명절 비상진료 OR 대구 설 추석 병원"},
-  {id:"injury", label:"손상예방·관리",
-   query_national:"손상예방관리 OR 안전사고 통계 OR 손상예방",
-   query_daegu:"대구 손상예방 OR 대구 안전사고"},
-  {id:"cpr_aed", label:"CPR·AED",
-   query_national:"심폐소생술 교육 OR 자동심장충격기 OR AED 설치",
-   query_daegu:"대구 심폐소생술 OR 대구 자동심장충격기 OR 대구 AED"},
-  {id:"blood", label:"헌혈",
-   query_national:"헌혈 부족 OR 헌혈 캠페인 OR 혈액수급",
-   query_daegu:"대구 헌혈 OR 대구 혈액원"},
-  {id:"disaster_trauma", label:"재난의료·권역외상센터",
-   query_national:"재난의료 OR 권역외상센터",
-   query_daegu:"대구 재난의료 OR 대구 권역외상센터 OR 경북권역외상센터"},
-  {id:"emergency_general", label:"응급의료 일반",
-   query_national:"응급의료 정책 OR 응급의료기관 OR 응급실 과밀화",
-   query_daegu:"대구 응급의료 OR 대구 응급실 OR 대구 응급의료기관"},
+  {id:"emergency_general", label:"응급의료 일반", limit:15, topics:[
+    {query_national:"응급의료 정책 OR 응급의료기관 OR 응급실 과밀화 OR 권역외상센터",
+     query_daegu:"대구 응급의료 OR 대구 응급실 OR 대구 응급의료기관 OR 대구 권역외상센터"},
+  ]},
+  {id:"er_runaround", label:"응급실 뺑뺑이", limit:15, topics:[
+    {query_national:"응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐",
+     query_daegu:"대구 응급실 뺑뺑이 OR 대구 응급실 미수용 OR 대구 응급실 이송 지연 OR 대구 환자 이송 지연"},
+  ]},
+  {id:"disaster", label:"재난의료", limit:15, topics:[
+    {query_national:"재난의료", query_daegu:"대구 재난의료"},
+  ]},
+  {id:"pediatric", label:"소아응급의료", limit:15, topics:[
+    {query_national:"소아응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR 신생아 사망 OR 고위험 분만",
+     query_daegu:"대구 소아응급 OR 대구 소아과 응급실 OR 대구 달빛어린이병원 OR 대구 신생아중환자실 OR 대구 고위험 분만"},
+  ]},
+  {id:"etc_misc", label:"기타", limit:24, topics:[
+    {query_national:"명절 비상진료 OR 명절 응급실 OR 명절 문여는병원",
+     query_daegu:"대구 명절 비상진료 OR 대구 설 추석 병원"},
+    {query_national:"손상예방관리 OR 안전사고 통계 OR 손상예방",
+     query_daegu:"대구 손상예방 OR 대구 안전사고"},
+    {query_national:"심폐소생술 교육 OR 자동심장충격기 OR AED 설치",
+     query_daegu:"대구 심폐소생술 OR 대구 자동심장충격기 OR 대구 AED"},
+    {query_national:"헌혈 부족 OR 헌혈 캠페인 OR 혈액수급",
+     query_daegu:"대구 헌혈 OR 대구 혈액원"},
+  ]},
 ];
-const MAX_ITEMS_PER_QUERY = 6;
-const MAX_ITEMS_TOTAL = 10;
-const CORS_PROXY = "https://api.allorigins.win/raw?url=";
+const MAX_ITEMS_PER_QUERY = 8;
+const PROXIES = [
+  url => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),
+  url => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(url),
+  url => "https://corsproxy.io/?url=" + encodeURIComponent(url),
+];
 
 let DATA = null;
 let activeTab = null;
@@ -155,6 +158,25 @@ function fmtTime(iso){
   if(!iso) return "";
   const d = new Date(iso);
   return d.getFullYear()+"."+String(d.getMonth()+1).padStart(2,"0")+"."+String(d.getDate()).padStart(2,"0")+" "+String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0");
+}
+const WEEKDAYS_KO = ["월","화","수","목","금","토","일"]; // 0=월 ... 6=일
+function formatPubDate(pubDateStr){
+  if(!pubDateStr) return {display:"", ts:0};
+  const d = new Date(pubDateStr);
+  if(isNaN(d.getTime())) return {display: pubDateStr, ts:0};
+  // 한국시간(KST) 기준으로 변환
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone:"Asia/Seoul", year:"numeric", month:"2-digit", day:"2-digit",
+    hour:"2-digit", minute:"2-digit", hour12:false, weekday:"short"
+  }).formatToParts(d);
+  const get = t => parts.find(p=>p.type===t)?.value;
+  const y = get("year"), mo = get("month"), da = get("day");
+  let hh = get("hour"); if(hh === "24") hh = "00";
+  const mi = get("minute");
+  const weekdayEn = get("weekday"); // "Mon","Tue",...
+  const map = {Mon:"월",Tue:"화",Wed:"수",Thu:"목",Fri:"금",Sat:"토",Sun:"일"};
+  const weekday = map[weekdayEn] || "";
+  return {display: `${y}.${mo}.${da}.(${weekday}) ${hh}:${mi}`, ts: d.getTime()};
 }
 function escapeHtml(str){
   return String(str).replace(/[&<>"']/g, s=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[s]));
@@ -246,38 +268,64 @@ function renderPanel(){
 
 async function fetchLiveQuery(query, region){
   const target = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ko&gl=KR&ceid=KR:ko`;
-  const res = await fetch(CORS_PROXY + encodeURIComponent(target));
-  if(!res.ok) throw new Error("뉴스 서버 응답 오류 (status " + res.status + ")");
-  const text = await res.text();
-  const doc = new DOMParser().parseFromString(text, "text/xml");
-  const parseError = doc.querySelector("parsererror");
-  if(parseError) throw new Error("응답을 해석할 수 없습니다.");
-  const items = [...doc.querySelectorAll("item")].slice(0, MAX_ITEMS_PER_QUERY).map(item=>{
-    const title = (item.querySelector("title")?.textContent || "").trim();
-    const link = (item.querySelector("link")?.textContent || "").trim();
-    const pubDate = (item.querySelector("pubDate")?.textContent || "").trim();
-    const source = (item.querySelector("source")?.textContent || "").trim();
-    let cleanTitle = title;
-    if(source){
-      const escaped = source.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-      cleanTitle = title.replace(new RegExp("\\s*-\\s*" + escaped + "\\s*$"), "").trim();
+  let lastError = null;
+  for(const buildProxyUrl of PROXIES){
+    try{
+      const res = await fetch(buildProxyUrl(target), {signal: AbortSignal.timeout(12000)});
+      if(!res.ok) throw new Error("응답 오류 (status " + res.status + ")");
+      const text = await res.text();
+      const doc = new DOMParser().parseFromString(text, "text/xml");
+      if(doc.querySelector("parsererror")) throw new Error("응답을 해석할 수 없습니다.");
+      const nodes = doc.querySelectorAll("item");
+      if(nodes.length === 0) throw new Error("검색 결과가 비어 있습니다.");
+      return [...nodes].slice(0, MAX_ITEMS_PER_QUERY).map(item=>{
+        const title = (item.querySelector("title")?.textContent || "").trim();
+        const link = (item.querySelector("link")?.textContent || "").trim();
+        const pubDateRaw = (item.querySelector("pubDate")?.textContent || "").trim();
+        const source = (item.querySelector("source")?.textContent || "").trim();
+        let cleanTitle = title;
+        if(source){
+          const escaped = source.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+          cleanTitle = title.replace(new RegExp("\\s*-\\s*" + escaped + "\\s*$"), "").trim();
+        }
+        const {display, ts} = formatPubDate(pubDateRaw);
+        return {title: cleanTitle, source, date: display, url: link, region, _ts: ts};
+      });
+    }catch(e){
+      lastError = e;
+      continue; // 다음 프록시로 넘어감
     }
-    return {title: cleanTitle, source, date: pubDate, url: link, region};
-  });
-  return items;
+  }
+  throw new Error((lastError && lastError.message) || "모든 중계 서버 연결에 실패했습니다.");
 }
 
 async function fetchLiveCategory(cat){
-  const [daeguItems, nationalItems] = await Promise.all([
-    fetchLiveQuery(cat.query_daegu, "daegu"),
-    fetchLiveQuery(cat.query_national, "national"),
+  const queryPairs = cat.topics.flatMap(t => [
+    fetchLiveQuery(t.query_daegu, "daegu"),
+    fetchLiveQuery(t.query_national, "national"),
   ]);
+  const results = await Promise.allSettled(queryPairs);
+  const all = [];
+  for(const r of results){
+    if(r.status === "fulfilled") all.push(...r.value);
+  }
+  if(all.length === 0){
+    // 전부 실패한 경우에만 에러로 처리
+    const firstRejected = results.find(r=>r.status==="rejected");
+    throw new Error(firstRejected?.reason?.message || "뉴스를 가져오지 못했습니다.");
+  }
+  all.sort((a,b)=> b._ts - a._ts); // 최신순
+  const limit = cat.limit || 15;
   const merged = [];
   const seen = new Set();
-  for(const item of [...daeguItems, ...nationalItems]){
-    if(merged.length >= MAX_ITEMS_TOTAL) break;
+  for(const item of all){
+    if(merged.length >= limit) break;
     const key = item.title.slice(0, 30);
-    if(!seen.has(key)){ seen.add(key); merged.push(item); }
+    if(!seen.has(key)){
+      seen.add(key);
+      delete item._ts;
+      merged.push(item);
+    }
   }
   return merged;
 }
