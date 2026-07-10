@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T00:42:55.237103+00:00",
+  "generatedAt": "2026-07-10T01:02:20.021299+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -26,17 +26,17 @@
           "region": "daegu"
         },
         {
-          "title": "경북도 응급환자 이송, 골든타임 확보한다",
-          "source": "세명일보",
-          "date": "2026.06.16.(화) 06:49",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6ZUJzLTFEQmtqUFBaN0owVDM5eTZkdFpDbmJ5Tjl1LTNTU3lNWi1JUFlaOE5vOFFmbkJOMEo4Vy0wUGliMklDTG9SNG55WGVmUnlPeA?oc=5",
-          "region": "daegu"
-        },
-        {
           "title": "경북도 ‘3단계 응급환자 이송체계’ 전면 개편으로 골든타임 확보",
           "source": "v.daum.net",
           "date": "2026.06.14.(일) 16:00",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PNnZub2libnpnQmoyNGpXMXZIQlB5MGNzMHhHVGhQSFFhY3BzamVCTjhiQXV6UVBwYVZhNERoaXZTMkFuMXc?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "경북도, '응급실 뺑뺑이' 뿌리 뽑는다…'3단계 강제 수용' 이송 혁신안 발표",
+          "source": "이로운넷",
+          "date": "2026.06.14.(일) 16:00",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUlI2RkZ1Q3VNS0tmSFMxSEI3YzNiT1lVd3hnUHNXZk5RVnZrdGNhRUZaWnktY2YtdWRRZkpDRnZ3V2t4alBOQktWbXBOS2JzSU5MU29DLXc5ZXUyTWNRa0ZmVzFEZw?oc=5",
           "region": "daegu"
         },
         {
@@ -172,10 +172,10 @@
           "region": "daegu"
         },
         {
-          "title": "대구서 또 응급실 뺑뺑이…28주 쌍둥이 1명 숨지고 1명 뇌손상",
-          "source": "KBS 뉴스",
+          "title": "대구 응급실 7곳 퇴짜맞은 임신부... 쌍둥이 출산 중 결국 1명 사망",
+          "source": "조선일보",
           "date": "2026.04.07.(화) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wUnlTZkt5YTV1bXlRemlfa2t4TXpiNDJ5aUJadU9VTUpTaExwc2dETENFcE1nZnZ5TG1BZXNTRHU0TDhvTXlPeU9MOEhwNG5HTGFkMC05cld1NjQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDNhUHJTUVJUdWFhc3NzY0o3UGJvZkxtcE9Zcm9fd0RBT1BzaU4tbXp5R3MxaGJUWkJUNTltTG5rQl9QWE9zblZTcGx2ZFhYN3ozakN6WUVRbmFwS016OC1iM1VYSHNhQ2JsanlrRVRoTmpUQW1uNFNxdWZnOWk1X0Y4LTNaZw?oc=5",
           "region": "daegu"
         },
         {
@@ -234,6 +234,13 @@
           "region": "national"
         },
         {
+          "title": "시흥소방서, 재난대응 역량 입증... 불시가동 응급의료소 운영훈련 ‘경기 1위 달성’",
+          "source": "엔디엔뉴스",
+          "date": "2026.07.09.(목) 09:46",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82SzdtUTduN2F6ZVE2UU9Ndjl5RlNOcS1IV1FMVXlCRVpOVjFKVUtabThrMFlrcnV1Y1FHdWo1dlFBeEZLNGlJV2hmcDl5V2NrLWZZOXRiVl9ZeHlBdGJTdjNKc2d0QkdpamNZa1RhRU5nZ9IBckFVX3lxTE82SzdtUTduN2F6ZVE2UU9Ndjl5RlNOcS1IV1FMVXlCRVpOVjFKVUtabThrMFlrcnV1Y1FHdWo1dlFBeEZLNGlJV2hmcDl5V2NrLWZZOXRiVl9ZeHlBdGJTdjNKc2d0QkdpamNZa1RhRU5nZw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "조금씩 베일 벗는 지역필수공공의료실…지역의료인력양성과 신설",
           "source": "의협신문",
           "date": "2026.07.08.(수) 15:02",
@@ -245,6 +252,13 @@
           "source": "폴리뉴스 Polinews",
           "date": "2026.07.07.(화) 18:55",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45OWlBWXlpOGhscVhtQnhIRVV3TVVtaVZtTzFUUHNDSUxDbVl5TUlWVTNnU3pBS2YtMURBMUMtSC1EZWFNWjRhWjZyTndNMHBfQVNvSjVpOHN1VjRibVE5eXdmUmRvZU1ONWx3MzFn0gFyQVVfeXFMTl9HejBLeDBFSWlzRklMcUlJU2RtNmlvMGEteXFud0lCLU15dkxJT2RWVzNZS2FucHBKU0cyZnNWSkJNck90eW4tMkZ4a252b1lxTXJJV3pHMkRBRVdEdDVLWi1lbEhvMHJPU25qT2k1ck1R?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "[패트롤]경주시-영천시-청도군-대구남구-수성구-대구경북병무청",
+          "source": "에너지경제신문",
+          "date": "2026.07.07.(화) 18:19",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04WWxickZYUUkyTzk3eUtXRk5WS1dGZGI5QmNyNWpMOEJydzRCYUJfaXZRSEJMdmxGaUN5V09lbm5CdzVITkVLbGI0bU5WbDRHdndwNkdNRWVDRk0?oc=5",
           "region": "daegu"
         },
         {
@@ -283,13 +297,6 @@
           "region": "daegu"
         },
         {
-          "title": "홍천군보건소, 군민 생명 지키는 재난응급의료 대응 역량 강화",
-          "source": "케이에스피뉴스",
-          "date": "2026.07.06.(월) 09:34",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KbEcxREg1TzQ5dlJreVZqdWVTUzQ0SHNPaG1nblBKYmE4Qy1BWEZ4eDhVX19sUnIyZXlDVUlpNjM5WGhqRkE?oc=5",
-          "region": "national"
-        },
-        {
           "title": "대구 중구, 재난의료경진대회 4회 연속 입상",
           "source": "경북신문",
           "date": "2026.07.04.(토) 23:18",
@@ -301,13 +308,6 @@
           "source": "더코리아",
           "date": "2026.07.04.(토) 11:34",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByN05QTlFNaXVhZ0c4OUJXN25UMXgyN3dkVVhpU0pCOFQ2UU9LR1VKV2k2eVFmeU9CaVBJcjlCdUJ0Z29ESjE3cC1ZaVpfVEVUZzQwbjhsY2ZONnR1dkswRXNXUGJycVMtRjJtYXV3UEg?oc=5",
-          "region": "daegu"
-        },
-        {
-          "title": "“구민 생명이 최우선”… 대구 중구 ‘재난의료경진대회’ 4회 연속 수상",
-          "source": "글로벌이코노믹",
-          "date": "2026.07.03.(금) 13:23",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGtwVTNTSTVLMVBWWnlyMDZGZkVoZWppVk05V0tfcHhMaHlST2xlY3NzUi1MNHZtUDBrOGhlY19aNkpSQXUzb0ZxeHNfV0ZRR1RPazBMNzUwcVBWSm94NmNkWVFQejJVWlEtbUhwOEtyMjlXcFFnQ0dUV0ROUmZpQnFmLU1lOXZYdWl3?oc=5",
           "region": "daegu"
         }
       ],
@@ -442,6 +442,13 @@
           "region": "national"
         },
         {
+          "title": "의성군새마을회, 단체 헌혈로 생명나눔 실천 앞장",
+          "source": "문화매일신문",
+          "date": "2026.07.10.(금) 08:26",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmUEE2UHNCSFhJaFBlVHFBYnN6M3ZMcm1tZy1FM1FlQ0FKcjJOdkxhYTdZc2hKRWQ4akt0NFlOUThOOUw3WVJyNk5R?oc=5",
+          "region": "national"
+        },
+        {
           "title": "대구광역시\" 대구의료원, 생명 나눔 실천 위한 ‘사랑의 헌혈’ 행사 개최",
           "source": "시사뉴스",
           "date": "2026.07.10.(금) 02:49",
@@ -489,13 +496,6 @@
           "date": "2026.07.09.(목) 16:23",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jX0dLQXpKeC1jbHpCVWZ6dG5Ya01nZHdCZEJycXNjdV9MMlJzUC13ZGNsaGlOekZ6elctTHhVZzB2UVBtcVVxeno0eENjZXBfNUIxNnpYOWJpODg?oc=5",
           "region": "daegu"
-        },
-        {
-          "title": "예산교육지원청, 사랑의 헌혈 운동 실시",
-          "source": "엠뉴스",
-          "date": "2026.07.09.(목) 14:17",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Z0dEbFA1NEQ1ZGdxOVd6d0dsNV9NbU1ld001ZE5WUGlKNTV2S3BocnhCckFoQ0pUcjBNLVc4TWZtUHBRLUU4eEhhck12WTd6aWRoY05Rbk41Q2xra2xtQzQ1TXkwZw?oc=5",
-          "region": "national"
         },
         {
           "title": "새강병원, 생명나눔 헌혈 캠페인 전개",
@@ -575,13 +575,6 @@
           "region": "daegu"
         },
         {
-          "title": "경북도, 포항의료원 ‘방만 예산·업추비 오남용’ 무더기 적발… 관외 민간기업에 명절선물까지 돌려",
-          "source": "스트레이트뉴스",
-          "date": "2026.06.24.(수) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rS1NEZmxhN2VwT3ZZbzBTeHdaYWNYaWRhX1Vhcy1PZjNBNGx0Q2wySXIwUzdBdG9Bbkswelo4a19fVEI5Vkp2emFORGs1VUxmNEtXZTc1Rnk5bjd0dW9qLTBMa3NmbkRXdlhNcGJrUDBuNnPSAXdBVV95cUxPQzB2U0V2eV9qbzZJSmFoRExGZlZpTXBheG4xMGJZQnlCUXNER29xT3o4WnlVRzd2dk1XcWItMk9wOXZoODc3MTRYblhYTUh4SktaRFVOOVBKNGE3RlJmQzI1RW0xZ1J1Y1VZem8zY1h3X0dWQWRzbw?oc=5",
-          "region": "daegu"
-        },
-        {
           "title": "[패트롤]경주시-경산시-청도군-대구경북병무청",
           "source": "에너지경제신문",
           "date": "2026.06.22.(월) 16:00",
@@ -593,6 +586,13 @@
           "source": "v.daum.net",
           "date": "2026.06.17.(수) 16:00",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0zcUhLeDhlODBxZG5iWjYyc0xlQnZUMFJXZmc3U0RhOXRiQ3VNajVCWlYtQmQ5bjc2a1ZyNXIzZnJhYi00c3c?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "대구경북혈액원, 세계 헌혈자의 날 맞아 프로스포츠 연계 생명나눔 캠페인 전개",
+          "source": "경상매일신문",
+          "date": "2026.06.17.(수) 15:40",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1V2xzaUxkOU44Rml4YjRIRmI2dWx4djlBdElraHV3UmViakpIVUhXZXZtZFBJczZsQTVtLWpNRnJLcG1qQkFMQkIybDh3djRWTzR1aVB2dDFGbGgwNDV3?oc=5",
           "region": "daegu"
         }
       ],
