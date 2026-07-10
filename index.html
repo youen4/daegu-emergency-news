@@ -29,6 +29,15 @@
   .subtitle{font-size:14px; color:#B9C6D4; margin:0 0 14px;}
   .updated-info{font-size:13px; color:#9FB0C0;}
   .updated-info b{color:#fff; font-weight:600;}
+  .btn{font-weight:600; font-size:13.5px; border:none; border-radius:8px; padding:10px 18px; cursor:pointer; display:inline-flex; align-items:center; gap:8px;}
+  .btn-primary{background:#7FD8CC; color:var(--navy);}
+  .btn-primary:disabled{opacity:.55; cursor:not-allowed;}
+  .header-meta{display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;}
+  .spin{width:12px; height:12px; border-radius:50%; border:2px solid rgba(15,42,68,.3); border-top-color:var(--navy); animation:spin .7s linear infinite; display:inline-block;}
+  @keyframes spin{to{transform:rotate(360deg);}}
+  .btn-mini{font-size:12.5px; font-weight:600; background:#fff; color:var(--navy); border:1px solid var(--line); border-radius:7px; padding:7px 12px; cursor:pointer; display:inline-flex; align-items:center; gap:6px;}
+  .btn-mini:disabled{opacity:.55; cursor:not-allowed;}
+  .btn-mini .spin{border:2px solid rgba(15,42,68,.25); border-top-color:var(--navy); width:11px; height:11px;}
   .tabs-wrap{background:var(--surface); border-bottom:1px solid var(--line); position:sticky; top:0; z-index:5;}
   .tabs{max-width:1080px; margin:0 auto; display:flex; gap:2px; overflow-x:auto; padding:0 20px;}
   .tab{font-weight:600; font-size:13.5px; background:none; border:none; padding:16px 14px; cursor:pointer; white-space:nowrap; color:var(--muted); border-bottom:3px solid transparent; display:flex; align-items:center; gap:7px;}
@@ -68,8 +77,11 @@
   <div class="header-inner">
     <div class="eyebrow"><span class="pulse-dot"></span> AUTO-UPDATED DAILY</div>
     <h1>대구 응급의료 모니터</h1>
-    <p class="subtitle">매일 자동 수집되는 전국·대구 응급의료 뉴스 (구글 뉴스 RSS 기반, GitHub Actions 자동 실행)</p>
-    <div class="updated-info" id="globalUpdated">불러오는 중...</div>
+    <p class="subtitle">전국·대구 응급의료 뉴스 모니터링 (구글 뉴스 기반) — 매일 자동 갱신 + 지금 바로 새로고침 가능</p>
+    <div class="header-meta">
+      <div class="updated-info" id="globalUpdated">불러오는 중...</div>
+      <button class="btn btn-primary" id="refreshAllBtn">전체 지금 새로고침</button>
+    </div>
   </div>
 </header>
 
@@ -78,7 +90,10 @@
 <main>
   <div class="panel-head">
     <div class="panel-title"><h2 id="panelTitle"></h2></div>
-    <span class="cat-updated" id="catUpdated"></span>
+    <div style="display:flex; align-items:center; gap:12px;">
+      <span class="cat-updated" id="catUpdated"></span>
+      <button class="btn-mini" id="refreshOneBtn">이 카테고리만 새로고침</button>
+    </div>
   </div>
   <div class="filter-row" id="filterRow"></div>
   <div class="cards" id="cards"></div>
@@ -87,9 +102,10 @@
 <footer>
   <div class="box">
     <b style="color:var(--navy); font-weight:700;">안내</b>
-    이 사이트는 구글 뉴스 검색 결과를 매일 자동으로 수집한 것으로, AI 요약을 거치지 않은 원문 제목·링크입니다.
+    이 사이트는 구글 뉴스 검색 결과를 수집한 것으로, AI 요약을 거치지 않은 원문 제목·링크입니다.
     정책 근거나 통계 인용 시에는 반드시 "원문 보기" 링크로 원문을 확인해 주시기 바랍니다.
-    데이터는 매일 오전 7시(KST) 자동 갱신되며, GitHub Actions의 "Run workflow"로 즉시 갱신할 수도 있습니다.
+    데이터는 매일 오전 7시(KST) 자동 갱신되며, 화면의 [새로고침] 버튼으로 그 자리에서 즉시 최신 뉴스를 다시 검색할 수도 있습니다
+    (무료 공개 중계 서버를 거치므로, 드물게 일시적으로 응답이 늦거나 실패할 수 있습니다 — 이 경우 잠시 후 다시 시도해 주세요).
   </div>
 </footer>
 
@@ -99,6 +115,38 @@ const ACCENTS = {
   injury:"var(--amber)", cpr_aed:"var(--alert)", blood:"var(--amber)",
   disaster_trauma:"var(--slate)", emergency_general:"var(--teal)"
 };
+
+// scripts/fetch_news.py 의 CATEGORIES 와 동일한 검색어 (브라우저에서 즉시 새로고침할 때 사용)
+const CATEGORIES = [
+  {id:"er_runaround", label:"응급실 뺑뺑이",
+   query_national:"응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류",
+   query_daegu:"대구 응급실 뺑뺑이 OR 대구 응급실 미수용"},
+  {id:"pediatric", label:"소아응급의료",
+   query_national:"소아응급의료 OR 소아전문응급의료센터 OR 소아 응급실",
+   query_daegu:"대구 소아응급 OR 대구 소아과 응급실 OR 대구 달빛어린이병원"},
+  {id:"holiday", label:"명절비상진료",
+   query_national:"명절 비상진료 OR 명절 응급실 OR 명절 문여는병원",
+   query_daegu:"대구 명절 비상진료 OR 대구 설 추석 병원"},
+  {id:"injury", label:"손상예방·관리",
+   query_national:"손상예방관리 OR 안전사고 통계 OR 손상예방",
+   query_daegu:"대구 손상예방 OR 대구 안전사고"},
+  {id:"cpr_aed", label:"CPR·AED",
+   query_national:"심폐소생술 교육 OR 자동심장충격기 OR AED 설치",
+   query_daegu:"대구 심폐소생술 OR 대구 자동심장충격기 OR 대구 AED"},
+  {id:"blood", label:"헌혈",
+   query_national:"헌혈 부족 OR 헌혈 캠페인 OR 혈액수급",
+   query_daegu:"대구 헌혈 OR 대구 혈액원"},
+  {id:"disaster_trauma", label:"재난의료·권역외상센터",
+   query_national:"재난의료 OR 권역외상센터",
+   query_daegu:"대구 재난의료 OR 대구 권역외상센터 OR 경북권역외상센터"},
+  {id:"emergency_general", label:"응급의료 일반",
+   query_national:"응급의료 정책 OR 응급의료기관 OR 응급실 과밀화",
+   query_daegu:"대구 응급의료 OR 대구 응급실 OR 대구 응급의료기관"},
+];
+const MAX_ITEMS_PER_QUERY = 6;
+const MAX_ITEMS_TOTAL = 10;
+const CORS_PROXY = "https://api.allorigins.win/raw?url=";
+
 let DATA = null;
 let activeTab = null;
 let activeFilter = "all"; // "all" | "daegu" | "national"
@@ -195,6 +243,92 @@ function renderPanel(){
     cardsEl.appendChild(card);
   });
 }
+
+async function fetchLiveQuery(query, region){
+  const target = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ko&gl=KR&ceid=KR:ko`;
+  const res = await fetch(CORS_PROXY + encodeURIComponent(target));
+  if(!res.ok) throw new Error("뉴스 서버 응답 오류 (status " + res.status + ")");
+  const text = await res.text();
+  const doc = new DOMParser().parseFromString(text, "text/xml");
+  const parseError = doc.querySelector("parsererror");
+  if(parseError) throw new Error("응답을 해석할 수 없습니다.");
+  const items = [...doc.querySelectorAll("item")].slice(0, MAX_ITEMS_PER_QUERY).map(item=>{
+    const title = (item.querySelector("title")?.textContent || "").trim();
+    const link = (item.querySelector("link")?.textContent || "").trim();
+    const pubDate = (item.querySelector("pubDate")?.textContent || "").trim();
+    const source = (item.querySelector("source")?.textContent || "").trim();
+    let cleanTitle = title;
+    if(source){
+      const escaped = source.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      cleanTitle = title.replace(new RegExp("\\s*-\\s*" + escaped + "\\s*$"), "").trim();
+    }
+    return {title: cleanTitle, source, date: pubDate, url: link, region};
+  });
+  return items;
+}
+
+async function fetchLiveCategory(cat){
+  const [daeguItems, nationalItems] = await Promise.all([
+    fetchLiveQuery(cat.query_daegu, "daegu"),
+    fetchLiveQuery(cat.query_national, "national"),
+  ]);
+  const merged = [];
+  const seen = new Set();
+  for(const item of [...daeguItems, ...nationalItems]){
+    if(merged.length >= MAX_ITEMS_TOTAL) break;
+    const key = item.title.slice(0, 30);
+    if(!seen.has(key)){ seen.add(key); merged.push(item); }
+  }
+  return merged;
+}
+
+async function refreshOneCategory(){
+  const cat = CATEGORIES.find(c=>c.id===activeTab);
+  const btn = document.getElementById("refreshOneBtn");
+  const original = btn.innerHTML;
+  btn.disabled = true;
+  btn.innerHTML = `<span class="spin"></span> 검색 중...`;
+  try{
+    const items = await fetchLiveCategory(cat);
+    DATA.categories[cat.id] = {label: cat.label, items, error: null};
+    DATA.generatedAt = new Date().toISOString();
+    activeFilter = "all";
+    document.getElementById("globalUpdated").innerHTML = `마지막 업데이트: <b>${fmtTime(DATA.generatedAt)}</b> (방금 새로고침)`;
+    renderTabs();
+    renderPanel();
+  }catch(e){
+    DATA.categories[cat.id].error = e.message || "새로고침에 실패했습니다.";
+    renderPanel();
+  }finally{
+    btn.disabled = false;
+    btn.innerHTML = original;
+  }
+}
+
+async function refreshAllCategories(){
+  const btn = document.getElementById("refreshAllBtn");
+  btn.disabled = true;
+  const original = btn.innerHTML;
+  for(let i=0;i<CATEGORIES.length;i++){
+    const cat = CATEGORIES[i];
+    btn.innerHTML = `<span class="spin"></span> 검색 중 (${i+1}/${CATEGORIES.length}) ${cat.label}`;
+    try{
+      const items = await fetchLiveCategory(cat);
+      DATA.categories[cat.id] = {label: cat.label, items, error: null};
+    }catch(e){
+      DATA.categories[cat.id] = {label: cat.label, items: DATA.categories[cat.id]?.items || [], error: e.message || "새로고침 실패"};
+    }
+  }
+  DATA.generatedAt = new Date().toISOString();
+  document.getElementById("globalUpdated").innerHTML = `마지막 업데이트: <b>${fmtTime(DATA.generatedAt)}</b> (방금 전체 새로고침)`;
+  renderTabs();
+  renderPanel();
+  btn.disabled = false;
+  btn.innerHTML = original;
+}
+
+document.getElementById("refreshAllBtn").addEventListener("click", refreshAllCategories);
+document.getElementById("refreshOneBtn").addEventListener("click", refreshOneCategory);
 
 fetch("./data.json?_=" + Date.now())
   .then(r=>r.json())
