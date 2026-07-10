@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>대구 응급의료 모니터</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#0F2A44; --bg:#EEF2F5; --surface:#FFFFFF;
+    --alert:#D6304C; --teal:#0E8C7F; --amber:#E2932E; --slate:#3B5BA9;
+    --muted:#64748B; --line:#DCE3E9;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0; background:var(--bg); font-family:'Pretendard','Noto Sans KR',sans-serif; color:var(--navy);}
+  .mono{font-family:'IBM Plex Mono',monospace;}
+  header{position:relative; background:var(--navy); color:#fff; padding:36px 28px 26px; overflow:hidden;}
+  .ekg-bg{position:absolute; inset:0; opacity:.16; pointer-events:none;}
+  .ekg-bg svg{width:100%; height:100%;}
+  .ekg-path{stroke:#7FD8CC; stroke-width:2; fill:none; stroke-dasharray:1400; stroke-dashoffset:1400; animation:draw 4.5s linear infinite;}
+  @keyframes draw{0%{stroke-dashoffset:1400;}60%{stroke-dashoffset:0;}100%{stroke-dashoffset:-1400;}}
+  .header-inner{position:relative; z-index:1; max-width:1080px; margin:0 auto;}
+  .eyebrow{font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:.14em; color:#7FD8CC; text-transform:uppercase; margin-bottom:10px; display:flex; align-items:center; gap:8px;}
+  .pulse-dot{width:8px; height:8px; border-radius:50%; background:var(--alert); animation:pulse 1.6s infinite;}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(214,48,76,.55);}70%{box-shadow:0 0 0 9px rgba(214,48,76,0);}100%{box-shadow:0 0 0 0 rgba(214,48,76,0);}}
+  h1{font-family:'Black Han Sans',sans-serif; font-weight:400; font-size:34px; margin:0 0 8px;}
+  .subtitle{font-size:14px; color:#B9C6D4; margin:0 0 14px;}
+  .updated-info{font-size:13px; color:#9FB0C0;}
+  .updated-info b{color:#fff; font-weight:600;}
+  .tabs-wrap{background:var(--surface); border-bottom:1px solid var(--line); position:sticky; top:0; z-index:5;}
+  .tabs{max-width:1080px; margin:0 auto; display:flex; gap:2px; overflow-x:auto; padding:0 20px;}
+  .tab{font-weight:600; font-size:13.5px; background:none; border:none; padding:16px 14px; cursor:pointer; white-space:nowrap; color:var(--muted); border-bottom:3px solid transparent; display:flex; align-items:center; gap:7px;}
+  .tab .dot{width:6px; height:6px; border-radius:50%; flex-shrink:0;}
+  .tab.active{color:var(--navy); border-bottom-color:var(--accent, var(--navy));}
+  .tab .count{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:#fff; background:var(--accent, var(--muted)); border-radius:20px; padding:1px 6px; min-width:16px; text-align:center;}
+  main{max-width:1080px; margin:0 auto; padding:26px 20px 60px;}
+  .panel-head{display:flex; align-items:center; justify-content:space-between; margin-bottom:16px; flex-wrap:wrap; gap:10px;}
+  .panel-title h2{font-size:19px; margin:0; font-weight:700;}
+  .cat-updated{font-size:12px; color:var(--muted);}
+  .cards{display:flex; flex-direction:column; gap:12px;}
+  .card{background:var(--surface); border:1px solid var(--line); border-left:4px solid var(--accent, var(--navy)); border-radius:10px; padding:16px 18px;}
+  .card-top{display:flex; align-items:baseline; gap:10px; margin-bottom:6px; flex-wrap:wrap;}
+  .card-source{font-family:'IBM Plex Mono',monospace; font-size:11.5px; font-weight:600; color:var(--accent, var(--navy));}
+  .card-date{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--muted);}
+  .badge{font-family:'IBM Plex Mono',monospace; font-size:10.5px; font-weight:600; padding:2px 8px; border-radius:20px; letter-spacing:.02em;}
+  .badge-daegu{background:var(--teal); color:#fff;}
+  .badge-national{background:#EAEFF3; color:var(--muted); border:1px solid var(--line);}
+  .filter-row{display:flex; gap:6px; margin-bottom:14px;}
+  .filter-btn{font-size:12.5px; font-weight:600; background:#fff; border:1px solid var(--line); border-radius:20px; padding:6px 14px; cursor:pointer; color:var(--muted);}
+  .filter-btn.active{background:var(--navy); color:#fff; border-color:var(--navy);}
+  .card-title{font-size:15.5px; font-weight:700; margin:0 0 6px; line-height:1.4;}
+  .card-link{font-size:12.5px; font-weight:600; color:var(--navy); text-decoration:none;}
+  .card-link:hover{text-decoration:underline;}
+  .empty, .err{text-align:center; padding:48px 20px; color:var(--muted); font-size:13.5px; background:var(--surface); border:1px dashed var(--line); border-radius:12px;}
+  .empty b, .err b{display:block; font-size:15px; color:var(--navy); margin-bottom:6px; font-weight:700;}
+  footer{max-width:1080px; margin:0 auto; padding:0 20px 40px; font-size:12px; color:var(--muted); line-height:1.7;}
+  footer .box{background:#fff; border:1px solid var(--line); border-radius:10px; padding:14px 16px;}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="ekg-bg"><svg viewBox="0 0 800 120" preserveAspectRatio="none">
+    <path class="ekg-path" d="M0,60 L140,60 L165,60 L180,20 L200,100 L220,60 L260,60 L280,45 L300,60 L800,60"/>
+  </svg></div>
+  <div class="header-inner">
+    <div class="eyebrow"><span class="pulse-dot"></span> AUTO-UPDATED DAILY</div>
+    <h1>대구 응급의료 모니터</h1>
+    <p class="subtitle">매일 자동 수집되는 전국·대구 응급의료 뉴스 (구글 뉴스 RSS 기반, GitHub Actions 자동 실행)</p>
+    <div class="updated-info" id="globalUpdated">불러오는 중...</div>
+  </div>
+</header>
+
+<div class="tabs-wrap"><div class="tabs" id="tabs"></div></div>
+
+<main>
+  <div class="panel-head">
+    <div class="panel-title"><h2 id="panelTitle"></h2></div>
+    <span class="cat-updated" id="catUpdated"></span>
+  </div>
+  <div class="filter-row" id="filterRow"></div>
+  <div class="cards" id="cards"></div>
+</main>
+
+<footer>
+  <div class="box">
+    <b style="color:var(--navy); font-weight:700;">안내</b>
+    이 사이트는 구글 뉴스 검색 결과를 매일 자동으로 수집한 것으로, AI 요약을 거치지 않은 원문 제목·링크입니다.
+    정책 근거나 통계 인용 시에는 반드시 "원문 보기" 링크로 원문을 확인해 주시기 바랍니다.
+    데이터는 매일 오전 7시(KST) 자동 갱신되며, GitHub Actions의 "Run workflow"로 즉시 갱신할 수도 있습니다.
+  </div>
+</footer>
+
+<script>
+const ACCENTS = {
+  er_runaround:"var(--alert)", pediatric:"var(--teal)", holiday:"var(--slate)",
+  injury:"var(--amber)", cpr_aed:"var(--alert)", blood:"var(--amber)",
+  disaster_trauma:"var(--slate)", emergency_general:"var(--teal)"
+};
+let DATA = null;
+let activeTab = null;
+let activeFilter = "all"; // "all" | "daegu" | "national"
+
+function fmtTime(iso){
+  if(!iso) return "";
+  const d = new Date(iso);
+  return d.getFullYear()+"."+String(d.getMonth()+1).padStart(2,"0")+"."+String(d.getDate()).padStart(2,"0")+" "+String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0");
+}
+function escapeHtml(str){
+  return String(str).replace(/[&<>"']/g, s=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[s]));
+}
+
+function renderTabs(){
+  const wrap = document.getElementById("tabs");
+  wrap.innerHTML = "";
+  Object.keys(DATA.categories).forEach(id=>{
+    const cat = DATA.categories[id];
+    const accent = ACCENTS[id] || "var(--navy)";
+    const btn = document.createElement("button");
+    btn.className = "tab" + (id===activeTab ? " active":"");
+    btn.style.setProperty("--accent", accent);
+    btn.innerHTML = `<span class="dot" style="background:${accent}"></span> ${cat.label}<span class="count">${cat.items.length}</span>`;
+    btn.onclick = ()=>{ activeTab = id; activeFilter = "all"; renderTabs(); renderPanel(); };
+    wrap.appendChild(btn);
+  });
+}
+
+function renderFilterRow(items){
+  const daeguCount = items.filter(i=>i.region==="daegu").length;
+  const nationalCount = items.filter(i=>i.region==="national").length;
+  const row = document.getElementById("filterRow");
+  const filters = [
+    {key:"all", label:`전체 ${items.length}`},
+    {key:"daegu", label:`대구 ${daeguCount}`},
+    {key:"national", label:`전국 ${nationalCount}`},
+  ];
+  row.innerHTML = "";
+  filters.forEach(f=>{
+    const btn = document.createElement("button");
+    btn.className = "filter-btn" + (activeFilter===f.key ? " active":"");
+    btn.textContent = f.label;
+    btn.onclick = ()=>{ activeFilter = f.key; renderPanel(); };
+    row.appendChild(btn);
+  });
+}
+
+function renderPanel(){
+  const cat = DATA.categories[activeTab];
+  const accent = ACCENTS[activeTab] || "var(--navy)";
+  document.getElementById("panelTitle").textContent = cat.label;
+  document.documentElement.style.setProperty("--accent", accent);
+  document.getElementById("catUpdated").textContent = DATA.generatedAt ? "마지막 수집: " + fmtTime(DATA.generatedAt) : "";
+
+  const cardsEl = document.getElementById("cards");
+  cardsEl.innerHTML = "";
+  cardsEl.style.setProperty("--accent", accent);
+
+  if(cat.error){
+    cardsEl.innerHTML = `<div class="err"><b>수집 실패</b>${escapeHtml(cat.error)}</div>`;
+    document.getElementById("filterRow").innerHTML = "";
+    return;
+  }
+  if(!cat.items || cat.items.length===0){
+    cardsEl.innerHTML = `<div class="empty"><b>아직 데이터가 없습니다</b>GitHub Actions가 처음 실행되면 뉴스가 표시됩니다.</div>`;
+    document.getElementById("filterRow").innerHTML = "";
+    return;
+  }
+
+  renderFilterRow(cat.items);
+  const filtered = activeFilter==="all" ? cat.items : cat.items.filter(i=>i.region===activeFilter);
+
+  if(filtered.length===0){
+    cardsEl.innerHTML = `<div class="empty"><b>해당 지역 기사가 없습니다</b>다른 필터를 선택해보세요.</div>`;
+    return;
+  }
+
+  filtered.forEach(item=>{
+    const card = document.createElement("div");
+    card.className = "card";
+    card.style.setProperty("--accent", accent);
+    const badge = item.region==="daegu"
+      ? `<span class="badge badge-daegu">대구</span>`
+      : `<span class="badge badge-national">전국</span>`;
+    card.innerHTML = `
+      <div class="card-top">
+        ${badge}
+        <span class="card-source">${escapeHtml(item.source||"출처 미상")}</span>
+        <span class="card-date">${escapeHtml(item.date||"")}</span>
+      </div>
+      <p class="card-title">${escapeHtml(item.title||"제목 없음")}</p>
+      ${item.url ? `<a class="card-link" href="${item.url}" target="_blank" rel="noopener noreferrer">원문 보기 →</a>` : ""}
+    `;
+    cardsEl.appendChild(card);
+  });
+}
+
+fetch("./data.json?_=" + Date.now())
+  .then(r=>r.json())
+  .then(json=>{
+    DATA = json;
+    activeTab = Object.keys(DATA.categories)[0];
+    document.getElementById("globalUpdated").innerHTML = DATA.generatedAt
+      ? `마지막 업데이트: <b>${fmtTime(DATA.generatedAt)}</b>`
+      : "아직 첫 자동 수집이 실행되지 않았습니다.";
+    renderTabs();
+    renderPanel();
+  })
+  .catch(()=>{
+    document.getElementById("globalUpdated").textContent = "data.json을 불러올 수 없습니다.";
+  });
+</script>
+</body>
+</html>

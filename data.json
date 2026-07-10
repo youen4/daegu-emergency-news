@@ -1,0 +1,13 @@
+{
+  "generatedAt": null,
+  "categories": {
+    "er_runaround": {"label": "응급실 뺑뺑이", "items": [], "error": null},
+    "pediatric": {"label": "소아응급의료", "items": [], "error": null},
+    "holiday": {"label": "명절비상진료", "items": [], "error": null},
+    "injury": {"label": "손상예방·관리", "items": [], "error": null},
+    "cpr_aed": {"label": "CPR·AED", "items": [], "error": null},
+    "blood": {"label": "헌혈", "items": [], "error": null},
+    "disaster_trauma": {"label": "재난의료·권역외상센터", "items": [], "error": null},
+    "emergency_general": {"label": "응급의료 일반", "items": [], "error": null}
+  }
+}
