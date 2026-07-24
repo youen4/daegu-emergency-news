@@ -2,8 +2,9 @@ name: 응급의료 뉴스 자동 수집
 
 on:
   schedule:
-    - cron: '0 22 * * *'
-  workflow_dispatch: {}
+    # 매시 정각 자동 실행 (1시간마다)
+    - cron: '0 * * * *'
+  workflow_dispatch: {}   # 수동으로 즉시 실행하고 싶을 때 사용
 
 permissions:
   contents: write
