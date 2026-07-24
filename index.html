@@ -77,7 +77,7 @@
   <div class="header-inner">
     <div class="eyebrow"><span class="pulse-dot"></span> AUTO-UPDATED DAILY</div>
     <h1>대구 응급의료 모니터</h1>
-    <p class="subtitle">전국·대구 응급의료 뉴스 모니터링 (구글 뉴스 기반) — 매일 자동 갱신 + 지금 바로 새로고침 가능</p>
+    <p class="subtitle">전국·대구 응급의료 뉴스 모니터링 (구글 뉴스 기반) — 매일 1시간 자동 갱신 + 지금 바로 새로고침 가능</p>
     <div class="header-meta">
       <div class="updated-info" id="globalUpdated">불러오는 중...</div>
       <button class="btn btn-primary" id="refreshAllBtn">전체 지금 새로고침</button>
@@ -104,7 +104,7 @@
     <b style="color:var(--navy); font-weight:700;">안내</b>
     이 사이트는 구글 뉴스 검색 결과를 수집한 것으로, AI 요약을 거치지 않은 원문 제목·링크입니다.
     정책 근거나 통계 인용 시에는 반드시 "원문 보기" 링크로 원문을 확인해 주시기 바랍니다.
-    데이터는 매일 오전 7시(KST) 자동 갱신되며, 화면의 [새로고침] 버튼으로 그 자리에서 즉시 최신 뉴스를 다시 검색할 수도 있습니다
+    데이터는 매일 1시간 단위 자동 갱신되며, 화면의 [새로고침] 버튼으로 그 자리에서 즉시 최신 뉴스를 다시 검색할 수도 있습니다
     (무료 공개 중계 서버를 거치므로, 드물게 일시적으로 응답이 늦거나 실패할 수 있습니다 — 이 경우 잠시 후 다시 시도해 주세요).
   </div>
 </footer>
@@ -124,16 +124,16 @@ const CATEGORIES = [
     {query:"응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐"},
   ]},
   {id:"disaster", label:"재난의료", limit:20, topics:[
-    {query:"\"재난의료\""},
+    {query:"재난의료 OR 재난응급의료 OR 재난응급"},
   ]},
   {id:"pediatric", label:"소아응급의료", limit:20, topics:[
-    {query:"소아응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료 OR 달빛어린이병원 OR 소아과 전문의 OR 소아청소년과 전문의 OR 소아과 기피 OR 소아 진료 붕괴 OR 소아과 폐과"},
+    {query:"소아응급의료 OR 응급소아의료 OR 소아응급 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료 OR 달빛어린이병원 OR 소아과 전문의 OR 소아청소년과 전문의 OR 소아과 기피 OR 소아 진료 붕괴 OR 소아과 폐과"},
   ]},
   {id:"etc_misc", label:"기타", limit:30, topics:[
     {query:"명절 비상진료 OR 명절 응급실 OR 명절 문여는병원"},
     {query:"손상예방관리 OR 안전사고 통계 OR 손상예방"},
     {query:"심폐소생술 교육 OR 자동심장충격기 OR AED 설치"},
-    {query:"헌혈 부족 OR 헌혈 캠페인 OR 혈액수급"},
+    {query:"헌혈 부족 OR 혈액수급"},
   ]},
 ];
 const MAX_ITEMS_PER_QUERY = 25;
