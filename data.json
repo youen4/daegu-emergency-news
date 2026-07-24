@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:59:01.611803+00:00",
+  "generatedAt": "2026-07-24T21:48:13.886465+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -110,6 +110,13 @@
           "region": "national"
         },
         {
+          "title": "“어디 살든 제대로 치료” 5극3특 지역 완결적 의료체계 구축",
+          "source": "부산일보",
+          "date": "2026.07.22.(수) 18:27",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LOTJ3QzRWTU5SRlFQS3Z4T3B2YVVNamJHTkhUd2w1RzZHdmpRVzR4T0hlMUZFLVJMNVlCMDhYSktYUUZfaUFWT1R2UGZrWTlPQ19naG5WVC1VX21sY1gycWhfMm1TWHNObDE4bmRKU0dnV2Jy?oc=5",
+          "region": "national"
+        },
+        {
           "title": "전남대학교병원, 권역응급의료센터 재지정…호남 중증응급치료 책임",
           "source": "전국매일신문",
           "date": "2026.07.22.(수) 15:42",
@@ -135,13 +142,6 @@
           "source": "간호사신문",
           "date": "2026.07.22.(수) 12:07",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10dFFhU0tNaG5zckcwblRmTDR4dzhicGh3TDRPUzNMZWhJd1NVM0VKZS1mTHhOWmJ3MGZoeU41Q20wMW9iWXlHVUZEODNFWTVtRk9oUDVkVW9SRGEwQ01sTkZYX1piUTZvVUQ2VE1B?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "예수병원, 최상위 ‘권역응급의료센터’ 최종 선정 : 라이프",
-          "source": "크리스천투데이",
-          "date": "2026.07.22.(수) 06:34",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Sa3ZwYUkxczlmc0FpYWFGaTlMQnJzZVJqOHpVZGV0SUpZWXNTWXVWU0d5X0xaaHMtSUs0eXY1czlKNXprZF9yci0xbXFfUl9zNzM1c0xuWQ?oc=5",
           "region": "national"
         }
       ],
@@ -233,13 +233,6 @@
           "region": "national"
         },
         {
-          "title": "'마지막 영웅’의 소멸과 소아 의료의 붕괴",
-          "source": "MEDI:GATE NEWS",
-          "date": "2026.07.23.(목) 07:36",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TVC1ZRXlUejcxSzRrZ0p3M2kwMUZBa29xY1VPS0RZd0UyNEloVE9vVzN3RUdWMUo5M19pZmhoTWIwNXhhY1FVUURUbW9jS2pQeVZwOC1n?oc=5",
-          "region": "national"
-        },
-        {
           "title": "\"우리가 범죄자인가\"…의료진 호소에 이 대통령 \"형사처벌 부담 감안\"",
           "source": "청년의사",
           "date": "2026.07.23.(목) 06:46",
@@ -272,6 +265,13 @@
           "source": "동아일보",
           "date": "2026.07.23.(목) 04:30",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03cUVtR3l2U0FvTXF2SWtDQUl5X1ZZSUZYeGFnVXppRE5rUXFFRWoydmhEZjFjb0xYVnFKd1RZWXYxLUNGUXNObFFycGpnMW5QcTZPaEVITEZDa0JxQnJEMUpZdXVobzlZWjJoTkRMTUs3WnFVMXfSAWZBVV95cUxPVTRXcW8zWEJrSUczdEdfemlPcTNOaE1zYkVYclJ0RmZBSVV5dzZJZVNYUGZpSTJST1JfT0RMa1F2YWMxWHl1clMwRHJYWURoOGJ4dUNTVG9iTFdmYVNDeHcwaDlJZGc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "'마지막 영웅’의 소멸과 소아 의료의 붕괴",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.07.23.(목) 03:36",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YWlVuSHN5dVlLZThBU1FiRU5XMWlWRENxb3VwWWJhZks3ejc2Sk4ycUdsOGc3RWFySmJ3NkhPbnVoMGRMWTFIM0VjRVA3T2NN?oc=5",
           "region": "national"
         },
         {
@@ -330,10 +330,24 @@
       "label": "기타",
       "items": [
         {
+          "title": "서울시약, 환자안전사고·부작용 보고 '급증'…광진구약 1위",
+          "source": "데일리팜",
+          "date": "2026.07.25.(토) 05:07",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2U0s2QjBZRl9jUXNycDFmQ0V4M2hUdFZ4U0wxNlBya1JPOU5qc0VvNGhITGxrbUVKNmV3anl1bHQ2SGFmcVZ6UGRvenJqbUJB?oc=5",
+          "region": "national"
+        },
+        {
           "title": "헌혈의 아이콘이 된 ‘블루 아카이브’",
           "source": "게임톡",
           "date": "2026.07.25.(토) 02:16",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iLVhJcXhLS3hEQlBRYjZoQ19NU09GYmFLbnhlYmtsY21oRmk3c0ZiOGQxNDVMcVR3YWpCQzlYOENQZzhJZWRHV21ranNXZ2g3cE1kXy0zUjhqeU1LN05hUnNvUEtqZXgzTU01ZA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경남은행, ‘2026년 하반기 사랑의 헌혈’ 실시…지역민에게 헌혈증 기부",
+          "source": "비즈월드",
+          "date": "2026.07.24.(금) 21:21",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SRDlUbUo1QWR1UEVrZ2pfcnpGLUNLWi15SkM1MnFLdTctN2VEcld4eWQ1bnRHMnRiUmtRM0JEV1N6ajg4MkRXMVZqd2w1alBrcFotUzJtanNKQmlBVy1hendVZUUyMThDbW1R?oc=5",
           "region": "national"
         },
         {
@@ -348,6 +362,13 @@
           "source": "Vietnam.vn",
           "date": "2026.07.24.(금) 20:50",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkpDWXRSVTM4d0QzTHRFaU1wRXJialZEWGtxNkRjX05lQTlRdER1VDBKSHFtTUJJTEMzTHU4ZGp6RWpWQkRDNDJCeEpPRlQ0X1UwUzhnNFB5M0c3WTZ0cC1IRVJWV3hkeHpNek5uZXMtNmF6THEzMnhMV3JFVGRmWjR6QTZFLWQwMlJFS0E4ajBFSWJDQmZCbnBCRlAyNHc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영천시, 무더위 속 생명나눔 실천...사랑의 헌혈 행사 실시",
+          "source": "경북뉴스",
+          "date": "2026.07.24.(금) 18:06",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BNFpyajFCVVdDVVR1ZTk1dEYtS1FLY0d5cXB3WTBNTmpLRjFCRHZtMy1YcVNFaFU5UjdrTm5Ca3FMbUxwUXFhSEJRYkh0WkdlMTY3TDlYSG5qal95bzJhcFNkYTk5aE9XNVBV?oc=5",
           "region": "national"
         },
         {
@@ -386,13 +407,6 @@
           "region": "daegu"
         },
         {
-          "title": "영천시 '무더위 속 생명나눔 실천...사랑의 헌혈 행사' 실시",
-          "source": "전국구직노조신문",
-          "date": "2026.07.24.(금) 15:29",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQVFBUYTFJSExodW83ODVmV2U0TzlCakQ1akJEZEs1MEdEZmp1dGFaSlVKUzhERk52T3huYW8td3dxZUZycjJWYkFWNVFJMTRCaWhPenViS1VCSHI1QkdmcTJNTnN2UEk?oc=5",
-          "region": "national"
-        },
-        {
           "title": "서울시약, 환자안전사고·부작용 보고 이벤트 성료…참여·건수 대폭 증가",
           "source": "한국의약통신",
           "date": "2026.07.24.(금) 15:10",
@@ -404,13 +418,6 @@
           "source": "한국목재신문",
           "date": "2026.07.24.(금) 14:36",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52SmRKR1JoLUNjLUozUlcyUXNXYXc0MWRoN0VmV3NJdjdUUzVuZm1aMC03aHhOWTJYa0FUV01fVzFIY1lCM2hwNXR4ajktZXYtV0pzcWhUZXZMMWJGTE9RQTJmY3U2Zzh5SVplSGg2Ry1pZ9IBckFVX3lxTE52SmRKR1JoLUNjLUozUlcyUXNXYXc0MWRoN0VmV3NJdjdUUzVuZm1aMC03aHhOWTJYa0FUV01fVzFIY1lCM2hwNXR4ajktZXYtV0pzcWhUZXZMMWJGTE9RQTJmY3U2Zzh5SVplSGg2Ry1pZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "서울시약, 환자안전사고·부작용 보고 '급증'…광진구약 1위",
-          "source": "데일리팜",
-          "date": "2026.07.24.(금) 14:25",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tOVRqeVNLZk5UNTA3dHlWemhvS2RpM2xiVW4zUENTMGhvVUZSLWFsd1ZXX2lLNUE4ZDhKZ2xiQ0hpZGlTUWUwS3dvM0FGUWpJLXg4eC1B?oc=5",
           "region": "national"
         },
         {
@@ -439,13 +446,6 @@
           "source": "gukjenews.com",
           "date": "2026.07.24.(금) 13:24",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXQV9adVhFNVlWdXZHRDkxUlBzNFlMdmhhVFFlWno4eHdaQmJTejJhdGtJbThUVFZVUkRsNk05UGdydGw1elNzSWFUcFBmY1NQWkN4TFgwM3B5TVQxMjNxOXBudkVua2JMX3VEakRB?oc=5",
-          "region": "daegu"
-        },
-        {
-          "title": "대구시교육청 직원들, ‘생명 나눔·사랑의 헌혈운동’ 에 앞장서!",
-          "source": "mediatoday.asia",
-          "date": "2026.07.24.(금) 13:10",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1od2xubEY2SmpxQVFPQVp0eW8wTzNjQzUta3RZQ0dJYi0tc05Jc3MzYTk2d2VuUFdxdjRndktiWml4OE5jMmpUTFVR?oc=5",
           "region": "daegu"
         },
         {
