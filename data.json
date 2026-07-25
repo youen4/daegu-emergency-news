@@ -1,15 +1,29 @@
 {
-  "generatedAt": "2026-07-25T20:14:48.517298+00:00",
+  "generatedAt": "2026-07-25T23:46:44.090005+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
-          "title": "표병호 경남도의원, 창원한마음병원 방문···지역 필수의료·사회공헌 현장 점검",
-          "source": "시사코리아저널",
-          "date": "2026.07.24.(금) 17:23",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByLVViMmFQSERVSE1odVZiQ3F1UVFPd1RLZ3UyRFo2SS11UnE4ZTFaNFRhWnlKbzdoWTNfR1oyVUZtQkxLX2VLRThOWThqTkJCNnE2ak1IY1JrQ0tYd0ZCbi16ZWF6Yjcy?oc=5",
+          "title": "달빛어린이병원 있는 지역, 경증 소아 응급실 이용 '절반'",
+          "source": "네이트",
+          "date": "2026.07.26.(일) 08:40",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94QVBxQVJVNVBaMFdMRXR6UzNqMk9mMkh2d2YwU1g0YXAybHdPcWRPZVp5RjVqQUFVN2d6emVDamdvNS0ybEp2R1NKUzVabW40SEl6Y0FzaHJiWjA4eno1TmlyY3FHU21Hek1WaVdwMzl6bDVYM3pEOA?oc=5",
           "region": "national"
+        },
+        {
+          "title": "표병호-하충식 \"경남 필수의료·장애인 고용 힘 모은다\" |",
+          "source": "한스경제",
+          "date": "2026.07.24.(금) 17:03",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YTkhHa1haeTZPSkt4N2ZGMjJYSG9RQklKc1dla0NfVHUwS3JVSE41cUFMNms2SXV1UFo0cU5iNFRGNEM5cld2UF9oa3hYNHFQZTVBWm1SWUNDTTZSR0dETDQzU2oxSGZSNEZwZlMtRQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대구보건대 응급구조학과, 실전형 교육으로 전국 최고 경쟁력",
+          "source": "네이트",
+          "date": "2026.07.24.(금) 16:55",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYTVHZHhtck9xNll6Vl9TRlFxRkIwdWJQMXhtZmlQdy02dkd2Zy10bzd0TkQ1U3dtajcxb2ViZzdSelhJTExHdm9pMGtWREVWNUd3?oc=5",
+          "region": "daegu"
         },
         {
           "title": "표병호 경남도의원, 창원한마음병원 방문",
@@ -19,10 +33,10 @@
           "region": "national"
         },
         {
-          "title": "분당차병원, 경기 동남권 권역응급의료센터 4회 연속 지정",
-          "source": "스포츠경향",
-          "date": "2026.07.24.(금) 06:22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKNGNMT004TVh4WVk1VTN2aUVYMTdYVjNSS2xINHA2ZjhmeklUVF82RDl6bVJDeXI1NVpDNDNIUVFOelBaTFlqV1F5cTFQRExsNTZzeHViZWZnWWUxNXNQR2NlTdIBY0FVX3lxTFBKNGNMT004TVh4WVk1VTN2aUVYMTdYVjNSS2xINHA2ZjhmeklUVF82RDl6bVJDeXI1NVpDNDNIUVFOelBaTFlqV1F5cTFQRExsNTZzeHViZWZnWWUxNXNQR2NlTQ?oc=5",
+          "title": "인천 권역응급센터 인천성모병원 신규 지정",
+          "source": "시민일보",
+          "date": "2026.07.24.(금) 10:53",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yaVlCQ2t6aTROTTRDcHVEUXlZbnNkdE83a0ExV2I1aTFuZ0cyWFQ4Ql91YjBGYm5iZkVXRDROdFVKNlJweFhkd1JTbWVXcHBQOXVzVHprYXpmcjMzUEhocTQ1MG85ZHZXRlFkWmttZUQ3UdIBb0FVX3lxTE9aWTdtZWlaM25ZazZvZEFPUjdJQTlHcl83bmt4TXVYbEVlSlU5LXcxa2c2VlQ0bWp0eWdrOUFHSi1mQkV0aDc5M1dqdUt4WmNLRU4xdk90NUxEVjJCVmFGVE1RbWpPT3Jfbm03TDlwOA?oc=5",
           "region": "national"
         },
         {
@@ -40,24 +54,17 @@
           "region": "national"
         },
         {
-          "title": "노원소방서, 중증응급환자 이송체계 확립을 위해 지역응급의료센터와 소통",
-          "source": "(노원뉴스) 나우온",
-          "date": "2026.07.23.(목) 19:50",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1MDR5TVI4U3IyTERwQXAxeFdIUV82di1QcDVzcV81SlBocWY0WE5yOTRpSmdMN1ZrTEUzdTdsc2NxREFiRDZBSWl1WDVsdVVqTmNwMTA0Vzh5SzMtMy1iUGlRWmlHWUpWRWJpbzBB0gFuQVVfeXFMUDUwNHlNUjhTcjJMRHBBcDF4V0hRXzZ2LVBwNXNxXzVKUGhxZjRYTnI5NGlKZ0w3VmtMRTN1N2xzY3FEQWJENkFJaXVYNWx1VWpOY3AxMDRXOHlLMy0zLWJQaVFaaUdZSlZFYmlvMEE?oc=5",
+          "title": "분당차병원, 경기 동남권 권역응급의료센터 4회 연속 지정",
+          "source": "로이슈",
+          "date": "2026.07.23.(목) 17:58",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzQWlkLXdseGJrY1h2MzFwNzUzV25WWVNCQXg4YzUtZHdwV1RqOEw2WWdmck1GLXNxcmJTOTJ5bmVmMHp6WTVMaWw0cVp0b0JYY3FMbTVRa3ZxM0NmX3l3azE4QkRjcU5qbE1PZERUSFZlTDFoaTBGNm1n?oc=5",
           "region": "national"
         },
         {
-          "title": "제주대학교병원, ‘빅5 수준’ 국립대병원 육성 대상에 포함",
-          "source": "DWBNEWS",
-          "date": "2026.07.23.(목) 16:57",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91RDZWOG1xYTJrLUZuYjVSZW1ycUlieWhjdlVRb2ptTHNLVXdiZEJkdXBnV3RHdlJkUWo4c05OUmd2SlFGTTRJbkJYT0xPcmFYeElxM3ljODVyNkEycXFpU1lHVjJjdUFq?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "제주대병원, 수도권 ‘빅5’ 수준으로 키운다… 정부 지역의료 전략에 포함",
-          "source": "미디어제주",
-          "date": "2026.07.23.(목) 14:45",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2VUlCN01GbnNFc2c0SXJqNE1SUlpaX0tFcFFzb3FPWkNCUTc3dS02Y0VZNVhJYko3VnRkNTExT1lOOW5SMUVDUjFZRVhuV0FmUnExNUpyeXI1ejNEYW5wZl9lYW1WMEI4WGEzV9IBcEFVX3lxTE53akJ2cUZROUhobTU3VlFWNU1QWVREOU4xeGlvcFkzMlBoZkdyNUpIOE53ZDBWQTMtRHhPdG5YV3hjNDgwdW9UQ3BUQy1YWWhjMlhoMVA1eUtQczdlNDVRdjhEcnNrTjloYS1jQmh4N0s?oc=5",
+          "title": "분당차병원, 권역응급의료센터 4회 연속 지정",
+          "source": "신아일보",
+          "date": "2026.07.23.(목) 14:46",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OU21zWFJkZXFlMHN2NnZYME02TF84eW02Tmh1VGYxbTNLVmxvcDg1dHB3emVfQ1NQdEwta3hUYVpJTkItbU9CTTVrak9ONUx5X0cwSnlTQUY2RXpBX0o3OUlQeVN2MU82M3B4enhDRXY?oc=5",
           "region": "national"
         },
         {
@@ -68,17 +75,17 @@
           "region": "daegu"
         },
         {
-          "title": "분당차병원, 권역응급의료센터 4회 연속 지정",
-          "source": "뉴시스",
-          "date": "2026.07.23.(목) 13:44",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hQXBtODczQTlheGVUdF9yRk11NjN5cWRHdG92MFg3UkJFQ21lLXYyc19VdmY5UEFzdUFLcFBsd3Rpai1UMWJ1QlVFMS00VGNjRUdCMHU1Q1lMYzBUZTF6RdIBeEFVX3lxTE9UR0lBOFBiaUJlMkJBZWVvS2RjUlUtYjQ3UGIwenAyWmctMlhRQ1JLdk1WTGxqWDh1enBUc2Z2QjdKdnBUYWgwamlOcGJodU5mWHZRU1pZRlBLNUt0dnhhY3RSZ3ZVc3dXOGhjOFJNeXd1Y280V2lrTQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "“응급실에 신경계 전담의 배치, 뇌졸중 뺑뺑이 방지”",
           "source": "데일리메디",
           "date": "2026.07.23.(목) 12:33",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0NXFzUmktaUxZZHZqczlkQko3Rk5tcE1QUU5LWW1Tb2Iyek5mMlpuRGV5WWVESThlVnlHQVI0T1NNcGl0X2drLVFkbVV2eVppd2Y1cmF6ODVidnc2dDJnR0FtcjNoMU5N?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[포토뉴스] 충남대병원, '공공보건의료 협력체계 구축 사업 원외 대표협의체' 개최",
+          "source": "데일리한국",
+          "date": "2026.07.23.(목) 12:31",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nb1Q5RmpkWDcwNS02S2doRFpIRXRkNURGbExPbUFnUlRUY19BMm85MGFKaG5CdlpXcEVYSFBOTV9iOE5PeE5lZlBvcTdsanpUSmZ1MDJyMDBkTi1Nc3lxdloyQ3VmSzVWUTlVcW82VjZ6Y1nSAXNBVV95cUxOZ29UOUZqZFg3MDUtNktnaERaSEV0ZDVERmxMT21BZ1JUVGNfQTJvOTBhSmhuQnZaV3BFWEhQTk1fYjhOT3hOZWZQb3E3bGp6VEpmdTAycjAwZE4tTXN5cXZaMkN1Zks1VlE5VXFvNlY2emNZ?oc=5",
           "region": "national"
         },
         {
@@ -121,27 +128,6 @@
           "source": "메디칼업저버",
           "date": "2026.07.23.(목) 09:30",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40NDFCUWhxSDNfbERRamdENXBZRGFZS25NX1g3YUs1UzhPeWxBSklOdFRUUFlVN3p6cjRpSUJ4Uk1NVTd4dWpRdVA3SUF5Wm4zNUIzM3JqSGptbWFqTGFYbmRjTGRudGRWTUhB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전북대병원 권역응급의료센터 ‘재지정’",
-          "source": "경북신문",
-          "date": "2026.07.23.(목) 08:48",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xb0ZwMEdaa2E0TjdqRHFpdnBzcXJuYmxMbjdSVm5IN3F2ZF9YVkhfNkxnRjFtSHFhMjIxcXZRaEQ5aFQ5VGc2MWQwMml0aU0?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "안동병원 전문의 영입으로 의료역량 강화…안동시의회는 집중호우 피해 복구 현장 점검",
-          "source": "에너지경제신문",
-          "date": "2026.07.23.(목) 08:30",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ocnVSbksyMldpTDZBdnNQRkJINnVuR3kxNmQ3ZWVMWG4xaDJmTWJHLWUxQXptWkxxUVo4QmtEVzkyOHVoWk1WY0xVelBuZVdhTUtoenBFdFRiZ28?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "병원들 “필수의료 붕괴·경영난 이중고 시달려”",
-          "source": "메드월드뉴스",
-          "date": "2026.07.23.(목) 08:04",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84WlhzZms1blRwYXFKVER2WTFFMUJHWmtROTFZYWZVSDdjZ0o4MjRsUDY4Rl9idGh2U2gyMVRMUUFNX3k2WkdJaDlYNkpaWVRrTVdENHlINHhFYU9Pc1BNampFRmpoNlR6LUJ2YVlB?oc=5",
           "region": "national"
         }
       ],
@@ -237,27 +223,6 @@
           "date": "2026.07.23.(목) 10:47",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFdDdUS0d2ZkVqOWZvT1dXcW5GWnNoaS03cXBTS1puWE9lQ043LWV4WnJCcW0tOWFrdXVDTWdTei1ETmN5azA2S1ZVd2VxblRhVFQ4?oc=5",
           "region": "national"
-        },
-        {
-          "title": "'마지막 영웅’의 소멸과 소아 의료의 붕괴",
-          "source": "MEDI:GATE NEWS",
-          "date": "2026.07.23.(목) 07:36",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TVC1ZRXlUejcxSzRrZ0p3M2kwMUZBa29xY1VPS0RZd0UyNEloVE9vVzN3RUdWMUo5M19pZmhoTWIwNXhhY1FVUURUbW9jS2pQeVZwOC1n?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"우리가 범죄자인가\"…의료진 호소에 이 대통령 \"형사처벌 부담 감안\"",
-          "source": "청년의사",
-          "date": "2026.07.23.(목) 06:46",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RVktGd2NRYjZaaVRDd0hhYW5FUlhMaFJTY3Nobm9tendILVZJRFY1d2E5b0g2S0MxQlNwSnlHQXJDWGJlaGtZZjc5TDdoOWc5UGpKdmtDM3FNMVl6Nks4enNFNExZODE5Y3E2RHZzaU3SAXNBVV95cUxPc1RCYk9PWkM3ZHZWbGE5b0JsZUpaYmV5VFdOb2V5aVZTNUc1Vi1Cb0EtYmRFOWtvOUhDdjU1UElkNFJHQWhPd2VnOUVJdVcwekwxeVFYUnVkeU5yWFVXZjllX2h4V0tZdEktekxkTkVYY0Nj?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[자유성] 구미로 향하는 ‘원정 진료’",
-          "source": "영남일보",
-          "date": "2026.07.23.(목) 06:00",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XbktfaHh4RExOOWUxeC05S1pPT2lIb3JOUmFnazhDQjVzWUwtZEpZTmlMeXU0T2U5SjA5amJpb01vdzZib0lmTUZNMl9Tb0ZNUDJDU1lMRDBMT0Z3QUVjVDVBU1FZQ1NVOHRF?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -301,6 +266,13 @@
           "region": "national"
         },
         {
+          "title": "서울시약, 환자안전 보고 활성화 성과…월평균 75.6%↑",
+          "source": "메디파나뉴스",
+          "date": "2026.07.24.(금) 17:40",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kWDcyT1BzUmpkLXJCR1VReG5VVHFrdVhWckl0MS1GTlJLbTkwWlRZdXlodEw0QVFydkk4akc4Yk1ZNzRRR2EtN2toWVIwc3doN0NtVW9KUGV2NzN5SlpOOUE3TUFTVnZXYzJv?oc=5",
+          "region": "national"
+        },
+        {
           "title": "충남경제진흥원 ‘사랑의 헌혈 캠페인’ 개최",
           "source": "cctoday.co.kr",
           "date": "2026.07.24.(금) 16:09",
@@ -340,6 +312,13 @@
           "source": "아산포커스",
           "date": "2026.07.24.(금) 14:03",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BVmxDdEFMQTkza1FnQndmUVpjekdQY2tVSkd5d0tIblJYYWk1V2htcGRSQkNsN2xYdmNPa1REMWpWYzFHeWZxcGotMUNfRTMzNkJlLWt2NVExYzcxUFd4RXluN3BnU21oMGJySTF3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "신규 헌혈홍보위원 3명 위촉…대전세종충남혈액원, 생명나눔 확산 나선다",
+          "source": "로컬투데이",
+          "date": "2026.07.24.(금) 13:50",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xaVZKWDR2OXU1NmplMzZwUXhldTBvZEVQNEhCdGMxS1QzYXBSY2tpN2lXUGp1bWFWdjRPZ1hJaElsSDFSMWNXOUhmWU9BM3NDTU9NU3hJZFF0Y3VnTjhOVG9YNkxZZzlxREp5Nm9sd0I?oc=5",
           "region": "national"
         },
         {
@@ -392,13 +371,6 @@
           "region": "national"
         },
         {
-          "title": "심정지 골든타임 지킨다…대구 청년 130명, AED 점검 나섰다",
-          "source": "thepowernews.co.kr",
-          "date": "2026.07.24.(금) 10:11",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PTUdBRkc3eFU3MlZuN2EtNzI2QmJsUnNlQ2laUm1OS1pLdVlTYnlhYXlmVm9ySkZRZU5VbjhMQ283WUUyU2hFdVpfNFdTMm9qR0JQZVhGV283WXRyTXlZdzlBX1VPcDJfLTBYdDhhMXlha2ZmZnlFcDVfZUo?oc=5",
-          "region": "daegu"
-        },
-        {
           "title": "축평원, 안전 전문가 초청 교육…'안전사고 제로' 문화 확산",
           "source": "livesnews.com",
           "date": "2026.07.24.(금) 10:02",
@@ -410,6 +382,13 @@
           "source": "연합뉴스",
           "date": "2026.07.24.(금) 09:13",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YaXlNSDRqWmpMb0VaR25vMTRhd3hqbFFWREg3R0NaM2lCNkdfcEc5X1Z2WVFzSnV3b3Q1R1RDMTBOdENnYXZRRGl0SEZ4cU1ZdUZ5TFBUN0NlUEo5dUllc9IBYEFVX3lxTE1YaXlNSDRqWmpMb0VaR25vMTRhd3hqbFFWREg3R0NaM2lCNkdfcEc5X1Z2WVFzSnV3b3Q1R1RDMTBOdENnYXZRRGl0SEZ4cU1ZdUZ5TFBUN0NlUEo5dUllcw?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "전국 최초 ‘두근 대구’ 심폐소생술 청년 서포터즈, 본격 현장 활동 돌입",
+          "source": "뉴스체인지",
+          "date": "2026.07.24.(금) 09:04",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50VllWTDc1YVlabmhCUHR2RHZ0dEg0MTV3MS1zODkzQlowUUFNS3lrdVE4S0I3N3dHM3A3VXR2WVY3Qmdjam52Tm9QZFByeThJNXQ4NklYaw?oc=5",
           "region": "daegu"
         },
         {
@@ -459,20 +438,6 @@
           "source": "뉴스핌",
           "date": "2026.07.23.(목) 14:36",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIYURBQmx6VVRyQURpTFIxOFZyMTlpSThwWU5DZG4yVEM1Qjg0WXVNNXdCM1Rwbk1YWFBmQkRfdW9ORHFUQTZZQldYQXN2MXptZ1cyNWFqLXRDU0JH?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "홍천군보건소, 심폐소생술 및 응급처치 교육 진행",
-          "source": "웹이코노미",
-          "date": "2026.07.23.(목) 13:58",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SMExaTVFEQ2lXdGdqUXppLVA3NTd4YTJzeDFVSDhuZFFzRFc5YnhPUmJZVTZfbW13WlFzQWJJYUgtU0ZjUWFJRzJDRkRWQk1uZDNndmNObThuMy1WMDJVQlk1RFg1YnZMX1JxRHdIMDh4QQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "제주시, 공직자 노조와 함께‘생명나눔 헌혈 캠페인’전개",
-          "source": "더최고신문",
-          "date": "2026.07.23.(목) 13:18",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHakZid3hseWN1QkpDenZpbzl3VkJmaEdzNnJ2aGhMSDY5TGtrNWZIOWVqTWhYc0MyOG8xNXBMSXRndFBadFVvX2xsN1FqMHhPQ3lMQnZyVnBRbmo1YlhVOTBNaHdzdUhVT0pqa3MwOXfSAXBBVV95cUxQR2pGYnd4bHljdUJKQ3p2aW85d1ZCZmhHczZydmhoTEg2OUxrazVmSDllak1oWHNDMjhvMTVwTEl0Z3RQWnRVb19sbDdRajB4T0N5TEJ2clZwUW5qNWJYVTkwTWh3c3VIVU9KamtzMDl3?oc=5",
           "region": "national"
         }
       ],
