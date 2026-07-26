@@ -1,14 +1,35 @@
 {
-  "generatedAt": "2026-07-26T09:03:02.246550+00:00",
+  "generatedAt": "2026-07-26T12:46:43.776635+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "[지역 필수의료 인력 공백] 촉탁의도 못 구한다… 전공의 교육·의료 발전 꿈도 못 꿔",
+          "source": "v.daum.net",
+          "date": "2026.07.26.(일) 20:00",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NaUM4ZFRQZXhpRkxSd1ZLVkdVYkRqWVptWE1mb2VrOGcwVFJ2bWpQUTFyd21GdzFpd0FkMFBXMnNYX2VKNkhGS3dWMldCR28?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "안동병원, 생사의 갈림길 `골든타임` 8년…`1만 명 살린 경북 북부 외상 최전선`",
+          "source": "매일신문",
+          "date": "2026.07.26.(일) 18:59",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84eHpjT3NuNmFjVWpCeFFHaTRPQzRMZlFwbDRUNGU2STZFcG8xV2NhYldRbjJjcGtBMXV2a3Z0VjVSS3RoZ3gxWlNBb2pCVTFMa3dxNFh0cnhKRjdqcE1zb0JR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "안동병원, 폐암 조기진단·중증 호흡기질환 전문진료 강화",
+          "source": "경상투데이",
+          "date": "2026.07.26.(일) 16:32",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11TF93UVBnc0dNa0IwSndBNC0zX1MxRFlxSDdCUVhHVnBOeHVWXzZnbGpUMkdzeVl6SGFPb25ycGxiNzdYNDFPaG5JaFh3dnJ3bDQxQVRQYmdZSXk2VmU1YzRUcXJfQnc?oc=5",
+          "region": "national"
+        },
+        {
           "title": "'달빛어린이병원' 도입했더니, 경증 소아환자 응급실 이용 절반으로 뚝",
-          "source": "news.sbs.co.kr",
-          "date": "2026.07.26.(일) 09:32",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Q1Uzell4ck9yTE5fd2lwaVFMM094S096QnRfTndYWEF3VTN0YVdPNzNOdEV0Unhuc1JFMUdQWFpMUWJTeU5SU2xtZ1RaOGpKT182eGVWU1oyOW1nRnZ6c0YzWXNRelMxbkdR?oc=5",
+          "source": "네이트",
+          "date": "2026.07.26.(일) 09:36",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yb0ZTLVVTWUFoc3ltaU1JV1VHd0NFUzR5OGhSTWNubEZUWmVEYXNpNUstSF80UXlSWkpRd0VvZXM1X092TlVaQm04bWZVSlF1TDZr?oc=5",
           "region": "national"
         },
         {
@@ -110,7 +131,7 @@
           "title": "[VIEW POINT] 필수의료 키운다더니…베테랑 재난의료팀 해체하라는 복지부",
           "source": "네이트",
           "date": "2026.07.26.(일) 17:17",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MMVNpZTlreml4QkNqZDlySTRWZkdqd1FkRTg5ZG5mZnk3cVkxLThBOWV1YVFmZzZhYTgwSklwQWxGbXNhdkNqR0JoamZjV0J3ZFQwOXlmdjVucjFDa2VuTDJHM0Q0VUpORUt6d0Q0bWFIc0JnOXNmcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jdG1TU21QMFR4V3hNQmtBM1BtVVlvYkNfbm5saHpMcElxcGZobmpmV2hMQWg1MlhJLWw3NFpHeWNKQUtlMlhNbUdNVlhTRXYxT1pz?oc=5",
           "region": "national"
         },
         {
@@ -134,17 +155,10 @@
       "label": "소아응급의료",
       "items": [
         {
-          "title": "[정책탐구생활] 의료서비스 사각지대 없도록… 지역·필수·공공의료 역할 커진다",
-          "source": "브릿지경제",
-          "date": "2026.07.26.(일) 14:56",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEdTM1cTlycGJXLUFTZDJJbXhxTkJPeXhFbEFLcWd4NDczTjM0MEFLSVR3UUkzM2tkbkptQnBmS181ZC1UWFlfMzcydkRTRHlKZlN6d01ZWFNEdw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "좋은문화병원, 출생 어린이 초청 특별 견학 프로그램",
           "source": "국제신문",
           "date": "2026.07.26.(일) 10:07",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTktanRJR0xYTkF3U2pWY05jOTRsRm1JcmZSb0o1d3ZpYU54WmxPeHBOeW1KU1Z4aHRXVk1DbTZ5Mmd5eEcyb0E2aGh5T0NZRWlzcmNJcEZmQlBzNnVqUWVURjRxWGE0LVdRTXROYnBMSlYxY1Bqem9uQnJ1Y01pMnhrZFY2TUlmdmVhLU93cW1lZk56?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVVfaFQzZ1JsWUtVMlVrSklBRzRXeFlHZHpMMU1qdGNZU3dHQ2h1b0NKMnpfeEZGYlFfRjlTcTZWcGNpZVU2eEg3Vjg5Y2gzNTNldWhDVGFjTzhlWGVmUnZpb3U1aDRUU2lUcDZsb0lEU0F1ZDRFNUpWNjY5aWZaeWlFcVROX1FjcldFNkpB?oc=5",
           "region": "national"
         },
         {
@@ -152,13 +166,6 @@
           "source": "전라일보",
           "date": "2026.07.26.(일) 03:17",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96amsycjFyZWt4R0xZeEVyRjhRclcwa2NzcmhUNnFTZ0pLYlV1ZDdzN21QZnEwYzUyaUFLT2poUExvVHVmbkZXUmtDck9rcDVDMGpIZV9FM1BRQmhSVEFFWXdyRjNIRXVnS2Y2ZWNXY3nSAXBBVV95cUxPemprMnIxcmVreEdMWXhFckY4UXJXMGtjc3JoVDZxU2dKS2JVdWQ3czdtUGZxMGM1MmlBS09qaFBMb1R1Zm5GV1JrQ3JPa3A1QzBqSGVfRTNQUUJoUlRBRVl3ckYzSEV1Z0tmNmVjV2N5?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "좋은문화병원, 출생아 초청 견학 프로그램 운영",
-          "source": "MEDI:GATE NEWS",
-          "date": "2026.07.25.(토) 07:32",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TVGRsZmx3anhRcWRmNjJEUUxteXo1MFBvZTM3LVFWTWVvV3QwWXlLVEhsdGpsb2Z0SXBWcmhkeFVPdHBJM0lwVUVZWXJ1SmNZNlVBMmllbw?oc=5",
           "region": "national"
         },
         {
@@ -194,13 +201,6 @@
           "source": "간호사신문",
           "date": "2026.07.24.(금) 10:53",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZZW1WUVBNVlVvRzNMNnlqY0xVeXVUMUVfczVuZzNmM0FMMjJvYUlhSXpkR0lNOEloVXd5X1o2WTloSWlwNUhfNGhCMzQ3ZWpBdDgybjZzVFQ4Z09xX3dqZ1F0SmVqaVlkTDdleHZ3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[현국장의 사계절] 제주대병원 ‘빅5급’ 육성, 제주 의료의 운명을 바꿀 기회다",
-          "source": "뉴스N제주",
-          "date": "2026.07.24.(금) 04:03",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jc2FQZGVVSDBGYTNhMGtfQU9WbDkyd1FXd1d6M1RuUXppS1pqQ3h1cS00b3NVYnpuZXVWLUx6aTZ2Q1NqTGJYSG12Qk5rbGNaY1hIWlpkSUpUbnlQaWVTZmVpUE9fQkFLMXRyRw?oc=5",
           "region": "national"
         }
       ],
@@ -280,10 +280,10 @@
           "region": "national"
         },
         {
-          "title": "경남은행, ‘2026년 하반기 사랑의 헌혈’ 실시…지역민에게 헌혈증 기부",
-          "source": "비즈월드",
-          "date": "2026.07.24.(금) 21:21",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SRDlUbUo1QWR1UEVrZ2pfcnpGLUNLWi15SkM1MnFLdTctN2VEcld4eWQ1bnRHMnRiUmtRM0JEV1N6ajg4MkRXMVZqd2w1alBrcFotUzJtanNKQmlBVy1hendVZUUyMThDbW1R?oc=5",
+          "title": "디엔비엔은 2026년 레드 저니를 시작으로 헌혈 캠페인을 통해 자비로운 행동을 전파합니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.07.24.(금) 21:19",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONF9Pay1oZUJ3eTc3Q1g1d3pLdjdpbWFxeG1lYTRUWmN6T0tuTzhrYnlTc3FqaTE3c2lhUld0N1BGT3dIR0FjcUxDUWt4QzExdVJSY2Z0UnJ2RUdpbFBjV1J1T09hd2wzVmotZmFYcHMydU04LTFrY0NXYXNGXzBmQlBzQXYxaFFKMlVkVkI1MGIzc01NWUE?oc=5",
           "region": "national"
         },
         {
@@ -301,17 +301,17 @@
           "region": "national"
         },
         {
-          "title": "영천시, 무더위 속 생명나눔 실천...사랑의 헌혈 행사 실시",
-          "source": "경북뉴스",
-          "date": "2026.07.24.(금) 18:06",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BNFpyajFCVVdDVVR1ZTk1dEYtS1FLY0d5cXB3WTBNTmpLRjFCRHZtMy1YcVNFaFU5UjdrTm5Ca3FMbUxwUXFhSEJRYkh0WkdlMTY3TDlYSG5qal95bzJhcFNkYTk5aE9XNVBV?oc=5",
-          "region": "national"
-        },
-        {
           "title": "서울시약, 환자안전 보고 활성화 성과…월평균 75.6%↑",
           "source": "메디파나뉴스",
           "date": "2026.07.24.(금) 17:40",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kWDcyT1BzUmpkLXJCR1VReG5VVHFrdVhWckl0MS1GTlJLbTkwWlRZdXlodEw0QVFydkk4akc4Yk1ZNzRRR2EtN2toWVIwc3doN0NtVW9KUGV2NzN5SlpOOUE3TUFTVnZXYzJv?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "뚜옌꽝에서 열린 \"붉은 피 한 방울\" 헌혈 축제에서 숭고한 선행을 널리 퍼뜨리고 있습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.07.24.(금) 16:38",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFY2bG90UGFYd1U3T1d0RkFTS2paRm5fQ0w2YXpIMTBTM2lXbW41Z0N6cHFOM00tQ2cteW9BdzJWWk1XQ21LQXZPQTQxRElnU1dZU2x5UjRsaW5hQ1U2OEtJMGIyQXk3WXZIQ2p5VC1GM1F4blRUdE9seGJ1a3hNaUd0WGRKdE1pVWVacmVKZnRZVEFXVmc?oc=5",
           "region": "national"
         },
         {
@@ -355,13 +355,6 @@
           "date": "2026.07.24.(금) 14:46",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwazFBby1PVm4xYzFhbm5iNENiNlFLcjNNbWlkQjJyeTJPUXRET2hRa0xHbDhHN1pmVDY5WlkwV1pQdmhWTm5qQzJQQ0d4WEdQenA1bXM2ZGh3Vjd3eU42Qjk5RWVZU080cGRzWWZVSQ?oc=5",
           "region": "daegu"
-        },
-        {
-          "title": "엔하이픈, 대한적십자사 릴레이 헌혈 캠페인 두 번째 주자 참여",
-          "source": "한국목재신문",
-          "date": "2026.07.24.(금) 14:36",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52SmRKR1JoLUNjLUozUlcyUXNXYXc0MWRoN0VmV3NJdjdUUzVuZm1aMC03aHhOWTJYa0FUV01fVzFIY1lCM2hwNXR4ajktZXYtV0pzcWhUZXZMMWJGTE9RQTJmY3U2Zzh5SVplSGg2Ry1pZ9IBckFVX3lxTE52SmRKR1JoLUNjLUozUlcyUXNXYXc0MWRoN0VmV3NJdjdUUzVuZm1aMC03aHhOWTJYa0FUV01fVzFIY1lCM2hwNXR4ajktZXYtV0pzcWhUZXZMMWJGTE9RQTJmY3U2Zzh5SVplSGg2Ry1pZw?oc=5",
-          "region": "national"
         },
         {
           "title": "충남경제진흥원, 휴가철 혈액 수급난 해소를 위한 헌혈 캠페인 펼쳐",
@@ -417,6 +410,13 @@
           "source": "전자신문",
           "date": "2026.07.24.(금) 10:34",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QR3NPcWY0Q01MNFg0eWVVX1ExWUM3b2V0RDdtTlJKMG5LMXFxY3hyX2NMakczSXZKTVdZRG1wbllGTkt3ajlwZlZBN0dMUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "충남경제진흥원, 여름철 혈액 수급난 해소 '앞장'…유관기관과 헌혈 캠페인",
+          "source": "v.daum.net",
+          "date": "2026.07.24.(금) 10:19",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lOXdQUmlaR2c0bGNfbGVVZENKeGlWdkg2MWF2bGJfN1pwT055UzIyYkJ0Q0VQbDhRdDdpZmRMcWg3MUxvYlE?oc=5",
           "region": "national"
         }
       ],
