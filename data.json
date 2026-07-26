@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T16:33:11.038686+00:00",
+  "generatedAt": "2026-07-26T20:35:13.206179+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -23,6 +23,13 @@
           "source": "경남도민신문",
           "date": "2026.07.26.(일) 17:36",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iR3JWaGhKUTIwYnF6WlE5cUFWRVAzeXJEV3R0TWVPdmYxUEMzbzJiUGZLNFA1N1kya2VBQW1HMWI3S1MtNzFlazFCZWNhWmhFX2tMd3NMNVY5SmNfcW5SRDRmWFVRTW5U?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "분당차병원, 중증응급환자 최종 치료 역량 인정…권역응급의료센터 4연속 지정",
+          "source": "더퍼스트미디어",
+          "date": "2026.07.26.(일) 17:15",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3N1htOFVJT3pORHZYbG5jTzZVY2pmb2hhZUVaU25velZ1akN3RHNZV0xpRGx4ektCNGxLbnFyNnFoRjJuOUJhSUtaVUsxd2VEbGVwcnJxM0RuV0l5cEdHVEZCLXF0WE5YTEEwRjZ6dkwyd9IBdEFVX3lxTE04YW9FWkNxeHFUNUt2dWtyYmFMbW84b09QOU8zTC1KTjlXV28wV2hQaE9mOFMzUHZRZHgyNnhERHlnQk5PZFZHcDV0QnBrZDBvRHFyS0lNc2hvZnRvODJFZmJUQnEtdTIzUHRSR3Vqa1lYM21y?oc=5",
           "region": "national"
         },
         {
@@ -141,6 +148,13 @@
       "label": "소아응급의료",
       "items": [
         {
+          "title": "병상은 있는데 의사가 없다…전국 ‘신생아중환자실 위기’",
+          "source": "데일리메디",
+          "date": "2026.07.27.(월) 05:26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LRWZrUElibFN4V3RQZHNnSkFwQjJNV0xvc0JjNi0tU09fVF9RVzl0X2RUNzRCbG5hcHhmNFBwVEMybExuWWZqak51Z0hvUXl0Rkc0WnhuT1RURGc0VE1OMndhNG1BOUdJQUFFYXBOWkJua1dT?oc=5",
+          "region": "national"
+        },
+        {
           "title": "[전라 Insight]전북 생명선 위태… 신생아 사망은‘예고된 참사’",
           "source": "전라일보",
           "date": "2026.07.26.(일) 03:17",
@@ -181,6 +195,13 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "엔하이픈,‘헌혈로 완성되는 뿌듯한 하루 릴레이 캠페인 참여... 아티스트 선한 영향력 확산",
+          "source": "국민기자뉴스",
+          "date": "2026.07.26.(일) 21:00",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lUVU1eDlSYVBwcFFUUUF1YXNWWkY1Z0lNeDE1eHZhUHU4UF9kRUR5Q3dnenpWeFAyUlpVdVUteVo0S1Azbmw0RlYwMDRoZl9rLVY2QVlaUGVzMkFYYWEwTW9ta9IBZ0FVX3lxTE9aSXJlcU50Q1Z6NEh3NzVkTzI3aDBzZ1RkUDBJendZZ0dDUzgxcktJWVN3Nk85eEplN1MyU0F0MnFjRVZjUnI5M2JDN3A4M3dXb0Y0ZkRVWHNEYXRSeFVDTDhUa0p3NVU?oc=5",
+          "region": "national"
+        },
         {
           "title": "황두섭 울산혈액원 신임 원장 “안전 헌혈·혈액수급 안정화 최선”",
           "source": "iusm.co.kr",
@@ -242,13 +263,6 @@
           "source": "게임톡",
           "date": "2026.07.25.(토) 02:16",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iLVhJcXhLS3hEQlBRYjZoQ19NU09GYmFLbnhlYmtsY21oRmk3c0ZiOGQxNDVMcVR3YWpCQzlYOENQZzhJZWRHV21ranNXZ2g3cE1kXy0zUjhqeU1LN05hUnNvUEtqZXgzTU01ZA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "엔하이픈,‘헌혈로 완성되는 뿌듯한 하루 릴레이 캠페인 참여... 아티스트 선한 영향력 확산",
-          "source": "국민뉴스",
-          "date": "2026.07.25.(토) 00:02",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15Z1E3aE1EcHZicFpGTW1UdHZwbzZwRWJZeElnUjJybHRDeFRNTHVvaDIyazhtV2pMU3o0X1BsWF9ERnliczQ3Mg?oc=5",
           "region": "national"
         },
         {
@@ -315,13 +329,6 @@
           "region": "national"
         },
         {
-          "title": "서울시약, 환자안전사고·부작용 보고 이벤트 성료…참여·건수 대폭 증가",
-          "source": "한국의약통신",
-          "date": "2026.07.24.(금) 15:10",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hTnhiYnZwUzIzS01GVGxlbHliRThZLVhnQkxQQmVHTVdlYXQ4dHpib2ZPRHFuNF9YWUxXTjZsNmk5V1VUYmlrS2YxZGdYUlJvaXJnN2hKQ1QwTnMtc2tWWEd3QVcxbkhHeFo4?oc=5",
-          "region": "national"
-        },
-        {
           "title": "전국 최초 ‘두근대구’ 심폐소생술 청년 서포터즈, 본격 현장 활동 돌입",
           "source": "서프라이즈뉴스",
           "date": "2026.07.24.(금) 14:46",
@@ -383,6 +390,13 @@
           "date": "2026.07.24.(금) 10:34",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QR3NPcWY0Q01MNFg0eWVVX1ExWUM3b2V0RDdtTlJKMG5LMXFxY3hyX2NMakczSXZKTVdZRG1wbllGTkt3ajlwZlZBN0dMUQ?oc=5",
           "region": "national"
+        },
+        {
+          "title": "대구시, 전국 최초 ‘심폐소생술 청년 서포터즈’ 현장 활동 본격화",
+          "source": "BBS불교방송",
+          "date": "2026.07.24.(금) 10:22",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtY09vOHN0cXdWcFYxeHN2LUZYVEljOWxTbGFNekZoVFFJZUpmSUxhREt2eGhvekQyLXUxcG9tRHlwdS1LcE53NWVtOC1GUVczOTFqRTNONDFoUThHRE0zXzdkM0UyZWZwaVV3?oc=5",
+          "region": "daegu"
         },
         {
           "title": "충남경제진흥원, 여름철 혈액 수급난 해소 '앞장'…유관기관과 헌혈 캠페인",
