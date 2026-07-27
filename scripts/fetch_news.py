@@ -38,7 +38,7 @@ CATEGORIES = [
      ]},
     {"id": "er_runaround", "label": "응급실 뺑뺑이", "limit": 20,
      "topics": [
-         {"query": "응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐 OR 골든타"},
+         {"query": "응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐"},
      ]},
     {"id": "disaster", "label": "재난의료", "limit": 20,
      "topics": [
@@ -46,11 +46,11 @@ CATEGORIES = [
      ]},
     {"id": "pediatric", "label": "소아응급의료", "limit": 20,
      "topics": [
-         {"query": "소아응급의료 OR 응급소아의료 OR 소아 응급 OR 소아 응급의료 OR 달빛어린이 OR 심야 어린이 OR 어린이병 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료 OR 달빛어린이병원 OR 소아과 전문의 OR 소아청소년과 전문의 OR 소아과 기피 OR 소아 진료 붕괴 OR 소아과 폐과"},
+         {"query": "소아응급의료 OR 소아 응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료 OR 달빛어린이병원 OR 소아과 전문의 OR 소아청소년과 전문의 OR 소아과 기피 OR 소아 진료 붕괴 OR 소아과 폐과 OR 소아 응급 OR 심야 어린이병원 OR 심야 소아과 OR 야간 어린이병원"},
      ]},
     {"id": "etc_misc", "label": "기타", "limit": 30,
      "topics": [
-         {"query": "명절 비상진료 OR 명절 응급실 OR 명절 문여는병원"},
+         {"query": "명절 비상진료 OR 명절 응급실 OR 명절 문여는병원 OR 휴가철 비상진료 OR 휴가철 문여는병원 OR 휴가철 야간진료 OR 휴가철 심야 어린이병원"},
          {"query": "손상예방관리 OR 안전사고 통계 OR 손상예방"},
          {"query": "심폐소생술 교육 OR 자동심장충격기 OR AED 설치"},
          {"query": "헌혈 부족 OR 헌혈 캠페인 OR 혈액수급"},
@@ -73,8 +73,11 @@ def detect_region(title):
     return "daegu" if any(marker in title for marker in DAEGU_MARKERS) else "national"
 
 
+RECENCY_DAYS = 3  # 이 기간(일)보다 오래된 기사는 구글이 걸러주지 않아도 코드에서 강제로 제외
+
+
 def fetch_query(query, max_items=MAX_ITEMS_PER_QUERY):
-    RECENCY_FILTER = "when:3d"
+    RECENCY_FILTER = f"when:{RECENCY_DAYS}d"
     q = urllib.parse.quote(f"{query} {RECENCY_FILTER}")
     url = f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -82,6 +85,7 @@ def fetch_query(query, max_items=MAX_ITEMS_PER_QUERY):
         data = resp.read()
     root = ET.fromstring(data)
     items = []
+    cutoff_ts = (datetime.now(timezone.utc) - timedelta(days=RECENCY_DAYS)).timestamp()
     for item in root.findall("./channel/item")[:max_items]:
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
@@ -93,6 +97,8 @@ def fetch_query(query, max_items=MAX_ITEMS_PER_QUERY):
         if source:
             title_clean = re.sub(r"\s*-\s*" + re.escape(source) + r"\s*$", "", title).strip()
         ts, display_date = parse_and_format_date(pubdate_raw)
+        if ts and ts < cutoff_ts:
+            continue  # 구글이 when: 필터를 무시하고 오래된 기사를 준 경우 코드에서 직접 제외
         items.append({
             "title": title_clean,
             "source": source,
