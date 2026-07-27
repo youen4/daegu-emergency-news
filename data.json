@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T09:09:17.484776+00:00",
+  "generatedAt": "2026-07-27T09:18:26.606968+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -40,13 +40,6 @@
           "region": "national"
         },
         {
-          "title": "순천 성가롤로병원, 권역응급의료센터 4회 연속 지정",
-          "source": "남도방송",
-          "date": "2026.07.27.(월) 15:49",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xSWZUQ0ttb1FBMHB4QUcycFFzaW1kLTRRTnEyenI0aWEzRXBHZW9aeTBsZHdpSk1fNmlZUFZDNEtxWFk0NGxPWF9xRFRyTmxmTk1PTElXSW5BRjlhUGszZV9PNFZ0c3NERlBLUzFQd9IBb0FVX3lxTE0xSWZUQ0ttb1FBMHB4QUcycFFzaW1kLTRRTnEyenI0aWEzRXBHZW9aeTBsZHdpSk1fNmlZUFZDNEtxWFk0NGxPWF9xRFRyTmxmTk1PTElXSW5BRjlhUGszZV9PNFZ0c3NERlBLUzFQdw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "응급환자 살리는 든든한 버팀목…순천 성가롤로병원, 4회 연속 권역응급의료센터 지정",
           "source": "브릿지경제",
           "date": "2026.07.27.(월) 15:43",
@@ -54,10 +47,31 @@
           "region": "national"
         },
         {
+          "title": "24시간 든든한 응급의료로 ‘안심의료도시 순천’ 도약:시대일보",
+          "source": "시대일보",
+          "date": "2026.07.27.(월) 15:41",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80bmpSRmc1cVEzSUtCN0FIX3NaQk9sZTBVb2M1cXJJbEZBZmxJWGZzWktyZmREc2pjb1JXeDR1SVRCTXUyV1FDNXdObERKWW9ocm0wX0c1QXMzbFZSZDF6cUdXa2l4ZHfSAWdBVV95cUxPNG5qUkZnNXFRM0lLQjdBSF9zWkJPbGUwVW9jNXFySWxGQWZsSVhmc1pLcmZkRHNqY29SV3g0dUlUQk11MldRQzV3TmxESllvaHJtMF9HNUFzM2xWUmQxenFHV2tpeGR3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "광주특별시, 휴가철 심야 어린이병원·약국 운영…야간 의료 공백 최소화",
+          "source": "매일일보",
+          "date": "2026.07.27.(월) 14:53",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfNkJxbmdQNzFIZUdQVmpMZkR0bms1UzFzN09lUHJKdU82SWlKaWNlTUpCMnQyVTF3M2Z5RDRhWXp6TVJYbTMwa1dzd0FJZXBCeEswdWJBS2tvdHBmUEw1UERtdEg?oc=5",
+          "region": "national"
+        },
+        {
           "title": "'순천성가롤로병원' 권역응급의료센터 재지정",
           "source": "네이트",
           "date": "2026.07.27.(월) 14:47",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbTFOQzJsYjVwS25jNGxWcHJLN3cyTTlNbkNtbUFSdnBFeTlwd0lZZHV1SWp3Mk1nSW5INUJxTzlrcGU2NUo4X1hsRkUzb3dMSWM0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "순천 성가롤로병원, 권역응급의료센터 4회 연속 지정",
+          "source": "남도방송",
+          "date": "2026.07.27.(월) 14:44",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FNzFNYk9yZzBGc29JNDRtRUVENUtUcHBmZDVXWUNDbEtYcTNuVWt2Yi1rczk1ZUdOR3k0UUs0TGNYbi04ZFVYWDd4SkFjZjI1WnVMZDBWSWFSaDh1bjUxdjNBU2dLcHJCWWJJ0gFvQVVfeXFMTTFJZlRDS21vUUEwcHhBRzJwUXNpbWQtNFFOcTJ6cjRpYTNFcEdlb1p5MGxkd2lKTV82aVlQVkM0S3FYWTQ0bE9YX3FEVHJObGZOTU9MSVdJbkFGOWFQazNlX080VnRzc0RGUEtTMVB3?oc=5",
           "region": "national"
         },
         {
@@ -129,20 +143,6 @@
           "date": "2026.07.26.(일) 17:15",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3N1htOFVJT3pORHZYbG5jTzZVY2pmb2hhZUVaU25velZ1akN3RHNZV0xpRGx4ektCNGxLbnFyNnFoRjJuOUJhSUtaVUsxd2VEbGVwcnJxM0RuV0l5cEdHVEZCLXF0WE5YTEEwRjZ6dkwyd9IBdEFVX3lxTE04YW9FWkNxeHFUNUt2dWtyYmFMbW84b09QOU8zTC1KTjlXV28wV2hQaE9mOFMzUHZRZHgyNnhERHlnQk5PZFZHcDV0QnBrZDBvRHFyS0lNc2hvZnRvODJFZmJUQnEtdTIzUHRSR3Vqa1lYM21y?oc=5",
           "region": "national"
-        },
-        {
-          "title": "달빛어린이병원 있는 지역, 경증 소아 응급실 이용 ‘절반’",
-          "source": "v.daum.net",
-          "date": "2026.07.26.(일) 08:41",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oSkttbGU2QjZhRXFyRmVJdUJpdWVraFBQT3NrdUVzVUV1SWVEalM3OWQyZkhnM19nSDJjZm9NcTJoVnBJMG9Dbk9maw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "달빛어린이병원 도입지역, 경증 소아환자 응급실 이용 절반수준",
-          "source": "연합뉴스",
-          "date": "2026.07.26.(일) 06:04",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1VRRjVHZW5UNzJIelc3bEh3VjBhbGw3U09pWFhlYktBVkQ0amNVcm5CUHduM1RDMWlKd2IwRmN5SGl2Qi1IYXJrTnV3RXNfSGoyNnJaWkRfTjBXZFVHS9IBYEFVX3lxTFBFN1VRRjVHZW5UNzJIelc3bEh3VjBhbGw3U09pWFhlYktBVkQ0amNVcm5CUHduM1RDMWlKd2IwRmN5SGl2Qi1IYXJrTnV3RXNfSGoyNnJaWkRfTjBXZFVHSw?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -176,143 +176,31 @@
       "label": "소아응급의료",
       "items": [
         {
-          "title": "해운대백병원, ‘3D 모형’으로 구급대원 분만 훈련",
-          "source": "간호사신문",
-          "date": "2026.07.13.(월) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBycHFIenhXUFRhVDk0ODBrWFpvMFVvMndCOHMxc3NRdGNmNGtUc0FnRTc4em4ySkx1aUNucmFBTVAwSWxoemFpZzNxbzRvZkJoRlNFV1QweHlpbG54V1BTV3FYVllEM1VEZVVSeGxn?oc=5",
+          "title": "구미시, 아이와 부모 모두 안심할 수 있는 의료환경 조성",
+          "source": "데일리대구경북뉴스",
+          "date": "2026.07.27.(월) 18:11",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRaUxia2J5VXkxTDJHTjVZcklsd29kRlU2NjAyT2FYS0RKQzZvNHVRZHBVNDVyLW5lTWplanpydnlaQkRKSml1U1E3LTQ3SFFYaDdEZ3VmakNmX2k0R2M2WVFDeU1YUQ?oc=5",
           "region": "national"
         },
         {
-          "title": "해운대백병원, 신규 개발 분만 교육모형으로 구급대원 교육",
-          "source": "의학신문",
-          "date": "2026.07.13.(월) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55eUtRS2NHcWtXLVlZckpkeDNCM0M4WHNMczJVRWpBNWsxQllVWkpIVWwxYTVsTUc3NnkwZnJQRWlLazhPQWF3bVBYNWlENW5lUHV1a1NTNUF5eUp6WDFUcnhLWGJwRlFlTFE?oc=5",
+          "title": "구미, 어린이재활센터 개소 “소아 필수의료 체계 완성”",
+          "source": "경북매일",
+          "date": "2026.07.27.(월) 10:43",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQjBHcnEyY2tQU2FTeERiVWRMcm1fZ3JHTmhMNF9Da0ZpcDdyRFNlSF9JZ0Mxd1JrMVJoTW53cWtpRVZOTkk3WENnSUVhampkMnRwdEZJVnFsQQ?oc=5",
           "region": "national"
         },
         {
-          "title": "분당서울대병원, ‘경기도 119구급대원 역량강화교육’ 개최",
-          "source": "분당신문",
-          "date": "2026.07.03.(금) 19:41",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTF9UUTRqXzhmdHIxcEpENDRQYzQteWhwR09YM09CeFBhM1VneDVkT0xqeEZ4d2pvbEd4OFdZaUU5SkZtRElnWkdRSQ?oc=5",
+          "title": "“병상 있는데 의사가 없다”…신생아중환자실 ‘위태’",
+          "source": "데일리메디",
+          "date": "2026.07.27.(월) 05:38",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQ283ZWtBMXI0d1JRX1pLT29DcmhyaDRFa1U4NUd4XzNZWEo3dTdBZWE1ZmgycFlxaVZKUXdCb0tOaVQ1WFhycjhHQ2U1dDZrTUZmOU82b3JEMS1aeFFUTFF0cTN6eWdz?oc=5",
           "region": "national"
         },
         {
-          "title": "복지부, 지역·필수의료 전담조직 7월 신설…분만·신생아·소아정책과 생긴다",
-          "source": "네이트",
-          "date": "2026.06.28.(일) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nTDRzNDJoeW9MaUd2YVp4dzhNbVRUS2lZUm40MEVNS1cyWXpDZUg2MS0xam1DR2gtYzhGMVI1eVRGQTd6NVlJY3JNMFJuNWpkTWJr?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고위험 산모·조산아 분만 수가 최대 5배↑…소아 진찰 가산 8세까지 확대",
-          "source": "medicalworldnews.co.kr",
-          "date": "2026.06.27.(토) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZWpiMlAxS3haMWY0MENmbFAwMmJSTlBNNXllTlo5cEl1RG0zeGg1N1dtaDZkeTZRWXE5bHh0cWttYWhxVlFTMTBVN21hc091QmEweHFnTUdmNFExUENqOUwzbEtiX280WHRJY2tCMWY?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"밤새워 수술해도 적자였다\"",
-          "source": "용인신문",
-          "date": "2026.06.26.(금) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aR09iUjlscGE0LUhBOTRIandjaHVMR2ZPSW5oSW1Ob0xBamV2cmswWG9ZVGd6b1F2YU5FWXI1SDhIVTlENUJ4ZlYyRzFFemZfRHN4bHpxV09HVTR5TGVz?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "휴일·야간응급수술 수가 대폭 상향…고위험분만도 보상 강화",
-          "source": "연합뉴스",
-          "date": "2026.06.25.(목) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdGM1Tm9MWW1QbzZ2VlZ5RUFWVFE2dkY2ZmNaaXpESkxJekJnc09SbWZXVEZESHUwanJEcm5RTlBXdDZpZDdneWJFeG5VTndVb1VtOFVDQTEyd0HSAWBBVV95cUxPaEw4LXFmdGwzN0QtMkVQbXJIOW1XeGhrejJyd3J2SEJGVWtZWU5adVF0Tk1qUFBkRHd1bF9SUWNYRFBpR3p2X2JqLUhTUWVfVVVkZHRwbFlzQlZpbWYwdzU?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "소아·신생아 간호사 인력 지원… 필수의료 수가 대폭 인상",
-          "source": "간호사신문",
-          "date": "2026.06.25.(목) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTTNseWhtUFdwaWJqUTdhdWY5dW5SNnh4cnNua2xKdHFkeW9GMFR5aDRibWFiUjgtbXZCcWE2aG9xUk9DcE5YYXozcEdqZWF4TjRrYUNCb3BxMFZsN01IS25wdzdOZXNXa2w2bWJR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고위험 임산부 생기면 신속히 이송 병원 결정, 소아응급-신생아 전문의에 배상 보험 지원한다",
-          "source": "중앙일보",
-          "date": "2026.05.26.(화) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2M180elRUcDYyNmxyLWJhOHVBMUhJb0xyVHE4WE11TFB3VVB5UjJucFc3c2Yxcjc4eFhFZWVtcDR2SHNlZHNKRnN3RDRMcy0zOExRUExB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "정은경 “안심 분만체계 만들겠다”…현장선 “지방 인프라 이미 붕괴 위기” - 조선비즈",
-          "source": "Chosunbiz",
-          "date": "2026.05.14.(목) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGlZQlpqQVA0eTBST05tR19GVzNrVzgzb1RRSWpaSmlsMFBIczV6eklONW53Nm5ob3doWjIyOFVRT3NFTnZaaE1Vb2gyaV95VUNfWUdkLUZ5MHRac1A3Qng2SVFkRlNmeUV2Zjl1OE9EUlN5SGs3bDFDY0FzelhHN1owdHVkQks5eEVic0NZOU5md0QyQjFn0gGrAUFVX3lxTE5MU1YtcmNIbG9oNDRGTHFiSGFFdEwyUjF4M3l2V3Bqb3hGdHp6MVA0ZklwczBqS1FwRkdyZGVJMkZ5cnFXV2x0MWpMbC1TTUUyTk1lc3daVzhjT0tXT2g0UTFZTUpMQWtWYVQyZ0R0b2F5R3Q0alFUQWVVdTBMR204dFdsWmlKQWhuQUo5NlVJTGtwb0lsNjllNXFaLXJYa3JodTNEQVZtSGhiRQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "정은경 “임산부·신생아 안전은 최우선 가치…‘안심 분만’ 방안 마련하겠다”",
-          "source": "한겨레",
-          "date": "2026.05.14.(목) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00akoyQ0VBVDhZWEZKZTBiTVUtRVN1ajJnS2FMcEc3a1J4aU1RU2ROV2pjN0lpZzkyTlQ5dmVnMlJ0THdqdmtwbDZ0ZVJVR0VUMFFrZGZPZHVfeWRSQ3hTUWpPTGlEZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "순천향대천안병원, 정은경 보건복지부 장관 방문…모자의료 국가안전망 강화",
-          "source": "브릿지경제",
-          "date": "2026.05.12.(화) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjRzRCY2lJTjFMUDRLTk5lMHJWcDlOeXRYbjl1SXdtWFhWSm9VQXU0UlplZkhmNGxpbk9xRzdhTVZsWGE5ZldESEtOaDF6WGhFQlFDVG5KU3Z4UQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "정은경 장관, 국내 1호 소아응급의료센터 찾은 까닭",
-          "source": "의협신문",
-          "date": "2026.05.11.(월) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ELWo3OWlCWk90LTdTQVlHWkFpN2NUTy1mWE9tb1FtempnbjhzV2VyY1lpQ0dYeC1LZU1jN0xBV21ZOHRBSmtjSkdsaU1hQ2w4ZTFfZ01qeTk0STZONG1wMUNkRWJQaUFqMjVHTHItVU02QQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "정은경 장관 순천향대천안병원 방문, 정부가 주목한 천안의 ‘필수의료 심장’",
-          "source": "뉴스프리존",
-          "date": "2026.05.11.(월) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90dklyWmRKMG5sX0JJdFFkOUQ1d0xPVXg5a0NqUktkc1JWVmJkaHlXc2c0UVl3ZnBjSWtheGtGOTB3WjE3LTFpNUYtZEk3QWgxeV94LWhyejhwWFJfU2ZyQVNXU3ozS3pIYU5KSjVjTVJLemPSAXdBVV95cUxPWG1xdGtERm5jMVFxNU90MUNMZG45MXFNeWRmc19IY2FhSjhxNTREZGRpQks2ekJZamVzZjdlZmlrSkdfeWU0Q3FfbTJ6MUt0VEtHT0g3NWhZZTZtR2FMSXJPYXlSWld2bXpHTlJBVHptMTZ3Yk1Tbw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대한병원협회 유경하 회장ㆍ복지부 정은경 장관, 소아ㆍ분만 의료 붕괴 해법 논의 外",
-          "source": "의약뉴스",
-          "date": "2026.05.08.(금) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JQ3daNG1pcVR6UGZxZ2ZJS2pCZkt6b0psM2VvV195MFBCSXB3RUlhWGFvS1Y3UzVuekRwT0ZrbDdqaVNvUFVVem9Ya2VvNV9YNlo4S0JuME9mNmlWUmhDeGRuZ3lveWs?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[출산율 반등의 명암]③\"아이 아플 땐 어디로?\"…소아의료 공백, 다시 수면 위로",
-          "source": "매경헬스",
-          "date": "2026.05.08.(금) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZDZnMlhaQVljeDVVLXpzalQzTHFaR0RDWDRFSC1PZGlIanMtdlRHUFZrVXJUM3lkTl9LXzJzSzBzemhpRnFKLXJjQjJycV96TVhlYkRjMzZHS2lJUTFTVlZnc1VRSWhFaDVEYg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "민주당, 산모·신생아 응급의료체계 개선 TF 발족...필수 진료협력체계 구축 모색",
-          "source": "의학신문",
-          "date": "2026.05.07.(목) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hdEEyd1VZUnFHX3FqeFdlNkNINDNOa2xQN1FkTVI0NEtOaHJiTmdBelB5bVBZMEllYW9VdFVuNWJOMEhzeEI2R0tyZk0yVU9QS2lGNllzQklOc3FRYkNic3h0R21zTklDZWc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "쌍둥이 분만에 8명 필요… 현실은 당직 의사 1명이 전부",
-          "source": "헬스조선",
-          "date": "2026.04.09.(목) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aN000STBwZWtsQ28xckJjWl95eVlzX2FaelBxeFRWOUJZNjVCNjBIZDlObThlNGJrQkZ6THgtSDdVckk3SXZORkhXZEE2QXp5bkVXM1lfSTQzcXpydkktYmQyTllFRlMtbmNQQ1JrRklJdDRqdFZjRDQ3emVwTTg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경북 구미권, 소아·응급·분만 24시간 지역완결형 의료망 구축",
-          "source": "대구일보",
-          "date": "2026.03.15.(일) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XbU9OemdndzBBZzdOQlI5WW90bjBDNGFSYmx0R2tqN1VpYW1EbTI5Y1lDN1FHWEhwTHUwQU1oYjBUZ2FGbzJ5TnFRSEV2LVc3OFNoSGpJcDNobEx1SmJobE1xQUdFT3c4?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "소아 전담 응급실 갖춰… 고위험 임신부-신생아 진료 거점",
-          "source": "동아일보",
-          "date": "2026.03.05.(목) 17:00",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QN2pjbU9peEJXT0tyTElnZGZUU3RwSkZwdGdNWDJOR2ZPdzB1ZVlsSENzMXA4QlY4YmpraTFsRk12VHZ3XzZkWWhsdjJIQS1ZQTd2cXhSWk5VRnI0TTd0MmF3enVyLV9QcWJZZTB1d9IBZkFVX3lxTE50cEdaalBxaF9VcDBOckt5aVZZMVZBV1hJcE5DaTQtVjlLRnFOWUtDSzhKY29QR19QLXpPTDZ3RUVac3ZicFU2cE5fdHJ5TXd5QlBJMUhGYWp4c2UtU1QwMW41a2xSZw?oc=5",
+          "title": "[전라 Insight]전북 생명선 위태… 신생아 사망은‘예고된 참사’",
+          "source": "전라일보",
+          "date": "2026.07.26.(일) 03:17",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96amsycjFyZWt4R0xZeEVyRjhRclcwa2NzcmhUNnFTZ0pLYlV1ZDdzN21QZnEwYzUyaUFLT2poUExvVHVmbkZXUmtDck9rcDVDMGpIZV9FM1BRQmhSVEFFWXdyRjNIRXVnS2Y2ZWNXY3nSAXBBVV95cUxPemprMnIxcmVreEdMWXhFckY4UXJXMGtjc3JoVDZxU2dKS2JVdWQ3czdtUGZxMGM1MmlBS09qaFBMb1R1Zm5GV1JrQ3JPa3A1QzBqSGVfRTNQUUJoUlRBRVl3ckYzSEV1Z0tmNmVjV2N5?oc=5",
           "region": "national"
         }
       ],
@@ -385,6 +273,13 @@
           "region": "national"
         },
         {
+          "title": "iM뱅크, 포항스틸러스와 헌혈 캠페인·취약계층 사랑나눔 행사",
+          "source": "세명일보",
+          "date": "2026.07.27.(월) 13:49",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9STE5uMUFicDItN1VrSHlWLXNYeGVEZU5XU0Y0b0NjX2M1LXVCam1FYVBVaUtQQlZ0Umw5bHBHa3JTanVOZGYtakJmRjYxWGx1N3VKNg?oc=5",
+          "region": "national"
+        },
+        {
           "title": "울산교육청, 혈액 수급 돕는 헌혈 봉사활동 진행",
           "source": "전국매일신문",
           "date": "2026.07.27.(월) 13:39",
@@ -403,13 +298,6 @@
           "source": "중부시사신문",
           "date": "2026.07.27.(월) 12:50",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTMlpfaDNyZ1RxcEhwdGpzQlhqbDU1ZEFZaDF1alBibDFGYnRrVFJSQk9YcnhXWmFudl9HT3lCN1BRX0Nsd2ZMVFpRTEV6eVFERTFkZ05FTlBNNHZ1Nmc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "iM뱅크, 포항 취약계층에 3000만 원 지원",
-          "source": "팝콘뉴스",
-          "date": "2026.07.27.(월) 12:32",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tOC1IVXJEaTBMX0RJaG8wZlVNeTBobEh2dG9ielZ4dXFTSkNMOW5RTDZFNVRrTUh1ZGFlNVlYUE4zNkdBQmZFUk5hbWliNzg1Q0FDMHg2RkhiV3Q1YVhCYURfdHZ2Ul93bDkyY3AwWdIBckFVX3lxTFBsc1UwS1hlYkUxMlZiMHphTmZ0dkcxaVptMTB6Ri03cHRyc3ZMNm84ZlZwMlBaaGZaUk9wbFAxSThLR3hmaERlSHZOSjlUazBNbWNkMzdHdl8wNk8xd09mN0ltTE1EaFBxUVJRNkFJODNpZw?oc=5",
           "region": "national"
         },
         {
@@ -462,6 +350,13 @@
           "region": "national"
         },
         {
+          "title": "태안군, 급성 심정지 환자 생존율 높인다... '심폐소생술' 교육 호응",
+          "source": "충남일보",
+          "date": "2026.07.27.(월) 10:09",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HMmtXOURCY2dOd3FjQjNDaE8xcGhpOVBWeTU3b0k0bjlhSVB4TFpPZW5GLTRfODVHd1pITmpqY2MzYUk3NzlJU2Z6X0x6OHY0N29udnVVcm9yT3pDc214VVJ6Y1o0R2tzcWR4Tzd6ZnUyU1k?oc=5",
+          "region": "national"
+        },
+        {
           "title": "태안군, 심폐소생술 교육으로 군민 생존율 제고 박차",
           "source": "중도일보",
           "date": "2026.07.27.(월) 10:04",
@@ -473,6 +368,13 @@
           "source": "nsenior.co.kr",
           "date": "2026.07.27.(월) 09:54",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tdXAyU1Vldm1WTGVxUXJvZk5yQ2VTM0RhZ2dMdWxIYlJsVGFvd1ZnSThfM2I0dFVhWldJUU5VbVNmRml0YWdNNWRpS3FqcDFKckZWdm05TW94ME1VYzVUNXJ0WQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "노형남·여의용소방대, 유진주간활동센터 심폐소생술·하임리히법 교육 실시",
+          "source": "헤드라인제주",
+          "date": "2026.07.27.(월) 09:35",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VSDR6Z3hUbTFvLW1nR2lKTHJFTkVYTEI4VTQ4eUJKeUJtYU50SFlZS3J5RGlnX1FtTzFkaVE4bTNLT1dMVkhBanlrYjhOUndoVWZ4ZmVKRE1GaklMY1gxeHdmNXFaeEwyWERseHpvYlhfTjg?oc=5",
           "region": "national"
         },
         {
@@ -515,20 +417,6 @@
           "source": "iusm.co.kr",
           "date": "2026.07.26.(일) 15:19",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01V2E0ZFVzY0NMZXF6UjAxLWV5MUNqQ1JzZWZTVWtad1JIR1BBMWczckJDV1RoRHVYdmU0R0pGaDl4WFdaMi1YTFVBWkdyclI2cVBTVUthbU1UelZmLS1wS2Rwb29md0lUMmNMM0N30gFuQVVfeXFMTTVXYTRkVXNjQ0xlcXpSMDEtZXkxQ2pDUnNlZlNVa1p3UkhHUEExZzNyQkNXVGhEdVh2ZTRHSkZoOXhYV1oyLVhMVUFaR3JyUjZxUFNVS2FtTVR6VmYtLXBLZHBvb2Z3SVQyY0wzQ3c?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[사설] 대전 세종 충남 혈액 수급 불안정, 그 해법과 역할",
-          "source": "충청신문",
-          "date": "2026.07.26.(일) 14:25",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRMWJ0SWUycXBMODQ4NHk1S0stcF81NUlUZzNZRXlUTnpRLUJGM2N1RXhTOERLYWJmdmlPYkhxVWdFNElkTnpDcTF2WDNEckdRaW8zQ2J6NHI4SjVCRHVZYUpqVmtTMS1tRXJRVFR30gFuQVVfeXFMUFExYnRJZTJxcEw4NDg0eTVLSy1wXzU1SVRnM1lFeVROelEtQkYzY3VFeFM4REthYmZ2aU9iSHFVZ0U0SWROekNxMXZYM0RyR1FpbzNDYno0cjhKNUJEdVlhSmpWa1MxLW1FclFUVHc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "수업 중 코고는 줄 알았는데 심정지?…응급환자 살려낸 고3 학생·교사들",
-          "source": "네이트",
-          "date": "2026.07.26.(일) 14:12",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzNkhRcmxqa29HbUhxSzg0SHBQZVNSWWNQSi1rLXJRcE42Uzl4SlZ3YUdvUW5TaG5tRTQ5a29icmVFZVVJSi1MaFhZSTlvSEk4emJF?oc=5",
           "region": "national"
         }
       ],
