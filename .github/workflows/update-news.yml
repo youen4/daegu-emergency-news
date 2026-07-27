@@ -2,16 +2,24 @@ name: 응급의료 뉴스 자동 수집
 
 on:
   schedule:
-    # 매시 정각 자동 실행 (1시간마다)
     - cron: '17 */3 * * *'
-  workflow_dispatch: {}   # 수동으로 즉시 실행하고 싶을 때 사용
+  workflow_dispatch: {}
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
@@ -31,3 +39,12 @@ jobs:
           git add data.json
           git diff --staged --quiet || git commit -m "뉴스 자동 갱신 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
+
+      - name: Pages 배포용 파일 준비
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Pages에 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
