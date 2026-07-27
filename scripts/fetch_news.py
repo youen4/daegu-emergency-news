@@ -38,7 +38,7 @@ CATEGORIES = [
      ]},
     {"id": "er_runaround", "label": "응급실 뺑뺑이", "limit": 20,
      "topics": [
-         {"query": "응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐"},
+         {"query": "응급실 뺑뺑이 OR 응급실 미수용 OR 응급실 표류 OR 응급실 이송 지연 OR 환자 이송 지연 OR 골든타임 놓쳐 OR 골든타"},
      ]},
     {"id": "disaster", "label": "재난의료", "limit": 20,
      "topics": [
@@ -46,7 +46,7 @@ CATEGORIES = [
      ]},
     {"id": "pediatric", "label": "소아응급의료", "limit": 20,
      "topics": [
-         {"query": "소아응급의료 OR 응급소아의료 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료 OR 달빛어린이병원 OR 소아과 전문의 OR 소아청소년과 전문의 OR 소아과 기피 OR 소아 진료 붕괴 OR 소아과 폐과"},
+         {"query": "소아응급의료 OR 응급소아의료 OR 소아 응급 OR 소아 응급의료 OR 달빛어린이 OR 심야 어린이 OR 어린이병 OR 소아전문응급의료센터 OR 소아 응급실 OR 신생아중환자실 OR NICU OR 신생아 사망 OR 고위험 분만 OR 필수의료 OR 달빛어린이병원 OR 소아과 전문의 OR 소아청소년과 전문의 OR 소아과 기피 OR 소아 진료 붕괴 OR 소아과 폐과"},
      ]},
     {"id": "etc_misc", "label": "기타", "limit": 30,
      "topics": [
