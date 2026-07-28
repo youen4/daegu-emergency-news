@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:13:31.309333+00:00",
+  "generatedAt": "2026-07-28T17:48:02.928052+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -128,6 +128,13 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "포천시보건소, 다수 사상자 구급대응훈련 '만점'…재난의료 대응 역량 입증",
+          "source": "내외뉴스통신",
+          "date": "2026.07.28.(화) 20:02",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91NWdFblhfclROY1RFRXE3a3BxVlVOdlFLRkFtLUEybGUtNXBCWlh0SzQyaDB1WjR6Y0lsZ2hKVjNIOW1oNXlDeVE2ekxocGNMbUFNWG5rTDZDZFdGR2QtVXZOckpxWXFycTNwZlc5LUTSAXBBVV95cUxPdTVnRW5YX3JUTmNURUVxN2twcVZVTnZRS0ZBbS1BMmxlLTVwQlpYdEs0MmgwdVo0emNJbGdoSlYzSDltaDV5Q3lRNnpMaHBjTG1BTVhua0w2Q2RXRkdkLVV2TnJKcVlxcnEzcGZXOS1E?oc=5",
+          "region": "national"
+        },
+        {
           "title": "포천시보건소, 재난의료 대응능력 입증",
           "source": "경기신문",
           "date": "2026.07.28.(화) 18:38",
@@ -169,10 +176,24 @@
       "label": "소아응급의료",
       "items": [
         {
-          "title": "2,844명 찾은 구미+ 어린이재활센터…지역 안착 속 공식 개소",
-          "source": "엔디엔뉴스",
-          "date": "2026.07.28.(화) 15:15",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Qa0hRWFRqMC10SURnRVJRV2FkVEt6cDEzUXloQ20wd0x0eGV1akt6VkRNSTN6TG5HVnlsNUxiZW94NDdrdzdreWlkLXp0TnNzTGVLaUdTMzBDRUM5NkwwdHhZUFNhXzRzUGxHSWFNOHhtZ9IBckFVX3lxTE1Qa0hRWFRqMC10SURnRVJRV2FkVEt6cDEzUXloQ20wd0x0eGV1akt6VkRNSTN6TG5HVnlsNUxiZW94NDdrdzdreWlkLXp0TnNzTGVLaUdTMzBDRUM5NkwwdHhZUFNhXzRzUGxHSWFNOHhtZw?oc=5",
+          "title": "구미시, 신생아 치료부터 재활까지…소아 필수의료 안전망 완성",
+          "source": "아주경제",
+          "date": "2026.07.28.(화) 19:15",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oOEprMlRXUkNWQkZVZjVCUVN1TXBPZVlZRkczNVRzYWlXQW9aeUZwYm9EbVYzVGs1ZU5KX3RVTGZDbnFyTnhIYTZtSy1ZcUZPWVQ2bS0wSGs2QdIBWEFVX3lxTFBLd1l0N0xRZzgyblhTbWxXeG11YjhEV1Rselk2MlNyMGh2Q0FXWlNKaVVpdkxXb0dkYjJPS2N6VEtJYjl4aEdpUElvZVB1Q2UzblNRYmVleWk?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "2,844명 찾은 구미+ 어린이재활센터…지역 안착",
+          "source": "thevoiceofus.co.kr",
+          "date": "2026.07.28.(화) 13:09",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ra0xjaVhJMzRqblBpeG5ORzF5bVphcXJYT05JWWZ2NUJPZkZxR20yTG44c01SUFBYYlhmaUxCdXduLWJyUm1wMWExNUNBLVFNRDBOaXlrVHprMGljRC1ZQVRuTEVWM3Jk?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "구미 어린이재활센터 개소..소아 필수의료 체계 강화",
+          "source": "tbc.co.kr",
+          "date": "2026.07.28.(화) 10:45",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NOUVhWM2RaOF90dkN0MTBwOEZSYl8tUkNCMHRzc2lLWF96UGxFaGhaRzluS2JKTzdRWGRybVdzNlRvOHBrMVRXbG9HbWhpc1A0Wm9KQ1JuTVc3NzNIcnlYVk1pYmtBNmNOY1hKRWJzczBRQUtxdUtPdG9ZQlN0Qg?oc=5",
           "region": "national"
         },
         {
@@ -180,6 +201,13 @@
           "source": "미디어디펜스",
           "date": "2026.07.28.(화) 09:06",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vSm05OVphcGF3c2NRbV82c0tDTUxtaGxYUkt4ZU9COFFTTXFfUWFxUHlfZDdfU0psYjhTVG10YWJDNkpfRUc2XzlJNnk5SkY3NHJQeGxaQUlrYmkyTGllMG5vY0pJT0ZRZ0Q0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "2,844명 찾은 구미+ 어린이재활센터…지역 안착 속 공식 개소",
+          "source": "hidomin.com",
+          "date": "2026.07.27.(월) 14:43",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0ckJfTjBUS1A4SVktc2ZtTzgtTnAtT1JMbFFsd0JZdmc0ekpoSHZQaVU2TTFOUG1PRURJTFhrbU5INDJTRXhhYzJpMk1YUVRrbm1YbmFLMWlFcFFPUEQ4d2RFeEVzUjdoN0E?oc=5",
           "region": "national"
         },
         {
@@ -195,13 +223,6 @@
           "date": "2026.07.27.(월) 05:38",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQ283ZWtBMXI0d1JRX1pLT29DcmhyaDRFa1U4NUd4XzNZWEo3dTdBZWE1ZmgycFlxaVZKUXdCb0tOaVQ1WFhycjhHQ2U1dDZrTUZmOU82b3JEMS1aeFFUTFF0cTN6eWdz?oc=5",
           "region": "national"
-        },
-        {
-          "title": "[전라 Insight]전북 생명선 위태… 신생아 사망은‘예고된 참사’",
-          "source": "전라일보",
-          "date": "2026.07.26.(일) 03:17",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96amsycjFyZWt4R0xZeEVyRjhRclcwa2NzcmhUNnFTZ0pLYlV1ZDdzN21QZnEwYzUyaUFLT2poUExvVHVmbkZXUmtDck9rcDVDMGpIZV9FM1BRQmhSVEFFWXdyRjNIRXVnS2Y2ZWNXY3nSAXBBVV95cUxPemprMnIxcmVreEdMWXhFckY4UXJXMGtjc3JoVDZxU2dKS2JVdWQ3czdtUGZxMGM1MmlBS09qaFBMb1R1Zm5GV1JrQ3JPa3A1QzBqSGVfRTNQUUJoUlRBRVl3ckYzSEV1Z0tmNmVjV2N5?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -210,6 +231,20 @@
       "label": "기타",
       "items": [
         {
+          "title": "부안해경 하절기 헌혈 생명나눔 실천",
+          "source": "전북중앙",
+          "date": "2026.07.28.(화) 20:14",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFRTRWT2l6RDRXaEpfTEFpWFljXzFOZVVacDlReVF4enduRjVLNjFoTGt5OUpVMUcxTXQ2VGNMWnFaN004dE1NYlM3VWlabjRoekthWHpZeWpwQWJ6R08teHFqM1FISjlXWmpV0gFrQVVfeXFMUEVFNFZPaXpENFdoSl9MQWlYWWNfMU5lVVpwOVF5UXh6d25GNUs2MWhMa3k5SlUxRzFNdDZUY0xacVo3TTh0TU1iUzdVaVpuNGh6S2FYell5anBBYnpHTy14cWozUUhKOVdaalU?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "건협 서울서부, 여름 혈액수급 지원 나서",
+          "source": "e-의료정보",
+          "date": "2026.07.28.(화) 18:48",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rZVZ2dl9yRTd1MW5VZmRwNmpudC1JaWIzcHFZdzZDa01vSWxabHRQeXlRZ19lT1ByeEhJR2VfaEtGMGpiODdBOGNxSVlaN2c2UEY4NENSTE53eHA4Ql90VWxEcThKLXd3TGRzcURob9IBb0FVX3lxTE9rZVZ2dl9yRTd1MW5VZmRwNmpudC1JaWIzcHFZdzZDa01vSWxabHRQeXlRZ19lT1ByeEhJR2VfaEtGMGpiODdBOGNxSVlaN2c2UEY4NENSTE53eHA4Ql90VWxEcThKLXd3TGRzcURobw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "부안해경, 하절기 '생명나눔 헌혈 캠페인' 실시",
           "source": "일간투데이",
           "date": "2026.07.28.(화) 18:37",
@@ -217,10 +252,38 @@
           "region": "national"
         },
         {
+          "title": "부산시설공단, 생명나눔 '온마음 헌혈활동' 전개…7월 29일 부산콘서트홀서 헌혈버스 운영",
+          "source": "웰페어뉴스",
+          "date": "2026.07.28.(화) 18:11",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoZ01sQzZqY3hqUGxkbW5QMlBWemlDT3hGLWxvb2lhRERVQzdqT0NQLUdsZnN0Rkhmb2hPNzFzWjZMRmUxN2Z4WFZuNHVPdV9Ob3puM0otbWh3REx0Ym5yMHUwSy1YQXBVZkUzSjlvdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "건협 서울서부, 여름철 혈액수급난 해소 위한 헌혈 나눔 동참",
+          "source": "더퍼스트미디어",
+          "date": "2026.07.28.(화) 18:03",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VQlQzS2dXVUVyZndxQURodEE3d0R4SW5TdnNJbnZHZjdkVGI2bUNEVzN4M2lGN29uMjlISk5GTmt2OUhNY24xOGhCTk81TFZCT05QS0NtUDRyemZQLU5GQWFuVV9LaGpldl9DYzJ6WEFxZ9IBdEFVX3lxTE1ac0xLWGViZFZsRmxtdnJVeDAzRUl2NERpMFFYSVhjRzlNUFpKVVRIMWZjb1p2LS1Qd1Fka2NKempuNkNGOGVqcDR2TV9jazVnYS15N2Q0QVFHUS14Yk5DMm11LUVsNXB5amVMZkFSN3RqbkxB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포항시, 심폐소생술로 두 차례 생명 구한 평생학습원 회원 김병천 씨에 표창",
+          "source": "fnewstv.com",
+          "date": "2026.07.28.(화) 17:35",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnaHJBblZrWEdHUkVQREpqbElsYkZjRjBNZDA3Z25YUW84bkx6YlVuS2hOdExrekFFclhZU2lvOUlZR241bVVqVEtQNlRHcC04cVZpcDczRFdKbFZSR3pudlI4MG5wNDdBTnNpb19PQmY?oc=5",
+          "region": "national"
+        },
+        {
           "title": "건협 서울서부, 2026년 하반기 사랑의 헌혈 캠페인 실시",
           "source": "의학신문",
           "date": "2026.07.28.(화) 17:22",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pRmpGOU9OX3JzSTE4WENiN1lQQkVpNjVuTERCdUtlekhuZU92X3lCR1p3R29CamRrNGZiV1cyeUpuZTNDVVh6VUNEdjY0YUZkSVVxX2ozaFRrU0JCTnRSSzlUMHJIRHhJRXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JQW9XUHBzTDFCMmlIN2pQOEFQNWtxX3czTTBpQ3hfSXlEX3ZuamFWc19IWVlrNnplcXVMWVptODhzdk40OHRDSWY4UEhTNkhpMkxraEExRXZ5cGRhWmhabW9Oc3RNckdlVVpF?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "신안군, 여름철 혈액난 극복 '사랑의 단체헌혈' 실시…공무원·주민 자발적 참여",
+          "source": "퍼블릭뉴스통신",
+          "date": "2026.07.28.(화) 17:15",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zU2xTNG5fOFRINVJ1NnVOVGxYTkI5SFBBVkFwbE5yMHZmTHR3eC15cUpzTXp6Wm9fYTN6Qzd1Zkp3bnlZS1VJendOTkRBeGcydGQyM0tPNWg3LU5FbHhUSnlXQTk3T3U0MmJV?oc=5",
           "region": "national"
         },
         {
@@ -231,24 +294,17 @@
           "region": "national"
         },
         {
-          "title": "신안군, 생명 나눔 위한 사랑의 단체헌혈 행사 진행",
-          "source": "웹이코노미",
-          "date": "2026.07.28.(화) 15:57",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04RHFLSDYxMWtPV3NXc0pkX0hxY1cxMHk0TGdWbEdPdjZqU01fUEY5dWtzUUpDUzctRzBFcTZvdk1wSkZzdmlGYkU1REJLeXVtb2FtMUVCV0hUaVpYU1ZmSGRGdkpOZGFjOXF0djVMMzQ0UQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "iM뱅크, 포항서 헌혈·축구 연계 ESG 캠페인…취약계층에 3000만원 후원",
-          "source": "edaily.co.kr",
-          "date": "2026.07.28.(화) 15:16",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0V5dUFTaE85NVRvZmtkcjhJbGI0RHNwTEhXODF3WXczUGY2SUNkSVVDRjdUNUFNc1FPN25qX2ZhSFp0WWxGa3liZVBEWnNCWHJXazZ6ZTZuTWhVZDdvN1gyeVZ3ckZWR3d1OFJwOF9SNkstc1o1S1FVMU1aUnRZag?oc=5",
+          "source": "네이트",
+          "date": "2026.07.28.(화) 15:18",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSVNqREFvX0pLR01wNUZXOXJKcTNDQUlHQTg4bVZidW8zLWwxWlNTRmhMYUVXOG9NaDk0OUw2QTRRYnlVdFM1UTdqZU9WNUJid2FV?oc=5",
           "region": "national"
         },
         {
-          "title": "부산시설공단, 생명나눔 '온마음 헌혈활동' 전개…7월 29일 부산콘서트홀서 헌혈버스 운영",
-          "source": "복지TV부울경방송",
-          "date": "2026.07.28.(화) 15:08",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LTHNtQmcxYTczM29wZ3BYbDFKVkloR2ZJeGRxaEtDNWQyTkJFT0phR1Y4amRndVp5N1RJSWp4TllXeVBsd2VJTklWbVlaRW55SlBCTGhuTGY1azlCVEtFZ2hwazdPMFBL?oc=5",
+          "title": "신천지자원봉사단 전북지역연합회 헌혈",
+          "source": "전북중앙",
+          "date": "2026.07.28.(화) 15:14",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVGN6MWVDT1pMM2JTZnAtS0Y0S2RIOThaZ21kck5makI3MlB2dGdINUhybDJwdTUwS2c1Si1BdlktbGt6eGhwcV9CWldscGNFLXVqbWhCdWlIZjBscFk2dDAycG00clNy0gFrQVVfeXFMT1hSd0tTRjlOY01ZeWh3Y29zWkIzSzBJUUNFeXZRd21FMUxtWUdiRGY3MGIwOGNkcGQtbjdOWVNpTTU5VkdRS08yRkwwVDRnUXhZTkVTMzExZE1TZ0swZlQzWGtzRGR6dWVQUm8?oc=5",
           "region": "national"
         },
         {
@@ -266,6 +322,13 @@
           "region": "national"
         },
         {
+          "title": "전북소방, 여름철 물놀이 안전사고 예방 총력…실전형 생존교육 강화",
+          "source": "투데이안",
+          "date": "2026.07.28.(화) 14:06",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FaV83eTV4UWVIY3pNZG5NZ0pPTWtLTzRKZndtOUtjcXR5dkZXMzZaNVdrZHl6ZFh0NmpiRG53TDdNYkk3dmxwdEdydUZGdlkydGpSVTEzZ2ZvSElMRW9wZDlJUF9SQzVHMGc?oc=5",
+          "region": "national"
+        },
+        {
           "title": "보령해경, 29~3일 연안 안전사고 위험 예보 '관심'",
           "source": "네이트",
           "date": "2026.07.28.(화) 13:44",
@@ -276,7 +339,7 @@
           "title": "합천소방서 119시민수상구조대, 심폐소생술 교육ㆍ구명조끼 무료 대여소 운영",
           "source": "소방방재신문",
           "date": "2026.07.28.(화) 13:30",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0zMXF5aXdGOE52LUd0RTNTUmQzS0tBQUtTYTlEXzROdWRQWnZHcjZvUk5mVlItVFdVU2Zid1I1YjI3TzRV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54M1pxcll3TzZxQ1hFUjg3V0tTbjJMSUdXT1dJTW5qMGxhLXpBemh3bUVubkk5c2NuWnpLMnp3SnV3SDNOYlE?oc=5",
           "region": "national"
         },
         {
@@ -284,13 +347,6 @@
           "source": "더코리아",
           "date": "2026.07.28.(화) 13:22",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZckNvZ2ZHVGl4alpKUTZBV3hENlFwd0dTaFd2LUJaUk9zTC1SSmdmS1ozQ2F3TkhDZHJoejBFZnRKQ0Z1UHhacXoyVGh3Q1U2UFN1LU9rZ21JU0JmSENuSm9GVGpFelpIRjQtc21Sb0Y?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "신안군, 생명 나눔 실천을 위한 ‘사랑의 단체헌혈’ 실시",
-          "source": "현장뉴스",
-          "date": "2026.07.28.(화) 13:16",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VW5kVXRUQ0k4TXBjZzRKUjB2aVVNQU1FR1hBTzNUWTVTVlI4R1BzVTFHV0piZ29WcFRTck9HbEdQMk01MXNScWp1YUxWcEI4MW15Y2lySnZHbmZjemNvVmNuTkVKektBYXZlRjFSMEhVZknSAXNBVV95cUxPN1VuZFV0VENJOE1wY2c0SlIwdmlVTUFNRUdYQU8zVFk1U1ZSOEdQc1UxR1dKYmdvVnBUU3JPR2xHUDJNNTFzUnFqdWFMVnBCODFteWNpckp2R25mY3pjb1Zjbk5FSnpLQWF2ZUYxUjBIVWZJ?oc=5",
           "region": "national"
         },
         {
@@ -329,20 +385,6 @@
           "region": "national"
         },
         {
-          "title": "신안군, 생명 나눔 실천 ‘사랑의 단체헌혈’ 실시",
-          "source": "열린뉴스통신",
-          "date": "2026.07.28.(화) 11:27",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UMUFlQTN1TjEzNjl4T2RaeXg4RkI2cTE4TnFOaUhNUUFfdTRTZDU1SVZMZ0tXaGlyTm1CMjFoOWlRcENXY2RPQjg1RUlBUVdnSzBmdnhEVFgwQmdmLXQxU0ZCcllxUQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "오산시, 시민 대상 응급처치·심폐소생술 교육 실시… 생명 지키는 대응 역량 강화",
-          "source": "mediatoday.asia",
-          "date": "2026.07.28.(화) 11:27",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1lSZHlfUzZNQ1BpNEc4ZlU1aHlYODBTQmFydWE0TzF5MnlyVG5DT0dTODVBU09hTU5qUW81dWhUTDFKRzdqQVRwbW9DRHZ3NWxHWnZ3OXBMT0x0OFNURS1pMkZfUFFwVDlqMFNuUlpXQnYtQXYtM1AyNG15TjVyZF9ZTWVZdHpPZ05UbHVHbWJyUjI2S201OQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "익산소방서, 여름철 혈액 수급난 해소 위한 생명나눔 헌혈 캠페인 전개",
           "source": "투데이안",
           "date": "2026.07.28.(화) 11:05",
@@ -361,13 +403,6 @@
           "source": "mediatoday.asia",
           "date": "2026.07.28.(화) 09:52",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfaWlkbWoyNFVQc3ZOb3RVZzdNYUVadzdMaHZPWUVvbVRJVUVtU3F0MU5xU3RBdERXY3E1c1dERkthOG05WnRNU2lR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "iM뱅크, 포항스틸러스와 헌혈 캠페인…취약계층에 3000만원 후원",
-          "source": "컨슈머타임스",
-          "date": "2026.07.28.(화) 09:41",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zVjduM01SU1lVZmxHenpRdGZ0TWRVeGw1djZFNVV6elNSNzFZdy1OU0g5TkhfY3IxcnFvdC1Qb3ZVN015cmx1Y2JmOHplRkQxdTBHWllMckZCRHZOOHYyZFdXdFNuQTY2Ymc?oc=5",
           "region": "national"
         },
         {
@@ -404,20 +439,6 @@
           "date": "2026.07.27.(월) 20:25",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQ0MxcEp6YXVPbnJhUFhsQkJSWGFGM1VlZXFkZG1rZndtaGM2cWt4bXRsdWNaR2NOMGNVSXA1djdEalZIUE5aM05FQ0VrS2JELVRjX2FVLUV2WU5zbXYxY1Bndnp4UUdw0gFsQVVfeXFMTTM3NFMwMC11TmdINjJ0THhyQlN5WFJBaV9kdjYwNGF3eEYwZUFFeVZ2SUNZZVBvRmVvZmo5LVUtZHZNVzluTkstYW1NdXZUN2h5YU1LUjh1WGtUellWeEhNemRiUlE0N3llYTc3?oc=5",
           "region": "daegu"
-        },
-        {
-          "title": "iM뱅크, 포항스틸러스와 헌혈 캠페인·취약계층 나눔행사",
-          "source": "hidomin.com",
-          "date": "2026.07.27.(월) 19:57",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yYjFyOWF3T2RyZHpEczFDM2RFRXBFZXRYQWI0WmtvMTdFNzJKMlI4dEJjZy1zTU1VS1p2QkM1QzROMHpYaEs0Slg3WkZmWXpMYVhMem9uTU1VWmFaZUpyX1VhcXRxMTRPSUE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전남광주통합특별시 소방본부, '심장안전도시' 구축 박차",
-          "source": "정필",
-          "date": "2026.07.27.(월) 18:49",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5SUhhbTI1Z2JrdlJ1OUNVd0dKd1NpWFkzekR5bF9ocE9JU0I3UHI1SmlfSnFnMkV5THdLUmlGZDRkaTdmaUgw?oc=5",
-          "region": "national"
         }
       ],
       "error": null
