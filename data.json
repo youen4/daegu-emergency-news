@@ -1,14 +1,21 @@
 {
-  "generatedAt": "2026-07-28T17:48:02.928052+00:00",
+  "generatedAt": "2026-07-28T21:51:28.343455+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
-          "title": "원광대학교병원, 전국 공공의료기관 공공의료 운영 모델 공유",
-          "source": "전민일보",
-          "date": "2026.07.28.(화) 14:53",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNjFDcUk5MXh4VEhFYzhHN0x3YzByVTVOQWdERXc0eW1fSzhsWW1ncTJQUWxWVGUtWGVPQmVLeU9QbjZLeWhsWmFhVHktVjI5UUdmODNKUDZ3Zk1XckpVOUVmQnlMcFBTb1BBeA?oc=5",
+          "title": "수도권 원정진료 줄인다…계명대 동산병원, 지역완결형 의료체계 완성 박차",
+          "source": "매일신문",
+          "date": "2026.07.29.(수) 06:30",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jM3pvOHc1eFVJZHhnVjVoMTRSak9ZQUxGRlozWFY3eTFPV05MNUxsZ0F0b01VRFhQTEl1b21zR2JxZktNVzZPSXVvOU1fMnhMenVIdFhkYTNneHBJSjc1aVZB?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "안동병원, 생사의 갈림길 `골든타임` 8년…`1만 명 살린 경북 북부 외상 최전선`",
+          "source": "매일신문",
+          "date": "2026.07.29.(수) 06:30",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxRU5oYlpUREdtdF8tcVVCOUc3YWppM01WWGR2N0lUV0x5LWpSd2NreHFxU254MlhpRVlib3dWNTRrbzNGTmJwaDFMWi1jWExzLVRjNmktUV9uWUxmR2R5cEFB?oc=5",
           "region": "national"
         },
         {
@@ -44,13 +51,6 @@
           "source": "뉴시스",
           "date": "2026.07.27.(월) 17:39",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96eHVnWDFzb3B1cTBZNzdoQW9WenRmVUV6WEVwejRqQ0FJbC14YjhYdEFSNFVlTkZiaVVSZ3pnRmVnbElaMXlpOWVpQ2liNzBTbWxXUzJWOHRhR19ZQWdjSkRRYWVmZkUwLTZObXhvUmk4c1hoLVBXS9IBeEFVX3lxTE96eHVnWDFzb3B1cTBZNzdoQW9WenRmVUV6WEVwejRqQ0FJbC14YjhYdEFSNFVlTkZiaVVSZ3pnRmVnbElaMXlpOWVpQ2liNzBTbWxXUzJWOHRhR19ZQWdjSkRRYWVmZkUwLTZObXhvUmk4c1hoLVBXSw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "안동병원-경북아이돌봄광역지원센터, 응급의료 전용 '핫라인' 가동...건강지킴이 'MOU'",
-          "source": "안동인터넷뉴스",
-          "date": "2026.07.27.(월) 17:37",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DNTdXVHpCakFUaFhZYjZFV29xbVh6VUx1MXpGbUlhaGVHcEdlVnNlb25VOHFBajNfdmxkalhXQVBYbmVmZEdDS2d5eW1XazZQUDVDT1U4OXhkbGZHV21tVV9lOFFFS0pQUGc?oc=5",
           "region": "national"
         },
         {
@@ -99,7 +99,7 @@
           "title": "‘의대 없는 순천’…성가롤로병원 권역응급의료센터 기능론",
           "source": "v.daum.net",
           "date": "2026.07.27.(월) 13:48",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qYTZObUZ3QV9RTFpmZmtPVEoteGpjbW9JWjk4el9UVGc1U19nQ0NfXzRJOXAwbmNPTkg3V0dSNjR1Yk1RYmh2TElqR01oR3hrTG02eQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGLTlkX1k1MmtrdXNHOFF1Vk9BdmdZWDlMSWVtMzV5SGw1Z0xkUDVfQlFYQTFaT3p5RzRjNERheFB2SUkya0NFeE1BVQ?oc=5",
           "region": "national"
         },
         {
@@ -107,13 +107,6 @@
           "source": "부산일보",
           "date": "2026.07.26.(일) 20:00",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NSlV1SmJCcjRndDY1Q1hTSXNJRUN3S2taaEpaUHh4WG1fcEdlYnUweVI0Xy1Ddm5RMG5DVExUNWJ1RWtUZVFOa3NxVFRlVDJhSWtybmliQ2F0aGtzUEpLT3ZPR1NGQmY1dTl2QW5rY2ZmSl9UVTFOcg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "안동병원, 생사의 갈림길 `골든타임` 8년…`1만 명 살린 경북 북부 외상 최전선`",
-          "source": "매일신문",
-          "date": "2026.07.26.(일) 18:59",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84eHpjT3NuNmFjVWpCeFFHaTRPQzRMZlFwbDRUNGU2STZFcG8xV2NhYldRbjJjcGtBMXV2a3Z0VjVSS3RoZ3gxWlNBb2pCVTFMa3dxNFh0cnhKRjdqcE1zb0JR?oc=5",
           "region": "national"
         }
       ],
@@ -294,13 +287,6 @@
           "region": "national"
         },
         {
-          "title": "iM뱅크, 포항서 헌혈·축구 연계 ESG 캠페인…취약계층에 3000만원 후원",
-          "source": "네이트",
-          "date": "2026.07.28.(화) 15:18",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSVNqREFvX0pLR01wNUZXOXJKcTNDQUlHQTg4bVZidW8zLWwxWlNTRmhMYUVXOG9NaDk0OUw2QTRRYnlVdFM1UTdqZU9WNUJid2FV?oc=5",
-          "region": "national"
-        },
-        {
           "title": "신천지자원봉사단 전북지역연합회 헌혈",
           "source": "전북중앙",
           "date": "2026.07.28.(화) 15:14",
@@ -392,6 +378,13 @@
           "region": "national"
         },
         {
+          "title": "iM뱅크, 헌혈 캠페인·취약계층 사랑나눔 행사 진행",
+          "source": "비즈월드",
+          "date": "2026.07.28.(화) 10:57",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HWUhqcE52cmxTRGhTckJudDlBZHltLUhOOUFwdndkTEJxT2p5R3JmcFRRVGYzRzQ0TjdlNGtJNGpBT1RVNzJDMkdLV0w0czhaSXIwdTR2ckdEVnpPMF9JcEhBbzhtQlAybWlz?oc=5",
+          "region": "national"
+        },
+        {
           "title": "\"폭염 안전사고 예방\"…영동군농기센터 농기계 순회교육 한시 중단",
           "source": "네이트",
           "date": "2026.07.28.(화) 10:45",
@@ -410,13 +403,6 @@
           "source": "데일리대구경북뉴스",
           "date": "2026.07.28.(화) 08:52",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XQlEtX0VRbkpRR3kxc1hNUDBJMi1YUUNTaGJOQkU5eDVyVzdoX2tLejFiZ0t4bDNMZUdROFJZUjFPUERnR2tGWmNBR2Z2amlxNV9CWnp0WW5UWmNGRGpCNURQWFlJQQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "iM뱅크, 포항스틸러스와 헌혈 캠페인…지역 사회 지원 나서",
-          "source": "아시아투데이",
-          "date": "2026.07.28.(화) 07:23",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55WlVjMGxkcXE1LU9ScnZKSHlienllYWplZjZRRWlxWGgzWFRWMlNTX0tIYXRkY21pOTVZZUJGZVRabmc3aF9UNjd5Zll1dGx6dWtlYjVpRzhySDJFYlhsQXJWWGhXbVoyN24yczN3?oc=5",
           "region": "national"
         },
         {
@@ -439,6 +425,13 @@
           "date": "2026.07.27.(월) 20:25",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQ0MxcEp6YXVPbnJhUFhsQkJSWGFGM1VlZXFkZG1rZndtaGM2cWt4bXRsdWNaR2NOMGNVSXA1djdEalZIUE5aM05FQ0VrS2JELVRjX2FVLUV2WU5zbXYxY1Bndnp4UUdw0gFsQVVfeXFMTTM3NFMwMC11TmdINjJ0THhyQlN5WFJBaV9kdjYwNGF3eEYwZUFFeVZ2SUNZZVBvRmVvZmo5LVUtZHZNVzluTkstYW1NdXZUN2h5YU1LUjh1WGtUellWeEhNemRiUlE0N3llYTc3?oc=5",
           "region": "daegu"
+        },
+        {
+          "title": "전남광주통합특별시 소방본부, '심장안전도시' 구축 박차",
+          "source": "시사일보",
+          "date": "2026.07.27.(월) 18:49",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XVENRYl9pa0t6bk5zSVl4OEFNTzhBRVdRRl9DS1lzTW5qaEJKQkVuNHJkVGI5dlZDN1NySUdxaFI4ZjN5V0tZV29WdWg?oc=5",
+          "region": "national"
         }
       ],
       "error": null
