@@ -1,14 +1,56 @@
 {
-  "generatedAt": "2026-07-30T22:18:51.193078+00:00",
+  "generatedAt": "2026-07-31T10:11:30.749444+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "\"뇌졸중 일상생활 가능해요\" 최경화 한마음병원 이사장 |",
+          "source": "한스경제",
+          "date": "2026.07.31.(금) 14:30",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zdXBZTXctZmFidU1PTHN5MlRZRjhMYVlIRUFxa0RpNVFMNkNkZUNxSVlid2tjcTFHclh2TG5ocWlZcWhjak95VWtLRjJ5RzFoTUQ4RkgxTzdlem1Mam5GMHBkajZJTS1jaDduQWZQNA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전북 119, 상반기 응급환자 병원 선정 2만6000건 지원…이송시간도 45초 단축",
+          "source": "세계일보",
+          "date": "2026.07.31.(금) 13:23",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Sd183QjV2bERLNl9GTU9QakVveUtMU2JoUEJzcm1uTmEySDBNcVBpN09zTTVzUjVWTUVDWnZvVU50WFRmNmZ0c3c3b3VoQ3ZVSHRLVzZGQVTSAVRBVV95cUxOc3hGSUdPR1ZSZDB6UE9adkJYZlpSNGtVUVY3ZjlVaXFQUDdIR2JraXNOUWNKVUpLZWtmRWJEMWFQdHYwaExXa0lFbWF0Y2NsTkVDY0s?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"골든타임 지켰다\"…안동병원, 뇌졸중 응급치료 '최고 수준'",
+          "source": "뉴시스",
+          "date": "2026.07.31.(금) 12:52",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9saTlYekpOUnQwbWN4clpJSmpZYW1YcDlxU2ZIeWp3RUpvd01iUl82d1BhTFlRS2kxME90X2otV2ppUDFfWXV6UklNU2pwRERyX0VyZnFXcFoyQWFFalBRVNIBeEFVX3lxTE5yTDVmaTNKa0xxcHQ4UVBSdS1LQl94SnljdTgyVG9CX3d6OXQ1amthR2duQVZZd3h1NHhtNk5oWVpDcDVxZHF4NzVSdkdoRHhxZzBkbW9RZVYwdFI5dm41TDhSclB1QzQ4OVNFVWtjNl9sY0RvalhSbg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전주예수병원, 급성기 뇌졸중 적정성 평가 ‘1등급’ 획득",
+          "source": "투데이안",
+          "date": "2026.07.31.(금) 12:10",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mTzBnWGZndEhCcGg5eVY2OEp2VVEyS2lRRlNkSVllc3poQVlPS1JDZElkQTViaXNCS3BZUndJQzJ1cHhNT0MtNmt3QXZfMVF2VDFPRWdzS1JEY2JRT3B6ZjVJOUxfWlJ3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“조금만 더 버티자”가 위험하다…온열질환, 순식간에 생명 위협",
+          "source": "데일리메디팜",
+          "date": "2026.07.31.(금) 11:22",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nbWNwMWNmWjl5bTJTMjJwRUtVVzJHNFdUMXlNRTlFdThPSjB5S2NnTkhpQ2RGRnpUd2sxSEVTOE1HNndOa3JXR01CQ0V3VFVWUEdJa2VDeTUyTkI5MmhxcHBnUERVelpVNXE2OTZ3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "부산형 응급환자 이송체계, 응급실 과밀화 방지에 효과",
+          "source": "의학신문",
+          "date": "2026.07.31.(금) 11:15",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04amdKOEQ5Z2JlcjhaOGc0UnlwNFV6M1kwdk5GX1I1Qng1RGJMVXl3TEVaVlNHY3JzMVhmLU5vUWVpN21PNW9yQ2lpV2wzdzByeDhZSVNmZWpYazhxUFlxWWlsc2ZFbXgwSXc?oc=5",
+          "region": "national"
+        },
+        {
           "title": "‘24시간 응급의료’ 순천시 안전망 확충",
           "source": "전남타임스",
           "date": "2026.07.30.(목) 21:47",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LNEpzaEhLNkNkR3BmeXBYd3hLUEo1M0xPSVFUSmk3ZWhpMmVNQkdsakw3TXZwYk1oMk81TnBZOF9BVXVqbllJRi0zWGJnNDhva1hLZmdHM0ZRZTY3SDZjcTJjSHQ1UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTRDBqM0lDLU80X3dqci1ISHREeEVkZVQwS0gwSC1rdHN3NkFONVNDdHMwc0lPcV8zY1ZwNVM3NzZ2T3BiaEN0SlJoRFR6bWVzYjJRYnVoVUVfaUIwZnJfQkt5Ty0tc1E?oc=5",
           "region": "national"
         },
         {
@@ -19,13 +61,6 @@
           "region": "national"
         },
         {
-          "title": "환자별 맞춤형 병원선정, 응급이송 45초 앞당겨",
-          "source": "전북중앙",
-          "date": "2026.07.30.(목) 20:10",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PY05PNERIQ0lMQ053SkdlZUlmbFFsckltaWtKX0pvYmNicnlsVzdZRDlrSHNzSGdHZVE2NVN1dWdpcDd1X3c3OU03TkJIeVBCQW1QazdnRl9MNmJtSXE1a0hSbjh0YjBlQkpj0gFrQVVfeXFMTU9jTk80REhDSUxDTndKR2VlSWZsUWxySW1pa0pfSm9iY2JyeWxXN1lEOWtIc3NIZ0dlUTY1U3V1Z2lwN3Vfdzc5TTdOQkh5UEJBbVBrN2dGX0w2Ym1JcTVrSFJuOHRiMGVCSmM?oc=5",
-          "region": "national"
-        },
-        {
           "title": "도소방본부, 상반기 병원선정 2만6천건... 응급환자 골든타임 앞당겨",
           "source": "무진장인터넷뉴스",
           "date": "2026.07.30.(목) 16:42",
@@ -33,10 +68,10 @@
           "region": "national"
         },
         {
-          "title": "조선대병원, 급성기 뇌졸중 평가 11회 연속 1등급",
-          "source": "news1.kr",
-          "date": "2026.07.30.(목) 14:59",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iRFNaNExrQlZjUXp1SGY5TUtTQmJXLXp5TzVLVWdfekw4Q3FvVDBpWnczZHZWZGNRZTR2bDhPbWxuX1pHdFZ3NGdoZzBZakh4dkd3bXI5VWI3YU1jMkFRbDRodTE?oc=5",
+          "title": "상반기 병원선정 2만6천건, 응급환자 골든타임 앞당겼다",
+          "source": "jbjnews.com",
+          "date": "2026.07.30.(목) 16:35",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oeTZveDRILUFyZjlMejY4YXp0VERNdUtoaWRmVEhzMVRHOUZWN0FGN0JISUUtdTRsdzlCS1BydEh5VXBXSHUzS1oxUTBWN1BJSnV3Z2lFMk9hdVZIb1NuMnM0MWFaeGVwcVE?oc=5",
           "region": "national"
         },
         {
@@ -55,35 +90,35 @@
         },
         {
           "title": "'급성기 뇌졸중' 치료 잘하는 1등급 병원 112곳…경기권 최다",
-          "source": "news.nate.com",
+          "source": "네이트",
           "date": "2026.07.30.(목) 11:16",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SSm91eHpLNU5vVTlRUnBLdmJfM2VPOVNxT2VzWWIzX2hNMmJvSGRFWUhObXVJNVVCQWEwUlc0VHU1XzdFVW1JeEwtc3N1UkRqT1pDSEhLdUxucHNVS19SdUN1amM0MnBmdThHcG04bWctU19vUjJpZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xV0pQa3ZYT0NRY2F3RllhRUpYVk9oWjF2OGFpaVllNnRJLXRXVk5FX2FHRzN3MUl2X184QVRCdG92Zk9aNWI1YVFwUmFGbHR3aVlRMDZCVDlJZkVyVE4wcw?oc=5",
           "region": "national"
         },
         {
           "title": "전북 119구급상황관리센터, 상반기 병원선정 2만6천건 돌파",
           "source": "투데이안",
           "date": "2026.07.30.(목) 10:19",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12M3RET293QjRocjUyX0ZpS2xiRlJ6SVVkV09wYTZiYlpvUEl2RlQ0QjdRZWd4ZXpQY2NoRFR0M2N3UkcyYVUxcFlSekZ4cWhfZlpvX1NUSElmdXlfbVBIUnVjeEVBcVB1MUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zY0NFNjF2b2p3RjNrVmRwNmNZU3VLQzFrMEh5VjdYTWpmT2o3ZWVvSTdjUk5QS05MUkRzU0lZcHNkUGhERElTNDZvQUVtRjBuTGY0Y0dNM2lUZWd5Qmg0endWYmVUYzFO?oc=5",
           "region": "national"
         },
         {
           "title": "정부 권역응급의료센터 지정에 울고 웃는 지자체",
-          "source": "매일경제",
-          "date": "2026.07.30.(목) 09:54",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zbUgzalo5eTZjQ1FaRjhqdlU1MWM0Tmx3RVVNam83OThPUWZVT1owblJpQ0ZtWkM4by1xMGhNSy1STlhCSUJlaUJucnlFdElrMFUyVA?oc=5",
+          "source": "v.daum.net",
+          "date": "2026.07.30.(목) 09:57",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44UHJEVy1fVnhGa1JNbjQzTThGQm53TDRTZmxTU1NkVDc5QVNXWWdKQ0NCbEVHdXhzMHVfVHBBUU9YUkdlRmxrRnJuMXhYdWtXekhsdg?oc=5",
           "region": "national"
         },
         {
           "title": "경상국립대병원, 권역응급의료센터 3연속 지정…서부경남 응급의료 책임진다",
-          "source": "news.nate.com",
+          "source": "네이트",
           "date": "2026.07.29.(수) 18:19",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9COUJZeDhZcEJFb1ZBTExJX0RRcmYzZ1JPUXhCN2VGZm8tQU9wYmdWSThMMGRQLWhlejFZX0tZMGVfNU5pZDJXci1lc1JFSk4yNXVB?oc=5",
           "region": "national"
         },
         {
           "title": "경상국립대병원, 3회 연속 권역응급의료센터 지정",
-          "source": "경남도민일보",
+          "source": "idomin.com",
           "date": "2026.07.29.(수) 18:01",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZ0RnT2NkeW45OXdFZ0lUSmdXWjNxMDlQb05wMGw1eFVqQ3A5Yk14VW82amhqekVnMVVDbTB0VEU0djVlVDJGTVlyZktqNzdMU2w4aXg5MjQ1RTVrQlBfN2tVa2xGZm9QX0E?oc=5",
           "region": "national"
@@ -96,15 +131,8 @@
           "region": "national"
         },
         {
-          "title": "\"경기북부 의료 판 바꾼다\"…의정부성모병원, 상급종합병원 도약 본격화",
-          "source": "ilyoseoul.co.kr",
-          "date": "2026.07.29.(수) 14:05",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fMG5tR2tKUzk2ZXl2N2lzV29YRF82R1VGRUlfcmpHUUlZalNlQi1nQWF1c1FXWjhwckYtTDNGYy1mWnRiVk9XTUZhaDBtN3JVVFoyUVFxWC1telBWTV96eG1XYU5SSFZ2UXJDbGZ3?oc=5",
-          "region": "national"
-        },
-        {
           "title": "경상국립대병원, \"권역응급의료센터 재지정\"…3회 연속",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "date": "2026.07.29.(수) 13:47",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sNnBCZVp0Y1RtWXM0QXV0NVJXcU5PWDFXT251V0VETFNZQTFNRnNuVDFjNUZaZm00VER3Qm5kUF9LMHE5VHk1aURjVFFNZmptN1hleWFsTkpKRWdMN0M2WNIBeEFVX3lxTE1YZ2N4b3BMSUQybWt5cWJyMDVpRUp2NTVsNDk1SnRlb1dwMWJNOHN3VDFGR0lpOHNCOE9qMUZOWjlGMERJT0U2R0x3ZFlzdW5XWDNseXN2ODNjeG15Wjd3dmg0YUZkbFcxNlBHWGFYSDlzYkk4WGdYMQ?oc=5",
           "region": "national"
@@ -114,34 +142,6 @@
           "source": "간호사신문",
           "date": "2026.07.29.(수) 13:36",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qTGNZSTJhbTR0TE1GblJta0RTNTlSYUY2R19pZW1QeFJiNkY3dHRpNk5YZlhrYlRfMFRmcHdwY1A2QkxtLUctMVNGM1dCZURYLTRCZ1Uwd0VEWnNnZ0tiLTFKTU1BZ0dsSF9XVW1n?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "수도권 원정진료 줄인다…계명대 동산병원, 지역완결형 의료체계 완성 박차",
-          "source": "매일신문",
-          "date": "2026.07.29.(수) 06:30",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jM3pvOHc1eFVJZHhnVjVoMTRSak9ZQUxGRlozWFY3eTFPV05MNUxsZ0F0b01VRFhQTEl1b21zR2JxZktNVzZPSXVvOU1fMnhMenVIdFhkYTNneHBJSjc1aVZB?oc=5",
-          "region": "daegu"
-        },
-        {
-          "title": "안동병원, 생사의 갈림길 `골든타임` 8년…`1만 명 살린 경북 북부 외상 최전선`",
-          "source": "매일신문",
-          "date": "2026.07.29.(수) 06:30",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxRU5oYlpUREdtdF8tcVVCOUc3YWppM01WWGR2N0lUV0x5LWpSd2NreHFxU254MlhpRVlib3dWNTRrbzNGTmJwaDFMWi1jWExzLVRjNmktUV9uWUxmR2R5cEFB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경북대병원, 국립대병원 1위 넘어 미래의료 중심으로 도약",
-          "source": "매일신문",
-          "date": "2026.07.29.(수) 06:30",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5veFRLWE1Tdjc1Z0ZwRkRMejM1bTJOWGRaRjh6RmNmV2xnLUJGbFNsZVZjaE1hRlVDZUQwT0kzYnpZdi1QeEJEaUhaQXJhQnl5Mm05LThEZ0QyZEZMVFIxa3lR?oc=5",
-          "region": "daegu"
-        },
-        {
-          "title": "부천성모병원, 뇌사 장기기증자 배웅하는 ‘나눔사랑길’ 진행 外",
-          "source": "의약뉴스",
-          "date": "2026.07.28.(화) 21:07",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vbFZQOXVPa1labXotSFNoMlhwaGJpVG10cUJNMDkxNzdTamY0LUUzM0RLMTEwaUd1UjNON1hqVU9WaWRNN0lUUHpjS2RlNTNOeG53VHAwQ2pqMmJmY2pfRVdpTGVoNjNE?oc=5",
           "region": "national"
         }
       ],
@@ -171,8 +171,15 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "여수시의회 민덕희의원, “86만 주민의 생명권을 지키기 위한 동부권 의과대학·대학병원 동시 설립 촉구 건의안 발의”",
+          "source": "시사일보",
+          "date": "2026.07.31.(금) 16:10",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHMnJxdUV1RlpWSzlua3A5RjluMVFBYjFNT0dMUjZSLVhfeGRaR0Ffd0N0TTZ6ZGlnOWlIVkdUam1wNGdtS2lsX0ZmbHo?oc=5",
+          "region": "national"
+        },
+        {
           "title": "경상국립대병원, 권역응급의료센터 3연속 지정…서부경남 응급의료 책임진다",
-          "source": "news.nate.com",
+          "source": "네이트",
           "date": "2026.07.29.(수) 18:19",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9COUJZeDhZcEJFb1ZBTExJX0RRcmYzZ1JPUXhCN2VGZm8tQU9wYmdWSThMMGRQLWhlejFZX0tZMGVfNU5pZDJXci1lc1JFSk4yNXVB?oc=5",
           "region": "national"
@@ -192,31 +199,24 @@
           "region": "national"
         },
         {
+          "title": "대한중앙의료봉사회, 쿠팡 물류센터 화재 피해 주민들을 위한 '긴급의료지원센터' 운영",
+          "source": "인디포커스",
+          "date": "2026.07.29.(수) 12:47",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBRM2tqM2VBNmgwdk9jVFVNN1kwcU1RdE01UnJFS1c1S3ZsaERBQkNVWHZFUnl3SWk3SjF4ZFFHcjBvdjA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "포천시보건소, 대형 화재 가상 훈련서 재난의료 역량 입증... 전 항목 만점",
-          "source": "경기도정신문",
+          "source": "idojung.com",
           "date": "2026.07.29.(수) 07:51",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXaEpyb1drTGstRGlUQ01KWjZ5aDNUY1Y5ZkdvWEVWUlNYcTdvTGFXZmk3MjkyV3Y4OVdXTmdRUzNlT2ZWRUxXUEZySnhKemkzdnk4bXJiQWpmT3pPajFLVllxTG5BbW8?oc=5",
           "region": "national"
         },
         {
-          "title": "포천시보건소, 재난의료 대응능력 입증",
-          "source": "경기신문",
-          "date": "2026.07.28.(화) 18:38",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBseFZLd2tBVHFRVUdhSjhlaEZpWjdOeFdSS2Rzemw0dkFIZ1VkRzVBajBLcXRmQkxnbHVvU2dqMlFXUEV0V2ZUQmVYZ3RLT2dBQk0zLUdDMHdzNGhTb2JZVW93?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "포천시보건소, 다수 사상자 구급대응 훈련서 ‘만점’ 획득",
-          "source": "브레이크뉴스",
-          "date": "2026.07.28.(화) 13:14",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YMDNqUExZbHQ3VkxlU0hhbFBGckNHaU5pYnVYQUtGdWhCWWxNY0xJeFdsZTEyU3k3N0tZaFg1VVIxRWRJNmpv?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "포천보건소, 현장응급의료소 운영평가 만점 획득",
-          "source": "서울일보",
-          "date": "2026.07.28.(화) 11:14",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tbHVtNUVoaTR2aXlMZEg3Tk9LVkxuanVlbXV5YWF6dDRiQkFRWEpfY2J0TVZ4UWVoYmxya1hiaFBWTTF3NDhYNi1UTFlEX1pjTGk3M1ZGRE1wU3l4SGR4dFZITmxYRjU2RWEwRtIBb0FVX3lxTE1FU1NKbUgyeVlHNkVmc0RFSGV4YVl1U1dmN0psSHZuVjNzX2t5YnA0WXBzcVIwTEFqX2lHQjB1WV9LZkZsN3lXNUg2OU1IakpBOUZNOUZ6WTJfRE5jSklKTHZpWHhwUEh6SUROVTVzYw?oc=5",
+          "title": "포천시보건소, 다수 사상자 구급대응 훈련서 만점 획득",
+          "source": "한국방송뉴스",
+          "date": "2026.07.28.(화) 19:17",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzZklNUjhRbUsxMmVKRFNZNnVaVld2T2JvSlc4NEIzaHdTQ0dHa2VTNmZRclpsMjFMaFdQakpCb210SmdwR2d6SEpMT1ExWkF2TExWamxZbDNlaWlzT1E?oc=5",
           "region": "national"
         }
       ],
@@ -238,20 +238,6 @@
           "date": "2026.07.28.(화) 19:15",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oOEprMlRXUkNWQkZVZjVCUVN1TXBPZVlZRkczNVRzYWlXQW9aeUZwYm9EbVYzVGs1ZU5KX3RVTGZDbnFyTnhIYTZtSy1ZcUZPWVQ2bS0wSGs2QdIBWEFVX3lxTFBLd1l0N0xRZzgyblhTbWxXeG11YjhEV1Rselk2MlNyMGh2Q0FXWlNKaVVpdkxXb0dkYjJPS2N6VEtJYjl4aEdpUElvZVB1Q2UzblNRYmVleWk?oc=5",
           "region": "national"
-        },
-        {
-          "title": "구미 어린이재활센터 개소..소아 필수의료 체계 강화",
-          "source": "tbc.co.kr",
-          "date": "2026.07.28.(화) 10:45",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50ZnVudTJEVjV6dTY2M3A1bW9pTzdXeGw5Zy1QSGcwTVBlZUEyX0hsbzVOeVlsa1hDOHd0LVRudXdDVVp4OEN0dnprVmpEc3JSVTEw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "구미+ 어린이재활센터 공식 개소…소아 필수의료 '완성형 의료안전망' 구축",
-          "source": "미디어디펜스",
-          "date": "2026.07.28.(화) 09:06",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vSm05OVphcGF3c2NRbV82c0tDTUxtaGxYUkt4ZU9COFFTTXFfUWFxUHlfZDdfU0psYjhTVG10YWJDNkpfRUc2XzlJNnk5SkY3NHJQeGxaQUlrYmkyTGllMG5vY0pJT0ZRZ0Q0?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -260,213 +246,213 @@
       "label": "기타",
       "items": [
         {
-          "title": "나주시, AED 50대 확충… 365일 안심 '심장 안전 도시' 박차",
-          "source": "나주신문",
-          "date": "2026.07.31.(금) 04:02",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdUlrQ0VjZjAyNmcxUGhsclhhakw1TElzTjRLS0h4SjZRdnlqeXBUeXpJcnVyN0RfcnduU1h0UWF3Mm9wNnVFbl9kWjVmQUJKcFdBMTRNcVV2UzVqaGtZZU53dm5RUEFYbTQ5SNIBbEFVX3lxTE5zdUlrQ0VjZjAyNmcxUGhsclhhakw1TElzTjRLS0h4SjZRdnlqeXBUeXpJcnVyN0RfcnduU1h0UWF3Mm9wNnVFbl9kWjVmQUJKcFdBMTRNcVV2UzVqaGtZZU53dm5RUEFYbTQ5SA?oc=5",
+          "title": "종근당홀딩스, 전국 사업장서 사랑나눔 헌혈캠페인 진행",
+          "source": "천지일보",
+          "date": "2026.07.31.(금) 18:01",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxT3o0SEpQYnNPNzYzWXF5Zmc2SkQwLWE4cmwtLWQzb0NrbHB0bjZHZ1hxblpDRkVWOC15Y1o4NHdkZUFGVDVaUkV2RzBlckhTcHM5V0FreTN4eEItYjBDbHBoSFhTQmFfVWc?oc=5",
           "region": "national"
         },
         {
-          "title": "구례군, 헌혈로 잇는 생명 나눔 행사 개최 > 뉴스",
-          "source": "더코리아",
-          "date": "2026.07.30.(목) 22:21",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhQ3B1cmFrcnBoWHo4NTBoVk1YbUtaMS1ERXhPOElyVFMtVU1IVnBCRmtVRXROS2N1Q0JqOFlCbVdWWGtOZW1tUHMtNVlEcGhzY2NkVHlSTzlsWW1PRjRyYmR0QXdVU0NzeTZEaUQ3S2U?oc=5",
+          "title": "“소아암 어린이 치료돕자” 종근당홀딩스, 2026 헌혈캠페인",
+          "source": "catchnews.kr",
+          "date": "2026.07.31.(금) 17:59",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13OTNoaXhhLXBtRzlrNkJiSEZNWlRqNGJvazRnOVVxakpONEF4U0daLXRvUHhBZ083d3BQQUdFbC16b1hNR29HOFNUanJ2NVZ6N05UaHBSMzBLRFFVQ3VnRWxpOVRpOEZFcmtnWW1Oc9IBb0FVX3lxTE13OTNoaXhhLXBtRzlrNkJiSEZNWlRqNGJvazRnOVVxakpONEF4U0daLXRvUHhBZ083d3BQQUdFbC16b1hNR29HOFNUanJ2NVZ6N05UaHBSMzBLRFFVQ3VnRWxpOVRpOEZFcmtnWW1Ocw?oc=5",
           "region": "national"
         },
         {
-          "title": "전남광주통합소방본부, 전국 첫 심장안전도시 구축 본격화",
-          "source": "news.nate.com",
-          "date": "2026.07.30.(목) 20:02",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TTNhQzB1VFd2Vk5FSmhiaUVyVDdMdHQxLVRRemlya2REZ3MyS0Y5Tl9IcUhzb01WRHR3b2lkMTZIUUMwRGthNlZGRTktMGR3Y2xJN3l1clFyTWhHbnBWTg?oc=5",
+          "title": "종근당홀딩스, 전국 6개 사업장서 헌혈 캠페인…소아암 어린이 지원",
+          "source": "동아일보",
+          "date": "2026.07.31.(금) 17:25",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PTmUtMWhoX2ZydXV0a09GZk1yNjBmcjUzV2twWlE4TWdGelJtSHIzRnZzWHBRS1kwczZHeFVORlVtNW1kcGFQWXJELWI4OXA3OWVhNXFNTHA4WHgwMmNCX29HeHZRUdIBZkFVX3lxTE1PTmUtMWhoX2ZydXV0a09GZk1yNjBmcjUzV2twWlE4TWdGelJtSHIzRnZzWHBRS1kwczZHeFVORlVtNW1kcGFQWXJELWI4OXA3OWVhNXFNTHA4WHgwMmNCX29HeHZRUQ?oc=5",
           "region": "national"
         },
         {
-          "title": "코오롱, 전국 8개 사업장서 하계 헌혈 캠페인 전개",
-          "source": "뉴스드림",
-          "date": "2026.07.30.(목) 19:33",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uelBBcThTWXE2UndoU08zMGZ0V2dVdFJfWElZeFhXVzV5OG5DMnVLcUQwMlhkREVkN0h5bGlBVG5IUXhpbVdqRHhYTkVNdnVpdm53dzdfaGtyMVVLTFBFcGpaemNjSVVjTWVwUHhn0gFuQVVfeXFMT256UEFxOFNZcTZSd2hTTzMwZnRXZ1V0Ul9YSVl4WFdXNXk4bkMydUtxRDAyWGRERWQ3SHlsaUFUbkhReGltV2pEeFhORU12dWl2bnd3N19oa3IxVUtMUEVwalp6Y2NJVWNNZXBQeGc?oc=5",
+          "title": "종근당홀딩스, 전국 6개 사업장서 헌혈캠페인 진행",
+          "source": "주간한국",
+          "date": "2026.07.31.(금) 17:12",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91N2VpWkFxWW4yS0pVSlNTVVlrSVZoV2xIbGVOTHV1a003WU5UWjFIUlE4NGxHRmlhRVRfdXd2aHYxX3ZWX1hrNkpKbWhnV29haTh6Wi10T0lLNTZydTFHdjNidnNuemRaUW9jRUFZTWF0WTFl0gF0QVVfeXFMT3U3ZWlaQXFZbjJLSlVKU1NVWWtJVmhXbEhsZU5MdXVrTTdZTlRaMUhSUTg0bEdGaWFFVF91d3ZodjFfdlZfWGs2SkptaGdXb2FpOHpaLXRPSUs1NnJ1MUd2M2J2c256ZFpRb2NFQVlNYXRZMWU?oc=5",
           "region": "national"
         },
         {
-          "title": "구례군, 헌혈로 생명 잇는 나눔 실천…여름철 혈액 수급난 극복 앞장",
-          "source": "광주in",
-          "date": "2026.07.30.(목) 19:28",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0SzJpb2N5aUpSNzhWT1p2U2l0UG5Ya19meUpLZEJpYmZSOEVoYWlkdENXTzJIQjJCSHIwSGp0MmxFMVRsZGlqZjFxUVVreGJlVkVuX2xkTVZUV094LXByME5BeG5seUVVUjJ2Uw?oc=5",
+          "title": "종근당홀딩스, 전국 6개 사업장서 사랑나눔 헌혈캠페인 진행",
+          "source": "팍스경제TV",
+          "date": "2026.07.31.(금) 16:51",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqTWtzVy1HOGpBcFpxNDhpTjd5alB3M3FzeGNpdlJTTFVkcGx2XzZUVnpGbVlMc3M0QnlCeG0yU0RPdVhPOFN2RWZvTnE5MUdWamRtWDVESEltdTFYcHIwbE1KWFBHdWs?oc=5",
           "region": "national"
         },
         {
-          "title": "일진전기 홍성공장, 올해 두 번째 단체헌혈… 여름철 혈액수급 힘 보태",
-          "source": "충남일보",
-          "date": "2026.07.30.(목) 19:14",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wRlRyT2ZhODZkMXF2MlVZQ0VtMTFYcHd0WDNVODk2bGdBSS1iQk56QUpYOGNSVjhyYmYwbU9BOHBVclQzQmg1UTdXMGpEOTlQb1pWOFc4VmdNeFZzWjNPVGo0dDY2LUxNSkF4ajNTMnZOOVE?oc=5",
+          "title": "종근당홀딩스, 한여름 생명나눔 이어갔다...전국 릴레이 헌혈캠페인 전개",
+          "source": "소비자경제",
+          "date": "2026.07.31.(금) 16:37",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zVl9fWjM2bmdodnRJZlNXYjNnVmp1MGlmYjZFSE5sR2t1cGZwZXliR0dYYXAzQ0UtSmhYZWVwREdSakJQVUlxU1VianJUUzUwakNIQ3RMbUlLZnUzWGlCZnE1SFUtOHhEVUE?oc=5",
           "region": "national"
         },
         {
-          "title": "“여름 혈액수급 위해 팔걷어” 은성의료재단 좋은병원들, 사랑의 헌혈 릴레이 캠페인",
-          "source": "국제신문",
-          "date": "2026.07.30.(목) 18:48",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFd0elFPbE5XSWR2ajI2Mk9RQ2hxUWpkc0hHMWh6cmhXZUQ3Z2FEMHAyMF81dFp0V3FoMktseXJ3SFJjeDdsOVI2ckd1WE1Oa2Q2N2N1ZWlETW94cEJNbzl3SF9WSWZ0QnhpMTY1Yk5CZUJka201bGZEQzRYY0VzdVVpT2h2bHQ1NU01UjBpV0hYTUVpT1NULQ?oc=5",
+          "title": "종근당홀딩스, '사랑나눔 헌혈캠페인' 진행…'여름철 혈액 수급 안정 기여'",
+          "source": "데일리한국",
+          "date": "2026.07.31.(금) 16:37",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LVXlFV0RnS2ZRbkVYTUJpZVF1UlZuaTM1YlpkSTB0TU91ZGJ0YlBKbzQyVzJiOUpsVi1tVEo1enc0Z3c4ZkJ0X2xRUF9sOUd0a0p3SlpkU1p3dTkteWQwanRZUkVCOUV3Z0xTV0w4d9IBc0FVX3lxTE16ZTNsWXJpb0dXQ0lleGJiU2VJOFVralc4RWFXaDFZNFp1eC1hQzVOZnR6NXhaT0pJbEJKeVZBMGpTbnZpWWlwSHV5dk43TXg2UXktZlhKeVFXWHV5U0U3V21POTFIc3p0cm5iM2JkZ1c1N3c?oc=5",
           "region": "national"
         },
         {
-          "title": "함덕농협, 사랑의 생명나눔 헌혈 캠페인 전개…임직원 자발적 참여",
-          "source": "livejeju.co.kr",
-          "date": "2026.07.30.(목) 18:32",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rOXFJSldtZGpFbjlUS2o0d3RNb1dkbTZad3V5UU83UHRzRUJMMTgzWDRqWk15T2NsTjAwRXJDdVYzMXVQb3Rwd1RWOGJDMWFySTA0TFFEc1AwT2htcEJRb1ZHN2t5aE1rblNnNmdWcXVGUdIBckFVX3lxTE1rOXFJSldtZGpFbjlUS2o0d3RNb1dkbTZad3V5UU83UHRzRUJMMTgzWDRqWk15T2NsTjAwRXJDdVYzMXVQb3Rwd1RWOGJDMWFySTA0TFFEc1AwT2htcEJRb1ZHN2t5aE1rblNnNmdWcXVGUQ?oc=5",
+          "title": "경기소방, 최근 3년간 물놀이 안전사고 75% '하천과 바다'",
+          "source": "네이트",
+          "date": "2026.07.31.(금) 15:49",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NTDh0MkM5TWVscWJDZE5uVHRDdE43YUZzcXRSQXU5c3VuQTFUN0JkMHRtLWZQc19pS1R6cWFfTXIyRWhISXppZDF2OXA1QWdaZFZr?oc=5",
           "region": "national"
         },
         {
-          "title": "생명 나눔으로 여름철 혈액 부족 해소",
-          "source": "전북금강일보",
-          "date": "2026.07.30.(목) 18:12",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMdGRYRk1nQ2VaSXgwU01IdHdRSjZkYy1xOGJGVFg2QzlCUmROb2NGekVsOWZlZDNJdzFyYmpZVWQ?oc=5",
+          "title": "종근당홀딩스, '2026 사랑나눔 헌혈캠페인' 실시",
+          "source": "오늘경제",
+          "date": "2026.07.31.(금) 15:37",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iME90dFE4R1hPVGpkbUlxX3kta1AwMnJMV196ank4YkJtbmhWbmpWZ19rNFAtRnlnVkFqNmRfQXI4UWlvUXdNR3dOWEJuaHdUNzc0OVZCVWc0Tnh1OUN0YWNGWGZ4dy1RTWhEZjdadVI2em8?oc=5",
           "region": "national"
         },
         {
-          "title": "광양시청년새마을연대, 혈액 수급 안정 위해 맞손…생명나눔 헌혈문화 확산 앞장",
-          "source": "NSP통신",
-          "date": "2026.07.30.(목) 17:38",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vOW1iMnA1NEh0ekU1dUw4Szc2SGJvUV9Zdm9PWHVOQWRQWG8xem9JRkVXdVozQ1RFcTJWaEFUdnNEMmVmS2NGT3dOeV9GMkJDV0NfZ2pqSjdoWGFDbVh4Wg?oc=5",
+          "title": "종근당홀딩스, 전국 사업장서 헌혈캠페인 전개…소아암 어린이 치료 지원",
+          "source": "mirae-biz.com",
+          "date": "2026.07.31.(금) 15:11",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KalhGRWdWUk5sUGhkVWdNTW1XZjFoRHRxOG5FMFl0bmVYSjNWOFd6ZHVPcjRBMTcya1owc082WGFxNzlMR3ozSXZxazk3alprcVJsenl2X1RicnIzMzltWVMxU0FSWUY2UWVZ?oc=5",
           "region": "national"
         },
         {
-          "title": "함덕농협, 2026년 사랑의 생명나눔 헌혈 캠페인 전개",
-          "source": "제주뉴스",
-          "date": "2026.07.30.(목) 16:48",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9URTAwUlJlWnlTaUZ0cU5GZnNGdlQxZFYxd1QxWmZQbU42RE5kbkRkbmlrU2xmS0VRdm1pUWVzY05udUpqcmtDdlFDNVJYeVBWTHU5QnhmeDdCMlNiMUFoRmpFVzk2TVNmb3fSAW5BVV95cUxQbFRNeWlLNlpibUNWSTV0Y1g4SXNmdklVLWV2cTl3YndnYzRCeUtROVN5Ujd0Vm8xUkNYQWJKcXBmMDJfUDdyOXhRSzA3UnpCYXZjVERfcXRPSmhua3ZYRUItTGttaHNBeTYwN3czdw?oc=5",
+          "title": "정부, 내달부터 케타민·프로포폴 등 마약류 특별단속 실시",
+          "source": "의사신문",
+          "date": "2026.07.31.(금) 14:59",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Vd28zSHVDZzVEbVQ3OG5ybHh6amFWUTdLZzF0eGwzTTFSTVZzMm0weVNBMGVzWGd1TzN4QlRKWVlJRkVmYlBaVlI3aEw5cDREbEZsaHhka0lNUFVDd0hIeVduUHhlRmRGVGJZdFFjTQ?oc=5",
           "region": "national"
         },
         {
-          "title": "“생명을 잇는 따뜻한 동행” 부산시설공단, 부산혈액원과 함께 헌혈 활동 펼쳐",
-          "source": "국제신문",
-          "date": "2026.07.30.(목) 16:04",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnFxbW42dGw2Qk1zUTIxMmhiVG9sNlJxZ3ctb0dIQmtEXzNVM2FjMzB3dEdXSnVPOWNnZXNWUnUzRU1mNThrNUxLMWZnNUhDMTVUbndYM29JemRKdnVtc3k0Y2xIWTZYMmpZVU1Bb205dDVpUndzNkhIU3pLWlVXUHk5SjF3RDJMTGJsNEZB?oc=5",
+          "title": "'블루 아카이브'가 만든 선한 영향력... 헌혈부터 기부 러닝까지 사회공헌 확대",
+          "source": "전자신문",
+          "date": "2026.07.31.(금) 14:56",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YWGUwQ0hSeTVCcFRJdFVLSS1BZ0V2cjltRTFnS2VUTEtZYUVMZUhBQk9CZUpFTk5FWUVRQmN5LXJ2UE9UYmR4MDJaQTJ1QQ?oc=5",
           "region": "national"
         },
         {
-          "title": "북부지방산림청, 여름철 풀베기 사업장 안전사고 예방 총력 대응",
-          "source": "서울Pn",
-          "date": "2026.07.30.(목) 16:02",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uYmlfMGhCRGF1alJtMVBMS1NaTDNjbXBMVnlRclRVMHFGWVA5VFBNTVQtSm1RVkJHeTg0ZGlxbTdVcHlWX3d5S19DR2JYdjBsLWltb1Jvd3RrX3RzMHpRcVRn?oc=5",
+          "title": "넥슨 '블루 아카이브', 헌혈·기부 러닝 캠페인",
+          "source": "뉴스웍스",
+          "date": "2026.07.31.(금) 14:46",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIVHdDR0NPSGJ5RElNVmp0VDAyWjJCekdMVTN0STE5S2VUWnA2dVdrV0RpSlVTTUhjTUJ3VXR0bEE1U3lDWEZHRlVtTy1zMmNXNmNSalJZcUpJMUZ5TVRvWi1PNEJxMFJKbE9VSTBYTdIBc0FVX3lxTFB5MENvSXZVS05HZktZWkRodmMzZ3hzY2dwT3hjbWp3SG9FRExwQjUtaTc4b1kxbjZrTnVYcDl2cW8zNlBsdVRLZDBjWnNzdFRFYlhaQk9OUURKcy1RdVBsUjVFVV9GNElidDNpem9oU0tOMUE?oc=5",
           "region": "national"
         },
         {
-          "title": "슈퍼주니어 려욱, ‘헌혈로 완성되는 뿌듯한 하루’ 릴레이 캠페인 동참",
-          "source": "자유일보",
-          "date": "2026.07.30.(목) 15:45",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cFlqdkF1NmJ4UFo5TjdOZzRrYXJQVDZaYmNzUklxNERWMGtlWXp4LS1BNldSaWkwdW8zbmktMUpYTzFrY29aUHFWcEMzOUo1NXVoWGtOOEQ5b1k3eWpIWWRJbWZZd0NGQXJN0gFvQVVfeXFMUFQ5cVlibHA2VElkMDlKWTdsTUVLdXNqQmF4QlNIS05jZ2lMdm1Ta3hyS3hKd2VqeFFqNkxjRVpIRFBFLWxXaXdBV0ZadWE0N2F3X1lxNDRYQnJKR1hoM0RldTF6VEF3OGtOb3ltdG8w?oc=5",
+          "title": "종근당홀딩스, 임직원 참여형 헌혈 캠페인으로 환아들에게 따뜻한 희망 전달",
+          "source": "이코노미사이언스",
+          "date": "2026.07.31.(금) 14:13",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HVW5uWlB5SzFOUkltRnpYUi1QcjQ1NmdfUFZPZ08wVmE0dzRkT0E2MWZtZlh2NXkwSnlNSHJZTjdPYkZ3cWJZRUxZV3pOMXZiSkxYMGRQaGF0cWUwbWpEOEwxNlBaRFJNNVhCaFNzbw?oc=5",
           "region": "national"
         },
         {
-          "title": "김제시, '생명 나누기 헌혈 행사' 성료…시민 참여로 혈액 수급 동참",
-          "source": "gukjenews.com",
-          "date": "2026.07.30.(목) 15:18",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmSEsyek8zdmY0UFpXYno4TUdKblBRZTVESkN3RUdtZXExU1dYMEEwZm12UUpvQTI3V1pxSUlwNXVlUERUVHVrM3RFRGNjLVZxV1Voa0ptbTNVVFJweno2SlIxeS1jVFpRTEs2LXBB?oc=5",
+          "title": "종근당홀딩스, 여름철 혈액 수급 돕는 ‘2026 사랑나눔 헌혈캠페인’ 실시",
+          "source": "the-pr.co.kr",
+          "date": "2026.07.31.(금) 13:53",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEYzdYblhucGxvZWhqa2VST2xWMVVVZWZBSm5raHVlRWVjVFY2MFh0cHhUUzJ5U1hFZDVCdC1sY3BZRlJLTnNCZnJWRmpBMFVvWE8yeW5feTJLcWFfOW5sLXNLN1MzdTNWc3dvck530gFuQVVfeXFMUERjN1huWG5wbG9laGprZVJPbFYxVVVlZkFKbmtodWVFZWNUVjYwWHRweFRTMnlTWEVkNUJ0LWxjcFlGUktOc0JmclZGakEwVW9YTzJ5bl95MktxYV85bmwtc0s3UzN1M1Zzd29yTnc?oc=5",
           "region": "national"
         },
         {
-          "title": "[김제시] 무더위 속 생명 나눔…사랑의 헌혈 행사 개최",
-          "source": "투데이안",
-          "date": "2026.07.30.(목) 14:49",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ndmkxd3NqYmxNUzc1MmMzZThMT0ZEMWpIc1ZDak9DRUFjWkNOLTVQYlRlVlRudEdaRjF4RTI2eUxHNFNoS2c2MEJaX2EyQW80UmhteHU5WF95YWY3U0E5NmNuTjFPNUU5Vnc?oc=5",
+          "title": "대전시교육청, 물놀이 안전사고 예방 나섰다…한밭수목원서 캠페인 전개",
+          "source": "네이트",
+          "date": "2026.07.31.(금) 13:53",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3WjlxSk5SMjdOOTFVb0NKaUdDdEZvdkRZLV9XQmptbWlub3dnWU1QaG5vN0M0S1ZwNjl6cnhlQ0VZY0dQcF9jSmpjTHE3bzlUWFppVjV4MTdEcHoyN2ZlWkdDS09DOWxxWjdoX3E2cE9VOHZrUFlPTw?oc=5",
           "region": "national"
         },
         {
-          "title": "은성의료재단 좋은병원들, 여름휴가철 ‘헌혈 릴레이’",
-          "source": "부산일보",
-          "date": "2026.07.30.(목) 14:47",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aTnFOZ205R19tOWdBWmN2VnVFTWlfMUZhZDFEX1BveGR1djhpclprZ0NNRmd0WGVfNWxrUWVpOEVZbnhhQjZrdVhsSWRZd2ZJNjIyNFNVbXRfMmR6NW9EcmhRZjd6YU03T1dYQVhyVmsxbUJt?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "김제시 보건소, 무더위 이기는 생명 나눔... 사랑의 헌혈로 여름철 혈액수급 위기 극복",
-          "source": "아시아뉴스전북",
-          "date": "2026.07.30.(목) 14:37",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQ1ZpaV83b2hSOU5kNUgtbkhEbWF3ZnFUSDBWcEZ0UnN4OVpNRDlBekoybDZHT1Bna3c1aERNMzVpQTBybzdHMVF5TGFRQmNxLWdXNElQOE1tRlhWa2lfMHRnRlBKQllfRUV0czZB0gFuQVVfeXFMT1FDVmlpXzdvaFI5TmQ1SC1uSERtYXdmcVRIMFZwRnRSc3g5Wk1EOUF6SjJsNkdPUGdrdzVoRE0zNWlBMHJvN0cxUXlMYVFCY3EtZ1c0SVA4TW1GWFZraV8wdGdGUEpCWV9FRXRzNkE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "김제시 보건소 사랑의 헌혈 로 생명 나눔 실천",
-          "source": "전북중앙",
-          "date": "2026.07.30.(목) 14:22",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MS3hpQ1VBYlo3dXBXLVprOWVOYVRSNWlVelFUQVBXdEQ5aHNpVTZWZjc1MHkxVlBNUWlVelVtVDNmdW9CdEx1LTNzaDZpUExiZ3A4d0hPR0VwTDczMEY5RFBUOUtITV8x0gFrQVVfeXFMT3hMQ3FXaU1reEU0c3gya2hzZmNxYXVlZjVHeEFPSXNSaUUzMUszUklOVGI3NHViREhXU1V6VjlfaC1NYUNFSjBubklYNi1CM1NjMWVKZWgydWluZW9PV3d2N3AyX2NILWJ5OTA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "수원시 장안구 파장동, 환경관리원 여름철 안전사고 예방교육 실시",
-          "source": "뉴스파노라마",
-          "date": "2026.07.30.(목) 14:15",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wRlhYRjQtMjdISmY1bUVad3BZcVprekI2ZGRDcTl4V2Y2VU5nNHdhU29JZzR6TzlzdlJQVjIzLTZlNEcwQjN5bGZDeHY1VFVNWTc5MEJCZ1J0b2hnOXAyVWM4ZnhETWlFd282eGViaw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "함덕농협, 2026년 사랑의 생명나눔 헌혈 캠페인",
-          "source": "뉴스제주",
-          "date": "2026.07.30.(목) 13:55",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoR3FCcWtwdlU0SEl4SFZFWEhGRGpxZ05mdDlCejkzWFBnSnBIQVYzNVNUUzFFbFkxUkQxZGNkdU5wa2gyLXVrdzJVZ1BwbkhXUEFNdk84bjNWNERNLVlsY3J1dTdYWEd6OUdN?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "곡성군 생명 나눔 실천 위한 단체헌혈 행사 추진 > 뉴스",
-          "source": "더코리아",
-          "date": "2026.07.30.(목) 13:23",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mV2R3b0E5ZFVUUnNDTXRaaVNyQUFJQWxnTFdtSGZTZHJCZm9GNnduT2ZyUk50b2RXcFdiWHNJdEJQaXJsLS11bm1UVC0wcGw1U0JhRVByV1l4S0NlRW1mdGlqSTNYMlAyMm1PV0R6TUo?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "진주시, ‘물놀이·다슬기 채취 안전사고 예방’ 총력",
-          "source": "포인트경남",
-          "date": "2026.07.30.(목) 12:00",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aR2dzTUhaWEh4dklnSURMWWtvejVOdE1lMGdaMDdQUTRYa0ZobnpYaEVQeXA3eXVVQ3kwRGRXSzVHcmNvb0pjR3kyZjc4TGotY2t1YlBMcFA2TlpYRGFqRkl0dkhObjV2el9wNXdwSEs?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "휴가-방학에 헌혈센터 '한산' 혈액수급 '비상'",
-          "source": "newsis.com",
-          "date": "2026.07.30.(목) 11:50",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4za0xZX0FxTFFYNjFiSFprTnU4ZkY1RWhyUXZXcGhFOUlhRjJwNWJkMjVDUHNnVnpEU3dSN0U3Zjc2R1VGaUg3QVRMZ01XZ0lpVFZpdHp0ZnBHR3FYTEVDRndSUXVSTXZqNnExR2pOdHBrTnRySDlpbNIBeEFVX3lxTE4za0xZX0FxTFFYNjFiSFprTnU4ZkY1RWhyUXZXcGhFOUlhRjJwNWJkMjVDUHNnVnpEU3dSN0U3Zjc2R1VGaUg3QVRMZ01XZ0lpVFZpdHp0ZnBHR3FYTEVDRndSUXVSTXZqNnExR2pOdHBrTnRySDlpbA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "구례군, 여름철 혈액 수급 위기 극복…군민 자발적 헌혈 참여",
+          "title": "종근당홀딩스, 전국 사업장서 '사랑나눔 헌혈캠페인' 실시",
           "source": "뉴스핌",
-          "date": "2026.07.30.(목) 11:26",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UOUl2TXlyY2VKc0dJVGE3RDltQVFmWnBBTGhvY1NLc1l3dDVTa2FyOFRWZ3pGTU1YN0dOU2dRY1FYVU1FdF95Rzl3Y0tFenlmTlJyUTBnaUFqbFVk?oc=5",
+          "date": "2026.07.31.(금) 13:46",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yQUZqdW9sdE9ZT1dGTUNrcFpmZFlZWHRhdzl1WFdRc1FnOGNMVElpcnRHMGhIYWczS2RlUVJGSW5yRVlxbjl5RVJqdlljYlVBd1Q1Mnc4X08xQk9R?oc=5",
           "region": "national"
         },
         {
-          "title": "구례군, 여름철 혈액 부족 해소 위해 사랑의 헌혈 캠페인 전개",
-          "source": "NSP통신",
-          "date": "2026.07.30.(목) 11:23",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLS09lNFk3U25hYW04RFlLNFQ1SzRLaGw3QjVPcjFQQUpjanBwXzA4YkZ1UW5weHZFWlNHeXNRb2xPM2lhai1HTFRsWkJpUHRzSmRNeGU3T29Hc1RtSzFmYg?oc=5",
+          "title": "종근당홀딩스, 릴레이 헌혈 실시…혈액 수급 불균형 해소 기여",
+          "source": "폴리뉴스 Polinews",
+          "date": "2026.07.31.(금) 13:15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44TVdkM180d3JEN2VTQlNKOHZ4ekRxaVF6NkhRVTFMZzVPWnQ4TjZQSVlJS0hXTlJ4M0tzNDZ0TkF3dGRFdWNFRGVuWWxHTEFZQlBSR1EwVXByZXlGWDBZdF9KQTcxTWpkMUxqQXZn0gFyQVVfeXFMTU56SlhQUkhZMERuM040a1Vlc3doa0FRZlVtTjROX1ZsOHB5MEFQbFNUQndVN1RZdXQ3ekdtdFNyQUJsTjBCUU1WQUxYaWl1RnAtWTJSU184YUZsTkRGQndMMG5XeDJtczNBZWVDeVZVb1RR?oc=5",
           "region": "national"
         },
         {
-          "title": "구례군, 혈액 수급 안정 위해 사랑의 헌혈 행사 개최",
-          "source": "신아일보",
-          "date": "2026.07.30.(목) 10:41",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcmRabEI1YUVEbk5URlYyeGNfeDEzNm84Yk9SOUxvTkRfbDZzTnFHcmJhZ05uWnhGcm5XTEJnbVdaSjB4NzVUcllmdlVOMmViQTd6a19BRlJqRndybkUzZjZnaXdXOHJxQk41blZtcU8?oc=5",
+          "title": "종근당홀딩스, ‘2026 사랑나눔 헌혈캠페인’ 진행",
+          "source": "포춘코리아",
+          "date": "2026.07.31.(금) 12:28",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UT1gyWl9PcWNlUlhvYWtRMUpydlhyMEt6WHhCX1UyOVBCek9EOXBjYVF5b0VYbVNxSDd1RDQ0ckNvZm4xLTJWS0xyU0hFNFdMWnZzSU9lS092WjJqRFlGNGZnblRLRU9PNktNTV9JMkhJZ9IBdkFVX3lxTE1GTlFUX0xodmhlbXFHb3Y1V2t4SnBQaUlaZ3lXYUxYVTYzOXdZckxuaUpxOFZzY1oyOTY1S0NmV0Zha3AxYnFrN1ZWcjFWWkZpWEk4eHM3V242X0ZiY2N4RFRGN1J6bTJlc1Byb20zMUlVS2ZLQmc?oc=5",
           "region": "national"
         },
         {
-          "title": "좋은병원들, 여름 휴가철 혈액난 해소 ‘헌혈 릴레이’",
-          "source": "한국의약통신",
-          "date": "2026.07.30.(목) 06:53",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YeWlvQ2pzLXVVc0FnZ2xDNGlLX3VDRTR5QWprdHRJMDVGNS1JU1M2QTI1SWVlamg3cGVVZ213OUlpTmdUZHYzUFpLY1g4Y0QybHF4UTBPOTFPSFBvTjBLLUJFN1Z0YXRoVndF?oc=5",
+          "title": "\"함께 나눠요\"...넥슨 '블루 아카이브' 8월부터 2차 헌혈 캠페인",
+          "source": "뉴스;트리",
+          "date": "2026.07.31.(금) 12:08",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6bHQtRVJfQUJzY2c2MXZwU1NuRzBfN3h2X20zRnVlclFKMWVqdzZIY3hXX2x3NXJhRG51NFdtVHBMdnN2dHpHalI1bEJEclgyTlR4d2E4MjRoS3ZO?oc=5",
           "region": "national"
         },
         {
-          "title": "충북도, 폭염 대비 하천·재해예방 사업장 긴급 점검",
-          "source": "충청신문",
-          "date": "2026.07.29.(수) 18:03",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlelR1cHVnU1NJa2llRGR5clUyY196dE5UaEZoZGx6TDlwWG16ZkRNY2VMb3pWMTYtOUJiTDdBdV83eDBoS19YdkJHXy1VUWxMSDlLOFdicGNfT01RTlBQOWJTWk4yQzdRV1HSAW5BVV95cUxQMVJDVXl0RHVrZ2tPbnZ0YUNCVDIzdXZsNlpDNGg1TGxvbkxYUU5Vd3B1MkM0eWRtalA3THhUNFlaTFRLdjkxLTlFeGkweTh4T3dkNXlTOFBfNnhhSXpMdWE5ZmwzNHpHUXVZclVnUQ?oc=5",
+          "title": "나주시, 전국 첫 '심장안전도시' 구축 본격화",
+          "source": "더쎈뉴스",
+          "date": "2026.07.31.(금) 11:47",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBR1dpQXNvTm53OTZrQlhYZUNzWk0yaDVtdDJkRWFteGJqdWdPM3FqcHZpRjJzVk9uc2Z3UXlTVVI1WHpUb2t4Rm5NM0pNVk1rNFdWVWFpdG1Sam5yNmU0MklrTnhmLXVs?oc=5",
           "region": "national"
         },
         {
-          "title": "골든타임 4분을 지켜라! 부산 북구, 응급처치 교육 실시",
-          "source": "국제신문",
-          "date": "2026.07.29.(수) 15:02",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1Z5YVJOZGU2Vll2N1NBejhObmtVOTU0TnZLSm12ZGZ6RlhDQll1Q2NNY1BBemRjYUJpY1RWbzNEN2hlTTR3QVhfRkVTVmo3WURPQlBWb2hTUzNON3dvc1NNaEtBTGgxOFl5d3R3QUwwWVQtUmxmU01iMlJNVm9lYTI2YmtNa3VyRC13cVNB?oc=5",
+          "title": "종근당홀딩스, '2026 사랑나눔 헌혈캠페인' 실시… 17년째 생명나눔 실천",
+          "source": "보건신문",
+          "date": "2026.07.31.(금) 11:42",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VclduQTVmRnZGNGpfSVhjVGQxeTI3dEFQcWJjOVM5SDczcXRhRS1BSUNnd2Y5OVE5NVIzS180RFlwV2FlN1h0UzRRaktTZ3VsdjgwaFlpeU9Fa0s2bGppYTRzZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "종근당홀딩스, ‘2026 사랑나눔 헌혈캠페인’ 실시… 소아암 환아 지원",
+          "source": "약업신문",
+          "date": "2026.07.31.(금) 11:38",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ocWc5SkJqWjBmeWd3cU8tN1VlbnFVNmdnWk9reFdiaFd5TWFmLUlOcW4tTlZGWTJyOWtNUFlCN3Q4ZjdTeDhpRlhoNlBKV29HeEtKb09zcHZTYWRscjdfaUJhVmJNNTI1d1V0cUdsOUhFZ1Y2TkxGV1BR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[카드] 종근당홀딩스, 전국 사업장서 '사랑나눔 헌혈캠페인' 전개",
+          "source": "프라임경제",
+          "date": "2026.07.31.(금) 10:47",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qMDBFaGFJT0ViOWNUOU45TG5LenVGOXRZbzhxdjNUVUlLcndWOV9wZ1d5VTdQckFLN3RWbVVwNjB5RzhEZDFfSkdpTDltb3d4dWh5SzE2QTlkQ2JiRUN1WWRSdnRBa09QM2t4b0p0NlZtZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "종근당홀딩스, 전국 6개 사업장서 헌혈캠페인…소아암 어린이 지원",
+          "source": "유교신문",
+          "date": "2026.07.31.(금) 10:38",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JRHhlNzMwa1dBYk9TMWNHWDFrVmJ6T3BWeDRTRWRkWmp0WEtPcHRQMm5fS2xubnhIT05nN1Zmb2pvTGZPMW56RWJua3d3Q1Bhb2hZVzFfaV8zN0RZX2c?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "종근당홀딩스, 헌혈캠페인…17년간 2593명 참여",
+          "source": "전자신문",
+          "date": "2026.07.31.(금) 10:24",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRU2tNc0VaZXJybEVrZ2s1YklkYVZuLTd3cTJqcTBTU3VzXzQ3cVBKV1Zsd1JGRG9BcE9tbHNpejY1ZjhqWGpRSVg2SXE1Zw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "종근당홀딩스, ‘2026 사랑나눔 헌혈캠페인’ 실시",
+          "source": "의학신문",
+          "date": "2026.07.31.(금) 10:15",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pbVA1cEczWTJROGM4RS1vVVBsYUZlVUJWdEJJazdiOWdzTFhBa3N3LUFuVW51QjE2SDdTVDAwaFZ2QW9FUWl2enJIc3NlNjU1YU1wcUh3aVJXc1ExTEdJSUphWjlIRkJGVHc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "종근당홀딩스, 전국 6개 사업장서 헌혈캠페인…17년간 2593명 참여",
+          "source": "PRESS9",
+          "date": "2026.07.31.(금) 10:05",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9id0RrQV83UkFFNHVhS1FkbUZyLXJaaEJ6STgya2N4azU0d1Ixc2NqNHZwZ3YtUC01YmdSTXpBZElWNmxkaHhJSHAtQWo0UGd2TTRqUE9vYlVEY0FCXzlmcFp4R3g?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "'AED 50대' 보다 더큰 약속 나주소방서, 도시를 심장안전망으로 잇다:경찰연합신문",
+          "source": "경찰연합신문",
+          "date": "2026.07.31.(금) 10:00",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yaE40SkkzOC1VSUFZYnM0UFdYcG8wLUd2b1RPTUIzOFExSTZtTE03N0tLcVFIc0RIclE3Y3FOOUEzdWFCbzJXZXA5eEw3Zi010gFsQVVfeXFMUE8tMk5UUFRhOVliaWNyb01OYm4wU0ZzUWhBbWpraXNPMDhZQkVVX2NHaV9KcjhHVmRsak1KYkdVc1VEUU4xdlhYcFFDNzlySkstNXBkV3lsMUotVWhPQlFSZ0lWbmZ2blVMWEZZ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "종근당홀딩스, 전국 6개 사업장서 '헌혈캠페인' 실시",
+          "source": "팜뉴스",
+          "date": "2026.07.31.(금) 09:51",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQa1U0YkppUUFBa0E3OE1xcDdfRnVzdTNtUGZpSVdFUWEzTkdvTXR3N09faVJzWURrSjk0d1I5Nk83SWlQRmNlME94alo4SDVCQzRKUk44Z1BOTDJLa1VyRFpQR2RldGtnc3JSUg?oc=5",
           "region": "national"
         }
       ],
