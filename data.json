@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T04:32:21.128299+00:00",
+  "generatedAt": "2026-08-08T08:22:00.157417+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -29,7 +29,7 @@
           "title": "경기도의료원 파주병원 노사, 위기 극복 힘 모은다…응급·필수의료 강화",
           "source": "아이뉴스24",
           "date": "2026.08.07.(금) 16:18",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2OVphZjdZaFFWRjFUMjRySlIxcFpZcTVuM2VwdThtOERzZXZVU1VfM0hOX0hiZ21EdGFNeGllTE90VWR1bDQxSHJkSzU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEVDNleFZCR01BN1B1Z2pTOUJZUHY4eGlzM1ZnYW1BN3liOWpGT092ZjJrSE9RN3dzRUpRRy0zZjlCZUJBQklsem0wVQ?oc=5",
           "region": "national"
         },
         {
@@ -68,13 +68,6 @@
           "region": "national"
         },
         {
-          "title": "경희대병원, 서울 동북권 모자보건 핵심거점 '도약'",
-          "source": "포인트데일리",
-          "date": "2026.08.06.(목) 12:21",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kNXV5NGJDZ2hwaGZHRGJlZnF3VlFVdDVXbmxOTXdOT1NUY1FiUlhxcDVqT3ItX2Z0MXNORlRUSDAxNW5TVDg5Q3BHMDg5VWNmb2thcVo3c2dXQUxDeE9zNnNfRTBEdXV0ajMwVGFqLWFzbUpi0gF0QVVfeXFMTmQ1dXk0YkNnaHBoZkdEYmVmcXdWUVV0NVdubE5Nd05PU1RjUWJSWHFwNWpPci1fZnQxc05GVFRIMDE1blNUODlDcEcwODlVY2Zva2FxWjdzZ1dBTEN4T3M2c19FMER1dXRqMzBUYWotYXNtSmI?oc=5",
-          "region": "national"
-        },
-        {
           "title": "경희대병원, 서울 동북권 신생아중환자·모자보건 핵심거점 도약",
           "source": "네이트",
           "date": "2026.08.06.(목) 11:20",
@@ -82,10 +75,24 @@
           "region": "national"
         },
         {
+          "title": "예수병원 신임 홍보실장에 신우람 신경외과 과장",
+          "source": "국민일보",
+          "date": "2026.08.06.(목) 10:07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRcnFSSE9oMndpUjdMak43VVQ5N2ZCZHphbFpBQzNrZ2RIWm0tT2FwUlFOMUhyZnh3cWZlWkQxNnVjZnhfcmk4X3ExNnIyQ3gza3BBNnRQZThxX2NkQk9jdFgwM0s4SnFBR3RETtIBbEFVX3lxTFBRcnFSSE9oMndpUjdMak43VVQ5N2ZCZHphbFpBQzNrZ2RIWm0tT2FwUlFOMUhyZnh3cWZlWkQxNnVjZnhfcmk4X3ExNnIyQ3gza3BBNnRQZThxX2NkQk9jdFgwM0s4SnFBR3RETg?oc=5",
+          "region": "national"
+        },
+        {
           "title": "경희대병원, 신생아중환자실 새단장…서울 동북권 모자보건 거점 강화",
-          "source": "whosaeng.com",
+          "source": "후생신보",
           "date": "2026.08.06.(목) 09:47",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9QRmFVUXo2N2V0UHlCbi1JS3ZybTdxMlRhNHU4eC1QUUlpSHh3Snh2cDQ3bVQwb2xEVktFaTRWa3REM2oy?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "아주대병원, 지역필수의료 마지막 안전망 연속토론회",
+          "source": "사이언스엠디뉴스",
+          "date": "2026.08.06.(목) 09:31",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWC1LTERBWVRFMGMxdXpnRm5BUm5CekFHRTRfeWhyQkJtUFRaMkRlUmZJd1RnM2hrRW1iRUhuMFZSd1BMWmEwVTc1azVHV3JOcE9IRnVjcmxBYjg?oc=5",
           "region": "national"
         },
         {
@@ -96,38 +103,10 @@
           "region": "national"
         },
         {
-          "title": "외상센터만 늘려선 한계…\"119부터 치료까지 지역 단위로 연결해야\" |",
-          "source": "코리아헬스로그",
-          "date": "2026.08.05.(수) 18:55",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uQUVzX2lTYzVtOTN0RzBnSjIzUUh1R3prWnVUVnUxdndrQ1I3czZyM1ZLNkFrTGc1OW4wMzJHS0dOMXltdXZUazNJM2Z2TVY2Tk9QazdXck5PRVF4Y2RJcXJCQ2g1cWhaekU2NndHVlc1UkExb1E?oc=5",
-          "region": "national"
-        },
-        {
           "title": "아주대병원, 경기도 중증외상 생존체계 고도화 토론회 개최",
           "source": "의약뉴스",
           "date": "2026.08.05.(수) 18:27",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RaklMSk5pbEl2UkdNdDhpX3UtTEJsSEFSVkFpY2JMV291WnpQb05zLW80NEFNV0hyZ2NPdGZ6eHVLOVlsTkwwamZSSlAwVUJJWlRLMUZObGVQWWJhQmhFVnV4NEpBQWM?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "‘수용 불가’ 상황에 놓인 고위험 산모, 인하대병원에서 쌍둥이 무사히 분만",
-          "source": "경향신문",
-          "date": "2026.08.05.(수) 16:20",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSDdjVEVuWjQwS2hrUERTUVRyTmlPaUY3c3lCc2UzNElRdFdpSUctZ2hrNW9WdzZRR0xqa2swMXR2a2NwM3p4SG9sbFRsR3hHNmtUNmM3Q2l5UdIBX0FVX3lxTFBmZkVteFhvSmVGWWtXcG1rV0ZONmxxOXk1dXUxdjJyNzgzWFJHODlwbTlHU0tpcTMzU2dFUUtZOE1tbWJvNWljdlNval9JZ2ZrSloyTnBkclVpaS1ZOUE4?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "아주대병원, 국회서 ‘경기도 중증외상 생존체계 고도화’ 토론회 개최",
-          "source": "매일경제",
-          "date": "2026.08.05.(수) 15:57",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRNmd4Qnh6cGpHRmVkS3ptd3Z4Y1k1QjNvNkVna3EzN20yM1pRazZ1ZG1xQWhXbzRTUkdwbVluX3dockxhX0E?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "중증외상체계 강화하려면? \"적절한 환자를 적절한 곳으로…환자 기준·항공이송 체계 개편 필요",
-          "source": "MEDI:GATE NEWS",
-          "date": "2026.08.05.(수) 15:35",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TNE94dFVwRXJIcTU0aGpsVWdxQWJoX2h0d29TbFJyMElWQjFNclNRbWtfWDRYcEZfOHh0ZDhudlFiLWp5WS11Mzh5dTgzbTc1RUpFVw?oc=5",
           "region": "national"
         }
       ],
@@ -183,6 +162,13 @@
       "label": "소아응급의료",
       "items": [
         {
+          "title": "복지부, 지역·필수의료 전담조직 7월 신설…분만·신생아·소아정책과 생긴다",
+          "source": "쿠키뉴스",
+          "date": "2026.08.07.(금) 14:51",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGQWZManNnRHFkaS1scUs4aWdzX29BRFhDclphVHdSRmZVNlZnRGpmMmFZdDhjRFZ3dVBPY0xrZUhWaUM5UF9JZjlwWkdUcTNiSnV5d1gyWXdjcmJLeVpvR0hMRQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "한숨 돌린 전북대병원 NICU⋯수면 위로 떠오른 의료진 희생",
           "source": "전북일보 인터넷신문",
           "date": "2026.08.07.(금) 10:39",
@@ -197,7 +183,7 @@
       "items": [
         {
           "title": "동해해경, 연안 안전사고 위험예보제 「주의보」 발령",
-          "source": "newsdaily.kr",
+          "source": "뉴스데일리",
           "date": "2026.08.08.(토) 11:37",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xNnZBY3VWY0xpTFhYWG1YSTJSS2RTdmJJNndEdnN3bE1FNjFmZkRXd2JtRG5YcEdVOGw5OVhoNmROWDdHMHg4WHMybHFUZVdTSFJFZlJBckZIRWVqaHdaeHJBaTJzQmZrZG04?oc=5",
           "region": "national"
@@ -225,14 +211,14 @@
         },
         {
           "title": "한강청, 생명나눔 실천 ‘사랑의 헌혈운동’",
-          "source": "환경포커스",
+          "source": "ecofocus.co.kr",
           "date": "2026.08.07.(금) 18:56",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84X1ZaNGJyREFpMy0ySXNNQUEyQzBlRzlUTDNhUmN5ZGRLcndSWHU2LWxoMHVkX2d2MWRhRVRaMGhYa1JBZkg2Q2ZjUUtqUHprZFRPVFZMaWVsRFE3eXhjMw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfdFk4TmF2bGNFZ0c2aVBEbzBqTDFzTWNYejB2Qk9KVm5oaFRlX0E2UzdpX201c2VNOWFLWFp2Q0pSalZMcVFEX3FxcFEwQWlrVTNUVkdxV2hRSVlxR0w1OHlXSQ?oc=5",
           "region": "national"
         },
         {
           "title": "부산시, 하절기 혈액 수급난 해소 위해 올해 세 번째 직원 단체헌혈 실시",
-          "source": "환경포커스",
+          "source": "ecofocus.co.kr",
           "date": "2026.08.07.(금) 18:38",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtLTd5cjFiY01WaTBEMGlTR2ktYmJsWHFQVWZqOFFnamFBQ1o0bkd4am9DVW5ady00X1hPNzZ3NDBEZzZxQXlqb1JLZTFpbzdGWDJqbk5LRTBDZjZpUlR3bHpQTQ?oc=5",
           "region": "national"
@@ -252,13 +238,6 @@
           "region": "national"
         },
         {
-          "title": "게임위, 혈액 부족 시기 단체 헌혈로 '혈액 수급 안정' 실천",
-          "source": "디스이즈게임",
-          "date": "2026.08.07.(금) 17:36",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5naWlmZ0pVVGpvS0FvdkE4SWNyckZRRXJ3a1FHSFJkeEVsV3ZpRHBoTUV6Zlo5MFRKc0tEdXpOdFJiVW5KUER6a0NQbGRmNWZpZDJsWg?oc=5",
-          "region": "national"
-        },
-        {
           "title": "UPA 노사, 여름철 사랑나눔 헌혈 캠페인",
           "source": "한국해운신문",
           "date": "2026.08.07.(금) 17:24",
@@ -266,10 +245,10 @@
           "region": "national"
         },
         {
-          "title": "충북테크노파크, 사랑의 헌혈 캠페인 실시",
-          "source": "세종경제뉴스",
-          "date": "2026.08.07.(금) 15:48",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQR3k0SVdSTWVGZ3lQVTkzME9NQVdfbTlSNlVvenhQeTl4dTQ3cDNNRVBVMEhyMnNYdDhNWHJKLXB3UmloUnJFN0hXTF9TSWdwYjE4aUJMdENwaDE1T29nMzBIRnpqWF9hOGtkNtIBcEFVX3lxTFB4MzA5cjFRZHB4cVM3dnVIQ1VVRkg2MEdnYnVlN3hhUk56eTFxa3Vtckx0Nm13MGZhcUJ5NWVSRzRHN3d1SmdWM01KRklyV0NsMDdKdUVPUHNTRV9SNG9HOXZVUC1QRFBNcDNVaXY4djE?oc=5",
+          "title": "노원소방서, 폭염 대비 ‘찾아가는 119안전캠프’ 운영",
+          "source": "소방방재신문",
+          "date": "2026.08.07.(금) 17:00",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HUkQwLUs1enQ0VXN2d2JFOUJIbm53TU03aWdDdzI5SHZmTUk1MS1oZURhSU9lMzZzYXBWQUIxVEJ4eGFUOFE?oc=5",
           "region": "national"
         },
         {
@@ -295,7 +274,7 @@
         },
         {
           "title": "경북도, 예천서 농기계 안전사고 예방 문화행사 개최",
-          "source": "ksw-news.com",
+          "source": "한국사회복지저널",
           "date": "2026.08.07.(금) 13:12",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaFlUUmJjNmJnVHJPOHZwOXM3WlZEREFDRkZjcEx1M240eXF6UnFLZEZleGFQOTZUTF9kVFNKWXNqMk9jcGs0bENpTTNiWWd0YWhQYTh4andJUDI5NnlxMy1aS240ZGNoS1Bj?oc=5",
           "region": "national"
@@ -305,6 +284,13 @@
           "source": "경북뉴스",
           "date": "2026.08.07.(금) 13:05",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ybm9tV3BTeHIwaFVIaWFsYmZPZjJVWUhtQmtuVlRMNTdwLXI4d2F5dEVjckJoaFFXR0tXb1JVTkJfQlBsUnJuR0o4aVBGUjFzRzI0UXkwbEtueWl0NTJHVzc0ekNXanFSd0ZQcUpVb1VUWHU0WERTMF8yUl8?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영덕군·소방서, 여름철 물놀이 안전사고 예방 ‘8월 안전 점검의 날’ 캠페인",
+          "source": "씨원뉴스",
+          "date": "2026.08.07.(금) 12:40",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aaGdpY0VMNkxObk16Z0RsR2NoZGV2N05aTFBFbTdCMllTQlVNUkFTWU1IRkNJdjJGWmtMZU11dDlvNlNOd3pWNUJOY0pOYmtONWgxMXNlSDN5TkNhb1pyOG1rWUF6OVnSAWpBVV95cUxNQkoxM3hnWVpwM3hweVJKQ1drbW90SFItdkpkX3ptSEJSNXpBeTgxcXpoNzhyaFl3eG1GZ19JWDRSZlpWbExXSjNxN29zdUwzSVJrRVlXN2ZWajFjQzRESHBXZFgxQ2s1eFRR?oc=5",
           "region": "national"
         },
         {
@@ -340,6 +326,13 @@
           "source": "더팩트",
           "date": "2026.08.07.(금) 11:38",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50bWl4UXVvMUFPRi1DSGdUY21sdW90MUlWdzZqcC13LTRUOXJ3Y2Ixa0J6YXVlTkZjODZ2VEZ0UGM5NVN1YjV0OE8tSXV2OWhpdWt4RS130gFQQVVfeXFMTnBpTThkcnpUNERoSTRwdVBGcy1YYllzU25nN0UzRDdndWxEdDlWU2I1b2hETll6X3R0RndSeWplOTR0cUoya2haWkRqcU9TUTM?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "혈액 수급 안정화에 도움…한강유역환경청, 헌혈 행사 참여",
+          "source": "뉴스1",
+          "date": "2026.08.07.(금) 11:30",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81OXFmcy1aMGhqV3BFMENPQ3hpc1d5QktTa2xWTVVEd2s3NUsxeEFXejdyTkRwWTVKYWhRRjF5Wlp5WnRxS2RtbHljLXRvOWtVTThDb25n?oc=5",
           "region": "national"
         },
         {
@@ -389,13 +382,6 @@
           "source": "경북뉴스",
           "date": "2026.08.07.(금) 10:08",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04OV9GdU9OZk1NaFFKMEJ0Uy1mY3hwZ1NQYnZBR2Z2UXEwWHpwSkVUaVZCWjdnNHZTNC0wNFpORUJWZXJ0TTdkWm1GZHkxVy1ycDB5YXJJSDRkeFFIUXJROEN2Tl9FMmJlakpPS2g1R0IwVnd0R1NLZVNxa2k?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "태풍 '돌핀' 영향 너울…부산 연안 안전사고 위험 '관심' 발령",
-          "source": "연합뉴스",
-          "date": "2026.08.07.(금) 09:47",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LVUVyT0k4V2JwQ0otOEpZQm12NHg1UjlmUU1lS1VnRUFmT2Uta0o0N2laNWl4YWpOU3BwVmYxYUZLTUhjd3hWX1VUMGRqdy1OTmM4YjItS3VNTVXSAWBBVV95cUxOTkp3WHA3QVBCaXp6SHFrV280UE1KZ1JxdEVxYUVFalFTSTBOX2t1a2FiUHh4Ui1VWTFtbzV0ZG5kRlFCTzVHV0ZJeGphbThBQjJOVW52T2lDVjU0UExRUUQ?oc=5",
           "region": "national"
         },
         {
