@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:02:11.272265+00:00",
+  "generatedAt": "2026-08-08T14:16:44.748699+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -27,9 +27,9 @@
         },
         {
           "title": "경기도의료원 파주병원 노사, 위기 극복 힘 모은다…응급·필수의료 강화",
-          "source": "아이뉴스24",
+          "source": "inews24.com",
           "date": "2026.08.07.(금) 16:18",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEVDNleFZCR01BN1B1Z2pTOUJZUHY4eGlzM1ZnYW1BN3liOWpGT092ZjJrSE9RN3dzRUpRRy0zZjlCZUJBQklsem0wVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2OVphZjdZaFFWRjFUMjRySlIxcFpZcTVuM2VwdThtOERzZXZVU1VfM0hOX0hiZ21EdGFNeGllTE90VWR1bDQxSHJkSzU?oc=5",
           "region": "national"
         },
         {
@@ -51,6 +51,13 @@
           "source": "뉴스1",
           "date": "2026.08.07.(금) 06:20",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xb21JbjUzRE8zbHMzTjFiRW5waDFwZmgzUlhmaEhJREhpZnpVRjdpY00tMVlVeFBkdFE2S1gyUkNPSkctYXhKZTZqY0FYNkloSDJZRW83MGdHZ0V0NUdzNjBR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "중증외상체계 강화하려면? \"적절한 환자를 적절한 곳으로…환자 기준·항공이송 체계 개편 필요",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.08.06.(목) 20:00",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TNE94dFVwRXJIcTU0aGpsVWdxQWJoX2h0d29TbFJyMElWQjFNclNRbWtfWDRYcEZfOHh0ZDhudlFiLWp5WS11Mzh5dTgzbTc1RUpFVw?oc=5",
           "region": "national"
         },
         {
@@ -94,13 +101,6 @@
           "date": "2026.08.06.(목) 09:31",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWC1LTERBWVRFMGMxdXpnRm5BUm5CekFHRTRfeWhyQkJtUFRaMkRlUmZJd1RnM2hrRW1iRUhuMFZSd1BMWmEwVTc1azVHV3JOcE9IRnVjcmxBYjg?oc=5",
           "region": "national"
-        },
-        {
-          "title": "복지부 이중규 국장 \"닥터헬기 엇박자 뼈아파… 외상체계 전면 재정립\"",
-          "source": "약업신문",
-          "date": "2026.08.05.(수) 21:50",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BOG85S2ZQR3dsdlE4aWlFVzIySXpsSUlnSVlLRDFnRnFKYjZ1bV9lb1J4bG9sdlZiSEdHakU4ZjgyWXZZaG1ucUZCTTVYd2duRTZnRXI3Nm42U0Jna0tjRU93eURfNjhCSFRaNXdPWQ?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -135,17 +135,17 @@
           "region": "national"
         },
         {
-          "title": "계룡시, 폭염 대응 온열질환 응급의료 체계 강화",
-          "source": "네이트",
-          "date": "2026.08.07.(금) 09:50",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tajRmSDJJbzBzYUppWjlSYkFNS2JKRVZnOVotWHVqc09FcnlWb0Z0czY3Zk5wVTJxdUNoX2JTcENKWlFMcnZSamh0RWMwbFdpanNmcnJGZDU4OEt1TDVMVF9GdUpXeFQweENvWGFR?oc=5",
+          "title": "계룡시, 폭염 대응 온열질환 응급의료체계 강화",
+          "source": "충청메시지",
+          "date": "2026.08.07.(금) 14:02",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95YzgxelBLNjlkV295bndWMUliTGhsb0p0eGtxc0pZZFBWTWJjWHJtTG5BTzB4US1iM3FZT1YzNDF1a1d1dTd5VVpEQlZGZUdDeHpyb2xwbm5wXzVOR3hmWkthX3lLOTBhekxB?oc=5",
           "region": "national"
         },
         {
-          "title": "계룡시, 폭염 대응 온열질환 응급의료체계 강화",
-          "source": "충남인터넷뉴스",
-          "date": "2026.08.07.(금) 09:41",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TelJ3bWR6SFNVeGVBWDg4MmROSjhsRjhNS0dvWUl1QzNxZzBxSWgzckJYYjZRcXdHMFdyUnAzaWRFVlV1TG1obFhBOWthRWM3d0xTdEVEd0EtUE9aSGRhdHFuNWYwYnZBbVE?oc=5",
+          "title": "계룡시, 폭염 대응 온열질환 응급의료 체계 강화",
+          "source": "네이트",
+          "date": "2026.08.07.(금) 09:50",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12dERBcTJld3pkR1YySXRlWnJzZHdjX1dEbWZONVQ0WDR1N2U3M1Y4djZ5NXlHbWlIb0hLUEIzZVlJUldiU0FZSmF1dGJDTF9iM2VWQndHOWxINlBiZkN3Sg?oc=5",
           "region": "national"
         }
       ],
@@ -154,6 +154,13 @@
     "pediatric": {
       "label": "소아응급의료",
       "items": [
+        {
+          "title": "복지부, 지역·필수의료 전담조직 7월 신설…분만·신생아·소아정책과 생긴다",
+          "source": "쿠키뉴스",
+          "date": "2026.08.07.(금) 14:51",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGQWZManNnRHFkaS1scUs4aWdzX29BRFhDclphVHdSRmZVNlZnRGpmMmFZdDhjRFZ3dVBPY0xrZUhWaUM5UF9JZjlwWkdUcTNiSnV5d1gyWXdjcmJLeVpvR0hMRQ?oc=5",
+          "region": "national"
+        },
         {
           "title": "한숨 돌린 전북대병원 NICU⋯수면 위로 떠오른 의료진 희생",
           "source": "전북일보 인터넷신문",
@@ -179,6 +186,13 @@
           "source": "Vietnam.vn",
           "date": "2026.08.08.(토) 16:54",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXBDQXpMTGx5MHpkQ3ZSLW1IUU1Bb1VZdlVzNEtvYjZfZVEwNl9NOExjeXhvbVBxRnlkVFFuZ3ZYQW9TQlNfNHRMZWtwMUZfdEhydk16OV9aWW5mcXA4NTBLeXlBNGRGNDVlX3ExTDFHdmMzNHdTS1ZQcWQ0aU11N05lRWlocEFDcGFRVlN3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "함안군, 2026 찾아가는 산사태 안전교육 및 심폐소생술 실습 시행 > 뉴스",
+          "source": "더코리아",
+          "date": "2026.08.08.(토) 16:38",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xQlFpb1RKNDRSZERCVVcxUFNWNU9VMjNWaWhoTlVuN2lQSWNzbFFRQXhVaVI1UDY4cDVNSkw3VHJQUUVoNjc0V09ZblBjWURiVFlJT0NIUWtZdWxhbGhIWmg5UFZiM2NITnd6RHNOb2w?oc=5",
           "region": "national"
         },
         {
@@ -210,10 +224,17 @@
           "region": "national"
         },
         {
+          "title": "강릉해경, 태풍 영향 연안 안전사고 '주의보' 발령",
+          "source": "네이트",
+          "date": "2026.08.07.(금) 18:58",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiaElpRXV4SUJvSmVuMjhpN3hseE14S3J6MVhtLXgyeXdHbjZveWR5eUd3ekdHSnNLZmR2aGNXQV9XUVdGeUc4QVdZSzl4MEYtZDdZ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "한강청, 생명나눔 실천 ‘사랑의 헌혈운동’",
           "source": "환경포커스",
           "date": "2026.08.07.(금) 18:56",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84X1ZaNGJyREFpMy0ySXNNQUEyQzBlRzlUTDNhUmN5ZGRLcndSWHU2LWxoMHVkX2d2MWRhRVRaMGhYa1JBZkg2Q2ZjUUtqUHprZFRPVFZMaWVsRFE3eXhjMw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfdFk4TmF2bGNFZ0c2aVBEbzBqTDFzTWNYejB2Qk9KVm5oaFRlX0E2UzdpX201c2VNOWFLWFp2Q0pSalZMcVFEX3FxcFEwQWlrVTNUVkdxV2hRSVlxR0w1OHlXSQ?oc=5",
           "region": "national"
         },
         {
@@ -238,10 +259,10 @@
           "region": "national"
         },
         {
-          "title": "UPA 노사, 여름철 사랑나눔 헌혈 캠페인",
-          "source": "한국해운신문",
-          "date": "2026.08.07.(금) 17:24",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhNlktOWxSRmhsMlBoVzBEQ1ltSHl5VGJIQTlFbU1ZTGg1R1Q2QW5va3RPamZ5Ti0wRnE2bWZnVVVHbzhJQVNKZHpHVE1MUWUyLTRLWGMzTlBIM2JYWDByZXhGV1hUUjB5Nm9iY0IxTTVwZ0U?oc=5",
+          "title": "충북테크노파크, 사랑의 헌혈 캠페인 실시",
+          "source": "세종경제뉴스",
+          "date": "2026.08.07.(금) 15:48",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQR3k0SVdSTWVGZ3lQVTkzME9NQVdfbTlSNlVvenhQeTl4dTQ3cDNNRVBVMEhyMnNYdDhNWHJKLXB3UmloUnJFN0hXTF9TSWdwYjE4aUJMdENwaDE1T29nMzBIRnpqWF9hOGtkNtIBcEFVX3lxTFB4MzA5cjFRZHB4cVM3dnVIQ1VVRkg2MEdnYnVlN3hhUk56eTFxa3Vtckx0Nm13MGZhcUJ5NWVSRzRHN3d1SmdWM01KRklyV0NsMDdKdUVPUHNTRV9SNG9HOXZVUC1QRFBNcDNVaXY4djE?oc=5",
           "region": "national"
         },
         {
@@ -361,20 +382,6 @@
           "source": "경북뉴스",
           "date": "2026.08.07.(금) 10:08",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04OV9GdU9OZk1NaFFKMEJ0Uy1mY3hwZ1NQYnZBR2Z2UXEwWHpwSkVUaVZCWjdnNHZTNC0wNFpORUJWZXJ0TTdkWm1GZHkxVy1ycDB5YXJJSDRkeFFIUXJROEN2Tl9FMmJlakpPS2g1R0IwVnd0R1NLZVNxa2k?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "의성군새마을회, 안전문화 확산 위한 실전 교육 실시",
-          "source": "네이트",
-          "date": "2026.08.07.(금) 09:24",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wbkdYMEc4Nkc0T2lqXzRxQnZqM2U1dldJVWttekJCYjEzNXFobUY1MUNvT2FkM3R0d1BPMFY0ZFVGX0wzWnlGR0h6YVptdFRsUGE4SHZILWsxQW5hYW9qTw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한강환경청, 혈액 수급 돕는 단체 헌혈행사 실시",
-          "source": "국토일보",
-          "date": "2026.08.07.(금) 09:20",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoSS1qVzZ0NDViVUdrT2YySV85UDdMN2RNcDEtTDdvYVZnNzA3Nkpzd3hXVEZZaEc0RUVnNnp2bkM3RW02dWtfUHdpZ0RlekxrbHRzcVJxVXNQckFEMkE3ekJCRmc?oc=5",
           "region": "national"
         }
       ],
