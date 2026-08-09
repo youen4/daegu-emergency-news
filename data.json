@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T04:48:39.656604+00:00",
+  "generatedAt": "2026-08-09T07:25:59.420207+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -59,27 +59,6 @@
           "date": "2026.08.06.(목) 18:32",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11dmctY1Y4Sk80VzF1c0ZmWElnRzM1bjRQeDJlVE1UNDFJbVBHUjBCTjJtdkpkX2JkUlUybUI5dnFjSk1XMlhHUGVMUXZRMFZ5dTR3YTRabFpmcWhTcGxwS9IBeEFVX3lxTFAyV1d5N3QxcHNfZkRaeHpzRWE5TkJkSlNnQzBPY0pLeFQ2bENxN09FNkNieFlCQy01aTBwQVBLWFZONW5UMjdOYW1ZZExEMjdJdVdQOFlEb3F6S2FXOEhESXJIQVRGRFdiaEx2OGQ2TmhEd0dpdEl3VA?oc=5",
           "region": "national"
-        },
-        {
-          "title": "단국대병원, 중형 닥터헬기·권역정신응급의료센터 잇단 성과…충남 응급의료 안전망 강화",
-          "source": "한국소통투데이",
-          "date": "2026.08.06.(목) 16:16",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9weVlVdEZBSFF2RHJIelVyNUloSk55ZjkwdU5xZVEzWmlRUENLUGwzd0VnMk5xdTdEVllRbzgyUGNCWEF4SHc5d24ybXROT2o4Y1RyOVVuTW1sUTQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "수용 병원 못 찾던 고위험 산모…인하대병원서 쌍둥이 출산",
-          "source": "메디파나뉴스",
-          "date": "2026.08.06.(목) 15:48",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNUF9yck5PMjh1UVBJSjV0blhxaWsxRVZoeXR2dVowd2JNWGR6dXRfYTJNLUVDRGxfUFNtQUk1QlJ2aWpqaDQ0Q1E3MjZDZEtjZ0pUVndYWTN3RWROUVdSQ0NxUlVEcXRaYURR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "‘경기도 중증외상 생존체계 고도화 방안’연속토론회 개최",
-          "source": "메드월드뉴스",
-          "date": "2026.08.06.(목) 14:20",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1a1o0R24tMmt3ZTVPZG5meG1TcTc2dU5PdExaV3JzRzlUT0JKNUMzYXNoZ3owbjFJbDZsTlZTSWVabTRkYjlMaGpVOFhpRVNjWnpKNThDcGU2QVZTUjhqWnRVUGFzTnc?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -114,10 +93,17 @@
           "region": "national"
         },
         {
+          "title": "계룡시, 온열질환 응급의료·협업체계 강화",
+          "source": "hdnews.co.kr",
+          "date": "2026.08.07.(금) 16:46",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OYTdWM1l4dWN4RzMyazZ1WFVDR0xRRDd1UktWMEpsSUhQWERMRzZnNTlZQkhCdDlIc0F6YklKSldQTmtLQUxkdVljT0RHUzM5dno3Ni1RY2tfdVA5SFQyeVJzUHdTa3AxbmFF?oc=5",
+          "region": "national"
+        },
+        {
           "title": "계룡시, 폭염 대응 온열질환 응급의료체계 강화",
-          "source": "충청메시지",
-          "date": "2026.08.07.(금) 14:02",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95YzgxelBLNjlkV295bndWMUliTGhsb0p0eGtxc0pZZFBWTWJjWHJtTG5BTzB4US1iM3FZT1YzNDF1a1d1dTd5VVpEQlZGZUdDeHpyb2xwbm5wXzVOR3hmWkthX3lLOTBhekxB?oc=5",
+          "source": "nmn.ff.or.kr",
+          "date": "2026.08.07.(금) 10:48",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UcElkQ2ZfMTV2M01BaTVxYTRGTVNwTkpwMndVM1hDZzNBMllrVUZ3cVRZdVJzQlBNMEtXS1paT0tLYnowSWZZaWVXWVdJc1NPVC1wc3RlLXl0MWFvZlE?oc=5",
           "region": "national"
         },
         {
@@ -154,8 +140,29 @@
       "label": "기타",
       "items": [
         {
+          "title": "울산항만공사 노사, 여름 혈액난 해소 위해 '사랑나눔 헌혈 캠페인' 실시",
+          "source": "gukjenews.com",
+          "date": "2026.08.09.(일) 15:03",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnY2ZkVjU0WE1hY28zbjN6NUl4NGxOZlB5WnBJQ2JmSVpTenhwenFXblpObFpFN2UwUlhzV3lTb3l3YkNZaGt3VVcxS2dnajlscUY4OHZDS2RscmdpMGNGRWZycmNna1ZtQWhsODln?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "춘천시 헌혈릴레이 함께해요",
+          "source": "한국현대미술신문",
+          "date": "2026.08.09.(일) 14:30",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05TXNfd3BqV3B2X2oyc2xxTGhSb0ZqbzFldmVCVXNYWnB3N2puelh1NlZXQ1JuaUozeFI1RlV6NEJTcTNxYWNtNC1KMGRhWkN4RzlVNXRUX1MzQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "산업안전, 실천의 문제다",
+          "source": "기호일보",
+          "date": "2026.08.09.(일) 14:11",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oLTl3RnNraC1hNWlHQm9aTzd0X1pFeVlYaWpSYnpRa0tPVVZWNUZZQWNaN1JWSkMxQXA3NURQdzY0Ym11c3J1WEVzUDMtRWI5dnF1TlpSYnVsN0lRREhLcHNqcWJiS2pSR1RXVm15aw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "군산의료원, 하절기 사랑의 헌혈 릴레이 실시",
-          "source": "jeonmin.co.kr",
+          "source": "전민일보",
           "date": "2026.08.09.(일) 12:08",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pTmRlQl9DVFdPYkNpWkgwcGg2alh5dWpJakRrZ1NaZktfVGtmMFNYWFc3c1lqVjBEcjZQQjNEel8yeFZKUlVhVHM1bnB1MXFTeUNnMm1aYXo5M3lFWjBiaGFJekgyWlJyck1Z?oc=5",
           "region": "national"
@@ -186,6 +193,13 @@
           "source": "bntnews.co.kr",
           "date": "2026.08.08.(토) 06:21",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vX3huUUg3N3RDY2pBeGRnYnRZRjNOcm5WR3dPX3dHR1NELV9uTmV2dEFaWFB0OWRzX2lNWE9LbzNWMFRjXy1vMFA0ZjFKNzVvU2RQSGtZVkZsblc2QWM1TXVuVU4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강릉해경, 태풍 영향 연안 안전사고 '주의보' 발령",
+          "source": "네이트",
+          "date": "2026.08.07.(금) 18:58",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiaElpRXV4SUJvSmVuMjhpN3hseE14S3J6MVhtLXgyeXdHbjZveWR5eUd3ekdHSnNLZmR2aGNXQV9XUVdGeUc4QVdZSzl4MEYtZDdZ?oc=5",
           "region": "national"
         },
         {
@@ -224,6 +238,13 @@
           "region": "national"
         },
         {
+          "title": "한국소방안전원 울산, 의소대 심폐소생술 전문자격과정 교육:FPN Daily",
+          "source": "소방방재신문",
+          "date": "2026.08.07.(금) 15:52",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFBHVEE0STgxRjJUenBXN2ptRWZSWTNBdXg5MFZSa1hWTXJ0R3JybHNVNDN0dXB6d1h6dEtmeW1qbE9XRXZUZVVWc3JLQ3c1UVhlbVlObWVzaVlSQThHY3NTaWkxZV9ILUUtcXdidjFxMXZndnlFY2pDaTRDRTgtOElVSXpkWTdoZEVsVUVYN3V6UE80Q1JoQWFSSUNoSFM0dHpoalFRUkFOVko1WF9xQlBRdXNPUjBLd2FFZ2lUZmZDTHBRek42RXg1ODI?oc=5",
+          "region": "national"
+        },
+        {
           "title": "충북테크노파크, 사랑의 헌혈 캠페인 실시",
           "source": "세종경제뉴스",
           "date": "2026.08.07.(금) 15:48",
@@ -232,7 +253,7 @@
         },
         {
           "title": "UPA 노사, 폭염·휴가철 헌혈 캠페인 전개",
-          "source": "dailian.co.kr",
+          "source": "데일리안",
           "date": "2026.08.07.(금) 15:33",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3R3RHM3NGJ4dzNGdWhDZTZzaldUWlB0VWlONDVsNERpajBVMTJNdVk1cURqckxRWFA2YUZDNF9ncnFKNDB6VjFVcHhiVnl6NTFoZ1VUNmcxbnA4OUNHVHlzSk5zWkk2aDFPWF9HZ0lOV0dSdmlkTUtNdjJENVlfTTdMeFVxSzB5YzhQMWxrNGd5d2dWMlJ1V1Y5S2JnWjI4MFVPTU15UWxSTlBzaXQ0UXpJTEdkai1lMDhDRFFsVFBnY0RIY0s2dWdRNE5lMWdVWUFxUW9UQlVwTXVDN0dOck1tZU5hQlM5T0V5cUU1UFcyZno2andr?oc=5",
           "region": "national"
@@ -267,16 +288,9 @@
         },
         {
           "title": "영덕군·소방서, 여름철 물놀이 안전사고 예방 캠페인",
-          "source": "kbnews.kr",
+          "source": "경북뉴스",
           "date": "2026.08.07.(금) 13:05",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ybm9tV3BTeHIwaFVIaWFsYmZPZjJVWUhtQmtuVlRMNTdwLXI4d2F5dEVjckJoaFFXR0tXb1JVTkJfQlBsUnJuR0o4aVBGUjFzRzI0UXkwbEtueWl0NTJHVzc0ekNXanFSd0ZQcUpVb1VUWHU0WERTMF8yUl8?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "영덕군·소방서, 여름철 물놀이 안전사고 예방 ‘8월 안전 점검의 날’ 캠페인",
-          "source": "씨원뉴스",
-          "date": "2026.08.07.(금) 12:40",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aaGdpY0VMNkxObk16Z0RsR2NoZGV2N05aTFBFbTdCMllTQlVNUkFTWU1IRkNJdjJGWmtMZU11dDlvNlNOd3pWNUJOY0pOYmtONWgxMXNlSDN5TkNhb1pyOG1rWUF6OVnSAWpBVV95cUxNQkoxM3hnWVpwM3hweVJKQ1drbW90SFItdkpkX3ptSEJSNXpBeTgxcXpoNzhyaFl3eG1GZ19JWDRSZlpWbExXSjNxN29zdUwzSVJrRVlXN2ZWajFjQzRESHBXZFgxQ2s1eFRR?oc=5",
           "region": "national"
         },
         {
@@ -288,7 +302,7 @@
         },
         {
           "title": "세라젬, 혈액 수급 안정 힘 보태…천안타운서 헌혈 캠페인",
-          "source": "매일일보",
+          "source": "m-i.kr",
           "date": "2026.08.07.(금) 12:00",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Hd2t1WDZudkF3ZTgyVWhnV1JEWmRpTnRVMXM1WVR0TVhHbW9wU3ZBaHpwU0lTcVpUY0pRWnhyTjliQjVMc01CeWRZN290RXRGbVRJUTFTcmdKVE1qYmhQQXhEWlE?oc=5",
           "region": "national"
@@ -333,34 +347,6 @@
           "source": "투데이 군산",
           "date": "2026.08.07.(금) 11:00",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNTFyUmlMWk82LVU3NDNoZjRuVy02YWdodVZZNDE4Y0o1bk5MSUdsNDJ0ZC1xT1VnTEdscnhQUGVTR0RUX3lSYy1XTWhBWV95d1d2a0hRV0JpRHBFYWh3ZTlsTlY5VDFvYkFNV1JBMA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"생명 나눔 실천하자\" 부산시 올해만 3번째 단체 헌혈",
-          "source": "부산일보",
-          "date": "2026.08.07.(금) 10:45",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uQWxod25SdXRvVlhsbnBaNko0TndQWjRXa0F6LW9FUGREUFJRZEhEenk4R0hVODNBNjY3emdGOWMtUlpKTl96QUNyMlptZldBZUpfSC03WjNzUDc4aGVoWGxqMU1Mb09pS3pXeUhid0x1Q2Ewek1acg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한강환경청, 헌혈로 혈액 수급 안정화 동참",
-          "source": "todayenergy.kr",
-          "date": "2026.08.07.(금) 10:32",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56dG5LLTVHMVJmaTllQ0JFUWtLRVh4Zk5FdHZta0tYYWdOZDR0YXJkdURSdWxVU3lIRFNHSzE2Rms0d2lCaWJOMzBicmdmUDFFMXZZWkk2WW41RW5NaEM5VGR6MHoyMlZWdzdWOGtn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "강원소방, 동해안 여름철 물놀이 안전사고 발생지역 현장 점검",
-          "source": "네이트",
-          "date": "2026.08.07.(금) 10:17",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWlNMcVlRaUs2cnUxallEUlF6TGN2aE9Bc0s1Q1NBVTRQeXljRS1zX2dZWkg4V0RpN0VSUWVFdGdOazR5UkpJNUt2Ni14ekRINDJnRU40ZHdTdTIxTkN5UmpYWDFId2o4ZkJSN2cyamdJa25pNDBN?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경북도, 안전문화공연·안전토크로 농기계 사고예방교육",
-          "source": "kbnews.kr",
-          "date": "2026.08.07.(금) 10:08",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04OV9GdU9OZk1NaFFKMEJ0Uy1mY3hwZ1NQYnZBR2Z2UXEwWHpwSkVUaVZCWjdnNHZTNC0wNFpORUJWZXJ0TTdkWm1GZHkxVy1ycDB5YXJJSDRkeFFIUXJROEN2Tl9FMmJlakpPS2g1R0IwVnd0R1NLZVNxa2k?oc=5",
           "region": "national"
         }
       ],
