@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T07:25:59.420207+00:00",
+  "generatedAt": "2026-08-09T09:59:26.378686+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -51,13 +51,6 @@
           "source": "뉴스1",
           "date": "2026.08.07.(금) 06:20",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSTktCRWJlMUxzOEZEUWVpV21DakFwTlVYZEt2SVVqUURqN1dkcV9UYU5fRzl0UWlNVGRkbF8wNk45THkyM2xJRmtkd2E5NENkdU9CVGZwQ1BYQURz?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"붕괴 막자\"…신생아 중환자실 확충 나선 '이 병원'",
-          "source": "뉴시스",
-          "date": "2026.08.06.(목) 18:32",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11dmctY1Y4Sk80VzF1c0ZmWElnRzM1bjRQeDJlVE1UNDFJbVBHUjBCTjJtdkpkX2JkUlUybUI5dnFjSk1XMlhHUGVMUXZRMFZ5dTR3YTRabFpmcWhTcGxwS9IBeEFVX3lxTFAyV1d5N3QxcHNfZkRaeHpzRWE5TkJkSlNnQzBPY0pLeFQ2bENxN09FNkNieFlCQy01aTBwQVBLWFZONW5UMjdOYW1ZZExEMjdJdVdQOFlEb3F6S2FXOEhESXJIQVRGRFdiaEx2OGQ2TmhEd0dpdEl3VA?oc=5",
           "region": "national"
         }
       ],
@@ -140,6 +133,20 @@
       "label": "기타",
       "items": [
         {
+          "title": "\"장학금·헌혈…세라젬의 사회공헌 공유\"",
+          "source": "네이트",
+          "date": "2026.08.09.(일) 18:35",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lYmhrbl93OFdCSnB3OS1ZVlFpQ2lWQ1RhTUxEa29DRHJ5SVlRTEY1T0NNSXZ4Wl84X0MwLUVXMy1ickphcFZJYzhIZ01mOTI2YVNZ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "공무원 단체헌혈로 ‘생명나눔’ 동참",
+          "source": "busan.com",
+          "date": "2026.08.09.(일) 18:20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvZzZMYW9CX2Z5d015UGhibC1tUUtkbDM3cUE4eGhTc1dPRHo0NXBYOVo5bjUwTS1VM09IR21zck9oUFU3VktQTV80YzBPWmdTd1dNUW5RSEVxd2d5eG1YazNNbWVSeUJGUXZESjgySkE4QXpJ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "울산항만공사 노사, 여름 혈액난 해소 위해 '사랑나눔 헌혈 캠페인' 실시",
           "source": "gukjenews.com",
           "date": "2026.08.09.(일) 15:03",
@@ -147,10 +154,10 @@
           "region": "national"
         },
         {
-          "title": "춘천시 헌혈릴레이 함께해요",
-          "source": "한국현대미술신문",
-          "date": "2026.08.09.(일) 14:30",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05TXNfd3BqV3B2X2oyc2xxTGhSb0ZqbzFldmVCVXNYWnB3N2puelh1NlZXQ1JuaUozeFI1RlV6NEJTcTNxYWNtNC1KMGRhWkN4RzlVNXRUX1MzQQ?oc=5",
+          "title": "군산의료원, 무더위 속 ‘사랑의 헌혈 릴레이’",
+          "source": "전북중앙",
+          "date": "2026.08.09.(일) 14:35",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FLWluVE9pVFpLeTJCVXFuTTlYUGlGZ0dLQ2RRckJfb0ExLW5FT1hxSy1pbERkR0R0Mm93c3VoRi1tSGRHWDdEWFFJN0I4eHkxZFRPVS1fMW5iSVlqdTl3Smpac09pOGJC0gFrQVVfeXFMTU9CT0E1b05vMHRjbERPbno5U05iVWNBM044Y3R4MjhxWUt2RGZqX1NsRzdSN0hscUcwVFRGelo5VmttcGFqNTA2VXVoeXFEcUVPdEc3cnRhUUtxaU1tZGtrbjM1cGRnWkQ0X0k?oc=5",
           "region": "national"
         },
         {
@@ -164,7 +171,14 @@
           "title": "군산의료원, 하절기 사랑의 헌혈 릴레이 실시",
           "source": "전민일보",
           "date": "2026.08.09.(일) 12:08",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pTmRlQl9DVFdPYkNpWkgwcGg2alh5dWpJakRrZ1NaZktfVGtmMFNYWFc3c1lqVjBEcjZQQjNEel8yeFZKUlVhVHM1bnB1MXFTeUNnMm1aYXo5M3lFWjBiaGFJekgyWlJyck1Z?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DQWRlSURUQ1BrM3pjNTV3ZnZaRkFMU3p6NEZiTWF5Tm40c09tVWE4T3hpTktaUUtmU1haaVVQbkVsVlpYeFVmcTF1MFU2a08xWFhPdmtwZmpOb3pVNFVyamptLW1tenFQSXRQMA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "춘천시 헌혈릴레이 함께해요",
+          "source": "시사줌뉴스",
+          "date": "2026.08.09.(일) 11:22",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtT3F4b2dITk14aHJ2RDZZV3BoajZSRVpkU0cwYkVCUW5MYnB2OWs4bUdsTlkxYjhLSklBQjRFS2t0SmhOQkJvbA?oc=5",
           "region": "national"
         },
         {
@@ -176,7 +190,7 @@
         },
         {
           "title": "동해해경, 연안 안전사고 위험예보제 「주의보」 발령",
-          "source": "뉴스데일리",
+          "source": "newsdaily.kr",
           "date": "2026.08.08.(토) 11:37",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xNnZBY3VWY0xpTFhYWG1YSTJSS2RTdmJJNndEdnN3bE1FNjFmZkRXd2JtRG5YcEdVOGw5OVhoNmROWDdHMHg4WHMybHFUZVdTSFJFZlJBckZIRWVqaHdaeHJBaTJzQmZrZG04?oc=5",
           "region": "national"
@@ -239,7 +253,7 @@
         },
         {
           "title": "한국소방안전원 울산, 의소대 심폐소생술 전문자격과정 교육:FPN Daily",
-          "source": "소방방재신문",
+          "source": "fpn119.co.kr",
           "date": "2026.08.07.(금) 15:52",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFBHVEE0STgxRjJUenBXN2ptRWZSWTNBdXg5MFZSa1hWTXJ0R3JybHNVNDN0dXB6d1h6dEtmeW1qbE9XRXZUZVVWc3JLQ3c1UVhlbVlObWVzaVlSQThHY3NTaWkxZV9ILUUtcXdidjFxMXZndnlFY2pDaTRDRTgtOElVSXpkWTdoZEVsVUVYN3V6UE80Q1JoQWFSSUNoSFM0dHpoalFRUkFOVko1WF9xQlBRdXNPUjBLd2FFZ2lUZmZDTHBRek42RXg1ODI?oc=5",
           "region": "national"
@@ -249,13 +263,6 @@
           "source": "세종경제뉴스",
           "date": "2026.08.07.(금) 15:48",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQR3k0SVdSTWVGZ3lQVTkzME9NQVdfbTlSNlVvenhQeTl4dTQ3cDNNRVBVMEhyMnNYdDhNWHJKLXB3UmloUnJFN0hXTF9TSWdwYjE4aUJMdENwaDE1T29nMzBIRnpqWF9hOGtkNtIBcEFVX3lxTFB4MzA5cjFRZHB4cVM3dnVIQ1VVRkg2MEdnYnVlN3hhUk56eTFxa3Vtckx0Nm13MGZhcUJ5NWVSRzRHN3d1SmdWM01KRklyV0NsMDdKdUVPUHNTRV9SNG9HOXZVUC1QRFBNcDNVaXY4djE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "UPA 노사, 폭염·휴가철 헌혈 캠페인 전개",
-          "source": "데일리안",
-          "date": "2026.08.07.(금) 15:33",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3R3RHM3NGJ4dzNGdWhDZTZzaldUWlB0VWlONDVsNERpajBVMTJNdVk1cURqckxRWFA2YUZDNF9ncnFKNDB6VjFVcHhiVnl6NTFoZ1VUNmcxbnA4OUNHVHlzSk5zWkk2aDFPWF9HZ0lOV0dSdmlkTUtNdjJENVlfTTdMeFVxSzB5YzhQMWxrNGd5d2dWMlJ1V1Y5S2JnWjI4MFVPTU15UWxSTlBzaXQ0UXpJTEdkai1lMDhDRFFsVFBnY0RIY0s2dWdRNE5lMWdVWUFxUW9UQlVwTXVDN0dOck1tZU5hQlM5T0V5cUU1UFcyZno2andr?oc=5",
           "region": "national"
         },
         {
@@ -302,7 +309,7 @@
         },
         {
           "title": "세라젬, 혈액 수급 안정 힘 보태…천안타운서 헌혈 캠페인",
-          "source": "m-i.kr",
+          "source": "매일일보",
           "date": "2026.08.07.(금) 12:00",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Hd2t1WDZudkF3ZTgyVWhnV1JEWmRpTnRVMXM1WVR0TVhHbW9wU3ZBaHpwU0lTcVpUY0pRWnhyTjliQjVMc01CeWRZN290RXRGbVRJUTFTcmdKVE1qYmhQQXhEWlE?oc=5",
           "region": "national"
@@ -333,20 +340,6 @@
           "source": "뉴스1",
           "date": "2026.08.07.(금) 11:30",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81OXFmcy1aMGhqV3BFMENPQ3hpc1d5QktTa2xWTVVEd2s3NUsxeEFXejdyTkRwWTVKYWhRRjF5Wlp5WnRxS2RtbHljLXRvOWtVTThDb25n?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "의성군 새마을회, 안전 문화 확산과 군민의 생명 보호 앞장",
-          "source": "데일리대구경북뉴스",
-          "date": "2026.08.07.(금) 11:09",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxU3U3VnFVVWp5MU0xZ3QyUVZPMzFQbVd6VWR5SzZ3TEc5dW9XVnJub3JuNlJrVWxFUkFtUWF2TG5GLTA2bEk3aEpwcFFpT081UWhQLWh0akNEVUd1MUU4ZXhUbVdDZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "군산의료원, 혈액수급 안정과 생명 나눔 실천 ‘사랑의 헌혈 릴레이’",
-          "source": "투데이 군산",
-          "date": "2026.08.07.(금) 11:00",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNTFyUmlMWk82LVU3NDNoZjRuVy02YWdodVZZNDE4Y0o1bk5MSUdsNDJ0ZC1xT1VnTEdscnhQUGVTR0RUX3lSYy1XTWhBWV95d1d2a0hRV0JpRHBFYWh3ZTlsTlY5VDFvYkFNV1JBMA?oc=5",
           "region": "national"
         }
       ],
