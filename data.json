@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T13:18:30.576459+00:00",
+  "generatedAt": "2026-08-09T15:50:32.419643+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -12,15 +12,22 @@
           "region": "national"
         },
         {
+          "title": "“권역외상센터별 실적 역량 차이, 역할 구분 필요”",
+          "source": "dailymedi.com",
+          "date": "2026.08.08.(토) 06:22",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xc19JMXhoSThNc0dGaWZIenVYdW50bDI3REVLT3R2NV80em5waEF3aE9rZTBCazVsMnZ3dVN3bWp0Tjg3d3lVTlF6NnVHZjVja3J1Mm90T19pSHBaeEw3Qm9nbU5OVGVEaEhxSkJ2VE9YZVdz?oc=5",
+          "region": "national"
+        },
+        {
           "title": "파주병원 노사 “응급의료·포괄 2차 진료역량 강화”",
-          "source": "데일리메디",
+          "source": "dailymedi.com",
           "date": "2026.08.08.(토) 05:57",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2WENTZDFaOWg4bUlrMTBoUWJrakxkRGtIWGlwS3JlNlNGaDNGNUpmMGVoaWZrQ3B0ckdJLWROeXpEdTBaVjVDbjZWZ01wTUdqeWVhZlJSY2Vpb2JZWEhwdWJSdTFxbEFNU2hwdGRaeHA4V01h?oc=5",
           "region": "national"
         },
         {
           "title": "단국대의과대학부속병원, 권역정신응급의료센터 지정‥전국 총 14개소",
-          "source": "에이블뉴스",
+          "source": "ablenews.co.kr",
           "date": "2026.08.07.(금) 17:25",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RcS1sQkNXU3cwRnNmT0xEcGprVWV5cUhCbGNlTTdtUF9vMk84YmZWM0NBbk5taUFIOTBidFNHbzMyT0F6dDNCMUFzd1lDNWZFSEc3UGJnS016ZTRNcktROXBKQ3hpNXRacVA1NWN30gFyQVVfeXFMTU5XZXJ0YmEzZm1xYWNKNUtZM3RIT292Y0xxVGlzZFdISDJpMXJ0bXNoeFBUVEtldnlsYlpEOEllWmVLMGtSR25qd0tHQ1ZOV25USVZ2ZnRBMmlXR1Z0dHYtXzdEOF9EZkpFeHVvM1hOTTRR?oc=5",
           "region": "national"
@@ -30,13 +37,6 @@
           "source": "아이뉴스24",
           "date": "2026.08.07.(금) 16:18",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEVDNleFZCR01BN1B1Z2pTOUJZUHY4eGlzM1ZnYW1BN3liOWpGT092ZjJrSE9RN3dzRUpRRy0zZjlCZUJBQklsem0wVQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경기도의료원 파주병원 노사, 응급의료 역량 강화 공동선언",
-          "source": "아시아타임즈",
-          "date": "2026.08.07.(금) 13:18",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50c3lnSkFqaUtxZkdPTEJENGZsOXctOENQR1E4bUhZUURKTUVJQWxzQ2x5czB1U3NoREN4SlMwWVRrLTFtWW1DUmpBSW4yOHRyclZNNFFTdlVKVHc4NVE?oc=5",
           "region": "national"
         },
         {
@@ -58,7 +58,15 @@
     },
     "er_runaround": {
       "label": "응급실 뺑뺑이",
-      "items": [],
+      "items": [
+        {
+          "title": "‘국가 통합출동’ 관할 허문 소방헬기... 중증외상·고위험 산모 골든타임 지켰다",
+          "source": "v.daum.net",
+          "date": "2026.08.07.(금) 13:24",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aRXZDNFRZOE1CNlNTZ1RYLWttcWt6QWxUMmxpTzRqWTRxbFp6bWMwbDM4OGpsUzVxZGtrRk9FX05pbGQ0NVBUenR3V0IxdWs?oc=5",
+          "region": "national"
+        }
+      ],
       "error": null
     },
     "disaster": {
@@ -80,7 +88,7 @@
         },
         {
           "title": "계룡시, '온열질환 응급대응체계' 운영...시민 건강 보호 총력",
-          "source": "뉴스티앤티",
+          "source": "newstnt.com",
           "date": "2026.08.07.(금) 19:00",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RR1o4el9JUTdIMnZLREs1X3ZHTzlSUUJkWUdtRU5GX1h3Ums2NW9VV09UdUVCZHR2bS1wcW9DQ2xEZEJpVFFFbFRmaV9mYlhHcVc3YjBzTk02UmVfTFk2eEI4SGpUMlVieGc?oc=5",
           "region": "national"
@@ -121,7 +129,7 @@
         },
         {
           "title": "한숨 돌린 전북대병원 NICU⋯수면 위로 떠오른 의료진 희생",
-          "source": "jjan.kr",
+          "source": "전북일보 인터넷신문",
           "date": "2026.08.07.(금) 10:39",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91em5zemdiempsUlBHNDF6NHFfNEROWmNLRXRJcEFpbG5UTDdtR3M2TzBINnVfQ3A1RnhGdEZNVHRWb2hWY1B0c2k4MnRFZVV5UjlFctIBWEFVX3lxTFBXMEx3bmhQSUx2WkZEZGJjTFplakZYVi1VRENLVU9Mb2J6TzQ2RWgzdkxIYmtYNXd4d1BEVm80c2xWdmxudXYyVk9JaHpRMzZzc3FWMWdPOVc?oc=5",
           "region": "national"
@@ -132,13 +140,6 @@
     "etc_misc": {
       "label": "기타",
       "items": [
-        {
-          "title": "\"장학금·헌혈… 세라젬의 사회공헌 공유\"",
-          "source": "파이낸셜뉴스",
-          "date": "2026.08.09.(일) 18:33",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qcWVqanRkdXd1UTlCQXh1VjhoaWxpVVBZYTJqMHJialdTNXlpM3VvY3lLMmN4azJGT2FtQ0Q1VmxIZjQ2c2RFS3pJQWFaVkJ3X1NKdi16eUxYdw?oc=5",
-          "region": "national"
-        },
         {
           "title": "공무원 단체헌혈로 ‘생명나눔’ 동참",
           "source": "부산일보",
@@ -155,7 +156,7 @@
         },
         {
           "title": "군산의료원, 무더위 속 ‘사랑의 헌혈 릴레이’",
-          "source": "전북중앙",
+          "source": "jjn.co.kr",
           "date": "2026.08.09.(일) 14:35",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FLWluVE9pVFpLeTJCVXFuTTlYUGlGZ0dLQ2RRckJfb0ExLW5FT1hxSy1pbERkR0R0Mm93c3VoRi1tSGRHWDdEWFFJN0I4eHkxZFRPVS1fMW5iSVlqdTl3Smpac09pOGJC0gFrQVVfeXFMTU9CT0E1b05vMHRjbERPbno5U05iVWNBM044Y3R4MjhxWUt2RGZqX1NsRzdSN0hscUcwVFRGelo5VmttcGFqNTA2VXVoeXFEcUVPdEc3cnRhUUtxaU1tZGtrbjM1cGRnWkQ0X0k?oc=5",
           "region": "national"
@@ -171,7 +172,7 @@
           "title": "군산의료원, 하절기 사랑의 헌혈 릴레이 실시",
           "source": "전민일보",
           "date": "2026.08.09.(일) 12:08",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pTmRlQl9DVFdPYkNpWkgwcGg2alh5dWpJakRrZ1NaZktfVGtmMFNYWFc3c1lqVjBEcjZQQjNEel8yeFZKUlVhVHM1bnB1MXFTeUNnMm1aYXo5M3lFWjBiaGFJekgyWlJyck1Z?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DQWRlSURUQ1BrM3pjNTV3ZnZaRkFMU3p6NEZiTWF5Tm40c09tVWE4T3hpTktaUUtmU1haaVVQbkVsVlpYeFVmcTF1MFU2a08xWFhPdmtwZmpOb3pVNFVyamptLW1tenFQSXRQMA?oc=5",
           "region": "national"
         },
         {
@@ -197,7 +198,7 @@
         },
         {
           "title": "울산항만공사 노사, 여름철 사랑나눔 헌혈 캠페인",
-          "source": "중도일보",
+          "source": "joongdo.co.kr",
           "date": "2026.08.08.(토) 09:19",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50U3ctdkV6T21wdHhRWlJCZzcyQmhIbThSRDFhaGgzVHk1NFdkMldXNlhZOVhNR1ZYbG9xcWhDYVFTR0Z2NEVMaFZlYXgtVVdGR1RkT3ZQTkhYV1ZjRkFNQmxqYVZQaWdxY3M3TQ?oc=5",
           "region": "national"
@@ -242,6 +243,13 @@
           "source": "한국해운신문",
           "date": "2026.08.07.(금) 17:24",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhNlktOWxSRmhsMlBoVzBEQ1ltSHl5VGJIQTlFbU1ZTGg1R1Q2QW5va3RPamZ5Ti0wRnE2bWZnVVVHbzhJQVNKZHpHVE1MUWUyLTRLWGMzTlBIM2JYWDByZXhGV1hUUjB5Nm9iY0IxTTVwZ0U?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "노원소방서, 폭염 대비 ‘찾아가는 119안전캠프’ 운영",
+          "source": "소방방재신문",
+          "date": "2026.08.07.(금) 17:00",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HUkQwLUs1enQ0VXN2d2JFOUJIbm53TU03aWdDdzI5SHZmTUk1MS1oZURhSU9lMzZzYXBWQUIxVEJ4eGFUOFE?oc=5",
           "region": "national"
         },
         {
@@ -295,7 +303,7 @@
         },
         {
           "title": "영덕군·소방서, 여름철 물놀이 안전사고 예방 캠페인",
-          "source": "경북뉴스",
+          "source": "kbnews.kr",
           "date": "2026.08.07.(금) 13:05",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95NnluS1dabHN3WGFnZVpiTHFjQ0JtS18wMzVnbEJWc21kWW53RmcxUS1MOFJONnJyeVpkT2JVMGZfdUotaGlJYjFRY3JFek1hR040SnllR3dRMDg?oc=5",
           "region": "national"
