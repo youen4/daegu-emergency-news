@@ -1,30 +1,350 @@
 {
-  "generatedAt": "2026-08-10T16:11:23.539740+00:00",
+  "generatedAt": "2026-08-10T19:24:01.045304+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
-      "items": [],
-      "error": "HTTP Error 503: Service Unavailable"
+      "items": [
+        {
+          "title": "가천대 길병원, 광복절 연휴 의료공백 최소화…17일 정상진료",
+          "source": "더퍼스트미디어",
+          "date": "2026.08.10.(월) 17:40",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12d1haSXVWa3QwZENuN1JXU3RuMUZNZ2Z5TkVOQUw2amhJQ0V4OUxhUUUtN3ZTTmNVQ1BicVhYUExXU3lUck43NTdxMHE5LXd2NTVWOEpocHZIZVRBMDhDOVYtU1Z4dFR6TlhLYktKSUpnd9IBdEFVX3lxTE5xTGVaNDM2bDNfRTlzYkNaT3RfZ1EtYmh3ZUZWYXNlUUt3MWFOSncwazVjU1g5ZF9GQ2VFakFEUlJpZ1FHanpBMmNEeHI2dmEwMV9JeVBSNm1MdkNSOXY4d25NR0hWQk5uTWpZQjM5QXZRWHZy?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "가천대 길병원, 광복절 대체공휴일 정상진료",
+          "source": "뉴시스",
+          "date": "2026.08.10.(월) 16:56",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJcDctN2xESXZLMTU0N1p1UkE3ZDFHQVNzTWtxb2JiYzN1am11dkhIWWxmU2JlblAzNlVNOU1qbjk5VjBOQ2hZeWZnUGxWUlpJMHpZeUFsakZRODhBbkQzSVJ1ZW5LTDZOdEhSR01xdXdiSWwzSW9jcdIBeEFVX3lxTFBJcDctN2xESXZLMTU0N1p1UkE3ZDFHQVNzTWtxb2JiYzN1am11dkhIWWxmU2JlblAzNlVNOU1qbjk5VjBOQ2hZeWZnUGxWUlpJMHpZeUFsakZRODhBbkQzSVJ1ZW5LTDZOdEhSR01xdXdiSWwzSW9jcQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "권역응급의료센터 지정 강원대병원 역할 커지는데…",
+          "source": "데일리메디",
+          "date": "2026.08.10.(월) 15:19",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QNVlyeW5sTUVDWXI1R3A4MXJISHA0RnYtV2pUZjhmOC1XY3pValNrVW4tVlZjc2lGenI2S1dYOWh3b2xzVGlJdzFfWVgyVk0xX1RaNFl6Y2UyTkxTbDBYdzlNMDlmSXhk?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "가천대 길병원…17일 대체공휴일에도 ‘정상진료’",
+          "source": "경기일보",
+          "date": "2026.08.10.(월) 15:02",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZLUE2elpTZXdNRDJvVGJMMTFkNV8zZHU4LWVRcFI2NXc5S3dnNF9TZjJCdDdXcHkzLTBhWjI1YXZXcnVnTlhSLURaTl9pOFVUTWk4dENXd29YREE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "광복절 대체공휴일 17일, 어느 병원 문 여나…길병원·백병원 등 정상진료",
+          "source": "네이트",
+          "date": "2026.08.10.(월) 14:35",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MMy1GVHdiejUzMWx1bFlDdTAtZzlSY0VfdjdLbG9BeVU4TUV3OUtUdGtBQTVKZW9OcXFLMWZWV0ttbktfeVpLTXVLT3AwMzhIMURF?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "가천대 길병원, 광복절 대체공휴일 17일 정상 진료",
+          "source": "네이트",
+          "date": "2026.08.10.(월) 11:36",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90REdNVWE1eHhYcWswdld6WmxuVk1qQ1ZGUHJCckZRWGhRT1pHSVI4MF9mWjhjR1BfeDFFWl9WUTNKekg5aGVnVmpYZDM3OC1ZUjB6VnlCZFRDbVAzNUFhUg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "파주병원 노사 “응급의료·포괄 2차 진료역량 강화”",
+          "source": "데일리메디",
+          "date": "2026.08.08.(토) 05:57",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2WENTZDFaOWg4bUlrMTBoUWJrakxkRGtIWGlwS3JlNlNGaDNGNUpmMGVoaWZrQ3B0ckdJLWROeXpEdTBaVjVDbjZWZ01wTUdqeWVhZlJSY2Vpb2JZWEhwdWJSdTFxbEFNU2hwdGRaeHA4V01h?oc=5",
+          "region": "national"
+        }
+      ],
+      "error": null
     },
     "er_runaround": {
       "label": "응급실 뺑뺑이",
-      "items": [],
-      "error": "HTTP Error 503: Service Unavailable"
+      "items": [
+        {
+          "title": "˝희귀질환 진단·치료, 국가가 책임져야˝…51년 투병 환우, 국립센터 설립 청원:동아경제신문 & daenews.co.kr",
+          "source": "daenews.co.kr",
+          "date": "2026.08.10.(월) 16:45",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jTjdsMm45Wk1qREZka01LVE81QWFRTkoyM003a3dFOUdLTlhKUzY0ZjE1X0NsbjQ0U01nOVpXSklTVFk3U0E0LThVODNrVmVfaVNWcld0ZGdsWkh6QnY5dEp30gFiQVVfeXFMTWNON2wybjlaTWpERmRrTUtUTzVBYVFOSjIzTTdrd0U5R0tOWEpTNjRmMTVfQ2xuNDRTTWc5WldKSVNUWTdTQTQtOFU4M2tWZV9pU1ZyV3RkZ2xaSHpCdjl0Snc?oc=5",
+          "region": "national"
+        }
+      ],
+      "error": null
     },
     "disaster": {
       "label": "재난의료",
-      "items": [],
-      "error": "HTTP Error 503: Service Unavailable"
+      "items": [
+        {
+          "title": "[인사발령] 보건복지부,조달청,해양수산부:장애인인식개선신문",
+          "source": "장애인인식개선신문",
+          "date": "2026.08.10.(월) 23:16",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE90MjVMUUtFbEh4VmFITFIxS004eHlaWlNSb2lzT0VpV2Z0UHE2Si1Jb2lJcEd2NUdrai1JRDNpeW9lUTjSAV9BVV95cUxOTUYyQ3FtZk96SDFFNFM2VDZrX1FVdWtvOE1pa01CZmhYeEFZREIxemctRTJVQlRoSVBBZGl6MENFaUtMZWVCcjROR25pZTZCTENLRHluUEF0UGt2WFU0WQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "계룡시, 폭염 대응 온열질환 응급의료체계 강화",
+          "source": "충남문화신문",
+          "date": "2026.08.10.(월) 20:16",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3dFFna0R0VHI2c0haendrbDUtX1VKVlgxWkJHYWNFWmp6OWVBbGRLYVBhNV85b3YwTVFfREhTcGhCOHZSWXFhX1BHM2xWdHV3Y2lMWkNSTTdDYXJtRlhPQUMxMGtGZ2xtWGJpNtIBbEFVX3lxTFA3dFFna0R0VHI2c0haendrbDUtX1VKVlgxWkJHYWNFWmp6OWVBbGRLYVBhNV85b3YwTVFfREhTcGhCOHZSWXFhX1BHM2xWdHV3Y2lMWkNSTTdDYXJtRlhPQUMxMGtGZ2xtWGJpNg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "보건복지부, 폭염 확대·장기화에 따른 폭염대응 비상대책본부 가동",
+          "source": "DWBNEWS",
+          "date": "2026.08.10.(월) 15:18",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zbEg4VjI4VVVrWmxJTm85S25YdWo4VlVJN25ueVlkVjAxcjVsdlB2SHNjaklhVUtUMVcxdlRuZlBRWkJVTG5RbktPSFM2V2J3N1dYMjJsM2lSdGdySFhNTDhoa1pfZThT?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "복지부, ‘폭염대응 비상대책본부’ 구성·운영",
+          "source": "재활뉴스",
+          "date": "2026.08.08.(토) 12:00",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Eam93b0JOd2dQUHdCbVVMSlViWEZUT1N0czBVNXNjUEdzcXJ6RnFidTFkNFNzYzJHekdPTUZMenpiS0NENUxPcUFocUpFSU54ZWowSFJGOEcxYXpqZ1AyelJyWEFWYmpkNVhv?oc=5",
+          "region": "national"
+        }
+      ],
+      "error": null
     },
     "pediatric": {
       "label": "소아응급의료",
-      "items": [],
-      "error": "HTTP Error 503: Service Unavailable"
+      "items": [
+        {
+          "title": "전북대병원 ‘신생아 중환자실’ 지키던 김진규 교수, '사직 표명' 후 다시 돌아왔지만 ‘문제점’ 여전...근본 대책은?",
+          "source": "전북의소리",
+          "date": "2026.08.10.(월) 06:43",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94WnoxMU5iQWhtU094UUlqanFURW5jQXA0a0tXV3JQRHB5MUctb28zR0IteW9JRnlDS1FYN3VJTWRXNzlpQUNuRjZfMUVhRktEeXNFRkp4VlVmcFhqekJqVHBOT1c1U2M?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전국 소아중증환자 40% 서울 '빅5'로",
+          "source": "edaily.co.kr",
+          "date": "2026.08.10.(월) 05:42",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV1hyUzQ2bU44VWM2TVc1Mk5Pb3FKc3FZOEhYWUtsLU9lUEJYaVc0eXlVM0NueW9UdHpvQVhaeFM3LTB6MWZhVGVOOXVkYnljbzBuMlBLY2lxY051ZFpyNzNCazVKY1JKTWM0akotWFp0QXZvd0JHU2puclk0YnlqMw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "젊은 의사 필수의료 기피…소아심장외과의 9년 뒤 17명 뿐",
+          "source": "edaily.co.kr",
+          "date": "2026.08.10.(월) 05:40",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmxqMVprWmhmMzExUUZpQkk2NUxVdW5kOFp0YnZjbWFjOUNvMEVTdnhhYW9RZTZwbWRQSDAzQjhkVUs4WTFuNUtJYW5lNDBzMFplbXpBSG5DNmhWZ0NYQmduaWx2bGUySHJZRXRVa0NyTGVDdll6V1JTY2V4aEQ1UA?oc=5",
+          "region": "national"
+        }
+      ],
+      "error": null
     },
     "etc_misc": {
       "label": "기타",
-      "items": [],
-      "error": "HTTP Error 503: Service Unavailable"
+      "items": [
+        {
+          "title": "거창군, 오는 13일 대동 로터리에서 헌혈 행사 개최",
+          "source": "경남경제",
+          "date": "2026.08.10.(월) 23:14",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ObjJVeGo3YzdJMEpSa2ZQYmhTWWJUZ3d1S3d6QTNOZlRsVGVqeElBNFFIMjNHUmFtODNXbnBtRFFhNmMzZ05IbHFqTnF4RHI0Wk9vcXk5UHRGZUxTUk5PaWswQUc4aFd30gFoQVVfeXFMTU5uMlV4ajdjN0kwSlJrZlBiaFNZYlRnd3VLd3pBM05mVGxUZWp4SUE0UUgyM0dSYW04M1ducG1EUWE2YzNnTkhscWpOcXhEcjRaT29xeTlQdEZlTFNSTk9pazBBRzhoV3c?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"올해 헌혈 3번 하셨나요?\" 음성군보건소, 따뜻한 생명 나눔 '헌혈챌린지' 운영",
+          "source": "음성뉴스",
+          "date": "2026.08.10.(월) 22:01",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52c2p1UHhzMTkyeEtUNVRSZU1Cdm5pdmVaaThndXNzbjJtT21TbG5WWl9nZzQ0ajFjZlEtTUMwQ1VwQ3F6bEZheWQ0LXFNa1daYXMxQnE4VXRxZmdhRUJCVHFRV2RuR0pn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "원주시, 여름 휴가철 물놀이 안전사고 예방 총력",
+          "source": "jnewstimes.com",
+          "date": "2026.08.10.(월) 21:02",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tWkRUOGJ1YXF3a2JqcE5KcGZDMGlacHpXaE1iMDBrUF9IUG1fcmc2N0FXTTkwcnlFVC1zdFRLZjQ2SFhJQWM1dmRKWXBhS0stR05hbHAtdmxqaXpHdl9KLWpLaEU?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포천문화관광재단, 여름철 혈액 수급 안정화 위한 단체헌혈 ‘피-크닉’ 진행",
+          "source": "내외뉴스통신",
+          "date": "2026.08.10.(월) 19:36",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aUDNUZ3R5empBbUtGVlJiNWg4aEtqVUhjOTlmd1hLQVFoNzM2clR6cmctQkhhOFJBTUs3dWxua0lDbjJGMHNCZVhKVkUzTTBiV0lETkVXby1za2Q5enBFZDZaTzZsOFhKMWRlZVlBbHbSAXBBVV95cUxNWlAzVGd0eXpqQW1LRlZSYjVoOGhLalVIYzk5ZndYS0FRaDczNnJUenJnLUJIYThSQU1LN3VsbmtJQ24yRjBzQmVYSlZFM00wYldJRE5FV28tc2tkOXpwRWQ2Wk82bDhYSjFkZWVZQWx2?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경기도의료원 포천병원, 심폐소생술 교육 강화…‘골든타임 4분’ 대응력 높인다",
+          "source": "아이뉴스24",
+          "date": "2026.08.10.(월) 18:14",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LZVd1R2loQktUc2R6WkdUUkRXWWNfcnVVNWhTcXJtUWMtNXZwMnhTNFpRRlZfOWdpVTZ3SkIxSDdYaXRWNW9sb3RUWkc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "아워박스, 헌혈 캠페인 정례화…상반기 이어 임직원 참여",
+          "source": "매일일보",
+          "date": "2026.08.10.(월) 17:56",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01TlhVbTFwdk1GY2RRMEhWcUgwLWNuX3ljQnoyVnZfNFhuXzc5bGRaUVdjRElrOURhWjlWOE1ZcGZZSlpZM1pqUll2Mi1LWWI5TnlFbWJwVXcyWS1pY3FKbVZ1ZUI?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "아워박스, 하반기 '생명을 잇는 헌혈캠페인' 실시",
+          "source": "네이트",
+          "date": "2026.08.10.(월) 17:51",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oMl9zWTU3TVhaVXZaUzFEMWMxWjByUzVNeGZFekJQOWFFcE1reTJEQkZNb05iWFJ5dVBrZlVMaFFadGFkZmo3WHpJNjZNMGRGTDhobm5wUzlTdTlsbUI2Ng?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "아워박스, 하반기 '생명을 잇는 헌혈캠페인' 실시 - 머니투데이",
+          "source": "머니투데이",
+          "date": "2026.08.10.(월) 17:50",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jX0JTT3BEamZTVXdMbzNDU1dZMEVEanZOS2hnQUZpYmpxa1Jmdmd4aUdwZkhBNVlBUHd0c1kwSWZ4SlpLaWx2eDUzU2NaaXBhVWloNlFjZS1BN2lBZVBTUHNzbjQ2TUxfV01HbjhDNNIBb0FVX3lxTE1jX0JTT3BEamZTVXdMbzNDU1dZMEVEanZOS2hnQUZpYmpxa1Jmdmd4aUdwZkhBNVlBUHd0c1kwSWZ4SlpLaWx2eDUzU2NaaXBhVWloNlFjZS1BN2lBZVBTUHNzbjQ2TUxfV01HbjhDNA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "거창군, 대동 로터리에서 헌혈 행사 개최",
+          "source": "뉴스팟",
+          "date": "2026.08.10.(월) 17:45",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB1VktNcDR6ZmtGLUgxR2FYNk1MbW5SWVI5aWl0T3ZsRlJMaTlBaXFvaDI2SnFFbDhhd3VsTGhqRGpod1k?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "부산진소방서, ‘안전은 체험으로’... 돌봄 공백 아동 소방안전교육 실시",
+          "source": "sobangnews.kr",
+          "date": "2026.08.10.(월) 17:11",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EU2ZTLXF3TEdUanRNRTRPa0x2YXJqZG1BQ3FjdGp4aW5ZZ1FiYWZDR25SUWNVclNmUVYxVmxXN0VBYjRaaWNoa0RQb2o4aTdLVWJ5WkNZaXlRY0h2b0JvUS1xNXljNmM3bHB3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "사상소방서, 여름철 혈액수급 위기 극복 위한 '119 사랑의 헌혈행사' 실시",
+          "source": "sobangnews.kr",
+          "date": "2026.08.10.(월) 17:05",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11dV9CMmNSZjVLNkRlMG5fUFdtMDdLRHB2S1BQVkdUSEpMVDVSYXR2VGJfVlVwMzc1S09SZWxpNEtBUTQweW1yWmgxMGpKbWhhX24yMUFZXzdGbF9QbWZwc2tFZU5meDE2RGFj?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "인천 부평구시설관리공단, 임직원 18명 단체 헌혈 참여",
+          "source": "뉴시스",
+          "date": "2026.08.10.(월) 16:43",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BMVR3YTBmRlBrWDhzSnA5dHFzYnZGeHpHc0RJYnhtdl9ydU1UZF9YYTBRcVFBNWg5NFdNN2hRU05jdFAwaE5PYnl0dGwybzQ3RFVHUVhQNWpCdHhUajB3Wlpidy03cnF0NlhsQk5XSGtBUS1YcXNrc9IBeEFVX3lxTE9BMVR3YTBmRlBrWDhzSnA5dHFzYnZGeHpHc0RJYnhtdl9ydU1UZF9YYTBRcVFBNWg5NFdNN2hRU05jdFAwaE5PYnl0dGwybzQ3RFVHUVhQNWpCdHhUajB3Wlpidy03cnF0NlhsQk5XSGtBUS1YcXNrcw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "서귀포시, 표선해변 하얀모래축제에서 심폐소생술 체험부스 운영:경찰연합신문",
+          "source": "경찰연합신문",
+          "date": "2026.08.10.(월) 16:37",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GdHhZSEtlbDJqUGR5cVZjUHdhOV9jdElfZG05R3FyRlh6SUl0a2VlNHh2UFZhUmJYVUdmRFFEN0xCVFl1ejVwRTlLSjFXbknSAWxBVV95cUxQalJua09hX25VOVdlMC1LVmw5WmNwalNwd3lpWW5kZWhEYzBYdExyVFluLWVxSnlydG9aZmNpR3QwZjBvcGZKRi04QjFCODJGbmZibi1MbHBvOGtzQksxTmFBbHJHTllzLUU5dnM?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "울산 남부소방서 에이(A)플러스재활노인복지센터 소방안전교육 실시:경찰연합신문",
+          "source": "경찰연합신문",
+          "date": "2026.08.10.(월) 16:34",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84VWRkemMwWXIzSmZNbFVzX1pmV1BSRE5jQTdqNUdUWlhSdm0xZ2xya1ZaWmR3WFlmRjdsWmJIdnVHN2pvc1dzZ1JzYkREeXVC0gFsQVVfeXFMTmFmSkFPRi1QV05UMGV2Q2NaRE5ONFZXODVOV0tPcHJOX0ZSQ21sX1JldGNxZzducEhrVGUxdklueGZsaVJRWENsVXJ5RVBSMWpYY0dxVTA5XzlUa3p3aDhGTTcweGdhb3R4bllp?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포항시, 녹지관리 근로자 안전보건교육 실시…폭염 대응·작업 안전 강화:경찰연합신문",
+          "source": "경찰연합신문",
+          "date": "2026.08.10.(월) 16:20",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pTWc4SVVvcmtPd05VOTFlRHVFQnVUWEV4emRlNkJ3MVlSZWRoMkNyaEVTWnVHZDd5LUZlVlI3Y1FkTjdBekdjV0tyYTJVZUnSAWxBVV95cUxOMFUtMUxId25vTGFGR09UOW50VG5KblZaSDhsT2VMcXFPOHo4eGUtaFVBdHZjVHV3ZWhHeWdnaUpGaVd2V3dVYWVFVGIwbmxmSGlibHhuRmJQcE95UmhLUVZLazBzbS1BTElrUkU?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "구미역에 ‘헌혈의 집 구미센터’ 새 둥지, “한 방울의 피가 생명을 살린다”",
+          "source": "검경일보",
+          "date": "2026.08.10.(월) 16:18",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OWWItVm03c1Brb2o4OFhwamRVaUhtaGNkMUIxUEdUd2gzaWp4c0FybmxBMFVnVFJaTWtqaDNrdHJ3WTJNbnRpdC1CeUZKSnVzN0tVM1hnTHVIbi0ydGJzV1Rla3pqQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "수원시 팔달구 화서2동 주민자치회, 마을리빙랩 폐건전지 수거함 모니터링",
+          "source": "경인종합일보",
+          "date": "2026.08.10.(월) 16:09",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oaEdkN2JnYWNxOE9BR3BYVDZwc0xpZ3E3TGo5VXFLQ0ZaTVA0TlB2OVNiWFRxNlp3SUtFQ0dtVTZrN0tRSUtBbUgwV2JyTy02N3FaZGRHNUJUYkdXRV9OWkY1bDF3dnVZdG1wRHVR0gFyQVVfeXFMTjFjbjlTLWFjM0N3YmRfNlBLZTFPSUVsQXItSy1vYjh2aW90bHRPbk9nZ1NVRERGelJlOHo4bEZrMUV1Uk4yWTEyVXItOFd0Yl9QajlwclFUTmVrWHE5LV9FY3dMZGJxVXZvdW5zOEdQdEVB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "김해서부소방서, 2026년 하반기 소방안전강사 소집회의",
+          "source": "소방방재신문",
+          "date": "2026.08.10.(월) 15:29",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10M0dGSzhwMFlmM3ZNYlNrRFdOMS1OdlFuRE5yZXYzZ3VIdUxEU0VEVmY3RWxBcldkME5GSGhEMmw2cDgy?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[평창소식]도내 18개 시·군 잇는 생명나눔 헌혈 릴레이 등",
+          "source": "뉴시스",
+          "date": "2026.08.10.(월) 15:04",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CU05YbzhGMXAwMDhiTmpBMzdiNEFuSlZtQ2lBSVhYTy1EUmtDTFZxSjBxUUFKOTYzdFU5Q2tmY2dzT0xwS2FSbFA0RlNxYTZPLVJ6MmZKeENSM3lmOGc4VDdJUnVUc0d2MW1NRlo3S29GX1NodTlRd9IBeEFVX3lxTE5CU05YbzhGMXAwMDhiTmpBMzdiNEFuSlZtQ2lBSVhYTy1EUmtDTFZxSjBxUUFKOTYzdFU5Q2tmY2dzT0xwS2FSbFA0RlNxYTZPLVJ6MmZKeENSM3lmOGc4VDdJUnVUc0d2MW1NRlo3S29GX1NodTlRdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전남광주통합특별시교육청 광주교육연수원, 신규 교육공무직원 기본교육 과정 운영",
+          "source": "문화매일신문",
+          "date": "2026.08.10.(월) 14:50",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CMG1RdzFmNDB6enAxTmlHcTFQSXlVd0I2Tl8zMUVoUmc3WEI0RVkwVUdCSC1pV0oyN3JtQ2pwQ28xX0JTNlZ2Wk5sQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포천문화관광재단, 여름철 단체 헌혈 ‘피-크닉’ 진행",
+          "source": "매일일보",
+          "date": "2026.08.10.(월) 14:47",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lUTgyUmthMFU3VGxfQlBwN1BrWV9GSE02d2FpczFTSjQzR0g1LXlhRnVXMU1TTXRPS2MxQjg4MmRtVWhvMjU4amc5WGhjTndRaVhaZWNOV0ExREtTdVY3cFRDUFo?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "완도해경, 중학생 대상 ‘해양경찰 직업체험 프로그램’ 운영",
+          "source": "일등방송",
+          "date": "2026.08.10.(월) 14:46",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5FaDRQSTNGY3FuckRCcHpMRS11dFM2SlJGengteU05RGJ4Q1lVLVhSdy0wcXd2RjljVUowUjVyOEdic08x?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "평창군, 군민·지역단체와 '사랑의 헌혈 릴레이' 캠페인",
+          "source": "연합뉴스",
+          "date": "2026.08.10.(월) 14:41",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rZmM3eHU5Ykx5Y2RnTUVIclZGOUNjanpUenJKRWR0c0cwaE9ydEM4ckxMT1A1RFMycGtlV3dCYnQ3V3cyQURPQXo2VVh3TUg2MDBkTlJpb3pEN2sxUzNSatIBYEFVX3lxTE1rZmM3eHU5Ykx5Y2RnTUVIclZGOUNjanpUenJKRWR0c0cwaE9ydEM4ckxMT1A1RFMycGtlV3dCYnQ3V3cyQURPQXo2VVh3TUg2MDBkTlJpb3pEN2sxUzNSag?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "부평구시설관리공단, 폭염 속 단체 헌혈로 생명 나눔 실천",
+          "source": "대한투데이",
+          "date": "2026.08.10.(월) 14:24",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KTUdBeUYxWHZZWVIxWGk1emh5WlEzaUhBSlZNTjIwM1Q5c0lvZVl0a3NEdWZnZlZ6V01tX1B0anFmU3lZWTQ3LW5VWWRQMU9IN1hiU2J4bHVySE1hel9FZFZZaDZGQm16TFE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "인천 부평구시설관리공단, 인천혈액원 연계 단체 헌혈에 임직원 자발적 참여",
+          "source": "경인매일",
+          "date": "2026.08.10.(월) 13:01",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iRTdzNS1oRXZsMnZDYV9NVGRYeDVNclNZZ3UwOUItWmVEejFuNTRfdmNkSk1TODhUTnFwcy0tN0g1VEpNcVUwTVMtMjJVcHVYVGFsSFFlNHJORDlqZjF5a2YyRTd4bHN0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "평창군 '생명나눔-사랑의 헌혈 릴레이' 개최",
+          "source": "CNB뉴스",
+          "date": "2026.08.10.(월) 12:24",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53Qm9oSUJNM1RJZ2lVQm5xS2hPd3pKRHc1aXBMR0tUZEt5TDk5MFBJZ0ZmY0M4TE1kS25zWjVoc2tCaGFlWDl3bmwzYkRUSzFMQmd0MnpNemkwZjJhc05VdFFxLUVwM3g3SkJR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "울진소방서, 2026년도 여름휴가철 119이동안전체험센터 운영:경찰연합신문",
+          "source": "경찰연합신문",
+          "date": "2026.08.10.(월) 12:04",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KUmk4aUVwbUY5amx0R29mNXJYQzRNRWdTNzc3UzR2TklvbWh6ZThNRVBabnd0RHpuVGV3cTNLV3FGaWF6Mi1IMzlfTGZIcEHSAWxBVV95cUxOSFNkVkljTG5FNW8yR2J4MzVsdWNNYUtpamw4UUhoQVI3Z21nWDNxMWZMaDVJdHZzd3pPalBrNGVLd3RjdmJ5eFhQWllMSXVQSnU5VUVzazlJNUZ1dTVzVmFSNkUyRHRXaXg4Tm0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대구동부소방서, 의소대 강의경연대회 심폐소생술 분야 1위 입상팀 격려",
+          "source": "소방방재신문",
+          "date": "2026.08.10.(월) 11:30",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IN1pTZ3h3RzB5N2FXY3hhN1JOMGo3ZDl2OUR2dXlDdTc0UFY4WlBJR19yVWdLQWdQRWZka0kxR2pmd1RjU0E?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "인천혈액원, 해병대 제2사단에 헌혈퍼즐 우수단체 감사패 전달",
+          "source": "시사타임즈",
+          "date": "2026.08.10.(월) 11:26",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVphWVlCYTU1MklaYjR2RWg0SDR1bnVDLTFQVUtQMGc1d2NaSi1GUms4WXpyOTVWdFp6SEZheGhzZlVMc2EzV3NrVVJzcHBHN3o4QURHc3hRVmtISS02MGpPMVBkSkRaOGV2Q2xWTXVJU3FNRkdXeXU2WjhObnRlaQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "서귀포시교육지원청, 보호자와 함께 초등생 생존수영 교육",
+          "source": "연합뉴스",
+          "date": "2026.08.10.(월) 11:14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MYV9oS1I3UzVLc0xUS1Q5Yk1FLWdQbVV0b241YVMwT2FRZ1hFWHowczZYdTdSaHRTVjFTSlBWTmtGMmdvN3dYZktZYm92Sm9Bdk9sOHRlOElEVjTSAWBBVV95cUxPRkx1Rm92aXU5d0taeGl2SjJKR1JEVnJ2ZzBkTzJ6bTVrOHBITnJmalFDZDk3S0hoVUgwN25mR2h0enp4UDFTOXQ0UzdabmNPRUxad1RCOUVFVE41X2U3MVc?oc=5",
+          "region": "national"
+        }
+      ],
+      "error": null
     }
   }
 }
