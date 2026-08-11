@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:01:06.898103+00:00",
+  "generatedAt": "2026-08-11T02:30:50.775589+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -54,7 +54,7 @@
       "items": [
         {
           "title": "\"지방 응급실에서 동생들이 죽어간다\"···청원, 1만명 그쳐",
-          "source": "메디칼업저버",
+          "source": "monews.co.kr",
           "date": "2026.08.11.(화) 05:32",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GMUd3MGNkeXFqc2FQcHlRSzBDVmVRdXJlS1A5cWRfNXZQeDFpeFdOTU5QLUhYZ0h0NGlvVC1VYUMxS3ZHVWZmc2dfbjVtSTZ0TWhZQm9BaUs5TEVvZk91TmdidXpMemVxWjNB?oc=5",
           "region": "national"
@@ -134,17 +134,52 @@
       "label": "기타",
       "items": [
         {
+          "title": "전북바이오진흥원, 하절기 혈액 수급난 해소 위해 헌혈 동참",
+          "source": "투데이안",
+          "date": "2026.08.11.(화) 11:11",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zcXZ3emo2S2Z5UUlMZEdkcng4WGxtWmtvU0RfdFNWT25icmszT3QxOG5rOGtXeHMwa0NFUXkwdE1ZN2JEdXZYejNlZW9XRUVkQ1Nvckd1a3RNaFpUb09KSEZFckdOSE9X?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대전 중구, 여름철 혈액수급 안정을 위한'사랑의 헌혈' 행사 실시",
+          "source": "내외일보",
+          "date": "2026.08.11.(화) 10:43",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jLThSRVp0eEpoN3ZuVmtIdU84YXZDWVktc3dPVHBJNTdvb3pwLWwtcFlpQUllajlLZXRDZ3RYaW01RGZ4ZnBkT2JLM1ZXQUlWaExnRnZub0NlWElfZndsRzNpcDJKRmJhdnBGYkdUMA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "`현혈 관심도 높여야` 삼성화재 선수단, 연고지 대전서 헌혈 캠페인 함께 해",
+          "source": "마이데일리",
+          "date": "2026.08.11.(화) 10:37",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wQ1dEYlZWQjk2ekRPbHlTazhNRERZRUt3bEtNeTctR3pEM1FZemN2NDlCSFI0a3h4ODRyc2dNUTZWandzU0JnU2llWGh3UHhDMHIxMHJmZGExVW9EVWd1dFlSQjljZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "바이오진흥원, 생명 나눔 릴레이 헌혈 실시",
+          "source": "jtnews.kr",
+          "date": "2026.08.11.(화) 10:16",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wUjBZYnFxZ3owSzBWT1V0c3Y5OTgtRGNlSHBkR2dkdjdQWUFSRTA2TF96Y01jVzhYdjA0VFNjeVNHZnctRGJaRXc5UGNUVV83eTJJNXZMVnJhZTQwT3pHUHZiQmw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "창녕군청소년수련관 방과후아카데미, 대한적십자사 연계 응급처치 교육 실시",
+          "source": "더뉴스코리아",
+          "date": "2026.08.11.(화) 09:53",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81S3BIOEJIb3AwYTdlUnlJRkRLZ3dDd3RCNG1KOHpmYzhCdWVTQ1o0SFd3bl9SVm5ESDFpOVFJV1g5MjYyTktUWkFn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "＂올해 헌혈 3번 하셨나요?＂ 음성군보건소, 따뜻한 생명 나눔 ′헌혈챌린지′ 운영",
+          "source": "fnewstv.com",
+          "date": "2026.08.11.(화) 08:10",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX1BQcG4walVSOXNMS2lpVHB3cU5MV0ZoQnlCcEdhNlRtNVlHTFNyTVV6LU5TWXVJZFJ2UFBoNlJHWDdMVVYzSUFqS09uSG5id0xnUjZxNmdtMFBkT1BmOGVOdDJRQVpSS2RHbm9qSEI?oc=5",
+          "region": "national"
+        },
+        {
           "title": "거창군, 오는 13일 대동 로터리에서 헌혈 행사 개최",
           "source": "경남경제",
           "date": "2026.08.10.(월) 23:14",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ObjJVeGo3YzdJMEpSa2ZQYmhTWWJUZ3d1S3d6QTNOZlRsVGVqeElBNFFIMjNHUmFtODNXbnBtRFFhNmMzZ05IbHFqTnF4RHI0Wk9vcXk5UHRGZUxTUk5PaWswQUc4aFd30gFoQVVfeXFMTU5uMlV4ajdjN0kwSlJrZlBiaFNZYlRnd3VLd3pBM05mVGxUZWp4SUE0UUgyM0dSYW04M1ducG1EUWE2YzNnTkhscWpOcXhEcjRaT29xeTlQdEZlTFNSTk9pazBBRzhoV3c?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"올해 헌혈 3번 하셨나요?\" 음성군보건소, 따뜻한 생명 나눔 '헌혈챌린지' 운영",
-          "source": "음성뉴스",
-          "date": "2026.08.10.(월) 22:01",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52c2p1UHhzMTkyeEtUNVRSZU1Cdm5pdmVaaThndXNzbjJtT21TbG5WWl9nZzQ0ajFjZlEtTUMwQ1VwQ3F6bEZheWQ0LXFNa1daYXMxQnE4VXRxZmdhRUJCVHFRV2RuR0pn?oc=5",
           "region": "national"
         },
         {
@@ -184,7 +219,7 @@
         },
         {
           "title": "아워박스, 하반기 '생명을 잇는 헌혈캠페인' 실시 - 머니투데이",
-          "source": "머니투데이",
+          "source": "mt.co.kr",
           "date": "2026.08.10.(월) 17:50",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jX0JTT3BEamZTVXdMbzNDU1dZMEVEanZOS2hnQUZpYmpxa1Jmdmd4aUdwZkhBNVlBUHd0c1kwSWZ4SlpLaWx2eDUzU2NaaXBhVWloNlFjZS1BN2lBZVBTUHNzbjQ2TUxfV01HbjhDNNIBb0FVX3lxTE1jX0JTT3BEamZTVXdMbzNDU1dZMEVEanZOS2hnQUZpYmpxa1Jmdmd4aUdwZkhBNVlBUHd0c1kwSWZ4SlpLaWx2eDUzU2NaaXBhVWloNlFjZS1BN2lBZVBTUHNzbjQ2TUxfV01HbjhDNA?oc=5",
           "region": "national"
@@ -247,14 +282,14 @@
         },
         {
           "title": "수원시 팔달구 화서2동 주민자치회, 마을리빙랩 폐건전지 수거함 모니터링",
-          "source": "경인종합일보",
+          "source": "jonghapnews.com",
           "date": "2026.08.10.(월) 16:09",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oaEdkN2JnYWNxOE9BR3BYVDZwc0xpZ3E3TGo5VXFLQ0ZaTVA0TlB2OVNiWFRxNlp3SUtFQ0dtVTZrN0tRSUtBbUgwV2JyTy02N3FaZGRHNUJUYkdXRV9OWkY1bDF3dnVZdG1wRHVR0gFyQVVfeXFMTjFjbjlTLWFjM0N3YmRfNlBLZTFPSUVsQXItSy1vYjh2aW90bHRPbk9nZ1NVRERGelJlOHo4bEZrMUV1Uk4yWTEyVXItOFd0Yl9QajlwclFUTmVrWHE5LV9FY3dMZGJxVXZvdW5zOEdQdEVB?oc=5",
           "region": "national"
         },
         {
           "title": "김해서부소방서, 2026년 하반기 소방안전강사 소집회의",
-          "source": "소방방재신문",
+          "source": "fpn119.co.kr",
           "date": "2026.08.10.(월) 15:29",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10M0dGSzhwMFlmM3ZNYlNrRFdOMS1OdlFuRE5yZXYzZ3VIdUxEU0VEVmY3RWxBcldkME5GSGhEMmw2cDgy?oc=5",
           "region": "national"
@@ -306,41 +341,6 @@
           "source": "경인매일",
           "date": "2026.08.10.(월) 13:01",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iRTdzNS1oRXZsMnZDYV9NVGRYeDVNclNZZ3UwOUItWmVEejFuNTRfdmNkSk1TODhUTnFwcy0tN0g1VEpNcVUwTVMtMjJVcHVYVGFsSFFlNHJORDlqZjF5a2YyRTd4bHN0?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "평창군 '생명나눔-사랑의 헌혈 릴레이' 개최",
-          "source": "CNB뉴스",
-          "date": "2026.08.10.(월) 12:24",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53Qm9oSUJNM1RJZ2lVQm5xS2hPd3pKRHc1aXBMR0tUZEt5TDk5MFBJZ0ZmY0M4TE1kS25zWjVoc2tCaGFlWDl3bmwzYkRUSzFMQmd0MnpNemkwZjJhc05VdFFxLUVwM3g3SkJR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "울진소방서, 2026년도 여름휴가철 119이동안전체험센터 운영:경찰연합신문",
-          "source": "경찰연합신문",
-          "date": "2026.08.10.(월) 12:04",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KUmk4aUVwbUY5amx0R29mNXJYQzRNRWdTNzc3UzR2TklvbWh6ZThNRVBabnd0RHpuVGV3cTNLV3FGaWF6Mi1IMzlfTGZIcEHSAWxBVV95cUxOSFNkVkljTG5FNW8yR2J4MzVsdWNNYUtpamw4UUhoQVI3Z21nWDNxMWZMaDVJdHZzd3pPalBrNGVLd3RjdmJ5eFhQWllMSXVQSnU5VUVzazlJNUZ1dTVzVmFSNkUyRHRXaXg4Tm0?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대구동부소방서, 의소대 강의경연대회 심폐소생술 분야 1위 입상팀 격려",
-          "source": "소방방재신문",
-          "date": "2026.08.10.(월) 11:30",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IN1pTZ3h3RzB5N2FXY3hhN1JOMGo3ZDl2OUR2dXlDdTc0UFY4WlBJR19yVWdLQWdQRWZka0kxR2pmd1RjU0E?oc=5",
-          "region": "daegu"
-        },
-        {
-          "title": "인천혈액원, 해병대 제2사단에 헌혈퍼즐 우수단체 감사패 전달",
-          "source": "시사타임즈",
-          "date": "2026.08.10.(월) 11:26",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVphWVlCYTU1MklaYjR2RWg0SDR1bnVDLTFQVUtQMGc1d2NaSi1GUms4WXpyOTVWdFp6SEZheGhzZlVMc2EzV3NrVVJzcHBHN3o4QURHc3hRVmtISS02MGpPMVBkSkRaOGV2Q2xWTXVJU3FNRkdXeXU2WjhObnRlaQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "서귀포시교육지원청, 보호자와 함께 초등생 생존수영 교육",
-          "source": "연합뉴스",
-          "date": "2026.08.10.(월) 11:14",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MYV9oS1I3UzVLc0xUS1Q5Yk1FLWdQbVV0b241YVMwT2FRZ1hFWHowczZYdTdSaHRTVjFTSlBWTmtGMmdvN3dYZktZYm92Sm9Bdk9sOHRlOElEVjTSAWBBVV95cUxPRkx1Rm92aXU5d0taeGl2SjJKR1JEVnJ2ZzBkTzJ6bTVrOHBITnJmalFDZDk3S0hoVUgwN25mR2h0enp4UDFTOXQ0UzdabmNPRUxad1RCOUVFVE41X2U3MVc?oc=5",
           "region": "national"
         }
       ],
