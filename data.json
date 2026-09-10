@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:30:12.076731+00:00",
+  "generatedAt": "2026-09-10T20:55:42.896503+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -22,7 +22,7 @@
           "title": "온병원 ‘부산시지역응급의료센터’ 재지정",
           "source": "SR타임스",
           "date": "2026.09.10.(목) 16:42",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCNG1xQUh5a0dXSUI4SmdqZW02OXRqaG9UTlFmUGp4WG1kUlpEb2d6QUZ0WHdqbU93QUlMejl3NTY2S0M1enNUUVFqWEt5RldLR1RwdGFsVnNyN3VuSGJnbkJGZGNWMFYw0gFrQVVfeXFMTkNfUjRsaXhEcXVTT1E4dWdRb0JvZWhCZ0dEOEM0a1lCQnIyUk5OOER6VHRDVmh5QndFUmVnd2hCVU5TNm4zTGpsSTNxWllGeHVTelhYZnlWT3p5eUhXeUdSZnJONGp3Mi1fU3M?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qdzZ1UXhMOG44a3lyLUZxQUhYaDUtdnY1RlZpYk54Mnd1Vy1qTndKel9NYTVrcUxZdXlFVVRWZi0zYWxKUG9Cc3lXeDhTeFhqSFdNTnZHTVYzUnJYWUxDN1ZLQ1h5UU3SAWtBVV95cUxOQ19SNGxpeERxdVNPUTh1Z1FvQm9laEJnR0Q4QzRrWUJCcjJSTk44RHpUdENWaHlCd0VSZWd3aEJVTlM2bjNMamxJM3FaWUZ4dVN6WFhmeVZPenl5SFd5R1Jmck40ancyLV9Tcw?oc=5",
           "region": "national"
         },
         {
@@ -124,6 +124,13 @@
           "region": "national"
         },
         {
+          "title": "삼육서울병원, 동북권 응급의료 지킨다…“3회 연속 지역응급의료센터”",
+          "source": "SK브로드밴드 회사소개",
+          "date": "2026.09.09.(수) 11:12",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQkIzdkUtb08tb0I5Mm1ZaFJaaGQ3WlJqaEVJWVhWV2FTQnJ6cDROQjJmTFdLTTQ0Ukhqel9BRmNZRjlOc21BWUFkNlQtZmlYSTNnSXoxa1lvWUpxUEJIM0pqYmRfMGV3enRDcFROWjM?oc=5",
+          "region": "national"
+        },
+        {
           "title": "삼육서울병원, 3회 연속 ‘지역응급의료센터’ 지정",
           "source": "간호사신문",
           "date": "2026.09.09.(수) 09:06",
@@ -135,13 +142,6 @@
           "source": "병원신문",
           "date": "2026.09.09.(수) 05:15",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIWXBSOGF2RHVXMHVQTzZpRGxLWEpWRjJZS2FhNDI5NklXTEV0ck5ZUDEtRm1hUG9JWDhmbVg4elZ6UVJSVXoyLXJnQlBsbEZkUE1ma3VWbWt4VTNtSlR2aXFjNFF0OWVzbFE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전을지대병원, 지역응급의료센터 재지정",
-          "source": "헬스포커스뉴스",
-          "date": "2026.09.09.(수) 00:00",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6LUN5T1gtZjFjbWdSZlRONlQ4T3cwb1BwcDB2bDNtUDB0MDJMbVFORVpBRzNGU0ctSzg0MXdIMFJiRlhwd243SWNBcG5iZ0lBRV9vVU9UaFV1TTloRHJsUWo0bnJIdFlocTNFenlRTG5Tdw?oc=5",
           "region": "national"
         }
       ],
@@ -178,7 +178,7 @@
         },
         {
           "title": "조선대병원, 다수사상자 대비 ‘재난의료 대응력’ 높인다",
-          "source": "남도일보",
+          "source": "namdonews.com",
           "date": "2026.09.08.(화) 16:22",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KQ1g2UGlUclVzLVRuLUJKeGUzVU9Na3E1bUR4ZnlnVEZPVE9GTjFGdEctRkFHQmJnVXU5RFlwT2gyUjhVMU1MQUZYdi1QMFVkS240Rl95cDRRcnlRNFJHSkNPemhPejl0cnE3MVBEbTjSAXBBVV95cUxPSkNYNlBpVHJVcy1Ubi1CSnhlM1VPTWtxNW1EeGZ5Z1RGT1RPRk4xRnRHLUZBR0JiZ1V1OURZcE9oMlI4VTFNTEFGWHYtUDBVZEtuNEZfeXA0UXJ5UTRSR0pDT3poT3o5dHJxNzFQRG04?oc=5",
           "region": "national"
@@ -260,7 +260,7 @@
         },
         {
           "title": "대한적십자사-멕시카나, 서울대 단체헌혈 현장에 치킨트럭 파견",
-          "source": "onews.tv",
+          "source": "열린뉴스통신",
           "date": "2026.09.10.(목) 16:42",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zX2VGNG03NEFFeTA1MWFZTDdLQkFmRUh4VHFGZ3VCUjFZYTJLS0ZzOS1DYkdUOHk3OVl2S2FkaE9nMy1IVHQxN1ppZnZWLVNZYW1aeHhYWlpHd2tJX3cxdzNxQ1dTZw?oc=5",
           "region": "national"
@@ -316,14 +316,14 @@
         },
         {
           "title": "항만 맞춤형 재해통계 나온다",
-          "source": "안전신문",
+          "source": "safetynews.co.kr",
           "date": "2026.09.10.(목) 13:55",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GLUM5a2syZVVvR3RST0kxVkxndm1ERGpIbF9TczB5MmdZaVlGUklsczl6cnFXQnBhbG1KVjE3Z2JVRmw4TEFZWUl1U3ZZS0N0VjlLaDhoU1hZNGJvTnpmZlNZcndQYXBJdlE4X0Q3Z2U?oc=5",
           "region": "national"
         },
         {
           "title": "횡성군, 생명나눔 '사랑의 헌혈' 캠페인 전개",
-          "source": "동방일보",
+          "source": "dongbangilbo.co.kr",
           "date": "2026.09.10.(목) 12:57",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TaFFfa085NzBOVGZEU3E2ZkVNYUFrYkV6TDZEOVY0Q09kSm80UWF1YTFpRTNDV1J6ak1LZW05UGVNOUZIQlNUdGZuT0Nnd21YbWVXd012aW9xMkVMV1lVVE9yMHB0aEo3M1BicFlNVUhSVWc?oc=5",
           "region": "national"
@@ -337,7 +337,7 @@
         },
         {
           "title": "환자안전사고 절반이 '중대사고'…다른 부위 수술 가장 많아",
-          "source": "청년의사",
+          "source": "docdocdoc.co.kr",
           "date": "2026.09.10.(목) 11:43",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ONVhEeC1YZjUzUFQyLUhrYlNGeVNsNEx5U0ZnTXA4YzBPYXJjTFo4c0ltUTBlNkl5d2JNbzVpZnJhcm5uTmRvVkkzVERSMXpvUVplZEUxMFY5Y1F2VlJUY0ZtcnNzOGhKdTA3QmpIcWJWWWvSAXNBVV95cUxPTjVYRHgtWGY1M1BUMi1Ia2JTRnlTbDRMeVNGZ01wOGMwT2FyY0xaOHNJbVEwZTZJeXdiTW81aWZyYXJubk5kb1ZJM1REUjF6b1FaZWRFMTBWOWNRdlZSVGNGbXJzczhoSnUwN0JqSHFiVllr?oc=5",
           "region": "national"
@@ -386,7 +386,7 @@
         },
         {
           "title": "해수부, 항만안전특별법 개정안 시행 중장기 계획 수립",
-          "source": "news.bbsi.co.kr",
+          "source": "BBS불교방송",
           "date": "2026.09.10.(목) 11:00",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45dDFjbDJfdFdfeDRwZGdfU1ZhOTdGMnhySGRUM1pPbE9VUTRmNDJZUm9uUTNTYnE1SWdHU3RRWThSdmwxYmh4T290WFZod0hBT01wMFNnZktaLTRQVDVwSmNjaWdEc3Ywc1BB?oc=5",
           "region": "national"
@@ -407,14 +407,14 @@
         },
         {
           "title": "[고창군] AED 위치안내·길찾기·교육 통합 서비스 안내 개편",
-          "source": "todayan.com",
+          "source": "투데이안",
           "date": "2026.09.10.(목) 10:13",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzczNGSkdEOFl2RmVPSkNLU2JTaFBlcjdVdE1SQ0hzSDI3RWZtakN1c3F0cHpveDVzTl91dkdYRDFnVklnaWpNZXVnOTVvdExlQVRMb3ZmZENTcXpfcFhpaFNaMGd4LXczOXc?oc=5",
           "region": "national"
         },
         {
           "title": "푸본현대생명, 창립 8주년 기념 플리마켓·헌혈 캠페인 전개",
-          "source": "보험저널",
+          "source": "insjournal.co.kr",
           "date": "2026.09.10.(목) 09:57",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hTDloZVhnZlMzcDRudnRjS3hnMzVOckcyVEh2RElQbE93X0xheFJDbVk0MXl6TE1xeHBHM0RJNUxnN3hTUXNMejlrRE8xcEhBbmtXa2VlYVhzRE9oSm1uY0JXejhnOGtRV1VNWkx1Zw?oc=5",
           "region": "national"
