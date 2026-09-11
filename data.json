@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-09-10T23:13:11.111881+00:00",
+  "generatedAt": "2026-09-11T04:48:20.401681+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "비케이알, 국립중앙의료원 응급의료센터·서울권역외상센터 응급·외상 분야 의료진에 팀홀튼 도넛 전달",
+          "source": "비욘드포스트",
+          "date": "2026.09.11.(금) 10:18",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kd2VnazZ5M2o5NUdjd3VDWHAwNXB3OElpQ2ViN0dvajNFRV9obzRzY1g2WW42RVg1aXE0d0t4eDNHUlRQU1FnM3dPaGVZbGo3T2xTOXhMQXYtU0RLY3kwSjhzUVVMRWhBaGRleGhZNlZFT1lTMVN0WkdvakE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "에이치플러스 양지병원, ‘지역응급의료센터’ 3회 연속 지정",
+          "source": "의학신문",
+          "date": "2026.09.11.(금) 09:47",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YREVkTDBDVG54Y29CcXNFbUNQak9jSlBGWDR1YnVuQVNuRUlHb1A2MWRrYW9pVmlGT2NyOF9ROVBVdWlJWXpDUElETm1aWkxHVV9HaEp0VVFkeDVwd2JlN1B1R1VEcXFBU3pZ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "현대병원, 지역응급의료센터 3연속 지정",
+          "source": "병원신문",
+          "date": "2026.09.11.(금) 05:42",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdnhCazBWQVVZYVo5Z1dGNHYxdFh5bkROcnNQeV9hV0x1a1Ewa0l5VWtUYnBLci1pd0hBRjVRUlFUcXp5b2xONWdJa25yNmVTdWlQMEU4OGxub3EwOWw2TEdjZzYyRTE5S3c?oc=5",
+          "region": "national"
+        },
+        {
           "title": "에이치플러스 양지병원, 보건복지부 ‘지역응급의료센터’ 3회 연속 지정",
-          "source": "localsegye.co.kr",
+          "source": "로컬세계",
           "date": "2026.09.10.(목) 19:03",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tdE93dWVRX29DSGw3QmxXalNuYjVrZ1VYZWEwelF5aGdyeXpsU0M0VzVlWjA3eEt4N084VGJPMm9vbDJDTEF5N2xnM1BVXzZ2SzBDcEJ3NUtPWHEtaXBfV9IBWEFVX3lxTFBOb1NtVlNlQWJ0dzFDMUFoajc1cE1xMXpNRW1FQUxWMHRYUklxYTZpMndvZzJsNUJzOXc3V2k3VVFKY2tDY1VWdUNOemxqS3BObGtQSUJTRnA?oc=5",
           "region": "national"
@@ -40,10 +61,17 @@
           "region": "national"
         },
         {
+          "title": "온병원, 부산시 지역응급의료센터 재지정…응급실 입원율 20.8%→30.4%",
+          "source": "이투데이",
+          "date": "2026.09.10.(목) 14:36",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tY0pyYTI4VksxeTdZekpnSkRXVmwxNHZJX0tFUUlNLXRkSFREeS0xenRZTTJpSG43WndySW5TUERYczdqaXJLNkpZWnl3LUxaZkdESA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "에이치플러스 양지병원, 복지부 ‘지역응급의료센터’ 3회 연속 지정",
           "source": "라포르시안",
           "date": "2026.09.10.(목) 10:43",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LelItWHJpWlVxX0hFN19pN3ZzcHJvX01NSHJfaHVCVWtnZXM0VGdFbk0yTFViYUJMUmtnMXlqTEVTbmpQVENmbkJfTTFHclBlNW1yY3cwOHJMLUlwU3RVSkdPMjlMUlBWMEJfWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxaUNmb2d6bi1uckFLTDNfY0c2ZW1UemxCbXltVUdCaWhPbzFMc2FpVVFRMXh6Um53WF9XRjVKYnpMeG9JRXBzeTFjZk0tb29GWkIzRzByS2FoSG1yY1NqdlBURXJydVJTbkozSmln?oc=5",
           "region": "national"
         },
         {
@@ -64,7 +92,7 @@
           "title": "부산 온병원 '지역응급의료센터' 재지정…2029년까지 도심권 응급진료 수행",
           "source": "뉴스1",
           "date": "2026.09.10.(목) 09:18",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xbUkwX2ZEMjNITjZKX3JmanJ2enVtTmtsdDh0UnhBN2IyYXpiYU03WUFrTGVUZzd3QUs5LWlYNC1CdXdfNlpsSUVjXzNJUFRhLW1oRkFlczB6LTh2U0JZ0gFkQVVfeXFMTWFJWWYxLXFhbklqOFpyNHdnbi16NzdaYkpZcXBWb3JSWDdoRmljUjJCa1pVeTlnb1RfR3pDQ01EN1pvQ0xndGpOR3B2TEUtWC14OUhQXzVwb3doQXpmR2FxWmxRTQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hSVlmMS1xYW5JajhacjR3Z24tejc3WmJKWXFwVm9yUlg3aEZpY1IyQmtaVXk5Z29UX0d6Q0NNRDdab0NMZ3RqTkdwdkxFLVgteDlIUF81cG93aEF6ZkdhcVpsUU3SAWRBVV95cUxNYUlZZjEtcWFuSWo4WnI0d2duLXo3N1piSllxcFZvclJYN2hGaWNSMkJrWlV5OWdvVF9HekNDTUQ3Wm9DTGd0ak5HcHZMRS1YLXg5SFBfNXBvd2hBemZHYXFabFFN?oc=5",
           "region": "national"
         },
         {
@@ -90,7 +118,7 @@
         },
         {
           "title": "남양주 현대병원, 지역응급의료센터 3회 연속 지정",
-          "source": "연합뉴스",
+          "source": "yna.co.kr",
           "date": "2026.09.09.(수) 16:23",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SdDd1N1psSW1ubVpEcE5PbFJIUmR1YjdtdFltakprNVoyTTdadFN6N0dhZGZUUkw2T2VoNjB3MG9MZUUxb3NkYlY5QzRaS3Z5TFJIclBfOU1IazDSAWBBVV95cUxOX1Y3WHZXRnA3SUFiUDBZaEFLNXdQUTliTXVwSy1lWHZXM1Y3anNFdGxPTk01V2dXekFELTZvc28wZE1BcHJhemdXdzZuSS1IN3FQSE5PWWtENkFlemFKVkY?oc=5",
           "region": "national"
@@ -110,38 +138,10 @@
           "region": "national"
         },
         {
-          "title": "진형민 전북소방본부장, 원광대병원 찾아 응급의료 협력체계 점검",
-          "source": "전라일보",
-          "date": "2026.09.09.(수) 13:26",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KYlZSVVI2Q1BvdFMyTkMwYlYyYUJmWjJBSmczNzc3Vm0zLWRTVTdsWUpWcGdlVW9qY3lhbXZqU1Zabk9lMk9vV0FKRUxINkpXUG5ORXZkaTcyV0RsN0xoLTRYemt1ZUtETnVNdG9OeVDSAXBBVV95cUxPSmJWUlVSNkNQb3RTMk5DMGJWMmFCZloyQUpnMzc3N1ZtMy1kU1U3bFlKVnBnZVVvamN5YW12alNWWm5PZTJPb1dBSkVMSDZKV1BuTkV2ZGk3MldEbDdMaC00WHprdWVLRE51TXRvTnlQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "삼육서울병원, 동북권 응급의료 지킨다…“3회 연속 지역응급의료센터”",
           "source": "SK브로드밴드 회사소개",
           "date": "2026.09.09.(수) 11:12",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQkIzdkUtb08tb0I5Mm1ZaFJaaGQ3WlJqaEVJWVhWV2FTQnJ6cDROQjJmTFdLTTQ0Ukhqel9BRmNZRjlOc21BWUFkNlQtZmlYSTNnSXoxa1lvWUpxUEJIM0pqYmRfMGV3enRDcFROWjM?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "삼육서울병원, 3회 연속 ‘지역응급의료센터’ 지정",
-          "source": "간호사신문",
-          "date": "2026.09.09.(수) 09:06",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lNXprOHF4X1lYME1lbmdBckZhTUJBY1Q2T2VHMzFUWWRMTG5zNHBZRkZxUUlUczhKc1hnbUVyVFdkOFZzZC16THdkX2ZrUkotSEtJSHJzQ25lZHZqN2NEZmhyY3ZjbENWY0l5UTBn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[대전을지대병원] 지역응급의료센터 재지정 쾌거",
-          "source": "병원신문",
-          "date": "2026.09.09.(수) 05:15",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIWXBSOGF2RHVXMHVQTzZpRGxLWEpWRjJZS2FhNDI5NklXTEV0ck5ZUDEtRm1hUG9JWDhmbVg4elZ6UVJSVXoyLXJnQlBsbEZkUE1ma3VWbWt4VTNtSlR2aXFjNFF0OWVzbFE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전을지대병원, 지역응급의료센터 재지정",
-          "source": "헬스포커스뉴스",
-          "date": "2026.09.09.(수) 00:00",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6LUN5T1gtZjFjbWdSZlRONlQ4T3cwb1BwcDB2bDNtUDB0MDJMbVFORVpBRzNGU0ctSzg0MXdIMFJiRlhwd243SWNBcG5iZ0lBRV9vVU9UaFV1TTloRHJsUWo0bnJIdFlocTNFenlRTG5Tdw?oc=5",
           "region": "national"
         }
       ],
@@ -156,10 +156,66 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "경북도, 재난 대응 역량 강화 나선다… 250명 동원해 도상훈련 개최",
+          "source": "이로운넷",
+          "date": "2026.09.11.(금) 12:18",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUMGZuNnZMNHBfdUVfaHZwNjZjWFM5TFRCTGoxV0xwLUtZYjFVQUxuR3U3QXV6ZnpVUjVzR09hc2JrU2VTb3NSTmstMkphTGRoTE5Kd2lQTHlQdjFwNW5NbmI2bmpoZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "청도군 보건소, ‘경북 신속대응반 도상훈련 경진대회’ 우수기관 선정",
+          "source": "데일리대구경북뉴스",
+          "date": "2026.09.11.(금) 10:56",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54UmRBbEdvakVhcVFWTDV2dElQTUZWYnlvR1kxM0xNLUJpbVpjYTE3TWJLbm1KVllldXFjd0wzTGhSRDQwdFk1dmxtV2RBd0wzcjZ4bkRfRk9jOE5SU2xVdEp0SmpZZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경북도 보건소 신속대응반, 다수사상자 재난 대응 역량 강화",
+          "source": "대한경제",
+          "date": "2026.09.11.(금) 10:43",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mU2ZwOUZzS2l1UTJrX1ZHZk5GRG5BN3dST2ZydFE0S2VlRXVNWHItUlZDV0hvSjVtdzhva0dYZTlsa093bkt2RllnSk9xdXUtMVRKWHh6d0s2TjM4ZS1URWJ3cEZ2NzNnNWlMN2YzcEhmR28?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대형 참사 막는다 경북도 재난의료 훈련 > 뉴스",
+          "source": "더코리아",
+          "date": "2026.09.11.(금) 09:28",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yZzhkbEYzMUhKQ1cwTlozT3V0YXJ1OUc5a3pZQmlDTlNCMWNoY1pVSHFGUTlCVDZlVnpwb1ZEMTVRbE9mTGY5ZFI2Y3N3aVYwSWVaTGlHQmlQVDh5WnRFWk9PMXNNSWJhaWFkcmRTZ1g?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영덕군보건소 신속대응반, 경북 재난의료 훈련 ‘장려상’",
+          "source": "kbmaeil.com",
+          "date": "2026.09.11.(금) 09:21",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNR1RqbkhGejI3ZTdsQURLOXJfWUNiOUtMNHZyam1fc0s2UE5IbkpMYnExX1Y4UkIwU2c3bzYySkgxZDJQX2JvWHJCWkNWLVlkR1RWRGZiTHBQUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영덕군보건소 신속대응반, 경북 도상훈련 경진대회 ‘장려상’",
+          "source": "꽁지환경늬우스",
+          "date": "2026.09.11.(금) 09:03",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92MnJWSzNLLWk5TUVFeWxnR0VQZTduQWdzWWxnTGZXdTM2RmVkZUxqa0dxLTJHZE50QTJxODdpRU5Ba09EQXdWRHBsWGR2dWRaajBybDR0bFpBcXJ3QWNRTQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경북도, 보건소 신속대응반 재난의료 경진대회 개최",
+          "source": "reporternside.com",
+          "date": "2026.09.11.(금) 08:52",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBZ0o2QnF1MEJlQVloY2M0THVlLVZPNVJRM1dWcDZTSDhxVEh2U0ZEa3JXX1hZNTVWb0I0ZDkzdWhhYk54VERBc3dVYTJDZndYdVNYa1o3TXFWOEpWWm50VHhqSzlMdDh6NG5OV0Z6di1EUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "재난 상황에서 의료 서비스를 조직, 지휘 및 조정하는 역량을 강화합니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.09.11.(금) 08:35",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWRWX244emhUbUpfeHdiN0RHQVA4OWl1bEVXOE8tTnJDNk84WndEdkNpN1lmaFZuUUEwMFpyR3RULS16RTJUUmxHODFseU94NVhwWUpFMUQzNHByVmtZZnp2ZzQyWUphX3dnWHo4NHFnVlA4eFZtXzJMZmVRX1RneU5MN2hLeWJnY0ZrLWU3SXNCMzA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "경상북도 보건소 신속대응반 `다수사상자 재난 대응 역량 강화`",
           "source": "CBN뉴스",
           "date": "2026.09.11.(금) 08:10",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41anZyMW5LbDZhMDFIcW5xZWtMbE16VHJ0NE5xeVlWTEJpbmsyQ0NWUENOZ05ncF9LVFV6b2x2NUxuTVM1WXF4LVFEUjM5SkZfRngw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXNVdFNaY29LRW1pczdPck01M2lNSVlDN2pIOU1nNmtKYzhYOVIyS3VVTGNFU3RtS2xpeXRYMENCRWN0cVNYZ3FvUmZ1OUpoYXpyZ05hX2FoV1M4LVpVU1NoMGR3bzRYMVpuT3JFam41UDQ2STBWeFdkbGFveFVrYw?oc=5",
           "region": "national"
         },
         {
@@ -182,13 +238,6 @@
           "date": "2026.09.08.(화) 16:22",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KQ1g2UGlUclVzLVRuLUJKeGUzVU9Na3E1bUR4ZnlnVEZPVE9GTjFGdEctRkFHQmJnVXU5RFlwT2gyUjhVMU1MQUZYdi1QMFVkS240Rl95cDRRcnlRNFJHSkNPemhPejl0cnE3MVBEbTjSAXBBVV95cUxPSkNYNlBpVHJVcy1Ubi1CSnhlM1VPTWtxNW1EeGZ5Z1RGT1RPRk4xRnRHLUZBR0JiZ1V1OURZcE9oMlI4VTFNTEFGWHYtUDBVZEtuNEZfeXA0UXJ5UTRSR0pDT3poT3o5dHJxNzFQRG04?oc=5",
           "region": "national"
-        },
-        {
-          "title": "관악구, 서울시 재난의료 경진대회 ‘종합평가 최우수상’ 수상",
-          "source": "관악신문",
-          "date": "2026.09.08.(화) 09:34",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VQWdmSjhSa09mNWFwbVdIX05VUGh3S2NFcHpHel85YnNPMzloYUl2d2syMHBYV21yMFNjeVlqU1pJQV9FeHlMR3MwX3hrZUpYTmJUWTRwV1RGc0RkbXlOWTkxSF92WUo1TVE?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -209,6 +258,41 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "[위클리오늘] 의정부도시공사, 시민과 함께하는 ‘생명나눔 헌혈 캠페인’ 실시",
+          "source": "weeklytoday.com",
+          "date": "2026.09.11.(금) 11:25",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKWHpUTmp5WjRNUXdYd3BnQ21oVEszelZteWZqWGR3d0tmVXFlbTFNcEtEd09rMFc1X3dmeHFvYm1iaTRoYTFIU3JDLXlFNS13NmZpNWdBRnBNVGc3dzJqYzBza3ZZSkE3R0xBYkxR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼척시, 혈액 수급 안정 위해 헌혈 릴레이 동참…생명나눔 실천",
+          "source": "ksw-news.com",
+          "date": "2026.09.11.(금) 10:18",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwOWx3SUdiZVZJLUIzY3BSWVVWay1ESGhCRmZJRFdSbDNaMUJXTnk2NjVSNG9oTms3VWt3cExacGNtWXc0SEd0SzJNeG9Tc1JLY0FCQkN1VXFLWTZLdWloOUZBeFYtbWhocWV3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼척시, 세계 헌혈자의 날 기념 헌혈 릴레이 행사 진행",
+          "source": "한국시사경제",
+          "date": "2026.09.11.(금) 10:12",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNTBVeHl2dGVqNG43QXNQSHotUXhQZklWWWQ2bk5fSldKUVlRaUZYWE11WVhiSVlNYTNaZ3E1REttNVB1akNZS3RUenNoaWp2Njl3OUc1Yk1uQ2NIdjhILUdKbjV2dGlzdXc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼척시, 세계 헌혈자의 날 기념 헌혈 릴레이",
+          "source": "reporternside.com",
+          "date": "2026.09.11.(금) 08:05",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55azVTZW5pSkJud3Z3dnRBRVR5WXlYMFF5QmJ4NGo3Qmlub2tuY0JqM04xNXlLeGxFOVZkZFd0dGZtNGNLeU9fTXJFZjZSNkd4bjVYbk1TalhsOEh1MmdPcHkzZEplSVpXcG9YRlo0Y0RGdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경상국립대, 총학생회와 대규모 헌혈 캠페인",
+          "source": "경남신문",
+          "date": "2026.09.11.(금) 07:41",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5telZnSU9WNDlpVVYxWlYxLW9zTnpIWEpjcER0a1RfLU1zQWM1T0NGVWtnSHFDN09QbjV4Q2xkSzU2dU5tM2thNko1R2RGLUhiajNJV1BPODhaSkl2ZllCZzFOWkxhNXhEZHo4?oc=5",
+          "region": "national"
+        },
         {
           "title": "강릉시, 시민과 함께 ‘사랑의 헌혈캠페인’",
           "source": "reporternside.com",
@@ -259,15 +343,8 @@
           "region": "national"
         },
         {
-          "title": "약사고등학교, 생명나눔 단체헌혈 참여",
-          "source": "울산종합일보",
-          "date": "2026.09.10.(목) 16:47",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WTmpEM1Vrei03TTg0U01sSW9OeUNBVS1xVXlmVzlRWG9yU19mblktS2RrQWZMcDJpMlo2Vkk2U0trdzdKc0UxZkRTRlZqWFlfTWY0cnNnU2FJaVNoWHc2ZmpyLUltMmdLbzRiaXBR?oc=5",
-          "region": "national"
-        },
-        {
           "title": "대한적십자사-멕시카나, 서울대 단체헌혈 현장에 치킨트럭 파견",
-          "source": "열린뉴스통신",
+          "source": "onews.tv",
           "date": "2026.09.10.(목) 16:42",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zX2VGNG03NEFFeTA1MWFZTDdLQkFmRUh4VHFGZ3VCUjFZYTJLS0ZzOS1DYkdUOHk3OVl2S2FkaE9nMy1IVHQxN1ppZnZWLVNZYW1aeHhYWlpHd2tJX3cxdzNxQ1dTZw?oc=5",
           "region": "national"
@@ -294,10 +371,10 @@
           "region": "national"
         },
         {
-          "title": "나주소방서․나주경찰서,'움직이는 자동심장충격기'로 생명안전망 강화",
-          "source": "뉴스라운드",
-          "date": "2026.09.10.(목) 15:34",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HSzFZNWExNE1PdFlHUWVBekZZeTdNank4OHRKSmYyaGt6MDVXTU1GQ1hHZHdxb0tySEZEd0RWSjRFejkzRWhENFNiQ0ZJQkxDWFlYVUdpR1lnTUdaMzk5QU02SFgzcmY5ekpjYkRQSEjSAXBBVV95cUxPR0sxWTVhMTRNT3RZR1FlQXpGWXk3TWp5ODh0SkpmMmhrejA1V01NRkNYR2R3cW9LckhGRHdEVko0RXo5M0VoRDRTYkNGSUJMQ1hZWFVHaUdZZ01HWjM5OUFNNkhYM3JmOXpKY2JEUEhI?oc=5",
+          "title": "해수부, 항만안전특별법 일부개정법률안 시행",
+          "source": "기호일보",
+          "date": "2026.09.10.(목) 15:02",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PamF2U280QzJmSG0xVXdxbXlOeFhaZXRKOWpzWHk0LXkyQVp1X2JNVXBWWVNRa0NocGh4WmRLVi14UWNuOXROUVZhNWRYQVRmTWJWZmVjMjhCdlJDUmVkZ011Q0FfTkZTUWRacWFIaw?oc=5",
           "region": "national"
         },
         {
@@ -315,13 +392,6 @@
           "region": "national"
         },
         {
-          "title": "맥시카나치킨, 대한적십자사 서울지사와 함께 서울대학교에서 헌혈자 응원 치킨트럭 출동",
-          "source": "한국투데이",
-          "date": "2026.09.10.(목) 14:06",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVDBDa0VWUlFzd09fTmdaMWYxbVduVkRxOUpXMUdncWxHOFcxcjB2VGlEZ2pRZXpiZUVpMUlhektrTWw1VXdwemFJRXVCVHVzQ2Q1Y1BKMU9XcllTeGIzR1VxNWx5NlpFRHIycTJn0gFuQVVfeXFMUDFUMENrRVZSUXN3T19OZ1oxZjFtV25WRHE5SlcxR2dxbEc4VzFyMHZUaURnalFlemJlRWkxSWF6S2tNbDVVd3B6YUlFdUJUdXNDZDVjUEoxT1dyWVN4YjNHVXE1bHk2WkVEcjJxMmc?oc=5",
-          "region": "national"
-        },
-        {
           "title": "항만 맞춤형 재해통계 나온다",
           "source": "안전신문",
           "date": "2026.09.10.(목) 13:55",
@@ -336,15 +406,8 @@
           "region": "national"
         },
         {
-          "title": "해양수산부, 항만안전에 관한 중장기계획 수립하고 항만 맞춤형 재해통계 생산한다",
-          "source": "케이에스피뉴스",
-          "date": "2026.09.10.(목) 12:49",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yaUFGWkJZTW5jMzFsdlhudmhCQ0kwdUlGQnBFS3NUY1k3NmN1MXhBbmNVcUx1cThkMDBpdzFCaDhVOFNNUUtNSnh3b2RfS0tXRFE?oc=5",
-          "region": "national"
-        },
-        {
           "title": "환자안전사고 절반이 '중대사고'…다른 부위 수술 가장 많아",
-          "source": "docdocdoc.co.kr",
+          "source": "청년의사",
           "date": "2026.09.10.(목) 11:43",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ONVhEeC1YZjUzUFQyLUhrYlNGeVNsNEx5U0ZnTXA4YzBPYXJjTFo4c0ltUTBlNkl5d2JNbzVpZnJhcm5uTmRvVkkzVERSMXpvUVplZEUxMFY5Y1F2VlJUY0ZtcnNzOGhKdTA3QmpIcWJWWWvSAXNBVV95cUxPTjVYRHgtWGY1M1BUMi1Ia2JTRnlTbDRMeVNGZ01wOGMwT2FyY0xaOHNJbVEwZTZJeXdiTW81aWZyYXJubk5kb1ZJM1REUjF6b1FaZWRFMTBWOWNRdlZSVGNGbXJzczhoSnUwN0JqSHFiVllr?oc=5",
           "region": "national"
@@ -357,15 +420,8 @@
           "region": "national"
         },
         {
-          "title": "푸본현대생명, 창립 8주년 맞아 헌혈·플리마켓으로 소외계층 나눔",
-          "source": "이즈보험",
-          "date": "2026.09.10.(목) 11:01",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Rb0ctM1ZYaURuNWFPeVhvZkNNcWdLc2kxaWJOaFZZMGlsZE8wcExtYXdpMUdRMDdpZUdpamZnZlk4eVk1My1RTkpKaXdFR0xHWVNOX1JTNGhuTk9IQXJMVFlQSFR0WWlxb3c?oc=5",
-          "region": "national"
-        },
-        {
           "title": "해수부, 항만 안전 중장기 계획 수립…개정 항만안전특별법 시행",
-          "source": "연합뉴스",
+          "source": "yna.co.kr",
           "date": "2026.09.10.(목) 11:00",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LZUk4TDZQVEY0dzVhN21zYl9GMHNiRmdLRnZXVUdJLWpEZ2UxNm5wWll5dDlwbkhMOXlETFdqT2JZNTZpWTBIWmJNQ3BlbUFlNVBrMU1OdEJOS0XSAWBBVV95cUxNcE90N25QSkVhNEhLRnNZMFJYbVFoSXVndTNPaGJsM20zOU0wSnN4ejJOSHNLdjNrMFdrc0JoY09QM3cweTMzMGNEQUdvTHRoM25fem5PdU5icmJVQXctS1o?oc=5",
           "region": "national"
@@ -392,20 +448,6 @@
           "region": "national"
         },
         {
-          "title": "해수부, 항만안전특별법 개정안 시행 중장기 계획 수립",
-          "source": "BBS불교방송",
-          "date": "2026.09.10.(목) 11:00",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45dDFjbDJfdFdfeDRwZGdfU1ZhOTdGMnhySGRUM1pPbE9VUTRmNDJZUm9uUTNTYnE1SWdHU3RRWThSdmwxYmh4T290WFZod0hBT01wMFNnZktaLTRQVDVwSmNjaWdEc3Ywc1BB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "이천시 설성면 기관·사회단체, '사랑의 헌혈운동'으로 생명 나눔 실천",
-          "source": "케이에스피뉴스",
-          "date": "2026.09.10.(목) 10:50",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0RndWQW9abEhXNzdNMkxIQUJCSnJEa1ltZE5PeS03VVhIY0trUUM1eHZxaWlVbWVBbGRzNW5XRnNrSjdzdDZjWC1UcS1FSkhQX1E?oc=5",
-          "region": "national"
-        },
-        {
           "title": "고창군, AED 위치안내·길찾기·교육 통합 서비스 안내 개편",
           "source": "새전북신문",
           "date": "2026.09.10.(목) 10:22",
@@ -417,6 +459,13 @@
           "source": "투데이안",
           "date": "2026.09.10.(목) 10:13",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzczNGSkdEOFl2RmVPSkNLU2JTaFBlcjdVdE1SQ0hzSDI3RWZtakN1c3F0cHpveDVzTl91dkdYRDFnVklnaWpNZXVnOTVvdExlQVRMb3ZmZENTcXpfcFhpaFNaMGd4LXczOXc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "푸본현대생명, 창립 8주년 기념 플리마켓·헌혈 캠페인 전개",
+          "source": "보험저널",
+          "date": "2026.09.10.(목) 09:57",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hTDloZVhnZlMzcDRudnRjS3hnMzVOckcyVEh2RElQbE93X0xheFJDbVk0MXl6TE1xeHBHM0RJNUxnN3hTUXNMejlrRE8xcEhBbmtXa2VlYVhzRE9oSm1uY0JXejhnOGtRV1VNWkx1Zw?oc=5",
           "region": "national"
         }
       ],
