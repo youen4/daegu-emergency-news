@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-09-14T19:51:55.323204+00:00",
+  "generatedAt": "2026-09-14T23:53:25.563260+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "시화병원, 지역응급의료센터 재지정 '365일 24시간 진료체계 가동'",
+          "source": "시흥저널",
+          "date": "2026.09.15.(화) 08:10",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vTGdYTjI1OWY2M1B3Y3RWVDRDTVZ3d3NkbFFLVmVkaHp0MVAyaTItNGZPYnJUOXRuRDFEOXFvSmU5Y2p1d0toNTVFV1kyaExqaUdZMUpHTXd6SllYSndIZ3pYWTB2NHc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "필수의료 배상보험 92억원 투입…\"응급센터·외상센터 전문의 지원\"",
+          "source": "뉴스더보이스헬스케어",
+          "date": "2026.09.15.(화) 06:10",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50dUJlak4tckd2YUNrcklYRDdNSlBlX2FOaEZwWkh5bTIyMzAyQ0hyOTN3bjFjclE4WV9RODBVM1pxMzc0bU91WnVPbWRHdl9lUVl3V0liTms4SHlJX2RhUUxkNHg0bFkxM1FIVDdn?oc=5",
+          "region": "national"
+        },
         {
           "title": "시화병원, ‘지역응급의료센터’ 재지정",
           "source": "경기신문",
@@ -34,7 +48,7 @@
         },
         {
           "title": "시화병원 보건복지부 주관 '지역응급의료센터' 운영기관 재지정",
-          "source": "뉴스핌",
+          "source": "newspim.com",
           "date": "2026.09.14.(월) 14:32",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OdDVRTENoUlpVdkdWeXlkc25fS2d4U3JlbEt3d0dpdlhkanNDM0dkS3Vyams2dWtoV3ZNWTVJY1NNbzRtaDFIME93NVRYV2o4TFAxcmR0Z3FSNU16?oc=5",
           "region": "national"
@@ -69,7 +83,7 @@
         },
         {
           "title": "현대병원, ‘지역응급의료센터’ 3연속 지정",
-          "source": "dailymedi.com",
+          "source": "데일리메디",
           "date": "2026.09.13.(일) 16:21",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04cnlCb1lOVW9ITFAxeGhvaWE5bmFJS1ZVazVHSTU1Tll5cHZtdllqanFxZmFKR0lRWEx4SnlHZEVhV0pFN3RIN3hjajI4ekJEQUY5XzM5MF91My1lTDFhWHAzdWRCakd0Y1ZfUGk5bmxIMmJs?oc=5",
           "region": "national"
@@ -84,7 +98,7 @@
           "title": "“대구로 가던 수지절단·화상 환자, 포항서 골든타임 지킨다”",
           "source": "v.daum.net",
           "date": "2026.09.13.(일) 14:49",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXVTdlTUxBd1lKbkRGTlhwU3h0UG1uakIyNlRTN2pMVXJpNlIwRUI3UW16bVFHWTZmX19wX2ZfSGh5YjE5Z1BLQVRoTTdyUms?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ndlVQX2pyU3pfWmhsb1hTb3F5aHhlZ1RQekFwUUMyRTlOWEhXY2ZpaVhka0d1aTlMbFRKT3FJeXl0TUtwMGdFZVllMA?oc=5",
           "region": "daegu"
         }
       ],
@@ -95,9 +109,9 @@
       "items": [
         {
           "title": "[강북구]강북구보건소 신속대응반, 재난의료 경진대회 ‘대상’",
-          "source": "동아일보",
+          "source": "donga.com",
           "date": "2026.09.15.(화) 04:30",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wRGkxY2dwZWlvNnY1VUFZS1JSZVY4eFRqWUNyM2xCRm9wdEdLRXpZa1B6OTJpNENMSXdfOG1rbEdtSmt5NjFYSmJmbzBYZXN6X3ZmbjRxdERmN2hYZUwyNGhmTGViSFZzRjJr0gFmQVVfeXFMTXJxYlE5OXNPTWxOVmZiTF9OZDFzVlpET2dqSGRZU2FjVFlOb0lYODBtM2l1amVCSUl5UUlUcVlBU0tsVEFMZksyWTc5UTlDRm5rd09pR3J2ZGtHZWpBSG5NbXpzUUxn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ycWJROTlzT01sTlZmYkxfTmQxc1ZaRE9nakhkWVNhY1RZTm9JWDgwbTNpdWplQklJeVFJVHFZQVNLbFRBTGZLMlk3OVE5Q0Zua3dPaUdydmRrR2VqQUhuTW16c1FMZ9IBZkFVX3lxTE1ycWJROTlzT01sTlZmYkxfTmQxc1ZaRE9nakhkWVNhY1RZTm9JWDgwbTNpdWplQklJeVFJVHFZQVNLbFRBTGZLMlk3OVE5Q0Zua3dPaUdydmRrR2VqQUhuTW16c1FMZw?oc=5",
           "region": "national"
         },
         {
@@ -165,7 +179,7 @@
         },
         {
           "title": "영덕군보건소 신속대응반, 2026년 경북 도상훈련 경진대회 ‘장려상’ 수상",
-          "source": "씨원뉴스",
+          "source": "c1news.kr",
           "date": "2026.09.13.(일) 07:40",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHZ2VSaDZ5NkxGUm5wRURBMURQcGpRc3BtbWZHa01lZjJkRXVuNU15ZmlrSURWeHFNZkVmOElScVp0MzVJNlBCaklLa09ycUIxMWlib2RpQ0Rxemh5bXhQVGxvb1VjbEE?oc=5",
           "region": "national"
@@ -175,13 +189,6 @@
           "source": "뉴데일리 대구경북",
           "date": "2026.09.12.(토) 11:10",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2a1BaWGZJWGpCbkZucDl0OC1BOGhwa1NWeUpQRWIySU8zbXRjclhWS25pSUYzNERObzN2d1RSSmpwaVZvTnh0dkFwa2tFNjI0ZVV0TkFabWxubjFHWloxWHk4QzI3NTVKeHN4ZDh1bE9nRk5lZHZrNVFtRUJoYTTSAX9BVV95cUxQdmtQWlhmSVhqQm5GbnA5dDgtQThocGtTVnlKUEViMklPM210Y3JYVktuaUlGMzRETm8zdndUUkpqcGlWb054dHZBcGtrRTYyNGVVdE5BWm1sbm4xR1paMVh5OEMyNzU1SnhzeGQ4dWxPZ0ZOZWR2azVRbUVCaGE0?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경북도 보건소 신속대응반, 다수사상자 재난 대응 역량 강화",
-          "source": "국민기자뉴스",
-          "date": "2026.09.12.(토) 07:30",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuVGNkT2JCaFRzSzlxZkFuNDhKWTBCYXlXLU5kaXJvcnRCLXdSdHo5SGNsWW8tTWY2WVpNQ3l0YXdmdjBKeFlGYjMzZmFNM3h3SDBrY1pnUzJXUGgzeEJLd3BMONIBZ0FVX3lxTE91aTVRNmJQWUIwN0pMSlNwekxFVVYtdklQdk1VQ2FCelVoaF9KZ3p4a2Y1WTNYQUZpdlowMld3em1VMG95Szc2aUxhaVEzNGxFbTg4dHU0QjhneHh5LTVNRXdyUF9pRUk?oc=5",
           "region": "national"
         }
       ],
@@ -195,6 +202,48 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "부산서 공연 무대 설치하던 40대 외국인 감전 심정지",
+          "source": "뉴시스",
+          "date": "2026.09.15.(화) 08:37",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLQU9GeEpyMnR6WElYTnVKcHdmd1hndGg3dnRrZU1YNGNQMlBmd2dHN29LUjJod1o2MHJBRm9zTjhnVEY5dDV5eVN0WVhYZzlCemRQcXRWWGNUSlpVSmsyR9IBeEFVX3lxTE5EMTdCSW1sdndrU2N1RUZRSWpiZkdGaktCcmlldDNhQVNPTWR2d0hEQXd3eEUydVl6YmJfcWZQaGgzWVFGTEd3aWZkRWg2Y0pHd0xfb2lqTDc4WDlmYUdIbGN1MDY5a1ZSaHJ1bzhsY3Vsczc2X2t3OA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "빗썸, 올해 세 번째 임직원 헌혈⋯소외계층 환우 지원",
+          "source": "이투데이",
+          "date": "2026.09.15.(화) 08:31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1aGU5ejhsNUMyZnBObFZZN18zdFQ2TWtIZjlaMzF5TGNuQkFsY0dMZmJBMWhSa3lWMWtCYVFOcXBucWgyMEhUa2p2cjRNdE5HRy1wYmx0cGI0dVpnamdNcjZZYmhseW95N2NKTmFBdWpQZzhT?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "빗썸, 임직원 헌혈 행사 가졌다...2022년부터 정기 진행",
+          "source": "매일일보",
+          "date": "2026.09.15.(화) 08:26",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSeWFkUmstcXFxLURobXFxVGV5bFV3WG8yel9MamFsME40MTZFYXZBVkxYbzFJcnhMNzZhZDZjTmhmSy1DczVWX05JRndPdnZfS1V0YnM4dy1UZThnazQ2akdpQVXSAWhBVV95cUxQTEpiME0tYXhRcFlLU0RfTjBpVWIwX2dOcmZGM05lWEM1d3pvbVFiekpwbmw2NDBaYWswS2tLc3lwU3VaS21xc2tsZUdDX1dtdHVnZlE4TGpjb1BVMDFGTnBBRnhPc2FNVw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "빗썸, 2022년부터 생명나눔 이어가..올해 3번째 임직원 헌혈 캠페인 성료",
+          "source": "한국정경신문",
+          "date": "2026.09.15.(화) 08:21",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JeHIwWHhqRThhbHhEcHpnbkZIcWFKc0hwbzkwb2RXY1h3ZXUzeHJiMFBGY210OGpkY3I3cnZmUkJDdHpzaVBjejRsakJZRkFocFE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "콘서트 무대 설치하던 외국인 노동자, 10ｍ 높이서 감전",
+          "source": "연합뉴스",
+          "date": "2026.09.15.(화) 08:05",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5paWdMSER6ZEEzQVphRzlrZlBTWnVZNDBOVEN6eFRhb0NWVklBcHZnSmp4V3JtMHVLTF85bW1XSUloQW1SaVBiV05jdWtFaUNOZUpmeDg2WmNYeU3SAWBBVV95cUxPMlNEV1hJM3VxU2JQOFJnREQwLXRJeUZtT1Y1V1ktVnA2RWstTWFXOUR3WXRyOVltWXFsR0NiSGxjMTRpVy1ZcUVuX3FYTEVJbDBYc3dWSlRhSDF5MEJYdTg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "봉화군, 9월18일 사랑의 헌혈운동 실시",
+          "source": "검경일보",
+          "date": "2026.09.15.(화) 07:19",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55ajNCQnlieTBYYUN2UU9yT0Nmd1VpbGZIVnAxZ3J0MTNUWjhBS0xwRU5hbkRrSEtIdk1fY1hWOFpvS0tTeXFua3JTSFZhZmpwcEx4Um5CQ19BOHcxSGN5dzk2WWxhUQ?oc=5",
+          "region": "national"
+        },
         {
           "title": "광명시, 시민참여 재난안전체험 한마당 개최",
           "source": "웹이코노미",
@@ -224,13 +273,6 @@
           "region": "national"
         },
         {
-          "title": "봉화군, 9월18일 사랑의 헌혈운동 실시",
-          "source": "전국안전신문",
-          "date": "2026.09.14.(월) 18:36",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DWklVLVNYU3dHYnFZTEtOb29YMmlXZzJ3a2RfS2tvTlZsaGVWUnItZlpiX3FBaG9kcmJ2enc4MVlXU25sSEU0dEZ5N28?oc=5",
-          "region": "national"
-        },
-        {
           "title": "대상 ‘레드챌린지’ 20년…헌혈 참여 4만5천명·헌혈증 8629장 기부",
           "source": "한국영농신문",
           "date": "2026.09.14.(월) 18:02",
@@ -253,14 +295,14 @@
         },
         {
           "title": "바르게살기운동 영주시협의회, 생명나눔 헌혈 캠페인 전개",
-          "source": "이로운넷",
+          "source": "eroun.net",
           "date": "2026.09.14.(월) 16:52",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJYVR3QTBGZTVDUlgwRmNlQkctVHZzT3JYVWY5Y2RWYTRVMUw5OE5nMVQ1emF0bkdmT2xsVWJlMi1PUktnd1YzNENkdmE0dkJsaHB2LUlaaTA4RjY1WEp2Uzh1SUpYdw?oc=5",
           "region": "national"
         },
         {
           "title": "[포토뉴스]강릉시, 시민과 함께 ‘사랑의 헌혈캠페인’ 동참",
-          "source": "kwnews.co.kr",
+          "source": "강원일보",
           "date": "2026.09.14.(월) 16:30",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yNWZTSU1ILVZ2QXB3d3UwMzJKU0tkcGtkNFVESE1YUWRtMW5sNFJGbTY1QTFSRi1zYW1lS2dNQUpFX3RaLTctZklQMnVLbTBSVXVfTW12U2xBbWs?oc=5",
           "region": "national"
@@ -274,7 +316,7 @@
         },
         {
           "title": "청주시, 생명나눔 실천 헌혈 유공자 6명 표창",
-          "source": "서울뉴스통신",
+          "source": "snakorea.com",
           "date": "2026.09.14.(월) 16:20",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OcC0yejhiVVNJSEtEcXFMeGVmS1RDcDl1ZmVXTTJUdUpaZ2szV2F4UjdXM0lPazI3ME40OG1vcmlvOVo4MFRlLUlYQnh1R09yNGNrbnZ5SHY5UDdzRmJ2Qy1xczdmbU94MGxN?oc=5",
           "region": "national"
@@ -284,13 +326,6 @@
           "source": "비전21뉴스",
           "date": "2026.09.14.(월) 16:11",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lNDE0LVNYbVRkSTcwa0VMSE9SMEpZejlKUzJOVDRTaE8wRkE5NlAtSFlfUFhfVlRiWGlreE4wMDR2eXBBaFdVajVhNVVEYlJPMkJRTUVxR2R6cnVRdC1GOA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "'뿌하 캠페인' 릴레이 바통 이었다…가수 장민호, 적십자 헌혈 확산 주자로",
-          "source": "열린뉴스통신",
-          "date": "2026.09.14.(월) 15:54",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnYm82NzhJSnRCUm05LV93T1hXSzNnb2c3ZGd2M1VlekhDSHl5QXpkZXdZUjFWeW5CeUNPd05sRUxlcnZ0bDJzd0Z4d3J3UV9HRmRaNFVSU0VZZVFGMGFzVEtxTnE?oc=5",
           "region": "national"
         },
         {
@@ -316,7 +351,7 @@
         },
         {
           "title": "인천세종병원, 대한적십자사와 함께 ‘따뜻한 헌혈 실천’ 캠페인 진행",
-          "source": "kitvnews.co.kr",
+          "source": "한국미디어뉴스",
           "date": "2026.09.14.(월) 13:53",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HZ1RVbW9Md2gwaVpwY2NCTW5nNksxVWxyVFYxZWlTaWgtcW9jc0JTSEhGVnFBSmtpRVl3OGNMZFVBQ3g2dlhWbFpxVEFkeXpnRDhzNnlPNVFQVG5SR2MtbHVwVlJlUQ?oc=5",
           "region": "national"
@@ -350,13 +385,6 @@
           "region": "national"
         },
         {
-          "title": "검단 헌혈운동, 지역 넘어 의료기관 협력으로 넓힌다",
-          "source": "livesnews.com",
-          "date": "2026.09.14.(월) 11:31",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aVGNUNk1WbGNoLVJ4MDlPY3AtTjEzMjhFYks5aFF2anFsdHU3RXU1T0plNWdWaW1KbHBlM0h4NkY1T1lxYmxKYUswTU1obG54dWJFRGtmQm9vNUExNERB?oc=5",
-          "region": "national"
-        },
-        {
           "title": "\"한 번만 더~\"가 사고 부른다…해루질 안전수칙, 생명과 직결",
           "source": "v.daum.net",
           "date": "2026.09.14.(월) 10:46",
@@ -364,17 +392,10 @@
           "region": "national"
         },
         {
-          "title": "의성군, 하반기 ‘사랑의 헌혈운동’ 전개",
-          "source": "로컬세계",
-          "date": "2026.09.14.(월) 10:45",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NYzZuQk8yWVBhdmF6M3NPUHc4S044Q2laZHBDcDgza3pfYXo0dGpoaGNqZ2ZWZEt5RFRDR2M5S1BubDd5Z3VkOEZNZlhnVTJqQ0U5X05qMG9OTllzbGQ1S9IBWEFVX3lxTE90b1lVZ1p0STZ5V3pqTnEzb2RsT05HSVQ4SFB4MXhpbk5IZ1dwWXNralBpa0Z5blo2Wkx5ei1HS04zYnJHcEdvTnV5X3N3anM2TGNNaEhNcmU?oc=5",
-          "region": "national"
-        },
-        {
           "title": "의성군, ｢2026년 하반기 사랑의 헌혈운동｣전개",
-          "source": "안동데일리",
+          "source": "꽁지환경늬우스",
           "date": "2026.09.14.(월) 10:32",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zcnBSWmJfQkRNSk8tOFZLRTB1ekNwdzg0RVR4SzRRU1l4SUtFZ1QwRzZYd0NSempNRVl3cnN6cW12cTFXdEkxZTBTRkZLRE9hYjkwQVBLNlpoTmpfM1U1Q1UzZkVVenNFUEl5d0NR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHb1NhZGNWejZDY2k2ZENhdXFHOTFIbVlNLWRmQmJIUnpPV0c3R2gwbFpuY1ZoQU1GSFhCSnl2clFTRldlNVNEWFlaTHExelVmNGkwYjJBN09fN2FKX0lPTg?oc=5",
           "region": "national"
         },
         {
@@ -385,24 +406,10 @@
           "region": "national"
         },
         {
-          "title": "대전소방 헌혈동호회 ‘나누리’ 생명 나눔 실천",
-          "source": "세이프투데이",
-          "date": "2026.09.14.(월) 08:14",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vdnZnVkdBV0xOekxIbTZUdUF2ZHRLY2d0aTZqMVhpX2NjNjM0SHM0cWJHTEtocDhFQklqWlAzZlg2bHg3czF0a3dhdE9DYWxtV2trM2QtQmhDUFFjRTdzYndnVHJsa1l3cU5CRkNB0gFuQVVfeXFMTW92dmdWR0FXTE56TEhtNlR1QXZkdEtjZ3RpNmoxWGlfY2M2MzRIczRxYkdMS2hwOEVCSWpaUDNmWDZseDdzMXRrd2F0T0NhbG1Xa2szZC1CaENQUWNFN3Nid2dUcmxrWXdxTkJGQ0E?oc=5",
-          "region": "national"
-        },
-        {
           "title": "꺼져가는 생명을 살리는 4분의 기적!-호남대학교 태권도경호학과 박장규 교수",
           "source": "데일리뉴스",
           "date": "2026.09.14.(월) 06:47",
           "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPNUNUWG53V2lza2ZIOXdjc1RTdHlVY0VjY2hYSGQ3U2c0R0twR3lmdWtGZVpTZFlac21xcjh4S09ENjVaZ3lPc21iSDZyUk9NMVVvRVo5Z212a1g1bWhFZGpjdFdJQVQwVWVSYjkzNWFNdDVLTDNNYy1uam12TktCWHd1UHVLX2RRNnNpUjByMjAtS2dfUVN2WndaVDNXLThXWVJ5dFRlbXFYX2VZVXRXMC1Ia1FjMmxEaGtGRU0wUXAyVjI3QzN3RHc3UjM5ZUN5YVZmbVNvVl9kUnNuZUJxWkgzLXQyN0ZhZEdDVEtRUE55cWJWNWJ3TzBCLTBtQXkxaEllUktHOVBaNmlzU25iOEFNNndYNW85UmJ6S2h6c1Y0UlA0WDhaSXpPUkQyRjNWeDBZeGNCbWZHRHlONVplSWhMeXJpY0ROVmEtNzllRkxRWEJfb2dySUJDX3ltYjVzMFBzeFdjdU5wV3hYb3dJNFZmNTdwdTJVRFE2Q3pWVDBrZnVBQ25QLUNVaE13ZUZ3bWEyZXZBbEljbnUxR19ITnAycE10SjFGRHpRX2NjbWNJY1dKb3R0RjlONWozcEoxM2F3ckJSWnoyUFFGcDcwVjFQeDVGNTN6Y2MwbkUwSFRYT3N4ZElDWldR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "5년마다 항만안전 기본계획 수립하고 재해통계도 만든다",
-          "source": "물류신문",
-          "date": "2026.09.13.(일) 18:31",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GMjZyeE1UTkNKY0xpOVN4M2JvQUtZU0FxZnptN1VCZXgyYWh3YXJqWDJSX0NSWGpmUkg5RG4xNExxcFJRNndUVEtaM1Nsd05raVlEQWdmTzJRdjVaSFBmbWo5cDh6V3NHbm1J?oc=5",
           "region": "national"
         }
       ],
