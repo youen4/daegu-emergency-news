@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T16:30:43.050118+00:00",
+  "generatedAt": "2026-09-18T20:58:09.203197+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -20,7 +20,7 @@
         },
         {
           "title": "충북도, 추석 연휴 4일간 병의원·약국 1175개소 운영한다",
-          "source": "굿모닝충청",
+          "source": "goodmorningcc.com",
           "date": "2026.09.17.(목) 15:23",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tdmlvXzNLY0xnYV9ZS1E1dk0xdFVScHEtdUZXcm5CclBoQ1o0RTltLUhMS1dpd0ZaeHRIRHZlMnZod29aay1nYjJjMHpuMFpjZzdkcUtKQjZCSXlNc1JVUFY4NlR3VkZfQTI1MkRzRXphUQ?oc=5",
           "region": "national"
@@ -357,7 +357,7 @@
         },
         {
           "title": "홍천군보건소, AED 설치기관 관리자 30명 응급처치 교육…심폐소생술 실습",
-          "source": "신아일보",
+          "source": "shinailbo.co.kr",
           "date": "2026.09.18.(금) 13:18",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92VTJHQzJIODVFcVNUbTJjWDV6UmNRalBlOFVrMW5pMzlJeDFCMGhXRWpZN1VJLWVlU01Xek5xZFJVQUFKTlI5eG9ELVhGS2Y1MmxJVUI1SUU3cnZYaVJGOUlTSjdVUDdoRzYxWjlsNzg?oc=5",
           "region": "national"
@@ -371,7 +371,7 @@
         },
         {
           "title": "홍천군보건소, 추석 명절 대비 심폐소생술 및 응급처치 교육 실시",
-          "source": "웹이코노미",
+          "source": "webeconomy.co.kr",
           "date": "2026.09.18.(금) 11:54",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tYldidXZyZ053X0g4VUxSY1F4X0JCbHItX3NVYlZYMlpKR0hNWmVCOTFnOW1fa3ZuN1dDdjVOMjBBWkg2NHhEYjFvR2tZR2dld2dSUmY3bklENHB2Ry1aWWxqOTV2WHVjbzMtUlVOZnVIUQ?oc=5",
           "region": "national"
@@ -412,6 +412,13 @@
           "region": "national"
         },
         {
+          "title": "광명시 · 대한적십자사 광명시지부, 시민과 함께 체험하며 배우는 재난안전 한마당 개최",
+          "source": "국민기자뉴스",
+          "date": "2026.09.18.(금) 09:32",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiOXpCV3k0MmZxTXNEeGl3S1FfMTlmN3U2dlpPeFZibFdpUlBicnd4dll6VTRUclNSUlVHbWM0Z1ZaUGREWlkzNHZFM1JZMEw3NV9KMld2UVhPMlVjRGduMzV4RVRIbWfSAWdBVV95cUxQYjl6Qld5NDJmcU1zRHhpd0tRXzE5Zjd1NnZaT3hWYmxXaVJQYnJ3eHZZelU0VHJTUlJVR21jNGdWWlBkRFpZMzR2RTNSWTBMNzVfSjJXdlFYTzJVY0RnbjM1eEVUSG1n?oc=5",
+          "region": "national"
+        },
+        {
           "title": "한화 건설부문, 외국인 근로자 대상 안전교육…응급처치·심폐소생술 실습",
           "source": "아시아투데이",
           "date": "2026.09.18.(금) 09:00",
@@ -419,24 +426,31 @@
           "region": "national"
         },
         {
-          "title": "추석 전 벌쏘임·예초기 안전사고 주의",
-          "source": "안동인터넷신문",
-          "date": "2026.09.18.(금) 08:57",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DSHlwVV9SdlZwNGxoZ1hOVV8xRnZJcWVqNlpadXBYaUxpa203QUszYV9aYXZScG9hOFBWeHRZNlZTTGpLU0FoRnJOTVpHTHg1bWQwN0JTbWVRQnRmcWlIY3Q3XzVsSjIwYkhlak1B?oc=5",
+          "title": "경북소방, 추석 전 벌쏘임・예초기 안전사고 주의",
+          "source": "구미뉴스",
+          "date": "2026.09.18.(금) 08:40",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iWnVyQW9RT295bUlxRk44LUJzMzVyTEtsZVU0MkU3UURjcjA5QjJiOEIwbXp3LUtrdmVWTTUyc1pIT0EwNzlTRXIxakQ2NHNVVUYtcHFHdXBsaGNKcG1COXl5SEZSc01Ud2pxenB4MVduOVgw?oc=5",
           "region": "national"
         },
         {
-          "title": "SK쉴더스, 임직원과 혈액 나눔…‘희망의 RED PACK’ 진행",
-          "source": "더퍼블릭",
-          "date": "2026.09.18.(금) 07:36",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yeWgtNW9VMGFscU9zdnVLY2R0dERPUUNKVklIZW5iVDZ5ek1iUXNHNkJHME1wMlViNXE1cGpPczJYbkxCMkFEaWpRQTNHS0tqVTdxbmlfQjk1WnNoVUViX2p3SVNwbWF2VHdETHg5d9IBb0FVX3lxTE1yeWgtNW9VMGFscU9zdnVLY2R0dERPUUNKVklIZW5iVDZ5ek1iUXNHNkJHME1wMlViNXE1cGpPczJYbkxCMkFEaWpRQTNHS0tqVTdxbmlfQjk1WnNoVUViX2p3SVNwbWF2VHdETHg5dw?oc=5",
+          "title": "SK쉴더스, 전국 임직원 헌혈 동참…10월 7일까지 ESG 캠페인",
+          "source": "스트레이트뉴스",
+          "date": "2026.09.17.(목) 21:49",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13aXkyMmtob2FOaVVhSXV0ZjZCR0FsdmtjbjBocVdZQW1oU0JQbVlHbDFheHhoclJUMDY4UkVNZ3FLRl8tVF9DeGhSR2pGVVg4YzJoN2plRGRlQ2l1aTBycmlYQW0ydk9uSnpPU3dIUk8tVEnSAXdBVV95cUxPd2I5Q0tUNUNTemNhUEpBcV9tTG8yUEt3bzVxYnhpdzNiV3hRRU9DZmREZTNlaW1tWmJMSld5U05vcmd2R0VKN0FFZmJCYU44bk0wb183ZEZZZ2xPRUltMVFEZzE3XzlOT0hUUklfamtDUFE4Zmk1TQ?oc=5",
           "region": "national"
         },
         {
           "title": "광명시, 시민참여 재난안전 체험 한마당 개최",
-          "source": "웹이코노미",
+          "source": "webeconomy.co.kr",
           "date": "2026.09.17.(목) 20:44",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SVHJweVdoVVZRdm5aSnRjbTNUb21BNlJzeU1RVWFHS0I1dm5nc002aWxHYXFXOVh6X0hHWER0OVJNOUx3SzFFRnhyaDMwZTNiUEhBZHVFYkNidnQ1cXFoSWdOVTVrTktkR05ZTUw0czVwUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "익산소방서, 평생학습축제서 ‘소방안전 체험부스’ 운영",
+          "source": "전북중앙",
+          "date": "2026.09.17.(목) 20:07",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RMVFCZFNMRHN0SUpKd1k3Z3N6UnpVWWhQMktaalBQalhkVlBGRTkzUTJJYXB1UTUzSDg0a2dxWW5DUDM5U1p4QzJmSWhMR3dzTDJPcDJZVmNnSldTZHcxZ1FvYlFmS1JmSHJz0gFrQVVfeXFMT1ExUUJkU0xEc3RJSkp3WTdnc3pSelVZaFAyS1pqUFBqWGRWUEZFOTNRMklhcHVRNTNIODRrZ3FZbkNQMzlTWnhDMmZJaExHd3NMMk9wMllWY2dKV1NkdzFnUW9iUWZLUmZIcnM?oc=5",
           "region": "national"
         },
         {
@@ -448,9 +462,16 @@
         },
         {
           "title": "전주완산소방서, 생명사랑 연합캠페인서 소방안전 체험부스‘성황’",
-          "source": "호남제일신문",
+          "source": "honamjeil.com",
           "date": "2026.09.17.(목) 17:13",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51UGV3d2ZKVGJDV3lxSV9SeElwQ2xiWVNKNkJ6elotanFneHA0V0lxLWRUTkVGU29kV1d1WGRPNE5kQlFoSXBueEgtbTBTanF5MHNvajY1aHNla2tPaVhCSUIzZjZUdXR3WFpN?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대한적십자사 경기혈액원, 추석 연휴 기간 동안 GS25와 함께 헌혈 홍보 나서",
+          "source": "기호일보",
+          "date": "2026.09.17.(목) 16:56",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PVXVrVWMtVXQ1MW82LTE5Z2syb1I1WXBxeDlTLWJUSVhFckNCLVpGUDFnMkp3NVFQelpWbF80aWgxclFnVGN0N0gtSDdzZGxGdkdLSWVFN3FDVVhQcHBLQkQ5OU1ib2VwX0J6dzQ1Yw?oc=5",
           "region": "national"
         },
         {
@@ -458,13 +479,6 @@
           "source": "v.daum.net",
           "date": "2026.09.17.(목) 16:21",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vc1NSX3FTZWkyVG92QmpiOXh0eU1ZZFJqaDlfbmg3MWVTNGdOTWdacFlzeGdqR3lyNV82QlRIODJydW1uV25IMWxDdTBNZXN5Y3h6Rg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "SK쉴더스, 10월 7일까지 헌혈 캠페인 '희망의 RED PACK'전개...ESG 경영 실천",
-          "source": "데일리시큐",
-          "date": "2026.09.17.(목) 15:25",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByYzE4YmtDMkJkN3ZPZU5DRDB4RjdCSkpOYVp4S3VRUWNONWl0eXY4M3RiRE5lbEV5MlZVREc5bllOWnpQX2F3Z0tiVnJpNHJ3eHRYWkVTaFFtNUNYYmkzV193RmhUZnJiYVU5Uw?oc=5",
           "region": "national"
         },
         {
@@ -482,6 +496,13 @@
           "region": "national"
         },
         {
+          "title": "광명시·대한적십자사 광명시지부, 재난안전 체험으로 대응역량 높여",
+          "source": "이뉴스투데이",
+          "date": "2026.09.17.(목) 14:28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40V2wycGpvTWJvMk51N2daa2ZNVU5PSkNtZEc2dzBpdUNJSDJFalRPenBjVk5OMGo2eWdSckx1dl9nX2tFS0IzeTNwNXEybVdUcTk1TmJsY29sbElaWWxtbTAwTjMxNnNIcGhmNUlNMkE0bGtU0gF0QVVfeXFMTjRXbDJwam9NYm8yTnU3Z1prZk1VTk9KQ21kRzZ3MGl1Q0lIMkVqVE96cGNWTk4wajZ5Z1JyTHV2X2dfa0VLQjN5M3A1cTJtV1RxOTVOYmxjb2xsSVpZbG1tMDBOMzE2c0hwaGY1SU0yQTRsa1Q?oc=5",
+          "region": "national"
+        },
+        {
           "title": "안동교육지원청, 직원 100여 명 대상 심폐소생술 등 응급처치 교육 실시",
           "source": "타임뉴스",
           "date": "2026.09.17.(목) 14:15",
@@ -493,27 +514,6 @@
           "source": "전기신문",
           "date": "2026.09.17.(목) 11:34",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SMTN5d3Jaa1JuY0Z4NDgzQVZPT0lrNTYtVk5wTURTekc2UzhYeC14TGZmOFJ6ejVKMzRWRUFlRXdlQWs2VjR0ZDVEaGhSOTF3anZVZkNHZFdRMmd3V25PbENyZ1ktVlBSQTBXdVRLdzDSAXBBVV95cUxNUjEzeXdyWmtSbmNGeDQ4M0FWT09JazU2LVZOcE1EU3pHNlM4WHgteExmZjhSeno1SjM0VkVBZUV3ZUFrNlY0dGQ1RGhoUjkxd2p2VWZDR2RXUTJnd1duT2xDcmdZLVZQUkEwV3VUS3cw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "농금원, ‘사랑의 헌혈’로 혈액 수급난 해소 조력",
-          "source": "농수축산신문",
-          "date": "2026.09.17.(목) 11:31",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmdWVla0xTMjVGeU92R05UT044eWpwZmlSaDN4T0pURmwtM3FhRVItZzBTaHhYSERqcF9NV205bnk0X3dBakRzZUI1aWw0ZGU3MldVVjJOdVljUDVhd09zc09jVnY0Mko3NXpqTQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "저출생·고령화에 헌혈도 '빨간불'",
-          "source": "EBS",
-          "date": "2026.09.17.(목) 10:33",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb3oyTnc1bWRGVlY3VGtRNklWUk5kRC1IV21Od0hhOXpYUnlpY0JpMkhUV3ZCc1p0UjQ4cFhDbFNlRHhiMWJrV3lUb2F3RWsxekdEYTNrSzJuQ19CSzJjOGJEY0UxWVUyYmx0dHlzakZLVHVOOEF5emQ0MTc0bVZ2cmhkYjhBVmMzeFVWZkZ6N0JKaF9CeGlucy14Yw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "SK쉴더스, 전 구성원 참여 헌혈 캠페인 ‘희망의 RED PACK’ 진행",
-          "source": "뉴스락",
-          "date": "2026.09.17.(목) 10:04",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84UG1CV1hKeXFWa2ZOVUgyX3FhQU43UmtnUkN3a2QtQ0ZFWU9ZdnlKU05JMnZzNUZNenJRUFdlS0lfeXpSa3BSYldaelFWZERCM2MtakdqbWZHdHNLS05Kd01qVnBQbU9FX09ibw?oc=5",
           "region": "national"
         }
       ],
