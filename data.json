@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:13:34.099452+00:00",
+  "generatedAt": "2026-09-20T20:54:12.479445+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -26,13 +26,6 @@
           "region": "national"
         },
         {
-          "title": "경북도 추석연휴 비상진료 가동 ... 응급의료기관 36곳 24시간 운영",
-          "source": "hidomin.com",
-          "date": "2026.09.19.(토) 10:35",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kemQwYUtaTzh1YjRKa0hkclpmWW5Ha1owal9QSWEtcHRmYmV5YUo5RnpObkZnUWc3UUJtd2NHbHNHOXFZdng0amxGd3FhMnhpVERVc3UzQktzWW9qQXhWZWtidnlvLXNUOEE?oc=5",
-          "region": "national"
-        },
-        {
           "title": "추석에 아프면 어디로? 경북 응급의료기관 36곳 24시간 운영",
           "source": "연합뉴스",
           "date": "2026.09.19.(토) 10:11",
@@ -44,6 +37,13 @@
           "source": "뉴스1",
           "date": "2026.09.19.(토) 09:49",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rV194aEtrd0pmaGFmcTVDb2J6R0swb1p4dVk3dHZGQnh0S2hxdkhVYUVYNF81VnRjc1JGQXpDWjlxeEc4QjFmbU8wRXpCQkNtdlJNMjYzcWgzd9IBWkFVX3lxTE5rV194aEtrd0pmaGFmcTVDb2J6R0swb1p4dVk3dHZGQnh0S2hxdkhVYUVYNF81VnRjc1JGQXpDWjlxeEc4QjFmbU8wRXpCQkNtdlJNMjYzcWgzdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "충북도 추석 연휴 응급진료체계 가동",
+          "source": "모빅경제",
+          "date": "2026.09.19.(토) 09:02",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BMHFuMG5uSDB5WmJqODBFdXJ3SXRoNi16RUtaNl8tNnBmYWNiNGtraUZoN2lqYU9KNFBpUlRHUEpjOUVULWpvWDNCbEhtVnJOUUl6LUp1SVhvQlNtYnZ5WjhKY3oxNWpMQkhyWWJ6ek8?oc=5",
           "region": "national"
         },
         {
@@ -68,6 +68,13 @@
           "region": "national"
         },
         {
+          "title": "자세한 규칙이 궁금해지는 게임, 토토 콜라 사이트",
+          "source": "Histoire pour tous",
+          "date": "2026.09.18.(금) 21:18",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmswOG9vT0pwRzBZb2wzVkVMb2wwZUNPTWtUc1NoV09peGZhTUt2VXd6NmZLT1BaS1lYZ2dVdVdxbnhIV2Jtcjl1NEI0U0dNVGd2UEpyZHA0Nnh0Y0pobFZxVU1MZTBEaHNxamhxVlpGanl1MDNFT2lxc0xiNFMwMTQ1QlRNY1czRE9RSUtFazB2V0R4VWZpTnVTakdoTl84?oc=5",
+          "region": "national"
+        },
+        {
           "title": "경북도, 추석 연휴 대비 의료분야 비상대응체계 총력 가동",
           "source": "전국안전신문",
           "date": "2026.09.18.(금) 17:18",
@@ -79,13 +86,6 @@
           "source": "CNB뉴스",
           "date": "2026.09.18.(금) 16:19",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wSHcwdEJHVnF1QnhyZEZxeGF3OGNrMVRCTE83WHVvN0cxdzR0NFh4aTZnSFlJWVdtbUI2S3ExWUNmNzV6RmJQeDd3djlMOG9iOTlCQ09VQy0tRjZjSnQ5OWhVT1pqWDQ3UkE4?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "충북도 추석 연휴 응급진료체계 가동",
-          "source": "전국도민뉴스",
-          "date": "2026.09.18.(금) 15:05",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00SXVkMHpKdnlpWDJzZXZGTlRBX3czVDhaTHUwLThnSFYwN2ZZR1ctUUFvSV9wanlqT2Z1RHRPcHh2cmtRWkcxVnMxYVZsOGw1Um02N2J1UnhIWFBZNDFzUlFQSy1lVXN2WGNxUnFB?oc=5",
           "region": "national"
         },
         {
@@ -118,14 +118,14 @@
         },
         {
           "title": "경북 추석 응급의료기관 어디?…\"소아응급실도 4곳\"",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "date": "2026.09.18.(금) 08:48",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGMFpwN2wtWEN5SF80X0I5YU8wLTR2djMyUlR4aXJybTNXLUJWSHpvQjd0QkE1aVltVUU0SG5wU1hzblRCUlFKNnRrQ3g5UHAtT3lSVWpTUUJHczBhMDFUYW0xVkJuRHhnbWZBakQzUE84d1hnNWdCTdIBeEFVX3lxTFBGMFpwN2wtWEN5SF80X0I5YU8wLTR2djMyUlR4aXJybTNXLUJWSHpvQjd0QkE1aVltVUU0SG5wU1hzblRCUlFKNnRrQ3g5UHAtT3lSVWpTUUJHczBhMDFUYW0xVkJuRHhnbWZBakQzUE84d1hnNWdCTQ?oc=5",
           "region": "national"
         },
         {
           "title": "‘응급실 뺑뺑이’ 막는다…수용병원 지정하고 형사책임 면제",
-          "source": "뉴스더보이스헬스케어",
+          "source": "newsthevoice.com",
           "date": "2026.09.18.(금) 06:08",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81LThRcHZabEJ1SkJhZ3VZZER4enl5dFdZbl84ZHV0WmJSRmg2S2hLNVB3NlNHTXFMOU0wb00xby1JenVIT2paTU9nenpZNVdpODRiVVg0dDc2ZWc3cTZsQW1GN1gtQ21yM2lWRHNMUQ?oc=5",
           "region": "national"
@@ -157,14 +157,14 @@
         },
         {
           "title": "용인시, 추석 연휴 ‘종합상황실’ 가동…164명 비상근무",
-          "source": "beyondpost.co.kr",
+          "source": "비욘드포스트",
           "date": "2026.09.20.(일) 06:35",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4Um9Rd251RTJyQlAxNW5zTy11VXJsSzNzNnR3Wk1nQnlJak1hdzRCM3dXUU9obVprdFMtenZoaTBPUlItbEhzUk5fVm92OTZCWDB0aTdubDBsWDJMTFBGblBhYWF5OExoSng4X1ZLenROUzN0cW9wNlhUejg?oc=5",
           "region": "national"
         },
         {
           "title": "\"재난 골든타임 잡아라\"…전남대병원 현장 대응력 강화",
-          "source": "namdonews.com",
+          "source": "남도일보",
           "date": "2026.09.19.(토) 10:54",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWTdkTmw0b3Y5NTE3WFJjeEJwc1RKbWNKZnVvVEdxQUJLR0lSYkZlbnFDZkVlTVdvcmgyOEV1Q25JOXJ2d2w5RXE5SzZvR1ZfLUVQR2xBQm1Mdklkd1VrZXJPa0szODhhX2w4RDdOYW_SAXBBVV95cUxQWlk3ZE5sNG92OTUxN1hSY3hCcHNUSm1jSmZ1b1RHcUFCS0dJUmJGZW5xQ2ZFZU1Xb3JoMjhFdUNuSTlydndsOUVxOUs2b0dWXy1FUEdsQUJtTHZJZHdVa2VyT2tLMzg4YV9sOEQ3TmFv?oc=5",
           "region": "national"
@@ -252,6 +252,13 @@
       "label": "기타",
       "items": [
         {
+          "title": "15년째 이어온 생명 나눔…아세아시멘트 제천공장, 가을에도 헌혈",
+          "source": "중도일보",
+          "date": "2026.09.21.(월) 01:16",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3eHRRcmZHaF9XRGw3dVVfdUR6LUs2THRaZUFNWER4NG5yX0J4cC1DWTFCVjA2Q1kyMnJlamlCaEQwT1ZhX2dzSmxxSFl6M2hCTHJuc3RDWGJYc2Ria1V6RVV1S2hnbndJZWJadw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "아세아시멘트 제천공장, 가을맞이 ‘사랑의 헌혈데이’로 생명 나눔 실천",
           "source": "뉴스파이어",
           "date": "2026.09.20.(일) 23:09",
@@ -330,7 +337,7 @@
         },
         {
           "title": "아산 음봉면 공장서 에어컨 설치하던 60대 여성 근로자 사망(종합)",
-          "source": "news.nate.com",
+          "source": "네이트",
           "date": "2026.09.19.(토) 17:40",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WSjMyVm5HaFptTTZmRE9POVFzRDFPenNCaGhQV0N2c01JdDZMSjdySnhtVjdyZlI3NjE3RFNiTmo5M0RZMXhIWklHVFJUZjh2WXMw?oc=5",
           "region": "national"
@@ -351,7 +358,7 @@
         },
         {
           "title": "인천환경공단, 하반기 ‘사랑의 헌혈 운동’으로 생명나눔 실천",
-          "source": "dtoday.co.kr",
+          "source": "일간투데이",
           "date": "2026.09.18.(금) 22:16",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82d2ZLeFhiNTV1djZvb1RuUjl3eS1jVmNDVWMtLVpGRmZwUWZfYzFCa3NlSE5YNGVQYzlrVTlKV3B2aFRLRUhHblZUTk94aTFWdEpsU0l5aEhNVVFFZ3lEQWZBcVNUalhaNFBN?oc=5",
           "region": "national"
@@ -379,14 +386,14 @@
         },
         {
           "title": "인천환경공단, 대한적십자사와 함께 ‘2026년 하반기 사랑의 헌혈 운동’ 전개",
-          "source": "경기도민일보 미디어",
+          "source": "kgdm.co.kr",
           "date": "2026.09.18.(금) 19:21",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aOFdNR0VOQUZHN1NYZjRpc2ZQbG1rdUQ4LXh5Z0t1SXdFZXlUWUxvSkVJcUhxN2V5UjlDVkRhMEdGNHhucmRJZG94QkFXMUxuV3JOaTRtMDVhWER1eTdTcVlGUHV4WmZreVE?oc=5",
           "region": "national"
         },
         {
           "title": "115 응급센터: 심폐소생술(CPR) 및 자동심장제세동기(AED) 사용법 교육.",
-          "source": "vietnam.vn",
+          "source": "Vietnam.vn",
           "date": "2026.09.18.(금) 17:57",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU9oT3JYWEpoaEIyU1l4ejF6QUY4MkM5Zy1uam1zVFFrUVZBNVhIQmZ0QnNDZGlRX0RuUDkwVVFwSTNILU9wdzhFVlpkZ09JblBhMEtmOFNIaXFDclI5QzBvZWFxZ3I1d01LOXVMWF9yRUg5aW5SUW1mTzYtbU1WWTdtRW9BdTdUWmxXdW5ObkYydjhHeldZUERqSjZEcWpvX1lXcHhESWVRSU15VF9jOHJUOEFTQnNidmc?oc=5",
           "region": "national"
@@ -414,23 +421,16 @@
         },
         {
           "title": "물금고등학교, 생명나눔 단체헌혈 동참",
-          "source": "ujnews.co.kr",
+          "source": "울산종합일보",
           "date": "2026.09.18.(금) 15:24",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvREpSRFJ5NnZ3X1V6QzJKUWdjcnpqczJPVXlOT2pGMVpOaDdfajNLZ19kOXZJT2FhUnRCMUJKY3RIckVsRmF0RWs5ZTZad3BjSnlFU3pxMUNvakprMUFFMDZraTdxT1FvaGxCbUhR?oc=5",
           "region": "national"
         },
         {
           "title": "인천환경공단, 적십자사 인천혈액원과 하반기 헌혈 운동 전개… 헌혈증 기부도 연계",
-          "source": "bokjitoday.com",
+          "source": "복지투데이",
           "date": "2026.09.18.(금) 14:05",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TUnpHMlZmd1B3Y0x3cDR5OG5rV2lNZjF4NXpNYnVWNDBLUVZtUVp6U2FhRko2dEhjNG9hN3FSaGJ0ZXNkQmF5ZUloWVdaajJIWGNHZkJfWUVqeF9rTWV3TExvWDVUR2RoNTdCSA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국릴리, 세계 봉사의 날 맞아 지역사회 응원하는 사회공헌 활동 전개",
-          "source": "뉴스1",
-          "date": "2026.09.18.(금) 13:48",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BZWxrM2p4SEVva244QXk0ZV9MRkJqUm9kYTZnWnJrbkZmX1BEajJZLUx3Wk1qR0FxdGtJSE5PSHRwczdUOGxvejhlZjQ3bUxlSEFOck5zRkkxaWtpdlRkdHlEODZCQdIBZkFVX3lxTE5BZWxrM2p4SEVva244QXk0ZV9MRkJqUm9kYTZnWnJrbkZmX1BEajJZLUx3Wk1qR0FxdGtJSE5PSHRwczdUOGxvejhlZjQ3bUxlSEFOck5zRkkxaWtpdlRkdHlEODZCQQ?oc=5",
           "region": "national"
         },
         {
@@ -449,9 +449,9 @@
         },
         {
           "title": "[금주의 구리시] 헌혈버스 6대에 260명 동참…구리시 ‘생명 나눔’ 확산 外",
-          "source": "joongboo.com",
+          "source": "v.daum.net",
           "date": "2026.09.18.(금) 13:20",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VSHdxQkU1THBqN0w2Y3FoV2JOenFhYVI0dUVSOG1oRi1yTDY5RlJaYWxPWVpocDNMeGxDYXNramdpaE8yODVsandGem1ZTkp0V2pIbkNYZThrRWQybnp1ajlIXzV5SlRMVmU3SmRDUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xcVhBYmt2bVBwOGlGS3pPeHp0aEdXSUVaaWN5SGZQYUN6dTBObjRYX0UwSmViVVNpTlFkS3JwU3Y3c1RUMGc?oc=5",
           "region": "national"
         },
         {
