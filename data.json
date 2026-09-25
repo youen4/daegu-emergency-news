@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:57:31.335413+00:00",
+  "generatedAt": "2026-09-25T17:17:40.248075+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -69,14 +69,21 @@
         },
         {
           "title": "연휴에 아프면 어디로?… 문 여는 병원·약국 '응급똑똑'·'이젠'서 확인",
-          "source": "한국일보",
+          "source": "hankookilbo.com",
           "date": "2026.09.24.(목) 07:00",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mTWhEYUw4dGc3ekpvdHpaXzhRcWMwZFJRcERrZnNueTRaZjhsQ0oxQU1DY3ZINThiMmc2ZHAwOV9mMVg1YWo3RkttbG9jVVFCVDlvWktjM3FOSERUdVVTN2txWUt4OUFRUkxFOW9B0gFzQVVfeXFMT1NCWHJrWUVrRTQ2VEVoUzZXTUlGWW5yZ3MzRXc0Mjd4b2ZRckpDdEFtRVB4dHMyazhFQm1LNGdfRGFCMkhONE9DSnlnYXRZampkS1dMaVYyelh0SFE1MmRwdzFsSWZCZ1NNbjE4ZFFUXzdjMA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TQlhya1lFa0U0NlRFaFM2V01JRllucmdzM0V3NDI3eG9mUXJKQ3RBbUVQeHRzMms4RUJtSzRnX0RhQjJITjRPQ0p5Z2F0WWpqZEtXTGlWMnpYdEhRNTJkcHcxbElmQmdTTW4xOGRRVF83YzDSAXNBVV95cUxPU0JYcmtZRWtFNDZURWhTNldNSUZZbnJnczNFdzQyN3hvZlFySkN0QW1FUHh0czJrOEVCbUs0Z19EYUIySE40T0NKeWdhdFlqamRLV0xpVjJ6WHRIUTUyZHB3MWxJZkJnU01uMThkUVRfN2Mw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "올 국정감사 핫이슈 ‘소아의료·관리급여’ 예고",
+          "source": "데일리메디",
+          "date": "2026.09.24.(목) 06:57",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DLWVUbFFPSTlIY20wVWlOQVpXT2FkLV9ZLXlwTHYwVVlmMS1iVFZLUTJ6dzN0cy1mWndxZy1YblBVOEpVcjRMVlMtdjQ2bkJOQkpqN2R2MDZRSXowengwdk5ZbTVTZkZvRnZBX2JVdlBwa2VE?oc=5",
           "region": "national"
         },
         {
           "title": "응급실 병상은 남는데…\"환자 못 받는 이유는 인력 부족\"",
-          "source": "매경헬스",
+          "source": "mkhealth.co.kr",
           "date": "2026.09.23.(수) 19:30",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lRlVkLW5OMkp3VWtzTGJ6bW9TaEpvaTV5MjdGbFY1YTVQajM1Uk9wLTFiNFF1N1BPV25iLTZnN1N2T1Z3algzSmkyRzZiOHY2ZWcxdHRYcXo5WkllLTlTa0FfX0lZTEprVlBVMA?oc=5",
           "region": "national"
@@ -85,7 +92,7 @@
           "title": "목포소방서, “응급환자 생명 구하는 첫걸음, 중증도 분류 이송 결정 존중부터”",
           "source": "뉴스라운드",
           "date": "2026.09.23.(수) 16:08",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EVzdJX2I5TEFVREM2dGpLd3NLTVBEOWFrSmlQYThHcWxTaGJlTnM0Ty1HMkVMa0l2YV81QkJaclFxdXk5bzctc2p2aExncUstNlAwQzBKUEtreXpob0RTWGMwaE8zUXcwVG9wStIBcEFVX3lxTFB4bjBzcjBjWVZuV0JDMkJmN2FLdUVYSWlHc29qdy1tbnpGWTRWVFE2UzMxeV9BQ0plNEdzV3Fiam05bVpHWWtiSDFRZTZMekpDcFNnNHFmcGdUZlNYTGlnNzI0OGxpX2N4WlJTcVBnWmQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4bjBzcjBjWVZuV0JDMkJmN2FLdUVYSWlHc29qdy1tbnpGWTRWVFE2UzMxeV9BQ0plNEdzV3Fiam05bVpHWWtiSDFRZTZMekpDcFNnNHFmcGdUZlNYTGlnNzI0OGxpX2N4WlJTcVBnWmTSAXBBVV95cUxQeG4wc3IwY1lWbldCQzJCZjdhS3VFWElpR3NvanctbW56Rlk0VlRRNlMzMXlfQUNKZTRHc1dxYmptOW1aR1lrYkgxUWU2THpKQ3BTZzRxZnBnVGZTWExpZzcyNDhsaV9jeFpSU3FQZ1pk?oc=5",
           "region": "national"
         },
         {
@@ -111,7 +118,7 @@
         },
         {
           "title": "조배숙 “병상은 남는데 의사가 없다”…전북 응급의료 ‘인력난’ 비상",
-          "source": "전민일보",
+          "source": "jeonmin.co.kr",
           "date": "2026.09.23.(수) 15:08",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xMFRjLXNFWGxNT1ltV3RsYkttNlZ5V0FyQlkxbDh6WVA1RjYtUFBSQ3NiNE4zRDJCcmdaU2pjajN1c2lLVVVmVXBZNlo2TS0xY05oaGVWdVdtb3E5VkxxNERJaFY5Zw?oc=5",
           "region": "national"
@@ -132,16 +139,9 @@
         },
         {
           "title": "뉴스핌",
-          "source": "newspim.com",
+          "source": "뉴스핌",
           "date": "2026.09.23.(수) 13:53",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OFhCWlNMallMakhxd2k4cjNQVjFabzJtdG41RVhCSkU0bGZpQVlNZVdZVFEwYzdwb3ROQ2lUZGZxV3NyeURTQnNPMWFmcUU?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "정은경 장관, 추석 연휴 앞두고 서울의료원 응급의료체계 점검",
-          "source": "라포르시안",
-          "date": "2026.09.23.(수) 13:50",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DWDlaRmRDWElMdjRuMFVDNXRScUhiLVhhXzh1RVg1X2RqNkJ5cFFDcW5NSFg4S3BlRlUzQlhWclZfT0NsNUdHcFd4eXBTRzllZHpvUkE4YmEyaGVFNTNwcl9jc0x3dTkyUEJIMG9R?oc=5",
           "region": "national"
         }
       ],
@@ -164,8 +164,22 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "이철우 경북도지사, 추석 연휴 안전대응 현장 점검",
+          "source": "시사포커스",
+          "date": "2026.09.24.(목) 17:51",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNElYMGd1UWpCc2R2Y3hCSy1sYmdjakhZcmtoam9SN0JSSXdNZ3ItdGQ1RTY5bFMtUEF2V3U3OFZFOC1USGFNb1R0OC12QXFOdU5aOGFwTEc0cFB1MThING41bi15UlpVcWNEY1ZjOA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "추미애, 재난상황실·소방본부·지구대 방문…추석 연휴 비상근무자 격려",
+          "source": "econonews.co.kr",
+          "date": "2026.09.24.(목) 17:12",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aeDVMZ0RBTmx1YnJ6RkxCWXp1OTcyd3BwbFFvSDhzZFhWMXl3ZEtTOG9WWURnbXVXNUJvTm9yd09KMFlqOUY0UG41ZGRGQnBHcjF0TDVERURia3B0SEVpQ0FSVmpMNjk4anZuRVg1OA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "추석 나흘 경북 비상체제…5612명 규모 의료·재난 대응망 가동",
-          "source": "오늘경제",
+          "source": "startuptoday.co.kr",
           "date": "2026.09.24.(목) 14:54",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTZkpzVlFsalh1ZnRLV1pXVDgyVFREYjg0aElqZUdIT3E1RmV6a21KWkFNZjBzX0lwOTF2b0dqaTNqSVNDUXdwa0RnSkU4V2RmdXJjX3JVVXNVeW5FYzF4TGRmUTJ6aEZEdFRNdHBtNWNxbGM?oc=5",
           "region": "national"
@@ -178,10 +192,24 @@
           "region": "national"
         },
         {
+          "title": "인천 서해구, 추석 연휴 ‘24시간 종합상황실’ 풀가동",
+          "source": "wooriilbo.com",
+          "date": "2026.09.23.(수) 22:02",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TNzlSMG5NQmI0QW5ielRVZjFodjhUNHU5QlFpVFNONVhYNmtMZFNUZ1FFRFRHWUdaWmZLU2lJX2ZIZTBVYmMtckNTTkRVMlBzNG9EZWFpV0xBYlF0c3E2VTlBOA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "경북도, 추석 연휴 비상체계 가동…재난·의료·교통 빈틈없이 대응",
-          "source": "tk.newdaily.co.kr",
+          "source": "뉴데일리 대구경북",
           "date": "2026.09.23.(수) 21:59",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFcGdRR21BTTlSTjZQcklJVWV3S2YwVFhfek5qTHNzSkNjTl9lM1ZhTVFSRG5wNTllMkduWTBXZ3dHeDlYOTQyaWFGejNXbko1LUhBdUxWeTBpVWs2TlpBVEdrdGM2UWQxVkxOTmVFS0hLMG1ydVdZejZ6eGcwRjjSAX9BVV95cUxQRXBnUUdtQU05Uk42UHJJSVVld0tmMFRYX3pOakxzc0pDY05fZTNWYU1RUkRucDU5ZTJHblkwV2d3R3g5WDk0MmlhRnozV25KNS1IQXVMVnkwaVVrNk5aQVRHa3RjNlFkMVZMTk5lRUtISzBtcnVXWXo2enhnMEY4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "인천 서해구, 추석 연휴 24시간 종합상황실 운영…생활불편 대응 강화",
+          "source": "녹색경제신문",
+          "date": "2026.09.23.(수) 13:33",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1UHRyS1BhSDBjVWNKd21sd0FnR2VYdU5ydEctNndxZ0lmbEtUbWdVMmlPMHh1OVdkUFg0cGJDSzdnUFU2Z3k2NjEwZk94eUpXQVR5VjFjZlE4bGtXZElVYzV1U0lOVkE?oc=5",
           "region": "national"
         },
         {
@@ -189,34 +217,6 @@
           "source": "공뉴스",
           "date": "2026.09.23.(수) 05:35",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWbW43eVZ0bGNmUTc2X1UyRDJsUmgyOGhRM0xLZXB4MWk0SmtiNGMyd3VhZ0hvdk9MOWFIWnRhUXdKV1hXX1hOTEFQM1RremVkNVZSMDkyd1JDdzJkcTNQV3AxbmtleEppQmRKWA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "연휴 기간 전남광주 병·의원·약국 1천85개소 운영",
-          "source": "호남타임즈",
-          "date": "2026.09.23.(수) 00:48",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qQXI1aWVHMVRVeWJ1VXNiRjFDMzNhN1d1b01PdDhNZFNXOTVwR2tVZUlNZnIycndyWDJGa21veFRLWGplOGRxUUxPY3dWLUhhUV9kMzJjQlpmNERrZXJJX0NFLVRnYWRzdzZQNA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"응급의료부터 지역경제까지\"…경북도, 2026 추석 비상 대응 가동",
-          "source": "gukjenews.com",
-          "date": "2026.09.22.(화) 23:53",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xRmJPOElmeXA4LXJNUWFBaUdDemFEVloxbzB2TFlXeUlhcmdTbE0tYUdJZnZGbGd6UnctVDRXN1NFZ1dFZWFGNmV5YjBvNnJ5U050dlJhdXZobXYxWTQ2QW5VYlB6YXBib3pBMzBB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“재택의료는 질관리·재난의료는 데이터”…공중보건한의사 역할 재편 > 뉴스",
-          "source": "한의신문",
-          "date": "2026.09.22.(화) 23:36",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOTMtZ2t3T0VndGJDZEZWcXd5bFZNRFNyN1Q3R2NsOGpQaFh0dUJZNlltS01zZWRVeWFBLUo4TGUxZ0IwUUhCak9MaEt0blJySE1iTlRFNjNzWUhtRzlBM0lmMXV1ODN1RXdPSmxERWY1MFJHbTZBVEZrUWNHT2RJV05YQmN3SDB6TlZHSVRHUHdQbGVraExVbkdFYURQUjlwQzRhQ2VvcGJHUXdTU1E2STczSEl0c2JWVDNLWHVYMjhnenpMdXRzTkRBWlNtakN0QzlWWWN1aC1wQXNNeGl5MlQyU0ZWcnlUOUxVbTloN1E4TjJLN2xTblNKcGZxaVU5Y1R1dzMzUUVwM1V6cTZySU1RQ2JPa2tO?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "연수구, 추석 연휴 재난·의료·청소 등 9개 분야 대응체계 운영",
-          "source": "m-i.kr",
-          "date": "2026.09.22.(화) 23:20",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JNi1oaXRKWnFhYUtuRVFBRklFWF9jX1RyR0dwN3NMVS01MUI5LXBqaXpkTkVMUDZOOFVTYUIwZDM4LW5Bc3VQblBqVlJ6TmlBY0EtbnhnbDlHQ1dJQU9tc1NZZGzSAWhBVV95cUxPWmp1QWIzWEpVem92Z2tfYUNSb3c0QXk1UXR2MWtUSjlXb1RpcVBQRzdMT1QwRHlOMWhOZVdfSURWODZsY1VoNmY1a1hmZlN2d25tQ24yV1dWLV96czFHOWZVVUNjYjl0LQ?oc=5",
           "region": "national"
         }
       ],
@@ -245,10 +245,10 @@
           "region": "national"
         },
         {
-          "title": "이대한 의원, 남양주시 자원봉사 박람회 참석 > 뉴스",
-          "source": "더코리아",
-          "date": "2026.09.25.(금) 07:57",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85MUpYeTNJTFBiS2QzemhhTlg1RldpWjRmQmNtb0tBSXZaQXN3eTRLSF9IVlNKazFRNVBtMGdTNW9BVkt5cndFR3pIdWhWZmZWWFJyQ0RFRXBDQjdiQXhxQW5sOTVlb2daNVJjZXFXbXo?oc=5",
+          "title": "굿모닝아이텍, ESG 사회적 책임 실천 위한 ‘제4회 사랑의 헌혈 캠페인’ 개최",
+          "source": "국민기자뉴스",
+          "date": "2026.09.25.(금) 11:45",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01di1ZNXF1YlF0NUxMakYzQ3Z5NGljZnJ1cm1nX2VzdHFFTHNJS0tuM1FkQzRuLTlJWTZubkJBYnRlMUtUczl0elhWUDB5cGNlSmNyZVQxc2YxU2xZaGN5LU1wa9IBZ0FVX3lxTE04cUJHVlhRWGdBZUg2SE5hMU1kNnNnSjFjRmY1aUpVd0lscWg0cUQxN29MTkFZNDJ4UjRpcGRuVFVNRXRLMDgtRG43TTF6alJKMkpwbTFDRjlPX2dEVXoyVW9xMHlBSGM?oc=5",
           "region": "national"
         },
         {
@@ -281,7 +281,7 @@
         },
         {
           "title": "인천교통공사, 임직원 헌혈로 2년 연속 ‘사랑의 헌혈 퍼즐’ 완성",
-          "source": "우리일보",
+          "source": "wooriilbo.com",
           "date": "2026.09.23.(수) 22:40",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wZTVrN3pqbEVNTXNtZGFKd1dYS0s4RnA2Yy1TaTB0a3pEeVNIdjVzSm5MeVE0b2pFdkVtcXBGVUFkZjVzVEw0MGF0M2Y4Y2xnd0NQTTVpenZPQWEwb2F4RVNuVQ?oc=5",
           "region": "national"
@@ -301,17 +301,17 @@
           "region": "national"
         },
         {
+          "title": "평택해경, 추석 연휴 대조기 연안 안전사고 ‘주의보’…갯벌·방파제 순찰 강화",
+          "source": "여성종합뉴스",
+          "date": "2026.09.23.(수) 21:51",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aQzZZX2xwbl9NazUyMW1DdUVzN3ktVmhtUTNSaVMtM1hpRVd0WkE3cnFDbjE0WnJ6eGVYQ3dGMlhwMzJNdnp1TURVaWpkM3ZReUNSQTlxOVVnS1R6WUJhekpjdHpoTVNGYkd0Rm53QQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "고양소방서, 행신역 귀성객에 완강기·심폐소생술 교육",
           "source": "facton.co.kr",
           "date": "2026.09.23.(수) 21:20",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0STZuRFNWYmNBM09oRVFINENtdEF2RVNqUEkzWUJOTnBUU1AxRGx1Q2pSVHdJTlc0aU9uUThoQTA5ZlY2YUZJUDlNcFpCSXhaWVpzTHNIUmY2WU1xci1kOFRNQ3JGRE5K?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "촉발지진 11년 만에…옛 포항 지열발전부지에 220억 지진안전센터 선다",
-          "source": "v.daum.net",
-          "date": "2026.09.23.(수) 18:44",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oTlN0VkRBelFZU25QSzRnMkxlUmVFT3ZSVUFtb2pCbHRScVR1LU9NZmdQN1oyMkpRc3pySmFIZko4dmFMeXUtWEVVYnhFajA?oc=5",
           "region": "national"
         },
         {
@@ -322,22 +322,8 @@
           "region": "national"
         },
         {
-          "title": "양산시, 덕계동안전협의체 찾아가는 시민안전교육 실시",
-          "source": "양산타임스",
-          "date": "2026.09.23.(수) 17:06",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ETkhkQzhjX1dDMVdySmlMT0ZPZXN3Q2E3Ql9PR3oyenFOV1NDOVFRYnRteEo4VC1JU1FzSGdXOFo3ekJla1YwamdxQUQ0MXJrWTBtVU9aLVk2N1NESzR6ZHprN1FMOXFP?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[공기업 센터] 한국수산자원공단·부산항만공사·부산도시공사",
-          "source": "민주신문",
-          "date": "2026.09.23.(수) 17:01",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2VnVDNHU5dW8wMUZ5TlZ0MFJqLUZla1llME1rNUhiRzFPM3hHZjJ4WGNxRVFiWjdkT3ZJUHZZRjJrZzk0ckNjcDl0Wkw0QVpycXRjTDBuVjE2aFluR3NXY3c0ZUo1STgwM2N30gFrQVVfeXFMUHZWdUM0dTl1bzAxRnlOVnQwUmotRmVrWWUwTWs1SGJHMU8zeEdmMnhYY3FFUWJaN2RPdklQdllGMmtnOTRyQ2NwOXRaTDRBWnJxdGNMMG5WMTZoWW5Hc1djdzRlSjVJODAzY3c?oc=5",
-          "region": "national"
-        },
-        {
           "title": "사고 목격자·구조대원도 ‘안전사고 피해자’... 생명안전기본법 시행령 입법예고",
-          "source": "한국재난뉴스",
+          "source": "hjnews.co.kr",
           "date": "2026.09.23.(수) 16:46",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04dm9keXF3NTNCVzktdjh4VDR1eWNZQmpiZVhzQzc4bkNYLV9jTGhtUkp0RDRlOThZckhNaWZwbWpxQnBTM3ZBcXgzamhFX0pPcTZfV1R5aTZha1VJS05wUFhlb0E3UjM4VFE?oc=5",
           "region": "national"
@@ -392,13 +378,6 @@
           "region": "national"
         },
         {
-          "title": "강동구도시관리공단, 생명나눔 실천 위한 ‘2026 사랑의 헌혈 행사’ 실시",
-          "source": "seoulilbo.com",
-          "date": "2026.09.23.(수) 13:53",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYXNOdEtCbnYyTVN6M044Mm1fT0V4U3otd2xqajM3MTJ0ejlqVTR0SWQ4WmRPeE91ZkYzMDZkZ1VSbkxjY19MLVotb01jZ0I2NXRUX3ZtTHAyNEJ4eWpMaHhDV0xhNzIzS3RJNnhoQdIBb0FVX3lxTE9SYXNOdEtCbnYyTVN6M044Mm1fT0V4U3otd2xqajM3MTJ0ejlqVTR0SWQ4WmRPeE91ZkYzMDZkZ1VSbkxjY19MLVotb01jZ0I2NXRUX3ZtTHAyNEJ4eWpMaHhDV0xhNzIzS3RJNnhoQQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "성동공단, 20여년 정기 헌혈 실천... 올해 3차 헌혈캠페인 전개",
           "source": "성동저널",
           "date": "2026.09.23.(수) 13:37",
@@ -410,6 +389,13 @@
           "source": "해양레저신문",
           "date": "2026.09.23.(수) 13:26",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VTlV4X2xvN1FXc1BpTU1na2hpM245ZkExbmpvbE5BUVdBcm9Tam1YT1hzZnR1TlZMa3QtTTFQTW1RTlpjS25rTVRXeW1Lc21RN2hXc2VtSQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강동구도시관리공단, 생명나눔 실천 위한 ‘2026 사랑의 헌혈 행사’ 실시",
+          "source": "서울일보",
+          "date": "2026.09.23.(수) 13:03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSUkzTU5wU0JqeFFJUUN1U09EZklxZXZxdlItRHNuREdNLWI4dklSTkNOMWE5Qmk3NHdfRkZ0QTZ0cjVjQ0pvNlBLZVllUzI0d19JTmlvMTdxMmhOV3JyazlEQ2pjTVpMekI4edIBb0FVX3lxTE9SYXNOdEtCbnYyTVN6M044Mm1fT0V4U3otd2xqajM3MTJ0ejlqVTR0SWQ4WmRPeE91ZkYzMDZkZ1VSbkxjY19MLVotb01jZ0I2NXRUX3ZtTHAyNEJ4eWpMaHhDV0xhNzIzS3RJNnhoQQ?oc=5",
           "region": "national"
         },
         {
@@ -438,6 +424,20 @@
           "source": "newszoom.kr",
           "date": "2026.09.23.(수) 10:49",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvM0Y0T0dWUUZvdUFlbzBiTWVtQUpJc1pwNWNXbnFNZGMyRDBpblN3dEtaRVFjVWYxeDl6SGw5Qjk1MFlHN3Q4UlRFY2wtRGRo?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "파주시 운정보건소, 영유아 응급상황 대처 교육 진행",
+          "source": "경기평화신문",
+          "date": "2026.09.23.(수) 09:39",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5obENuRU4xUFVqNkZ6UGJ4RmlvQTBYN3NLcjVOYjhVbV9oZE5qZmxUSjA4RXNzNENtaG9TckR2LWlGMl9acTVGag?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "멕시카나, 추석 앞두고 수원 장애인복지관서 ‘치킨원정대’",
+          "source": "뷰어스",
+          "date": "2026.09.23.(수) 09:20",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BaWcyVzFiUzR0WTNuX3VmelhaT3d3ZEtYYThMMXJIY3ZRZU1NZ1YyT2VITW1rejR3YVdLYXY1Ym5RQno5dlRyQ2Jxa0pCMDRDWTREX3A4LXE?oc=5",
           "region": "national"
         }
       ],
