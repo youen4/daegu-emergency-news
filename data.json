@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-27T12:10:59.575890+00:00",
+  "generatedAt": "2026-09-27T17:02:36.594583+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
           "title": "순천시 “아플 때 멀리 가지 않도록”… ‘365일 의료망’ 구축",
-          "source": "스포츠동아",
+          "source": "sports.donga.com",
           "date": "2026.09.27.(일) 15:32",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZFVfYWREZ1U2QWNYNWY2VzVFVTJiT3A0Mzk0dFpXS3M3VE1DUnVlbzhObGZFcE52aGRPOGUzZDJwT1ZmR2dHX3BqN3duNVFjeldKN1VPcmxOS2ZQZmo3RjBmek9Wd3BrbFZkdUczVmVIdw?oc=5",
           "region": "national"
@@ -16,6 +16,13 @@
           "source": "서울일보",
           "date": "2026.09.27.(일) 13:18",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RNkl6c2hKLXNxRnZJNWNicGNEUWNuak9WbmRKM01GR3gtWUdzWHNPbFAyMC1QS2oyX2hJSkpZVUVhRXhKbHpUOU55Ynpyc21MVEtTTzdvbGlOcVhIUWNCazNjSlVUNTBXNkkzVlFIQdIBb0FVX3lxTE5RNkl6c2hKLXNxRnZJNWNicGNEUWNuak9WbmRKM01GR3gtWUdzWHNPbFAyMC1QS2oyX2hJSkpZVUVhRXhKbHpUOU55Ynpyc21MVEtTTzdvbGlOcVhIUWNCazNjSlVUNTBXNkkzVlFIQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "구리시, 추석 연휴 ‘문 여는 병·의원·약국’ 지정·운영 > 뉴스",
+          "source": "더코리아",
+          "date": "2026.09.26.(토) 08:14",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mc1Jrd1hzcmVyUVYwU0VTVENKWUpJUHJOMHNTTDdGTDJ1dEd2Yk05QWExVHlITUZHeEN5LWl6cWRodW45Q2t5dHdTM3d1UG5uT0ZZM1lWRjdJM21jaHNKNmc1VTFDTkN1Uzdabng2NFU?oc=5",
           "region": "national"
         },
         {
@@ -154,7 +161,7 @@
         },
         {
           "title": "자동차융합기술원, 임직원 사랑의 헌혈 동참",
-          "source": "jeonmin.co.kr",
+          "source": "전민일보",
           "date": "2026.09.26.(토) 14:33",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUktKSTlBcDZ5X3E3YlAyUTF0NFMydkFObGV6ZUo2QWlTWUVOemU2bEtaX2t4ZXdtQmcteDVyZTMxUFE0d0huNVp1Vk9EaFR5QThnQkhLallQR29rckxXbUMxTEdyQzJab2pvOA?oc=5",
           "region": "national"
@@ -188,13 +195,6 @@
           "region": "national"
         },
         {
-          "title": "탄딘 면, \"안전한 오토바이 및 스쿠터 운전 기술 교육 캠페인\" 시작",
-          "source": "Vietnam.vn",
-          "date": "2026.09.25.(금) 23:25",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelRLYjZJbmpRV0VkWjBzeEVoVUxNRmFsTm5XMjdFZHBZOXdNVXZNaG85eWgwa1dWRG9ObnhoNGVMWVhWYmtFVXRPVGp5Tlh0UTdBSU5XVXhjdnk5U1RyMm9fcDB6VnVTanotb0FIRzhPZzVjOTB1ME9SejYydG1lVERVUGdTQktNM1VXVlNuYndqUG5sektqdkNRM05XcE5JaWxhd2xMQWMxQQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "트리톤 병원은 자원봉사자들로부터 82단위의 혈액을 기증받았습니다.",
           "source": "Vietnam.vn",
           "date": "2026.09.25.(금) 20:25",
@@ -217,7 +217,7 @@
         },
         {
           "title": "광주동부교육지원청, 동부교육발전위원회 정기회 개최",
-          "source": "KJA뉴스통신",
+          "source": "gjkoreaja.com",
           "date": "2026.09.25.(금) 11:53",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3M2VEM0Uyc2xjOVN5OG5wOE1vUFNVS1UzN05sS3MyVkdlV1dRdC0xbXJJWDBnWklzbWJ0aEN1VFh3WWgteXNXY01pM0xqMkVOY0lUdWpZSTlVRFUtSkE?oc=5",
           "region": "national"
