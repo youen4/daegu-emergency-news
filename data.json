@@ -1,12 +1,54 @@
 {
-  "generatedAt": "2026-09-27T17:02:36.594583+00:00",
+  "generatedAt": "2026-09-27T21:25:29.735274+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "권역응급의료센터 수시 평가 전환...\"응급환자 관리체계 엄정 평가 추진\"",
+          "source": "newsthevoice.com",
+          "date": "2026.09.28.(월) 06:06",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xMDk0cHk0VnZhSEdOZGJfWUgyZjhjTEs5WEFqakpaSFJtZ2M2X3JORjlwSEhLRXJoWmV5ZjBLMndManFrcjNaYWVwbU4wLVlOS3FTdWxJU0FyVEt2ZEdVWndIMWl1ZHZnemo2S1dKNA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "권역응급의료센터 확대 '속도 조절'… 평가 강화도 추진",
+          "source": "히트뉴스",
+          "date": "2026.09.28.(월) 06:01",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rVjllR2xsQldNTno5SXdMWUdDLWs1SHZxU1NEd3hQX2xHTWd3c0VJbUxYYVBwWWZqTkRWUVlTWk5adXdWdEJkWkxZWGhER1oxY1lzWHF0R21yVzg0Zi1mTTE0WEpOMHJSRUhj?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "단계적으로 늘리는 권역응급의료센터, 평가 '엄격'해진다",
+          "source": "의협신문",
+          "date": "2026.09.28.(월) 06:00",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LX1FNYXJGRFE5b1FrMVgxX3pqXy1FdTgxMWlJTEZfVzFCWmxFVW9jc25Tc2JlemZ1U0VZYkE3bTA5enNpWWw4WDlPeUVuZGlYTkJ6QnhfZDV5ZzFVeTdjMUtJRm1BbnNIbmtTUFluWC1NUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "政 “현 53곳 권역응급의료센터, 더 늘린다”",
+          "source": "데일리메디",
+          "date": "2026.09.28.(월) 06:00",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tdk5MLVZpVURGbzVEVVdoS0ZnMEowc1R0NTRPX2xFZDZjZUNvc1ZHVkk5RUJsNmZMZUFzWk1SQjNSTGl5Wms3cFhwS0ZpRDYzWmJSZkJyYllyWmNrT29JN1dxWmJsX081YW02N25Gcnc3Vnlu?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "권역응급의료센터 평가·재지정 기준 더 엄격해진다",
+          "source": "메디칼업저버",
+          "date": "2026.09.28.(월) 05:59",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBneERnSHhNXzJUX1Fwekc1MGJlYWtxLUgwb20wN2MzZ2hjbEFTQzcxRVQ5QnVKVEMyNUt2LTQ1NUg0Y2FUcjhteVpnWFJQcnJfZjdBUFRNWUlOczBZX3lzQjdLalkzWmJwemhz?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "권역응급의료센터 60곳 목표",
+          "source": "재활뉴스",
+          "date": "2026.09.28.(월) 05:30",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLThkM3JGc0ZwSkZDXzVLM2hGQ3FydjdYSXJpY0VXN1lHc0NBT29GTU56bDFnLWtoUWNXcURPUTQtMTZveWVTbDNSNEtzQVNfNnVpcUZxTmxFSWEzcV9aNEoycTVHWkxxMkxB?oc=5",
+          "region": "national"
+        },
+        {
           "title": "순천시 “아플 때 멀리 가지 않도록”… ‘365일 의료망’ 구축",
-          "source": "sports.donga.com",
+          "source": "스포츠동아",
           "date": "2026.09.27.(일) 15:32",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZFVfYWREZ1U2QWNYNWY2VzVFVTJiT3A0Mzk0dFpXS3M3VE1DUnVlbzhObGZFcE52aGRPOGUzZDJwT1ZmR2dHX3BqN3duNVFjeldKN1VPcmxOS2ZQZmo3RjBmek9Wd3BrbFZkdUczVmVIdw?oc=5",
           "region": "national"
@@ -19,15 +61,8 @@
           "region": "national"
         },
         {
-          "title": "구리시, 추석 연휴 ‘문 여는 병·의원·약국’ 지정·운영 > 뉴스",
-          "source": "더코리아",
-          "date": "2026.09.26.(토) 08:14",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mc1Jrd1hzcmVyUVYwU0VTVENKWUpJUHJOMHNTTDdGTDJ1dEd2Yk05QWExVHlITUZHeEN5LWl6cWRodW45Q2t5dHdTM3d1UG5uT0ZZM1lWRjdJM21jaHNKNmc1VTFDTkN1Uzdabng2NFU?oc=5",
-          "region": "national"
-        },
-        {
           "title": "[르포]\"아버님, 눈 떠보세요\"…쉴 틈 없는 '동해안 최종 응급실'의 추석",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "date": "2026.09.26.(토) 07:30",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RWkNmZHZUTU4wSUNfajVrR080Y254LXV6S3ZaQkNhbVF4cm5HY1dsb0RRekxpLXE1azFvTlp5bDZaN2lEb25YNkF4b0R3ZVhWcXd1VFpYUjhpd9IBWkFVX3lxTE5RWkNmZHZUTU4wSUNfajVrR080Y254LXV6S3ZaQkNhbVF4cm5HY1dsb0RRekxpLXE1azFvTlp5bDZaN2lEb25YNkF4b0R3ZVhWcXd1VFpYUjhpdw?oc=5",
           "region": "national"
@@ -51,13 +86,6 @@
           "source": "이투데이",
           "date": "2026.09.25.(금) 08:00",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9seEpTOWkxRG5FOGtPVEFPSGQ0YzJYMUsyUFBSWUZnU0JyY3c4bGRERjVTMDRPeGpKMWs1REdIamt3ZHJBVzNBb3gyaGJ6Rnh2a2E1VUpqdTZNMUk5TlptaHppaXY1QjgxcEZCbjZR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "릴의 움직임과 판정 결과를 나눠 보는 토토 사이트 탈퇴 베스트 온라인 카지노슬롯보증",
-          "source": "Calgary Roughnecks",
-          "date": "2026.09.25.(금) 02:44",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMmw0eXpfU0RndDBpZlhpRUhkelhGdmplLXNMZWllRTlCX2pIeWpMZUNFdzhFRzhFWE11YlhiWnFxQ2ROSE4zZHZwOWt6NER6cjhwVzk3MDQ5MS1pa002dHV6MThXSlRvSHlKMzF3dUIxVEFSNldDbHF0NDdyN3I4SHFJLV8tNl91MURqd2tzRjVlXzVyWkFtRmtqVVQ2aU5Bd1dGa0lzTTNOVlRkal9LWkxpZlhkdDl6TG00Z3RmMXRUTlpsSzN0MnduX3k?oc=5",
           "region": "national"
         }
       ],
@@ -86,17 +114,17 @@
           "region": "national"
         },
         {
+          "title": "전북소방, 추석 의료공백 막는다",
+          "source": "전라매일",
+          "date": "2026.09.25.(금) 16:00",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rM3g1MW0wUl9vaVF5Z0tnc3lTTDJMbzd1S0trc3gtUVloN04xdGduNndiTDF4QXV5UmZ1OW02LVdWRjRKMXFza0tEMU81MnpaZmc?oc=5",
+          "region": "national"
+        },
+        {
           "title": "추미애, 추석 연휴 비상근무 현장 찾아 격려 “덕분에 일상 흔들리지 않아”",
           "source": "경기일보",
           "date": "2026.09.25.(금) 10:58",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pbG5wZGx5U0puQ3hZQmtlVXFsZDhmNklwLVlTZVlwV2o5RUFUWlRzU2hEN0VnRVgxNFpIZnNxSW54UkkxM0lBLU9fUGlheXpKRDd6N01nSzFFaDQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "‘응급똑똑’ ‘응급의료정보제공’ ‘이젠(E-Gen)’에서 연휴 문여는 병원·약국 확인",
-          "source": "v.daum.net",
-          "date": "2026.09.25.(금) 06:01",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13Z2xyb1VPMWs3dzdRbmNsdEg0SjlwUFRSaFc0UUFnRW1DeWRLNU1SU2lKS2dzWVV2X0dPN2QyTHBvYlE1VXc?oc=5",
           "region": "national"
         }
       ],
@@ -114,7 +142,7 @@
           "title": "한라산서 생명 살린 여고생… 제주 CPR, 버스·학교·관광지로 넓혀야",
           "source": "뉴스N제주",
           "date": "2026.09.27.(일) 17:17",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01U3lKMHJUYXdQdUNyVjNVeXcydTdLYm1MU1NMMzBSaUpIX3pzQXNGbEdzS2Z2RjM2dk90ZHV0NGJmMmR5aC1CUFBRR3ZmbnhRczMtQ0JxaXI3d1NJUllBcGc5aGZrQmFYM2NVZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vNmlfTlJ4OXg3V0d5MHJobGQ4S0N6eUhWSFVUazU4RU0xMUhyQWtqU3lGd3RZZjhuQzBuNVIzd1BldUhNcXl0UUF2Y3ZuMWFQUVgzVWI0ZE54TFVIVGtteWhOWjlMTlk?oc=5",
           "region": "national"
         },
         {
@@ -136,6 +164,13 @@
           "source": "산경일보",
           "date": "2026.09.27.(일) 09:49",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcHBfaUFqQ2FoVDdzZFFxMmFSbnIwcWFNeVNvQ1FWT2dhWkVhR01US3c2dk1lWmpvaFE0NTc1SjJGVktNb0JUVzFkeE9waFF2ZWRzN05PWGhCQWVhRU9QZVdkVUgzZW1xT2E4ZWNiZm8?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "2035년 안전 장갑 시장 전망: 산업 자동화와 의료 수요가 견인하는 성장",
+          "source": "IndexBox",
+          "date": "2026.09.27.(일) 01:51",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGV5eUJhY0oxWkFIWHR5N3RnWWNnTnRzMlo3b0hKWU9XZ3JDa1Z1SGVwak5jQkFDMEt5S1VPTXhTcWhpcVhFejl2Q3EteTFWZGhPaW5TTnZnR09tb3M2cmF0QzRYWmc0WEdUS0k5TTE2QTBIaVJxVTdxZElLbFI4WDBvM29RTTZvMkhNb0NBMzdLV0wyTUNYU2o5eXpXcVl4dy1JN1pfTGFkWVctNmlSMXRZY1h1cW1VeFVRTEk1WjU5UUxoN1dNVkxXSQ?oc=5",
           "region": "national"
         },
         {
@@ -168,7 +203,7 @@
         },
         {
           "title": "인천교통공사, AI 선로점검로봇 실증…2년 연속 헌혈 퍼즐도 완성",
-          "source": "컨슈머타임스",
+          "source": "cstimes.com",
           "date": "2026.09.26.(토) 14:15",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ObV9QbktNVFUwdF9Zb1F0Yk9BRVpyOTE2WUtPS2Y0aGhIV2tPVzl4VFdiUG50X0taem5pUDRHRWNWNGdQZ2ZSWVMyLWFiMjFOdnkyWE5rYW5ZbC1pMjRJMDVUWng2Wjc2WlE?oc=5",
           "region": "national"
@@ -195,6 +230,13 @@
           "region": "national"
         },
         {
+          "title": "탄딘 면, \"안전한 오토바이 및 스쿠터 운전 기술 교육 캠페인\" 시작",
+          "source": "Vietnam.vn",
+          "date": "2026.09.25.(금) 23:25",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelRLYjZJbmpRV0VkWjBzeEVoVUxNRmFsTm5XMjdFZHBZOXdNVXZNaG85eWgwa1dWRG9ObnhoNGVMWVhWYmtFVXRPVGp5Tlh0UTdBSU5XVXhjdnk5U1RyMm9fcDB6VnVTanotb0FIRzhPZzVjOTB1ME9SejYydG1lVERVUGdTQktNM1VXVlNuYndqUG5sektqdkNRM05XcE5JaWxhd2xMQWMxQQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "트리톤 병원은 자원봉사자들로부터 82단위의 혈액을 기증받았습니다.",
           "source": "Vietnam.vn",
           "date": "2026.09.25.(금) 20:25",
@@ -216,17 +258,17 @@
           "region": "national"
         },
         {
+          "title": "굿모닝아이텍, ESG 사회적 책임 실천 위한 ‘제4회 사랑의 헌혈 캠페인’ 개최",
+          "source": "국민기자뉴스",
+          "date": "2026.09.25.(금) 12:07",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04cUJHVlhRWGdBZUg2SE5hMU1kNnNnSjFjRmY1aUpVd0lscWg0cUQxN29MTkFZNDJ4UjRpcGRuVFVNRXRLMDgtRG43TTF6alJKMkpwbTFDRjlPX2dEVXoyVW9xMHlBSGPSAWdBVV95cUxNOHFCR1ZYUVhnQWVINkhOYTFNZDZzZ0oxY0ZmNWlKVXdJbHFoNHFEMTdvTE5BWTQyeFI0aXBkblRVTUV0SzA4LURuN00xempSSjJKcG0xQ0Y5T19nRFV6MlVvcTB5QUhj?oc=5",
+          "region": "national"
+        },
+        {
           "title": "광주동부교육지원청, 동부교육발전위원회 정기회 개최",
           "source": "gjkoreaja.com",
           "date": "2026.09.25.(금) 11:53",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3M2VEM0Uyc2xjOVN5OG5wOE1vUFNVS1UzN05sS3MyVkdlV1dRdC0xbXJJWDBnWklzbWJ0aEN1VFh3WWgteXNXY01pM0xqMkVOY0lUdWpZSTlVRFUtSkE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "굿모닝아이텍, ESG 사회적 책임 실천 위한 ‘제4회 사랑의 헌혈 캠페인’ 개최",
-          "source": "국민기자뉴스",
-          "date": "2026.09.25.(금) 11:45",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01di1ZNXF1YlF0NUxMakYzQ3Z5NGljZnJ1cm1nX2VzdHFFTHNJS0tuM1FkQzRuLTlJWTZubkJBYnRlMUtUczl0elhWUDB5cGNlSmNyZVQxc2YxU2xZaGN5LU1wa9IBZ0FVX3lxTE04cUJHVlhRWGdBZUg2SE5hMU1kNnNnSjFjRmY1aUpVd0lscWg0cUQxN29MTkFZNDJ4UjRpcGRuVFVNRXRLMDgtRG43TTF6alJKMkpwbTFDRjlPX2dEVXoyVW9xMHlBSGM?oc=5",
           "region": "national"
         },
         {
