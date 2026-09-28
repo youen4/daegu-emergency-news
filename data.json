@@ -1,19 +1,26 @@
 {
-  "generatedAt": "2026-09-28T14:07:29.726004+00:00",
+  "generatedAt": "2026-09-28T21:15:41.951033+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "고려대 안암병원 소아응급실 개소…전담의 충원·진료 강화",
+          "source": "서울동북신문",
+          "date": "2026.09.28.(월) 20:46",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nOEVDZnBTTkd2TmljakJycmhxZFI4MWRNZF9VREh6VkVTQjB3Nnl1Y0xuczFBcVNqYVczck9FODZFYXFZUUFoUlRvREc2TlJDajgyR1RXc01idTcwcGxIM2U2MXRMQW0tSWdKTQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "고대안암병원, 소아응급실 개소 … 전담전문의 3명·전용병상 4개 확보",
-          "source": "뉴데일리",
+          "source": "biz.newdaily.co.kr",
           "date": "2026.09.28.(월) 17:53",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGd4eVRBSWd1bVZQbGxyNnlxM01icVdCcV8zRWpxbndlQVBfT1ZGWXhwV2tZTUlsWEYtOHMzN2UzRmVtS2pkYVFucGhGVmxqZ1k0aVh5Ul9wdkIyYktSdnNBc3p3c3BPcmJXbV9iUmNTdnlrbnVOZkI2MGpqeF91SdIBgAFBVV95cUxNMGd4eVRBSWd1bVZQbGxyNnlxM01icVdCcV8zRWpxbndlQVBfT1ZGWXhwV2tZTUlsWEYtOHMzN2UzRmVtS2pkYVFucGhGVmxqZ1k0aVh5Ul9wdkIyYktSdnNBc3p3c3BPcmJXbV9iUmNTdnlrbnVOZkI2MGpqeF91SQ?oc=5",
           "region": "national"
         },
         {
           "title": "고려대 안암병원, 권역응급의료센터 내 소아응급실 개소",
-          "source": "MEDI:GATE NEWS",
+          "source": "medigatenews.com",
           "date": "2026.09.28.(월) 17:03",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51QW9iamd4R2J4amlWZUloTmRJWlJ1RkhCaFpuS1FJVTJIZGExZ0J3LTl2U0JmLUtiLXVfV1BDbXNQZEN2aTNwU3E0RXZnY256eHRDV2JR?oc=5",
           "region": "national"
@@ -41,16 +48,9 @@
         },
         {
           "title": "고려대 안암병원, 소아응급진료 체계 강화…전담전문의·전용병상 확충",
-          "source": "메디코파마",
+          "source": "medicopharma.co.kr",
           "date": "2026.09.28.(월) 15:27",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9adFowdEZrY1Q1akJMdHdIZ18zckhCeHBVZG9WRjFGclFiXzVkU1ZoZC05WjJTSURDbUQwTUVUZGRNa3hwVTlSY3I3ampTSS1neDgzUUxnTTY3eTNhWThLV01KMDJzeXFNTHNKUGZfdGVudw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고려대 안암병원, 소아응급실 개소…전담전문의·전용병상 확충",
-          "source": "ebn.co.kr",
-          "date": "2026.09.28.(월) 15:16",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54S1JhTDdoejFIMTNtcEZqRFNUeGRDSjIyVW05Z0RKVVN0cTdhQnJrX3hsTVprWktjc3FKT3haRzlYcEllS3NQQ3pydGRsRGNhUktwWG5wNGJ4dVcyOUtWbXJ2ampMUjVM?oc=5",
           "region": "national"
         },
         {
@@ -58,13 +58,6 @@
           "source": "아시아투데이",
           "date": "2026.09.28.(월) 15:05",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RcUgtZzBrLTAxRjE0WVNtbXR1Y1czME03dnpmN3pRaU1qUldkMFpNemxOQ3VEeWdpa1JvSzNFLWdwRFI0dDFtcEE4UWFJenVKck8xQU1BcnJyMnBteWhCbXVnLTFhX2xuNmlIZXBn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고대 안암병원 소아응급실 개소",
-          "source": "e-의료정보",
-          "date": "2026.09.28.(월) 14:30",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZU2Z2ZldPWWlJS3Budy12Q2pPeUtrdUMwRFVFRjRRcmszbjlXTklsS09VX2dyYTlHeTZuNkozRFF4VVJwUW5EYk9xakw4VTF5dks4UXo5TkxhQkJLQm5KUVdVWDluWldIU0g2NUI5RdIBb0FVX3lxTFBZU2Z2ZldPWWlJS3Budy12Q2pPeUtrdUMwRFVFRjRRcmszbjlXTklsS09VX2dyYTlHeTZuNkozRFF4VVJwUW5EYk9xakw4VTF5dks4UXo5TkxhQkJLQm5KUVdVWDluWldIU0g2NUI5RQ?oc=5",
           "region": "national"
         },
         {
@@ -79,6 +72,13 @@
           "source": "후생신보",
           "date": "2026.09.28.(월) 13:00",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HQ2RLZks1dW5XWEtZWlgyeXdkTVktM1ZvdC1KSnFrZzRzUHpEZzg0SVh2cVo2VFd6ZVJXY0o5N1otQTdO?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고려대 안암병원, '권역응급의료센터 소아응급실' 개소",
+          "source": "헬스이슈앤뉴스",
+          "date": "2026.09.28.(월) 12:54",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QbnZ2NHpjb2ZXSXFwLVZBNTJwV1dnVF9wYXhHWV9JOHhSYXpnYUh2R01fOVBNRW5lajdVUldSSnVQSncyWXNFTURWUHJ4ZS1uS2JraExfamtLM2FYVzNtMFUtc19sZDlE?oc=5",
           "region": "national"
         },
         {
@@ -132,14 +132,14 @@
         },
         {
           "title": "권역응급의료센터 수시 평가 전환...\"응급환자 관리체계 엄정 평가 추진\"",
-          "source": "뉴스더보이스헬스케어",
+          "source": "newsthevoice.com",
           "date": "2026.09.28.(월) 06:06",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xMDk0cHk0VnZhSEdOZGJfWUgyZjhjTEs5WEFqakpaSFJtZ2M2X3JORjlwSEhLRXJoWmV5ZjBLMndManFrcjNaYWVwbU4wLVlOS3FTdWxJU0FyVEt2ZEdVWndIMWl1ZHZnemo2S1dKNA?oc=5",
           "region": "national"
         },
         {
           "title": "政 “현 53곳 권역응급의료센터 더 늘린다”",
-          "source": "데일리메디",
+          "source": "dailymedi.com",
           "date": "2026.09.28.(월) 06:01",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Qam1aWGVuMnBBbFV3QlpDQkVjS28xV1J6THRDNkFDMTEwY0xFbTR0dDlmWXJuU0Y5S2U1UnVWLTFlTEZCMS1XdUhFY05QMFpIQ3dCTlVOS0t3UmF6NnA5andINXpUUWg3?oc=5",
           "region": "national"
@@ -156,15 +156,22 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "남양주시 현대병원, 북부희망케어센터에 정육세트 100개 전달",
+          "source": "dtoday.co.kr",
+          "date": "2026.09.28.(월) 23:31",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKUEd2SG15cWFrNHJTdFd2VWNHQnBiNVE5azlPOFo0NlZuaF9TTjJsanF0SDJpNTNDZ3o3RGhwR21mdmcwTGhLa2sxZGNYSlc2bUl5ZC0yX1RETHg3YW4zZG1INElfVHI2MWNr?oc=5",
+          "region": "national"
+        },
+        {
           "title": "현대병원, 추석맞이 1천만 원 상당 정육 세트 기탁으로 지역 상생 도모",
-          "source": "미디어이슈",
+          "source": "mediaissue.net",
           "date": "2026.09.28.(월) 17:46",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uYTd0c01NQmRnbUJfcHhSUTBHb1hod3JRTkNIcVlPeGlUN1NsQkxmU0FwSFplNGFSa3lsOEE4WUd1SGQ4VnhWNUJR?oc=5",
           "region": "national"
         },
         {
           "title": "항만소방서, 부산해양과학기술원 긴급구조종합훈련 및 다수사상자 구급대응 훈련 실시",
-          "source": "safetyin.co.kr",
+          "source": "안전정보",
           "date": "2026.09.28.(월) 13:39",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUQnRXZmx5SE43aF8wdFd2NHVoOFZQZy1GVTc4TTVNOWZlUno1dElZdW5FY0Z1VFNGcWNkYUg5MU9SX1owSmVneDE4WkNFWEpYeExiYUVHdFQ4TG95MS1nUTloY1YyMXhWdHlB?oc=5",
           "region": "national"
@@ -175,13 +182,6 @@
           "date": "2026.09.26.(토) 19:01",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13VGczck82Y1E1VkJUTVlabV9mZF9QdUstTENPNFczOUhHVC1kMVB3Snh6Y3dPZnJrODc4OW5PWEhWZGFmOE1OSzZ2b1h2TEh6ZFZHUkUxdmJaZFFSSXF0RVRmMHNBSUNGZ21FVWpR?oc=5",
           "region": "national"
-        },
-        {
-          "title": "추석에 아프면 어디로? 연휴 문 여는 병·의원·약국 일평균 8294곳",
-          "source": "더메디컬",
-          "date": "2026.09.26.(토) 01:53",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GUEh2VmZKY090UlBrSjYwYXotVHctdzVfdHl0bThzbVJ5TWZuN2hDTnZ1N0lES2dESEp0WUhsUkFWUWZvVTVSdXpwblBBdVNBOFdDUFhsdVZkbjQ3a1BFcWlGOUhaY2RDbzFIRXNR0gFuQVVfeXFMTkZQSHZWZkpjT3RSUGtKNjBhei1Udy13NV90eXRtOHNtUnlNZm43aENOdnU3SURLZ0RISnRZSGxSQVZRZm9VNVJ1enBuUEF1U0E4V0NQWGx1VmRuNDdrUEVxaUY5SFpjZENvMUhFc1E?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -190,10 +190,10 @@
       "label": "소아응급의료",
       "items": [
         {
-          "title": "대구·경북서 병원 못 찾은 33주 산모, 헬기 타고 좋은문화병원서 무사 출산",
-          "source": "시사타임즈",
-          "date": "2026.09.28.(월) 18:22",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWluTC1xbzIwbi1fQnNlSUlQQTlyTzNHMVpGRTlnd3FpMUlScWt6Y3prRm84N3dfdnhuUkxTWk5ycko2bE9lLVBqUDc1UTJEcllrZWkwVUQ3TjlIdl9EMGJpdXd2RHBjaHNKQmFOaHdpdGQ2VWRJOU1CR3lGb25XdXB3?oc=5",
+          "title": "대구·경북서 병원 못 찾은 33주 산모, 헬기 타고 부산 좋은문화병원서 무사 출산",
+          "source": "글로벌경제신문",
+          "date": "2026.09.28.(월) 22:51",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbTJreWZaeTh6R0NyUmFIM0txSlhLeVZzTTNhZzQ2dGtQN0ZxbFJYM2g5NUdPM0c2Y29TOFNoUXQwQmlfOWpWd1lMNEZYUnJUT2ppT29NZDYxYkRVbHloTFJucEhxcUE2SnNaT09CRG3SAXBBVV95cUxOcW0ya3lmWnk4ekdDclJhSDNLcUpYS3lWc00zYWc0NnRrUDdGcWxSWDNoOTVHTzNHNmNvUzhTaFF0MEJpXzlqVndZTDRGWFJyVE9qaU9vTWQ2MWJEVWx5aExSbnBIcXFBNkpzWk9PQkRt?oc=5",
           "region": "daegu"
         }
       ],
@@ -261,8 +261,8 @@
         {
           "title": "제주소방, 가을철 노인 낙상사고 주의보 발령",
           "source": "세이프투데이",
-          "date": "2026.09.28.(월) 12:46",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXU25HbzlYV2hZOXVRM05nZXdiLVFST3RDYVBDOE9sanFGaHBfN3YxdHV5eXBDRG91RXhsVVBkWmFKdUQxMmJlSm1scDVWc013RVhna0ZicHFBY3ZmUENpdmlNSjlnNm9rYkHSAW5BVV95cUxQRUl1UjU0eGxjanVFYlVIVGo1VFVYa29ZTk5semZfQnhUOXA3elRKS0NlOWxJOS1nMDBzZ1FqR2dZYUpVODNwOFVSMkU1alIzR3c2TUxNa0p5TkhVZWVocy12Q3BaV2Q3UzBUUy1kUQ?oc=5",
+          "date": "2026.09.28.(월) 12:57",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFSXVSNTR4bGNqdUViVUhUajVUVVhrb1lOTmx6Zl9CeFQ5cDd6VEpLQ2U5bEk5LWcwMHNnUWpHZ1lhSlU4M3A4VVIyRTVqUjNHdzZNTE1rSnlOSFVlZWhzLXZDcFpXZDdTMFRTLWRR0gFuQVVfeXFMUEVJdVI1NHhsY2p1RWJVSFRqNVRVWGtvWU5ObHpmX0J4VDlwN3pUSktDZTlsSTktZzAwc2dRakdnWWFKVTgzcDhVUjJFNWpSM0d3Nk1MTWtKeU5IVWVlaHMtdkNwWldkN1MwVFMtZFE?oc=5",
           "region": "national"
         },
         {
@@ -274,7 +274,7 @@
         },
         {
           "title": "의정부시 맑은물사업소, 10월 1일 ‘생명나눔 사랑의 헌혈’ 캠페인 진행",
-          "source": "웹이코노미",
+          "source": "webeconomy.co.kr",
           "date": "2026.09.28.(월) 11:18",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83bjVZY1FMRlc5d1JqNHFKc3V4YzZWbFpVSVlFbFZSY0JPNFVIOU96blhkWjRKbWwzcXhiUXh6T1p4NHpYVnZJRThPX1BqRGdZdVg3cXpkNjBvR2Z3bzhiTmJhaWhxRVk0aXdnWVVCdDU2dw?oc=5",
           "region": "national"
@@ -288,7 +288,7 @@
         },
         {
           "title": "인천교통공사 임직원, 2년 연속 ‘사랑의 헌혈 퍼즐’ 완성...생명 나눔 앞장",
-          "source": "미디어인천신문",
+          "source": "mediaic.co.kr",
           "date": "2026.09.28.(월) 10:46",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02eDdBNnEwSEwtcm5LblVZcXNjLXVncHViUkZaTkx4RTVFZGlPUTlWM3RiWEhjczRFaERwUkRzdm54elpCU2R6Mml4M2w3V05kSC1ONW5ORWV5czlrVy1RM1o4TmR6c2M0LUJn?oc=5",
           "region": "national"
