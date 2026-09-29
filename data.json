@@ -1,21 +1,35 @@
 {
-  "generatedAt": "2026-09-29T01:03:41.319722+00:00",
+  "generatedAt": "2026-09-29T09:56:28.135668+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
-          "title": "추석 연휴 하루 3.8만명 응급실행…\"평소 주말보다 45%↑\"",
-          "source": "뉴시스",
-          "date": "2026.09.29.(화) 09:34",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85aUZMckJFTmlMZjNFd2JKZC1YdmZ6MENGeFVvRmxjbDJ6TllONElWaTA3YUhIallIV0RrOEM0LXdVaHRodnIzb2RuOGNqRGZuYXg0Q3ZiaWFid3lvbEtVVNIBeEFVX3lxTE9PMVhIejNCcm91eGxkZFUwRGk4RnJhUUszbjVOMmRpS2ktOWc0Q3NUeUFJTXVkRFloc3BCQ3E0TUxvdVRwSkVHamlHYTh3ZEZRX0UxMkxGbW9id19faGhyeTZXNGIxUnA1TGpGSjJZYlR4aUcxSVY2Xw?oc=5",
+          "title": "추석 응급실 환자 일평균 3만7천600여명…평소 주말보다 45%↑",
+          "source": "연합뉴스",
+          "date": "2026.09.29.(화) 17:35",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aYkdmUnZ4WjJKUmRScnM3Rm1hQjVOM1N3R0Z3aG15NWZQTWQxNTFhb3F5cTI2eENFc0JNb242VUJENE1uNnBIYkpTQTZNOEYwRHBwczNDaFM2ZHJILWZfUdIBYEFVX3lxTE1aYkdmUnZ4WjJKUmRScnM3Rm1hQjVOM1N3R0Z3aG15NWZQTWQxNTFhb3F5cTI2eENFc0JNb242VUJENE1uNnBIYkpTQTZNOEYwRHBwczNDaFM2ZHJILWZfUQ?oc=5",
           "region": "national"
         },
         {
-          "title": "고려대 안암병원 소아응급실 개소…전담의 충원·진료 강화",
-          "source": "서울동북신문",
-          "date": "2026.09.28.(월) 20:46",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nOEVDZnBTTkd2TmljakJycmhxZFI4MWRNZF9VREh6VkVTQjB3Nnl1Y0xuczFBcVNqYVczck9FODZFYXFZUUFoUlRvREc2TlJDajgyR1RXc01idTcwcGxIM2U2MXRMQW0tSWdKTQ?oc=5",
+          "title": "미수용 방지법? \"응급의료 20년 후퇴한다\" 전문의 93% 반대",
+          "source": "의협신문",
+          "date": "2026.09.29.(화) 15:16",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMSG9VenFTZ0QwOGJPTHZNNUJXMmhHQ0RiTXZSeU9tZV9UN080aDNOS3dqVEx0RHN0WHp4RXd2TVZqU2U3SGhIYVIzMjh4LUQxRVh5M2RpVG9NaXFXVG01Y2ZsTHFPWXhKMG1rMU03cDdFdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고려대 안암병원, 권역응급의료센터 소아응급실 개소…전담전문의 3명 충원",
+          "source": "iamfact.co.kr",
+          "date": "2026.09.29.(화) 11:08",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93T3NaUTNfb0gzaEZhZjhjNHZ4OHBITjV5dmpTUUVBZmV5cDRmd3QzRUxvdTdYeF8zb3JvZjV1Vlo4c2NzOEkwNmJ2UDFVRlFYX3lrSlBhVm9SZVEwdFU2b201cWIxRk9OR3JKamZ30gFuQVVfeXFMT3dPc1pRM19vSDNoRmFmOGM0dng4cEhONXl2alNRRUFmZXlwNGZ3dDNFTG91N1h4XzNvcm9mNXVWWjhzY3M4STA2YnZQMVVGUVhfeWtKUGFWb1JlUTB0VTZvbTVxYjFGT05HckpqZnc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "추석 연휴 하루 3.8만명 응급실행…\"평소 주말보다 45%↑\"",
+          "source": "뉴시스",
+          "date": "2026.09.29.(화) 09:34",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PMVhIejNCcm91eGxkZFUwRGk4RnJhUUszbjVOMmRpS2ktOWc0Q3NUeUFJTXVkRFloc3BCQ3E0TUxvdVRwSkVHamlHYTh3ZEZRX0UxMkxGbW9id19faGhyeTZXNGIxUnA1TGpGSjJZYlR4aUcxSVY2X9IBeEFVX3lxTE9PMVhIejNCcm91eGxkZFUwRGk4RnJhUUszbjVOMmRpS2ktOWc0Q3NUeUFJTXVkRFloc3BCQ3E0TUxvdVRwSkVHamlHYTh3ZEZRX0UxMkxGbW9id19faGhyeTZXNGIxUnA1TGpGSjJZYlR4aUcxSVY2Xw?oc=5",
           "region": "national"
         },
         {
@@ -47,13 +61,6 @@
           "region": "national"
         },
         {
-          "title": "고려대안암병원, 소아응급실 개소…전담전문의 3명 배치",
-          "source": "kukimedi.com",
-          "date": "2026.09.28.(월) 16:17",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90VWtXM3JadG4tVjMwVVFmODBYXzJFVVNCUFpWU2pfUTd4Q19NUWFnaEp1ZU11eTY3S3VNekZ3NUFVNnFzT09NTmtRWG95blphY3BJcFZpNk9zaFlYTi0yeDZPVQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "고려대 안암병원, 소아응급진료 체계 강화…전담전문의·전용병상 확충",
           "source": "메디코파마",
           "date": "2026.09.28.(월) 15:27",
@@ -68,8 +75,15 @@
           "region": "national"
         },
         {
+          "title": "고려대 안암병원 권역응급의료센터 소아응급실 개소",
+          "source": "서울신문",
+          "date": "2026.09.28.(월) 15:04",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN1d3bmtyRzhfQ1VteS0tR1hLNlBIcTc4Z0Q1NVZ1eTNvV19leE5UdEQtSk16b0pra1hCNnJQWl9BaVhBemZxWURqWW1scVJucTNSMHk1clN3WjJHX19DRW1pSGZVa2lKRk44SGhwQXdVS2NuY1ZSaUQxUm9WNkk5VHE0cw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "골든타임을 지키는 힘, 지역응급의료센터",
-          "source": "kihoilbo.co.kr",
+          "source": "기호일보",
           "date": "2026.09.28.(월) 14:14",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zWDh2RkpRcnFEZnk0TG14MjFWc2V5THZNUUkyX0JqNVMxWWJHQ0VMWnNuUHFQVFNVdl84WFV1Vjd6S0pqSzFBeHJPRXJjbU1jaG1OLWtuZ3l3OUhMdFkzaDVBcXFXX3ZzczByNDFvaw?oc=5",
           "region": "national"
@@ -83,30 +97,23 @@
         },
         {
           "title": "고려대학교 안암병원, 소아응급진료 역량 강화",
-          "source": "재활뉴스",
+          "source": "rehabnews.net",
           "date": "2026.09.28.(월) 12:36",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6WWQyZ2U0eU9SUVZPQ2JMU1k0bl9BdGNvM0dKd2VTNWpKNTJBVzRXMkNjcVlkQzIzel9pdFJtS0xYaGlCb0FyVnBvWWpJOEVJTjhhM2dxS1ZkbVM2eUVwQjBUTk5wUVJPRXNZ?oc=5",
           "region": "national"
         },
         {
+          "title": "고대안암병원, 권역응급의료센터 소아응급실 개소",
+          "source": "주간한국",
+          "date": "2026.09.28.(월) 11:54",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RTndEbW9mdVhmTDQ4clltYkNuakJpZ1RWQVNybllSUjFRSVVsbkY1eXd6YTdMR0dPOGZScnlET3A4VERIekgwUDZ5aU1xVFJadVp4UnVrYWhGUTRzVVVIakVQUERwQmtiQVNkUVYyQ3dUb0p60gF0QVVfeXFMTlFOd0Rtb2Z1WGZMNDhyWW1iQ25qQmlnVFZBU3JuWVJSMVFJVWxuRjV5d3phN0xHR084ZlJyeURPcDhUREh6SDBQNnlpTXFUUlp1WnhSdWthaEZRNHNVVUhqRVBQRHBCa2JBU2RRVjJDd1RvSno?oc=5",
+          "region": "national"
+        },
+        {
           "title": "고려대안암병원, ‘소아응급진료’ 강화…권역응급의료센터 소아응급실 개소",
           "source": "더바이오",
-          "date": "2026.09.28.(월) 12:32",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9naDNIeDRIbl9NOXpWU1l3THNuNEgwR3FMTnQ1SmhQMDB6R0ZLUWNsNUpkX3phNGR6cjc4Tk84Ujh6ZzJkUlBIUFZYNjlyV3FLSmhFWkpZcko1aWxCdmdCY2llVDExXzJIREJ3SmJwcWPSAXBBVV95cUxPZ2gzSHg0SG5fTTl6VlNZd0xzbjRIMEdxTE50NUpoUDAwekdGS1FjbDVKZF96YTRkenI3OE5POFI4emcyZFJQSFBWWDY5cldxS0poRVpKWXJKNWlsQnZnQmNpZVQxMV8ySERCd0picHFj?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고대안암병원, 소아응급실 개소…전담전문의 3명 충원",
-          "source": "청년의사",
-          "date": "2026.09.28.(월) 12:08",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRDZHM3Q2N1Z6ejZGUFlxSTBaTGtpRlZxaWtpXzBLaEhtd0FDa2pXV1VXeThXU0RRS2hkb3Iya1Z1aWNYc1Z2a0RnYVRqVDh0ZUx4WTM1dlpVOFpPRUtWTVlYUW1vUFpoMmY0OTdhMFPSAXNBVV95cUxNa1FmandsSnF2czlwZXhhN0J3WWVybXFhUjhtREh4aDg5a284SjA2eUdMaDRTeDBpY25rSHZrTU9QeU5wemtJdXZZWE50b2pTc2hPNGxrUG5fcm0tWnpnUWg0dEs1LTNoSFFUdTJxeHRrOEJJ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고대 안암병원, 권역응급의료센터 소아응급실 개소",
-          "source": "메디칼업저버",
-          "date": "2026.09.28.(월) 11:13",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ob0lHOURHT2FqeF9sS3hnb01pdFFGUHpjZWtLbTRIb3dvcGt5ZzlTeHVpNnZSSThFLXRVQTJVdWc3ejNfYU93bkdGRjhHZzMxOGhkNHcwNUVHRm1TMzMyNkhDa1BoSE5nYzY4?oc=5",
+          "date": "2026.09.28.(월) 11:51",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hSFc2TDk0X0xmdlN1V0FSWWJlNlIyTDhKVXg1UUF2c2RHSExDTmROR29mblZ2dEhJcFZ1Umgyb1dEZ3U2YUtnVW1lMlIyVk9pYVc5dnV0UUVpYUFpZkNQVnk0c1AyS2xhOE1SSdIBcEFVX3lxTE9naDNIeDRIbl9NOXpWU1l3THNuNEgwR3FMTnQ1SmhQMDB6R0ZLUWNsNUpkX3phNGR6cjc4Tk84Ujh6ZzJkUlBIUFZYNjlyV3FLSmhFWkpZcko1aWxCdmdCY2llVDExXzJIREJ3SmJwcWM?oc=5",
           "region": "national"
         },
         {
@@ -132,16 +139,9 @@
         },
         {
           "title": "권역응급의료센터 늘리고 ‘질 관리’ 강화…“매년 역할 평가”",
-          "source": "청년의사",
+          "source": "docdocdoc.co.kr",
           "date": "2026.09.28.(월) 06:04",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CMzVKZ2h5ZjMyRkU2QndhT2xRM0pSbXpGbk9RQ09nYUxTc0xRbkZKYXh0R0JCRElMa21SQlBlbjRxLXlSRjBzSXRzcVFqcFVDa2Q0SFhXSVZTRDFVbHo3Qm10bGRWUlpGdTJEOXJfVdIBc0FVX3lxTE5tWXBiU2pjMGlvLXhQVk1sVXV5Wm5xQkpQbGFHRjE3Rlpsa2k3aWFvSE8tMENSZjlKblZGYlhaTEpKeTI5YmY5OFVsZkM0SnAyM3dKOEVRdGgxNFZRZEo1OGZjcU56TTVObEhFY3J5ZlAtMFU?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "政 “현 53곳 권역응급의료센터 더 늘린다”",
-          "source": "데일리메디",
-          "date": "2026.09.28.(월) 06:01",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Qam1aWGVuMnBBbFV3QlpDQkVjS28xV1J6THRDNkFDMTEwY0xFbTR0dDlmWXJuU0Y5S2U1UnVWLTFlTEZCMS1XdUhFY05QMFpIQ3dCTlVOS0t3UmF6NnA5andINXpUUWg3?oc=5",
           "region": "national"
         }
       ],
@@ -156,31 +156,24 @@
       "label": "재난의료",
       "items": [
         {
-          "title": "남양주시 현대병원, 북부희망케어센터에 정육세트 100개 전달",
-          "source": "일간투데이",
-          "date": "2026.09.28.(월) 23:31",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKUEd2SG15cWFrNHJTdFd2VWNHQnBiNVE5azlPOFo0NlZuaF9TTjJsanF0SDJpNTNDZ3o3RGhwR21mdmcwTGhLa2sxZGNYSlc2bUl5ZC0yX1RETHg3YW4zZG1INElfVHI2MWNr?oc=5",
-          "region": "national"
+          "title": "대구소방, 복합재난 대비 ‘2026년 긴급구조 종합훈련’ 실시",
+          "source": "정필",
+          "date": "2026.09.29.(화) 14:39",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKdGhFb0RpTTNYTjFfYlBtVWZ4X2VHdm5ISWtySUIxdXdZVGkyX3JfaVZSYVY0ZGprQTRNb0Z2N1NzMWJjdkN1eWhuaDBnWk1lQzR3?oc=5",
+          "region": "daegu"
         },
         {
-          "title": "현대병원, 추석맞이 1천만 원 상당 정육 세트 기탁으로 지역 상생 도모",
-          "source": "미디어이슈",
-          "date": "2026.09.28.(월) 17:46",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uYTd0c01NQmRnbUJfcHhSUTBHb1hod3JRTkNIcVlPeGlUN1NsQkxmU0FwSFplNGFSa3lsOEE4WUd1SGQ4VnhWNUJR?oc=5",
-          "region": "national"
+          "title": "대구소방안전본부, 복합재난 대비 `2026년 긴급구조 종합훈련` 실시",
+          "source": "매일신문",
+          "date": "2026.09.29.(화) 14:13",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZExYOGl1b1Q1LXZWblJEQjVFZmFVaGdYVGJRdGptYTFsZVZKRFNOcTFCZUdOWWFTMVF4WlYtb3lMSTFscjBPUjhCM1RvbEVGdHJlMXZ2S3JXUEdqaXFCblNR?oc=5",
+          "region": "daegu"
         },
         {
-          "title": "항만소방서, 부산해양과학기술원 긴급구조종합훈련 및 다수사상자 구급대응 훈련 실시",
-          "source": "안전정보",
-          "date": "2026.09.28.(월) 13:39",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUQnRXZmx5SE43aF8wdFd2NHVoOFZQZy1GVTc4TTVNOWZlUno1dElZdW5FY0Z1VFNGcWNkYUg5MU9SX1owSmVneDE4WkNFWEpYeExiYUVHdFQ4TG95MS1nUTloY1YyMXhWdHlB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "연수구, 추석 연휴 9개 분야 종합대책 가동",
-          "source": "전국매일신문",
-          "date": "2026.09.26.(토) 19:01",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13VGczck82Y1E1VkJUTVlabV9mZF9QdUstTENPNFczOUhHVC1kMVB3Snh6Y3dPZnJrODc4OW5PWEhWZGFmOE1OSzZ2b1h2TEh6ZFZHUkUxdmJaZFFSSXF0RVRmMHNBSUNGZ21FVWpR?oc=5",
+          "title": "연성대학교 응급구조과 1학년 ‘2026 한국형 재난의료지원 교육 기초과정(KDLS-Basic)’ 모의환자 참여",
+          "source": "베리타스알파",
+          "date": "2026.09.29.(화) 13:58",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nMXlJVUIwTDFSYkhTVGkyNE5ZQmZadk0wYWFCNVZPTExxWHluYWYxMjRTa1RWM2NWbGJ3b1BtbTEzRm9MSFlMNm5CdWRQUHZiTFlVVzg0VjR6NkliMjVZTTlRdnZycVg5c3k5cg?oc=5",
           "region": "national"
         }
       ],
@@ -189,6 +182,13 @@
     "pediatric": {
       "label": "소아응급의료",
       "items": [
+        {
+          "title": "전국 소아과 전공의 113명뿐…인천 등 6개 시·도 ‘0명’",
+          "source": "애드뉴스인천",
+          "date": "2026.09.29.(화) 13:12",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15LWNBZFE3N29tN1Ewbm4yRHRCOWd6bTBWNVhmczVNeUUzYVRtZzV0aFdrcFhMajg4QVdxeEprRVpLZUxDWHNkdDBpUnhFVFdJNEthT2JzZzltbC1ONF9Kbl8waVVsVkFNaGMw?oc=5",
+          "region": "national"
+        },
         {
           "title": "대구·경북서 병원 못 찾은 33주 산모, 헬기 타고 부산 좋은문화병원서 무사 출산",
           "source": "글로벌경제신문",
@@ -203,10 +203,101 @@
       "label": "기타",
       "items": [
         {
-          "title": "용산소방서, '드래곤시티' 호텔 직원 대상 응급처치교육",
+          "title": "최근 5년간 5대범죄 감소세...올해 가정폭력은 증가",
+          "source": "삼다일보",
+          "date": "2026.09.29.(화) 17:35",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCb3NmNC1SRXVtYTFxZm95bEJIUWdNSG5OdGhRNm1QOGxzY1BUTE9jSnJXRkJGTnJrZUR0ajdzVXFWa3ZEX3ptbGF0UTQ2RFFodVB5Vm1Hb0lTVWdHLWtMUTNRd0U2TVpRUUdoNA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영종소방서, 영종초 한국119청소년단 대상 소방안전교육",
           "source": "FPN-소방방재신문",
-          "date": "2026.09.29.(화) 09:59",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9wVDNkT0NaSEpPcS1oRXBsUVZoYVdMR0xaMktZdTFmdlZ0Z0poMHlRS3B6bk9tNEdzYTFsRDNkN3FDS21j?oc=5",
+          "date": "2026.09.29.(화) 17:00",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wNV8xbGlLeDRmbGI1b042Z3BBQlZ0TEFQT05aNnAwbGdObXZlNHRxZTg1SEtrY0RMTXUxdmJYSDg1d2Zu?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "제주 안전활동에 도민 참여 늘어… 지역안전지수 개선으로 잇는다",
+          "source": "누리일보",
+          "date": "2026.09.29.(화) 16:10",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mSG1WU2xxYlgtaXA5aEltWUV2aGtyUXZjcHZwWVlsazBqZ0ZMdWpWT1o2X0h6Y29TQWgycWR6VkpyTWFWWm05SExFZjNqT0UxcGs3RE5hcUNBZllK?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "군산소방서·의용소방대, 생명나눔 릴레이 헌혈 동참",
+          "source": "전민일보",
+          "date": "2026.09.29.(화) 15:33",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96Y2ctWURzVjFjeC1OcTBTTmpVRlhma0ZJWGRscHRyNlhINnNNZmYxMnRYbVZNWWN5Sl84anlnaWtQVmp1MGVZekdfMXl1N0dwR0ItVHV6OUNtRUNUNkJpQklWQnBnQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "양주시·한마음혈액원, 안정적 혈액 수급 위한 헌혈 활성화 협약",
+          "source": "내외뉴스통신",
+          "date": "2026.09.29.(화) 15:06",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhNHUwWm1xR3VtS3hGbjV5eEItcWd5SGJFZTRpRmVMajJHaGhBSnNLU19PUGJBMUMwRHJQWDVOcHp2RmhDbmp5clFFNkh0VTQwaW1uRzFtSlFqbkhmRE9zdmhqWGYwNEUtZW5vSEZ30gFwQVVfeXFMUHFocWY3c1J1TUJIazRLZnFEVDF2Z3pzdVUwTHRxb2laLTc1bmRtU0x0MWhvY3VZbk1wY3VqMnVKVGZ6WEZ1X2E0Wk9pQmhHTFp0akZOWVU2bU1KSS1XRUFPd1dkMWN6bDdvMnlTQXVsdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "양주시, 헌혈하면 양주사랑상품권 지원…헌혈 활성화 나서",
+          "source": "경기평화신문",
+          "date": "2026.09.29.(화) 15:06",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2JKZlZzU1NVYk9kclBKbEFVTDd3WE50NndsQU04NDVtRWd5YUlZNGtubFcwWFJNTGdxbms1bjlzTERRTllNYTQ2dVhOTGF5NTZDVWJvQUxrZV9zZkxKelg5eWhVMW5HUHpHQV9aVTFmLTNnRVNkSG5HQUVDbVlYZlg3Q09jNGhQemRxc2hjRTdNcVpNT2c?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "어린이 행사 풍성한 남원 흥부제…과학·직업·안전 체험",
+          "source": "연합뉴스",
+          "date": "2026.09.29.(화) 14:36",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tNFg0YjIwV1VkekRwb2l2aENWdjd6TDBmOTZKNjgwUmhOQUcwSzZEYkQ5emxzOFJ0NmVxdWtuZmFxd1dwNHNEemcwdHlJX3JYc1RXamlZMHhkU1nSAWBBVV95cUxQeUhaNktKUGFxUHlzZmJRZVI0WllnMXJRQXN5V0tHNFp6eXhqM2h3VXJXVzRaMkNtU0JvTTlBb2xxUUdnQjBPQ3VmVzhwclNvUDV2Y1p6eFAtMFdnRmdhYWk?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "450명이 넘는 근로자들이 자발적인 헌혈에 참여했습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.09.29.(화) 14:34",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1dlcFJadThOQmdOOFhIV1EwSDExdTgxbFc3YjJrdElrWVRfbldGZjFGbXJHaDQ2Yl9GWURlYzVyRllCc2h4czliWlpTWDdWTFkwblZEcXpQQ1Y4WVFiSW5vazBwOVhIOERKZGp0bXhwaGxVaGwwNDBFaFZvXzNSSGFjdnJmaXQ3Z2c?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한화 건설부문·한화갤러리아 ‘외국인 근로자 맞춤형 안전보건 교육’ 실시...문형태 작가 ‘슬리핑 프린세스’ 설치",
+          "source": "여성소비자신문",
+          "date": "2026.09.29.(화) 14:30",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3cGV6SkVtT0J4b0R0d0VhNThKeDZiYVp2MHVpUENZZGxBSmlqLTZ1VVIyVHBWTWd4YlVCSm5tZ1dsbG91RG5mMU83aUlnQzVabUljZGZhZ19pVTNIQzVjR004NEZXUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "여주도시공사, 남한강 활용 ‘오픈워터 강습 프로그램’ 안전사고 없이 성료",
+          "source": "여주신문",
+          "date": "2026.09.29.(화) 14:29",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HaUNidUlhVlgwcnh5T2tOTHZHbE9JV3MwV09nMm0xOGotd2g1cVFmZDlld01fV085Y1JWRnJwazhQVFVCajdraWRRaGlWZ25SRXBpU01OdVg3TTRBOWI1c2dDUWVMS1BLck80eDln?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "함평군, “골든타임을 지켜라”…응급안전 인력 실전교육",
+          "source": "시사의창",
+          "date": "2026.09.29.(화) 14:23",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLM2VWYml6eTRnbDJnTWNGRU5lYlRpS2VzUXdqUEZDNXNvbGp5bEJxNTJSbXQyWDhpWmRkaG5WMVJFX2oxY0hHTjE3czRCUmpFRmlFOQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "계룡소방서, 충남 어르신 심폐소생술 경연대회 출전 준비",
+          "source": "nmn.ff.or.kr",
+          "date": "2026.09.29.(화) 12:12",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Zejg4dDJoLUd3ZVg0UjVaWUNTbWtHYUc3Sk1XeGM1bWdiMEEyZDhOR3hFbXUwb1FzN1ZUOGNSR3JMUGRYanhQODZIZnZJRzgyVWIwQi1NSzJSeE1wMHc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "함평군, 응급안전안심서비스 수행 인력 대상 심폐소생술 교육 성료",
+          "source": "경남도민뉴스",
+          "date": "2026.09.29.(화) 12:10",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xcTVhREdNMEhJRmx4ZUJCQmk4TGtScHRERHlTdWh1OE9wT0NVb1Q5a0llaGd5Sy14aThwUWZtTGtDM293eFdvTkp5QkxIejhGQURwOV9hWloxTlFGY2VqWC1JOA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "응급 상황 대응 역량 강화를 위한 영주교육지원청, 직원 대상 심폐소생술 등 응급처치교육 실시",
+          "source": "꽁지환경늬우스",
+          "date": "2026.09.29.(화) 09:56",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN3NRVGtySk1EU0ZWRm5aS3o2NFpQdW9tNzBPSkFuamlxMWZyZ0ZMUno4UGZjOGl6NmJCbmlIc19qMmdkTFF6QS1aYU1FUE02UEk1X3pWbXVBMXhuX1dCTw?oc=5",
           "region": "national"
         },
         {
@@ -231,15 +322,8 @@
           "region": "national"
         },
         {
-          "title": "의정부시 맑은물사업소, '생명나눔 사랑의 헌혈' 캠페인 실시",
-          "source": "경기연합뉴스",
-          "date": "2026.09.28.(월) 14:02",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GbkpEdkM5cERwRUNKaUdsQU4xOHBuVHcwRTR4cGtmM2tqeWltSTlPZ0U1alhnMXhmak0tMGlac2JBMl9MSnBBX045NHlETFp4S3d3azJWc2F0SjdLUjNKeVNvUnpISzjSAWdBVV95cUxORm5KRHZDOXBEcEVDSmlHbEFOMThwblR3MEU0eHBrZjNranlpbUk5T2dFNWpYZzF4ZmpNLTBpWnNiQTJfTEpwQV9OOTR5RExaeEt3d2syVnNhdEo3S1IzSnlTb1J6SEs4?oc=5",
-          "region": "national"
-        },
-        {
           "title": "장수소방서, 가을철 농기계 사고 ‘주의보‘, 사상자 75%가 60대 이상",
-          "source": "domin.co.kr",
+          "source": "전북도민일보",
           "date": "2026.09.28.(월) 13:28",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVhpT0FJanYyTllsa3ZwVWhJSlRBRElJcVJxT2UwMmh4TTdtOXVqYmRFLWh5MmxDT1BMMEZJMHlWaU1jT1l6M3l4ZGxPLU4wbVY2NUkzT2JKMnd2ck1hamhnUy1aS2RSQkJnakJ6MGkyQ2U1TkFKRE54LXJkOUJIQmJjQk8xOG8?oc=5",
           "region": "national"
@@ -260,7 +344,7 @@
         },
         {
           "title": "제주소방, 가을철 노인 낙상사고 주의보 발령",
-          "source": "세이프투데이",
+          "source": "safetoday.kr",
           "date": "2026.09.28.(월) 12:57",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFSXVSNTR4bGNqdUViVUhUajVUVVhrb1lOTmx6Zl9CeFQ5cDd6VEpLQ2U5bEk5LWcwMHNnUWpHZ1lhSlU4M3A4VVIyRTVqUjNHdzZNTE1rSnlOSFVlZWhzLXZDcFpXZDdTMFRTLWRR0gFuQVVfeXFMUEVJdVI1NHhsY2p1RWJVSFRqNVRVWGtvWU5ObHpmX0J4VDlwN3pUSktDZTlsSTktZzAwc2dRakdnWWFKVTgzcDhVUjJFNWpSM0d3Nk1MTWtKeU5IVWVlaHMtdkNwWldkN1MwVFMtZFE?oc=5",
           "region": "national"
@@ -301,6 +385,13 @@
           "region": "national"
         },
         {
+          "title": "의정부시 맑은물사업소, '생명나눔 사랑의 헌혈' 캠페인 실시",
+          "source": "newszoom.kr",
+          "date": "2026.09.28.(월) 09:53",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uTVpaYlhDbkRwSDFxdGxJR2JiZUFsS1pYek40d2xZVW1fM3p1aWpBd1FqNzJMTHZaZ2JQM2VwN3hRQjRDZ0E?oc=5",
+          "region": "national"
+        },
+        {
           "title": "의정부시 맑은물사업소, `생명나눔 사랑의 헌혈` 캠페인 실시",
           "source": "경기평화신문",
           "date": "2026.09.28.(월) 09:53",
@@ -316,65 +407,9 @@
         },
         {
           "title": "영주시, 9월 30일 시청 전정서 ‘사랑의 헌혈운동’ 전개",
-          "source": "안동데일리",
+          "source": "andongdaily.com",
           "date": "2026.09.28.(월) 09:33",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1na255UnVyQkxCbGE4VmFnaEotS00zd1o1a2NYc0F1UHhUM3B1WmppZzhTYkpzWllmOWtYX3N3WmdvLTNqdDZxUEQ2TlBxeDA0ZUg0U3pGRGx6OGdEN1d1NWFySTJqbF9hbEh0N3l3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "삼육서울병원, 혈액 수급 위기 극복 손잡았다",
-          "source": "간호사신문",
-          "date": "2026.09.28.(월) 08:49",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52RGhOVWhiVlhVUWxfeEtJcWwyQXFkSFpBSHpRV1padURmekZtMGVnXzdaTVV2bnd6UlNLSzYzcXZBNzVsRGN1OXA4UXRJWC1OQTMwU2NyRWdpeWwtbXI3OUU5OUJ5OTZ3VUU0c0ZB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[문화와 생활] 생명 나눔 사랑의 헌혈 캠페인 외",
-          "source": "KBS 뉴스",
-          "date": "2026.09.28.(월) 08:22",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00RzQ5WVlUZ1U0cURXVWlZX1VhTjlYYUl6TWdzMXdUa0kzZ1F0b1hFYm5NSjVad2NvTy1xUEUzUXRRWERTT1poZ2FidTBJWTJvNDNSMHlDX1ZFNE96S214b05Ld1JKZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한라산서 생명 살린 여고생… 제주 CPR, 버스·학교·관광지로 넓혀야",
-          "source": "뉴스N제주",
-          "date": "2026.09.27.(일) 17:17",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vNmlfTlJ4OXg3V0d5MHJobGQ4S0N6eUhWSFVUazU4RU0xMUhyQWtqU3lGd3RZZjhuQzBuNVIzd1BldUhNcXl0UUF2Y3ZuMWFQUVgzVWI0ZE54TFVIVGtteWhOWjlMTlk?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[안전]제주교육청, 아이들 생명 지키는 학교 CPR 생명안전 조례 개정 나서야",
-          "source": "뉴스N제주",
-          "date": "2026.09.27.(일) 17:05",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pYmpqTHNRTFFXT0prLXNSeE05bnF2aTE3UEdOT0JQS09XSWlNNWdtdjF2RXdQWmtkUXdUbW1PalQ0MTdtMmFpYm1XRlYweWNTQ2FMMjhidHhUcXhzcjBaTUdQVGxlWkY3ckNqMg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "2035년 안전 장갑 시장 전망: 산업 자동화와 의료 수요가 견인하는 성장",
-          "source": "IndexBox",
-          "date": "2026.09.27.(일) 01:51",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGV5eUJhY0oxWkFIWHR5N3RnWWNnTnRzMlo3b0hKWU9XZ3JDa1Z1SGVwak5jQkFDMEt5S1VPTXhTcWhpcVhFejl2Q3EteTFWZGhPaW5TTnZnR09tb3M2cmF0QzRYWmc0WEdUS0k5TTE2QTBIaVJxVTdxZElLbFI4WDBvM29RTTZvMkhNb0NBMzdLV0wyTUNYU2o5eXpXcVl4dy1JN1pfTGFkWVctNmlSMXRZY1h1cW1VeFVRTEk1WjU5UUxoN1dNVkxXSQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"지역사회를 위한 80일\" 캠페인에 참여하여 400명이 넘는 자원봉사자들이 헌혈에 참여했습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.09.26.(토) 16:04",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTB4V0tkWGZCUEFXTFFTQk44c2hPMGFPcFpxd3B5czVEdnduWHZ1cGtPQnI1ajEzem82NDc5OEZaaDl4MVN3QzRsd1J1TDdFOC1SYkNlUmdlalZyRkd4Mktlc3pKb0tsWVZ6SWlwLVlONjZOQmFlUVQtTWsteHhwcTBvcWJtbE5VM1ZJakgwZFZFNU5CZ3Q4Tk5FQUFpbzVi?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "룩옌(Luc Yen) 면의 자발적 헌혈의 날에 237단위의 혈액이 수집되었습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.09.26.(토) 15:31",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUl0a0VWVnpQQXF1LVpReTdXaUNTMDdNa2RBcVI4UGYxSWV2RUNjNE93RXhhdEFNRXE2LVZnUEh6d3pMT2hvQW54OXZWTlZIcm9oQVZ5NVZzWDNKUUZPdWtEbVdBeGtLVmIzRXl3bTYxVzVRaGN4VWFVTTV5VkUyYjZRYVJuamNmNDYzSEpqNFotaHE1LUlPRndaTQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "광명시 자율방재단, 철산역 안전 캠페인 실시 > 뉴스",
-          "source": "더코리아",
-          "date": "2026.09.26.(토) 13:24",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TFVZQW16U2xmbkpBRU5ESHJ3U0VHR1pjREx4U3ZBYWVBd2RWWnVRazM0SjZhcm1YQW5Mb0l5YzhyMGJoWmNrRlBOd0ZJbW0yTGZWR1RxR2F3Zy1SV1VKSzQwdXV3WVhDZnB0U3J3RU8?oc=5",
           "region": "national"
         }
       ],
