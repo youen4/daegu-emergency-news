@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T17:53:58.377979+00:00",
+  "generatedAt": "2026-10-02T22:19:16.575207+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -41,7 +41,7 @@
         },
         {
           "title": "정부는 필수의료 살린다는데…응급진료 막힌 곳 1위 ‘소아청소년과’·사유는 76% 인력부족",
-          "source": "MEDI:GATE NEWS",
+          "source": "medigatenews.com",
           "date": "2026.10.02.(금) 14:21",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmWVl2eHJqNldkd1R4cWtKenVRRkwwUUJqbGVpbUNxU2xmdmxwM0ZoNmdwUEdKMkRzUnYzSGNSUU5aeHdSQWlDaXVtVFpvaGUw?oc=5",
           "region": "national"
@@ -62,7 +62,7 @@
         },
         {
           "title": "소아청소년과 응급진료 ‘빨간불’…상반기 진료제약 2,985건 최다·76.9%는 인력부족",
-          "source": "youcandonews.com",
+          "source": "월드장애인사랑뉴스",
           "date": "2026.10.02.(금) 08:51",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WNGhINkNvNmxKMDhSWWpYQWxyMndBWXRPaVNfbFdORE9pZ0hmeXNaY3NxbmZNWXV1U090eVpXSUZQd2llSWx4LXZHdUh5RXVLak1FNVFiYTRueE1LWkpfZmNHQ3JzWThtX1VPV3JFaw?oc=5",
           "region": "national"
@@ -152,7 +152,7 @@
       "items": [
         {
           "title": "응급환자 받을 병원 지정한다…‘뺑뺑이 방지법’ 국회 통과",
-          "source": "매일경제",
+          "source": "mk.co.kr",
           "date": "2026.10.01.(목) 16:13",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoR1V2blNON3NSOV9SSm1TUllWWE51SGduemQyV3VTR0w2QlVTb01XRHk5SjBybHoxQmFMeW9oOExJVG9hcXNBTFlWTVRtdld5aWNGQmNR?oc=5",
           "region": "national"
@@ -240,7 +240,7 @@
       "items": [
         {
           "title": "정읍교육지원청, 직원 참여 헌혈로 생명 나눔·사회적 책임 실천",
-          "source": "news21tongsin.co.kr",
+          "source": "뉴스21 통신",
           "date": "2026.10.02.(금) 22:12",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ycF9kUm9Hd0ZyZFNDTkFJQk9lTUk5NXZsTHdkWDV2UVdSY0NwcjctVGpvUnlVcHJ0dWh0Z2NQamtuMHZvYWtDVVNiU0pLVG1PNXV0Tkdn?oc=5",
           "region": "national"
@@ -296,7 +296,7 @@
         },
         {
           "title": "부산진소방서, 취업준비 직업훈련생 ‘안전한 사회 첫걸음’지원",
-          "source": "소방신문",
+          "source": "sobangnews.kr",
           "date": "2026.10.02.(금) 16:18",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPUFFFWGF6M0g0S2t0ei1XSEpEb2VSZkFrXy1KTkFaZHltMW1Ec2pFRFRIVEtJN1ptUHVfT0hyM0I0RjR5eld2UGhta0VpOGNHV19wVldpaVB1dFpEbWdvbngwVklUYk5McFFR?oc=5",
           "region": "national"
@@ -317,16 +317,9 @@
         },
         {
           "title": "동래소방서, 현업근로자 심폐소생술 체험 교육",
-          "source": "소방신문",
+          "source": "sobangnews.kr",
           "date": "2026.10.02.(금) 15:50",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DakFOeHp0S184QjZXd2ZQNkpGbEtpbUVhQ0VrTy1XSW9YbHFNWTNUcWhvMS1UbWZDTWxzQU1VZUlzS25qd3JEYlphX1VlLU9BaFZBcm9YV1U1aTBpel9tMnJ3Zjc2bHBOS0pz?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경북교육청, 체험 중심 안전문화 확산시킨다!",
-          "source": "데일리대구경북뉴스",
-          "date": "2026.10.02.(금) 15:39",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zb1ctbjdzRXdCZHhDeXBXTnVVOFo4RVN4bS0xT2FyQkw3UDdvYTZPRnptU282eEdaTUowaXExeHFJMHdFek14M3hJdjVoMGhYVmxrcHprbDhMalhNQmx0OEhtbnlMdw?oc=5",
           "region": "national"
         },
         {
@@ -345,16 +338,23 @@
         },
         {
           "title": "마포소방서, 마포경찰서 경찰공무원 대상 응급처치 교육 실시",
-          "source": "소방신문",
+          "source": "sobangnews.kr",
           "date": "2026.10.02.(금) 14:28",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iT3JZcWtRUUljdWtKcTVaUDREblVpVWxTOU1UQUl6LTBxbDFlLWJVT2M2Z2NMNXNmWHR5ZGRKVVp3OHVSUFdLdzVCV1o1OWtYME81WGU1VTcyMTUyWldFUnkyVlFIV1hRbEJR?oc=5",
           "region": "national"
         },
         {
           "title": "서울교통공사 산재 5년 연속 증가 … 반복되는 '안전사고'",
-          "source": "세이프타임즈",
+          "source": "safetimes.co.kr",
           "date": "2026.10.02.(금) 13:51",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZXZSRmFucWg5MFE1UnFsa19UcHFjcWNfMXZBZ2oyNTFTdU8yWnh5Z3E4S05IY0dPYkYtR05Ka0ptMlhUbXpMWDBSS004YWlydkJET3NoWXVDbjBxalhubEZYRVlmNUFyd3FLZWs3MNIBc0FVX3lxTE96dnhOVVBtSVdCM1dZQTRPcGpwUnRYLVJrUnFrX3lxMG12eU1sWXVMM0I4VFZyeTRCUDA3UWhuT0NMNUZqazR6SXQ1SERSdVd3TFNLUlJTT0pnS1g5NHdXbVNET1BjYkdtakg2ZUpaUDdkT0U?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경북교육청, ‘안아드림페스티벌’서 다양한 안전체험 선보여",
+          "source": "시사일보",
+          "date": "2026.10.02.(금) 13:28",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wRV9VTVZ2SDRvZ1FkUkFfYjNGVVd1dmNhQUR5ZVhtYjIyMVVxeTBCY2pxLW9mRmhNdkUwYkN2X1p6blg5R2VQcUhvSE0?oc=5",
           "region": "national"
         },
         {
@@ -396,7 +396,7 @@
           "title": "광진소방서, ‘노인의 날 기념 행사장’ 어르신 대상 심폐소생술 교육 부스 운영",
           "source": "FPN-소방방재신문",
           "date": "2026.10.02.(금) 10:00",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAtZEVQX3dSMzdtRGg1cTVaU1FDZ1hBc0NvajFjNWpLN29sYW1CVk80WGRRZ2tFYWEwZHBXSC0wZnRmNmlK?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBLMlN5NkhLQTFZM3FUR1pIWmktWW5SRWROSUtoaUx4QlhkZEMxOHNCakhXZzVGNkgzQnpRLWh0UQ?oc=5",
           "region": "national"
         },
         {
@@ -415,7 +415,7 @@
         },
         {
           "title": "대한적십자사 서울동부혈액원-삼육서울병원, '헌혈 생명나눔단체' 업무협약 체결",
-          "source": "한국투데이",
+          "source": "hantoday.net",
           "date": "2026.10.01.(목) 18:13",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SVZkdmhOSU9aWEpoLV82ckw5dTI3R3pvRHFzRmpsMFptVk5MMlRxcm5ZTE5qMmx6VVhENl9UM18zMTlGa0tKQmlSeFdGS1BsTE9kVDY0NXJOY1R0Tng1QmxoTlZTUmFNajh6UXhn0gFuQVVfeXFMT3RJVmR2aE5JT1pYSmgtXzZyTDl1MjdHem9EcXNGamwwWm1WTkwyVHFybllMTmoybHpVWEQ2X1QzXzMxOUZrS0pCaVJ4V0ZLUGxMT2RUNjQ1ck5jVHROeDVCbGhOVlNSYU1qOHpReGc?oc=5",
           "region": "national"
