@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-03T16:28:20.257096+00:00",
+  "generatedAt": "2026-10-03T21:24:39.281394+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "필수의료 살린다는데…응급진료 막힌 진료과 1위는 ‘소아청소년과’",
+          "source": "v.daum.net",
+          "date": "2026.10.04.(일) 06:01",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yRllnbVVtOGEyQjFJRk8wWnZuT2hqQ2ZfdTZTS3ByYTBYRW1iM3VkY0pwNHlyVDlGb3ZZZjA3ME5iR0lmYVlBeTB6RmlTVjA?oc=5",
+          "region": "national"
+        },
         {
           "title": "강원도의회 복지건설위 “응급의료 공백 우려…정상화 총력 지원”",
           "source": "동방일보",
@@ -15,7 +22,7 @@
           "title": "응급진료 막힌 곳 1위 ‘소아청소년과’",
           "source": "v.daum.net",
           "date": "2026.10.03.(토) 07:30",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZYWd1dmIxTTNNUDcwdTk3R3pscGdzQUdhVU1kN3M0cjdKUXJEVG9Pamx3NC1YV25NSzN3aVpSRmpsVG1qelA4YnpSUUc0c1E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEaXlPdDZyVmFVVmRjdGFtSEFVU1ZRc3E1ZWQ4T18yaUM3a18xVUc1elpQeFk5WWVDOEJOZHhtSm9XdTRFNS1hcUNjb2JsclYzLTFodA?oc=5",
           "region": "national"
         },
         {
@@ -54,24 +61,10 @@
           "region": "national"
         },
         {
-          "title": "정부는 필수의료 살린다는데…응급진료 막힌 곳 1위 ‘소아청소년과’·사유는 76% 인력부족",
-          "source": "MEDI:GATE NEWS",
-          "date": "2026.10.02.(금) 14:21",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmWVl2eHJqNldkd1R4cWtKenVRRkwwUUJqbGVpbUNxU2xmdmxwM0ZoNmdwUEdKMkRzUnYzSGNSUU5aeHdSQWlDaXVtVFpvaGUw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "응급실 진료 제약 원인, 4건 중 3건 '인력 부족'…소아청소년과 '최다'",
           "source": "코리아헬스로그",
-          "date": "2026.10.02.(금) 12:53",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qczdFLTBnNGtva1BLWjd1M1F2M1ZVbE5ZVHh4RnpOWEpJdXRRczRMNmhtSG8xYnFTc1dqd2NCcC1KVlpJVk5zMmFBb0dsQlBJZFdPYXozNG9Kc0xCQ1dlLTNFLW9NdjBCbkJEUFVnYmJmSkxhYlHSAXZBVV95cUxPanM3RS0wZzRrb2tQS1o3dTNRdjNWVWxOWVR4eEZ6TlhKSXV0UXM0TDZobUhvMWJxU3NXandjQnAtSlZaSVZOczJhQW9HbEJQSWRXT2F6MzRvSnNMQkNXZS0zRS1vTXYwQm5CRFBVZ2JiZkpMYWJR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "필수의료 살린다는데···응급진료 막힌 곳 1위 ‘소아청소년과’",
-          "source": "의사신문",
-          "date": "2026.10.02.(금) 10:52",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVFlSbFl6S1FJUkdlS1hFUlBPWDRvWGcwU0FmYzc3RGtTS21FU2hGRFE3QUlxM3ZocUR6T2FwQVZFdEtQZE11QzV5ZHZ2X2Y0TWk0UnR6LVdMam1QelN5aDdWMnlVUmY1YWN3QWJBWQ?oc=5",
+          "date": "2026.10.02.(금) 12:02",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWR2c5dEFfcVNFSC1LWGdmUE5pVllYaVdaYmhqR09SUWRhRjFxS1pXTldsVFNYRnpObFRRSVBxVHA0VDdQNDJqbVo5MThEMlBzYlltQ3d2dDNZYVFwMVUydWhWUldia3BCd2d1NWlqUXRzd9IBdkFVX3lxTE9qczdFLTBnNGtva1BLWjd1M1F2M1ZVbE5ZVHh4RnpOWEpJdXRRczRMNmhtSG8xYnFTc1dqd2NCcC1KVlpJVk5zMmFBb0dsQlBJZFdPYXozNG9Kc0xCQ1dlLTNFLW9NdjBCbkJEUFVnYmJmSkxhYlE?oc=5",
           "region": "national"
         },
         {
@@ -143,6 +136,13 @@
           "date": "2026.10.01.(목) 13:30",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtem5yXzY0OWpuWC0yckF3RUItd2ZKNm1wdjlJNEIxVWlTd2RlcUFua0k1SW5Wb2xjYmdNMklMemU1QklQakVCVHBxOWhUclZsVGtqR21xRE1vcFdXSXRISmxybXhHQm40Unc?oc=5",
           "region": "national"
+        },
+        {
+          "title": "의료혁신위원회, 응급의료체계 혁신방안 논의",
+          "source": "병원신문",
+          "date": "2026.10.01.(목) 13:30",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aZ3ZES1AxQnR3SDRkcmd4TGpXaXJfVnQyRV84VGF3Mm5iQldibi1HQWdXamJwUWdLLVBYN0JzYzRxeGV3elpyRTB4S2JyaWRXaEJRdUNISWdBTmVmMXlYSmJZT3NDWDdpbVE?oc=5",
+          "region": "national"
         }
       ],
       "error": null
@@ -165,9 +165,9 @@
       "items": [
         {
           "title": "공주시보건소, 응급의료분야 충남도지사 유공 표창 수상",
-          "source": "한방통신사",
-          "date": "2026.10.02.(금) 19:30",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YUmlYT2ltcWNjdTZxZ3U4NERZN0ZWbHUteU5hSHRvaFdpdXptN2NQUGthTV9uV1VoWG5oLV9rNHVMdVc0RWtqRGhrMUZ5MnBhVWV0ZEVMTHFyeVk?oc=5",
+          "source": "엔디엔뉴스",
+          "date": "2026.10.02.(금) 22:43",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hQWpraFlwbGFkNVlFd3FRUTdLdnpEX1ZOVy1halJMdTFSV0ViTTJEYUo4dU5SeEZ6eC1rOFpBbXBHdHRXOFJpUUkxQ0ZDNlhpS05jdDl5aDdvVUYzOFZ3Z3B4WGZxM0E5UE9HQTluOWJuQdIBckFVX3lxTE1hQWpraFlwbGFkNVlFd3FRUTdLdnpEX1ZOVy1halJMdTFSV0ViTTJEYUo4dU5SeEZ6eC1rOFpBbXBHdHRXOFJpUUkxQ0ZDNlhpS05jdDl5aDdvVUYzOFZ3Z3B4WGZxM0E5UE9HQTluOWJuQQ?oc=5",
           "region": "national"
         },
         {
@@ -254,7 +254,7 @@
         },
         {
           "title": "하남시, 헌혈 참여 시민에 온누리상품권 지원",
-          "source": "enewstoday.co.kr",
+          "source": "이뉴스투데이",
           "date": "2026.10.02.(금) 19:10",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QaEZ1NFo0M09qLVNSc3NtZy1EbjdKUk1tbXkzQy1qaFdJZXlybGREOWtlVTNRU2JCclNyWUJkbmxLREctMXRndlVyeXVBZzZTNlBBTVUzd3VCWHVJazJXdHp1Y0hRWlF1aGJXTkFsc19DUE020gF0QVVfeXFMTlBoRnU0WjQzT2otU1Jzc21nLURuN0pSTW1teTNDLWpoV0lleXJsZEQ5a2VVM1FTYkJyU3JZQmRubEtERy0xdGd2VXJ5dUFnNlM2UEFNVTN3dUJYdUlrMld0enVjSFFaUXVoYldOQWxzX0NQTTY?oc=5",
           "region": "national"
@@ -275,7 +275,7 @@
         },
         {
           "title": "부산진소방서, 취업준비 직업훈련생 ‘안전한 사회 첫걸음’지원",
-          "source": "sobangnews.kr",
+          "source": "소방신문",
           "date": "2026.10.02.(금) 16:18",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPUFFFWGF6M0g0S2t0ei1XSEpEb2VSZkFrXy1KTkFaZHltMW1Ec2pFRFRIVEtJN1ptUHVfT0hyM0I0RjR5eld2UGhta0VpOGNHV19wVldpaVB1dFpEbWdvbngwVklUYk5McFFR?oc=5",
           "region": "national"
@@ -296,7 +296,7 @@
         },
         {
           "title": "동래소방서, 현업근로자 심폐소생술 체험 교육",
-          "source": "sobangnews.kr",
+          "source": "소방신문",
           "date": "2026.10.02.(금) 15:50",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DakFOeHp0S184QjZXd2ZQNkpGbEtpbUVhQ0VrTy1XSW9YbHFNWTNUcWhvMS1UbWZDTWxzQU1VZUlzS25qd3JEYlphX1VlLU9BaFZBcm9YV1U1aTBpel9tMnJ3Zjc2bHBOS0pz?oc=5",
           "region": "national"
@@ -331,16 +331,23 @@
         },
         {
           "title": "마포소방서, 마포경찰서 경찰공무원 대상 응급처치 교육 실시",
-          "source": "sobangnews.kr",
+          "source": "소방신문",
           "date": "2026.10.02.(금) 14:28",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iT3JZcWtRUUljdWtKcTVaUDREblVpVWxTOU1UQUl6LTBxbDFlLWJVT2M2Z2NMNXNmWHR5ZGRKVVp3OHVSUFdLdzVCV1o1OWtYME81WGU1VTcyMTUyWldFUnkyVlFIV1hRbEJR?oc=5",
           "region": "national"
         },
         {
           "title": "김해대학교, ‘사랑의 헌혈 운동’으로 생명 나눔 실천",
-          "source": "부산일보",
+          "source": "busan.com",
           "date": "2026.10.02.(금) 13:22",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRTllOV0J5RzlGR2lFNnczMWVoVE9hc0F1QlVhZGlxNF83TFJGdmdyOS1tV0FoYXlIVXBQcWFWV0ZRZ3F6UlhFMC1tSWh3MFNoRzF5WDdsbzlrMWl0dzZodzJzM19NbzlQN1FrNWQtYVNDaDNZ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "빗썸, 임직원 헌혈이 700장 됐다…조혈모세포 이식 환자 돕는다",
+          "source": "이코노미사이언스",
+          "date": "2026.10.02.(금) 11:51",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EZkEtQzhzX1RzTUlHNzNQeVY5akJnek1OZmlRdk0wU25jdEh5aTl2Y0JBdnp5M1JjZVNpR2c4YWtYTlJhdmFZOWNHVVBpbFlBeUgweEF1MUJDVjlZVjQ3U2NOTGNnNEphcnRNalBqMA?oc=5",
           "region": "national"
         },
         {
@@ -411,13 +418,6 @@
           "source": "한국투데이",
           "date": "2026.10.01.(목) 18:13",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SVZkdmhOSU9aWEpoLV82ckw5dTI3R3pvRHFzRmpsMFptVk5MMlRxcm5ZTE5qMmx6VVhENl9UM18zMTlGa0tKQmlSeFdGS1BsTE9kVDY0NXJOY1R0Tng1QmxoTlZTUmFNajh6UXhn0gFuQVVfeXFMT3RJVmR2aE5JT1pYSmgtXzZyTDl1MjdHem9EcXNGamwwWm1WTkwyVHFybllMTmoybHpVWEQ2X1QzXzMxOUZrS0pCaVJ4V0ZLUGxMT2RUNjQ1ck5jVHROeDVCbGhOVlNSYU1qOHpReGc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "건협 강원지부, 헌혈캠페인 통해 생명나눔 실천",
-          "source": "의학신문",
-          "date": "2026.10.01.(목) 18:13",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fWGhQdldFOExsQXl2UXpqaWVNZ01pdW9TRmVEMTJSYkhqMlJZaS1FZWxOVVJ4V0h3MnpQNnZEZUpSVzB4U0JhREx5WnI0dzkxdXE4V0diSjAyVEJPQlljZnJaOHdiMWtxZVE?oc=5",
           "region": "national"
         }
       ],
