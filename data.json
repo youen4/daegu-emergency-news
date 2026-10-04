@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-04T18:39:43.832443+00:00",
+  "generatedAt": "2026-10-04T23:58:28.752431+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
           "title": "[N2 기획ㅣ완주 응급의료 공백 ①] 10만 완주에 응급의료기관 ‘0곳’…지역 응급의료 어디로 갔나",
-          "source": "news2day.co.kr",
+          "source": "뉴스투데이",
           "date": "2026.10.04.(일) 18:50",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jeHlZUTI0SFdsQWFBaXU3b0NGdFRqVVViM3hXaHZsdFZ1ejRTNGY3TmxWREI0aklzdlNwT1N3U3c5TFYzTlhXMlZkTFdpV0d5OXo5SC1OYk9veHZxcUE?oc=5",
           "region": "national"
@@ -22,7 +22,7 @@
           "title": "응급진료 막힌 곳 1위 ‘소아청소년과’",
           "source": "v.daum.net",
           "date": "2026.10.03.(토) 07:30",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEaXlPdDZyVmFVVmRjdGFtSEFVU1ZRc3E1ZWQ4T18yaUM3a18xVUc1elpQeFk5WWVDOEJOZHhtSm9XdTRFNS1hcUNjb2JsclYzLTFodA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZYWd1dmIxTTNNUDcwdTk3R3pscGdzQUdhVU1kN3M0cjdKUXJEVG9Pamx3NC1YV25NSzN3aVpSRmpsVG1qelA4YnpSUUc0c1E?oc=5",
           "region": "national"
         },
         {
@@ -80,13 +80,6 @@
           "date": "2026.10.02.(금) 09:43",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TQVJQS3g4ZmlKX0VJU1Z2bllFcGpnVjllZmNMWlVHSkdPU3VNUk8xcWFhVk03MFlQakdqN2lNOXE3RUM2WkRGNXMwc1dVVTNfSTRwemJfWm5Fal9VNzYtcmtQVWUxSlZ2WThiUS1NNnZjeGM3ZFRscQ?oc=5",
           "region": "national"
-        },
-        {
-          "title": "소아청소년과 응급진료 ‘빨간불’…상반기 진료제약 2,985건 최다·76.9%는 인력부족",
-          "source": "월드장애인사랑뉴스",
-          "date": "2026.10.02.(금) 08:51",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WNGhINkNvNmxKMDhSWWpYQWxyMndBWXRPaVNfbFdORE9pZ0hmeXNaY3NxbmZNWXV1U090eVpXSUZQd2llSWx4LXZHdUh5RXVLak1FNVFiYTRueE1LWkpfZmNHQ3JzWThtX1VPV3JFaw?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -108,7 +101,7 @@
         },
         {
           "title": "가천대 길병원, 긴급구조지원기관 능력평가 ‘매우 우수’",
-          "source": "medifonews.com",
+          "source": "메디포뉴스",
           "date": "2026.10.02.(금) 09:40",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGWnJRUVlVZTdKSFRFYk5hR2toZ2d3eE54ZS1ETDJ3bnNzV18xSmREUWx5VmQ0eG1fVE1rU3lpVG5fa2JVODE1aXhjd2E0WDNYUWlEUGk3ZS15bWw1eEV1T3dudDA?oc=5",
           "region": "national"
@@ -197,7 +190,7 @@
         },
         {
           "title": "화성특례시 병점구보건소, 심정지 '골든타임' 지킨다… 자동심장충격기 166대 집중점검",
-          "source": "ggtimes.co.kr",
+          "source": "경기타임스 e",
           "date": "2026.10.04.(일) 09:06",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TcVRMZEstMUFKMDZWanFKSmhGNHlKdVc3NmR0Tlc3Wmc1Tld2a1Nwakc5TmRrU2pOOFgxVDA4ajhoUVVxN1U3TDdpOUk5cWdaSEsyeE9QenZ0X0t2R28xNDRJa3pCdEdsa253?oc=5",
           "region": "national"
@@ -218,7 +211,7 @@
         },
         {
           "title": "하남시, 헌혈 시민에게 감사의 마음 전한다…온누리상품권 지원",
-          "source": "굿타임즈",
+          "source": "goodtimes.or.kr",
           "date": "2026.10.03.(토) 11:27",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VeWxFM2lGX3Q3UlpiT1J2UFZHc2dGLW5JaFUwa1BRcnJtS3p3dm9NZXZEVDBxcXNWZ3JSeHpjYkYwWEQxR1oyTWFwNEtSSVpxVmFXM21hTlgyWHkzVTZWbzR4NGtqZzFhclJKNzJuWQ?oc=5",
           "region": "national"
@@ -239,7 +232,7 @@
         },
         {
           "title": "하남시, 헌혈자에 온누리상품권 1만원권 800장 지원",
-          "source": "newstnt.com",
+          "source": "뉴스티앤티",
           "date": "2026.10.02.(금) 19:43",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83M3RaYXBDcVlHY1o3bm05MTA2TzN0a2RGZ3NqR1JjLWY0NUxyWlUxb1duMmxOVnVnNmJIVUpjbmE1c2wxRDJ1LW9MT3Y1V2haVTRtYzgtSXY0NWVOZ2Jwa0tQMHJuakxsaUE?oc=5",
           "region": "national"
@@ -259,22 +252,15 @@
           "region": "national"
         },
         {
-          "title": "이현재 하남시장, 헌혈자에 온누리상품권 지원...민·관 단체헌혈도 연계",
-          "source": "아주경제",
-          "date": "2026.10.02.(금) 16:58",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nYkg0Q18ySWlSS1c1NGdVZHJXa3JLY1hHZnR4alZmWVp4aFRuX3lYT29UMDNDUGl3R3Q1VHNRcEhSbnFGSEUtckVyLWNaWVRldTBCV2FnX27SAVhBVV95cUxOZ2JINENfMklpUktXNTRnVWRyV2tyS2NYR2Z0eGpWZllaeGhUbl95WE9vVDAzQ1Bpd0d0NVRzUXBIUm5xRkhFLXJFci1jWllUZXUwQldhZ19u?oc=5",
-          "region": "national"
-        },
-        {
           "title": "울산생활과학고등학교, ‘사랑의 단체헌혈’ 동참",
-          "source": "ujnews.co.kr",
+          "source": "울산종합일보",
           "date": "2026.10.02.(금) 16:15",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwVWYzaW8xNFlLNjlyS19qMXVMUkY4aFJod3R2cjVCZzlJMjFmRG50TU5FX3laVzlfQktDTmJzLU5jcWtQX3BUSXBvRm80X3FERmtXTUR2dVI0NlRiZWJES0JwSVpWSTBQMXZFR2t3?oc=5",
           "region": "national"
         },
         {
           "title": "헌혈자 10년 새 42만명 증발…환자가 직접 ‘피’ 찾아 나선다",
-          "source": "hankyung.com",
+          "source": "한국경제",
           "date": "2026.10.02.(금) 15:26",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ydEExV2ZsUjNrQk9nUmVvRHFfRE1tSGd0d1ozXzd2Nm9idnFwQ2VwejM4UV9WVVNXWEcwNi1PanpSZEhvVkVwR1FMbXc3S1JDMWcyYXBTWHMtQQ?oc=5",
           "region": "national"
@@ -302,7 +288,7 @@
         },
         {
           "title": "빗썸, 조혈모세포은행협회에 헌혈증 300장 기부 … 누적 700장",
-          "source": "worktoday.co.kr",
+          "source": "워크투데이",
           "date": "2026.10.02.(금) 10:44",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwMHlpemhocHc1NzhLTUI0RWJYMkQxejFWb2Z5OVNkTjIyNGtCaW1JSDU5cFVXd1JCSUNTcFVqVTFmUFpoTzI3Uy1GdEZVUTNuUy1zZzRXMFQ0MGV1ZS1Lek9jb0gycDlkaHMxdw?oc=5",
           "region": "national"
@@ -312,20 +298,6 @@
           "source": "충청메시지",
           "date": "2026.10.02.(금) 10:24",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zWllhZTNyMkg3LXNkaHpJS2tyWmhCaVQzVlE4VGZQUERNU3I1aVFFVkdvWjFId25VbW45aFdJbUJkcGNRc3FPeDc3eXVSWm1zbVRCR1pGOFM2VU5RVjBjYUhNUHJaaTdKWkRr?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "괴산소방서, 사랑의 헌혈 캠페인 참여",
-          "source": "세계뉴스통신",
-          "date": "2026.10.02.(금) 06:20",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nWXFmR2k0S0lZc0JidjUxQUdoTDlWa3RCckJGTnVnZ1J5LTJoUHhHaU9VWXRlQVBnYjlyNXRnTDBva0c0b2MtV1JNUE0zUDI3dVN6S1B4bjVHcnY1eWdsTHdXVnpxc2ZaQnItVWFCUWtqOENz?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "사립유치원 96% 교육시설 안전인증 안 받아…예산 65% 반납",
-          "source": "연합뉴스",
-          "date": "2026.10.02.(금) 06:01",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nY1hBcHdVRzA4UG5FcEFmVGhtS25mSmhIeEJldG1hYVFGbVpyYXFfUE5iOTNETUJTNGd6clh6cGU2cER3Q1o5THktMjU1TURZdDZoQW41cG9VSHI3eW12btIBYEFVX3lxTE9nY1hBcHdVRzA4UG5FcEFmVGhtS25mSmhIeEJldG1hYVFGbVpyYXFfUE5iOTNETUJTNGd6clh6cGU2cER3Q1o5THktMjU1TURZdDZoQW41cG9VSHI3eW12bg?oc=5",
           "region": "national"
         }
       ],
