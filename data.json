@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-10-05T14:53:01.654594+00:00",
+  "generatedAt": "2026-10-05T22:03:23.488619+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "고려대 안암병원, 권역응급의료센터 ‘소아응급실’ 개소",
+          "source": "에너지경제신문",
+          "date": "2026.10.06.(화) 06:47",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JTmswYVg3WjRtOXBwdEtWQ0ZsTW1uamFQbGRyU09SMzVnYUlJWmJzM2VEd09yWnlrNHVDQldKbFV6UWQzLXR4M1hPdms2T0FnV2hvaS0yNlNQenk1Zksxd3V5VQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "충북 응급의료 인력 구인난… 권역외상센터 전문의 지원 ‘0명’",
+          "source": "중부매일",
+          "date": "2026.10.05.(월) 18:34",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTX01tclZGUzkzWGMtdHVLZUg3R3FCOTFldXhGVkd6WEFfVDNlcTVqd21xa184NnNjX2pab3ZzRHNENG1ERVdTQjRoMmVKU1dfaHpwcmR5bkU5QUwyRl9zLVh2Tlhua1gyank0OV9B0gFuQVVfeXFMUFNfTW1yVkZTOTNYYy10dUtlSDdHcUI5MWV1eEZWR3pYQV9UM2VxNWp3bXFrXzg2c2NfalpvdnNEc0Q0bURFV1NCNGgyZUpTV19oenByZHluRTlBTDJGX3MtWHZOWG5rWDJqeTQ5X0E?oc=5",
+          "region": "national"
+        },
+        {
           "title": "더민주당, 필수의료 살린다는데…응급진료 막힌 곳 1위 ‘소아청소년과’",
-          "source": "dailymedipharm.com",
+          "source": "데일리메디팜",
           "date": "2026.10.05.(월) 07:17",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56bW42WkQzRTlYdUhaRzFzZHpoZ0hpc2JGTjl5aVl6WEdHZkN0TmFUV0twdTRObWR2NzRIQk5fVWw1dUpCSXFELTctSEdnQm9CcTBWaURpc0hIRWdlR05wZkoxblptLVh5a3p0bTRR?oc=5",
           "region": "national"
@@ -51,22 +65,22 @@
       "label": "재난의료",
       "items": [
         {
-          "title": "전북중기업계도 “남원 국립의전원 환영”",
-          "source": "전북금강일보",
-          "date": "2026.10.05.(월) 16:14",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE40QUxfUWdSVDJZTnRPaE1XOXVUcGhqSlV6MS1ZbndYWEhzWmhFRVVDUkJ2c3Jhcy01SVdqNkFETE0?oc=5",
+          "title": "도내 중소기업계, “의전원 남원 설립 지역경제 활성화” 환영",
+          "source": "전북중앙",
+          "date": "2026.10.06.(화) 02:04",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMakVxYXhjVFZ6bEprSTJYNUxVSmU1QXp5SXZqTGM2RFhfNFc0MUZNYmcyRmRnNTBjOE84T0hWZjVWLXBCcFg4SGMybHlNNmUzMVJkNGtwVzRVQzZIeWlRNEt3QlZ4dmFnUHRR0gFrQVVfeXFMUExqRXFheGNUVnpsSmtJMlg1TFVKZTVBenlJdmpMYzZEWF80VzQxRk1iZzJGZGc1MGM4TzhPSFZmNVYtcEJwWDhIYzJseU02ZTMxUmQ0a3BXNFVDNkh5aVE0S3dCVnh2YWdQdFE?oc=5",
           "region": "national"
         },
         {
-          "title": "도내 중소기업계 \"국립의전원 남원 설립, 적극 환영\"",
-          "source": "전민일보",
-          "date": "2026.10.05.(월) 14:32",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fcmxsZVFUNGU5UHhyVjMyNnNuSVFCVFlncFhDR0FwVFdlYXZaQzlLMGhSLXd3cEpPRGVIWEVmdGVfekN2UE5ON3BOaHp5X0UtZmpvOUpFa0JXUi1aQjdoZU9uUmx5X0tiZm1sSQ?oc=5",
+          "title": "충남도, 응급의료 지역 맞춤 발전 방안 찾는다",
+          "source": "한국방송뉴스",
+          "date": "2026.10.06.(화) 00:20",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04U1lTUGF2VW4wZk9mMFhMYXBaVVotbUhvRTRkVUhDQ3piUjhyNS12M2NtenNLXzY3TFJtVmlDUDFZLXItYTlYZjBvS0U0UXdJc0NFRnpPWGE2cjRReXc?oc=5",
           "region": "national"
         },
         {
           "title": "전북중소기업단체협의회, 국립의전원 남원 설립 ‘환영’",
-          "source": "전북도민일보",
+          "source": "domin.co.kr",
           "date": "2026.10.05.(월) 14:11",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM1FKUWs5M2IwaFktMXRfOEdTM0ZSNzhENDYwVEQ4ODdRc2loaEQtV1hXWFE3WG1QWk1NS2xiU3AzYU1QVFMxdzNnQnBLNTBhdHNiX0tKYUtvYU5CWmRncDdFeEI2R2Q5alFxcE5oSjdyMmNBNFg4Q1RJZlFFNGRIRG9qc0ItUQ?oc=5",
           "region": "national"
@@ -79,24 +93,10 @@
           "region": "national"
         },
         {
-          "title": "충남도, 응급의료 지역 맞춤 발전 방안 찾는다",
-          "source": "충청일보",
-          "date": "2026.10.04.(일) 13:59",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Kcml2M2xoQVJyaHZLekVhdk5zS2RzckdlblY0T0poUFZrbGEzYWtjSG1kSnpfdE5uQVJCRjBsRzJaR2lkbl9NVGY0Q25UXzI0MTdTdDhUQlE2MWVueWZ6WFdBaWhrcEUwdjVBbnQ4Tkk?oc=5",
-          "region": "national"
-        },
-        {
           "title": "충남, 시·도 경계 넘는 응급의료 연계망 구축 나선다",
           "source": "뉴스아이이에스",
           "date": "2026.10.03.(토) 18:18",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmMFRhQ3hJaFQzVC0zUjJTcXBtdktqMEQySHBNWFBWc0tZdUNmVDBUdWdyRzFCOXZLYTlfc0o5ZzNEUjNYRUpVcUM3aUxDUkx5ckNydDVZa2V5c1Nkb1VsUWR1Vl9KQmJLa1AybnRleTIzZ9IBckFVX3lxTFBmMFRhQ3hJaFQzVC0zUjJTcXBtdktqMEQySHBNWFBWc0tZdUNmVDBUdWdyRzFCOXZLYTlfc0o5ZzNEUjNYRUpVcUM3aUxDUkx5ckNydDVZa2V5c1Nkb1VsUWR1Vl9KQmJLa1AybnRleTIzZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "공주시보건소, 응급의료분야 충남도지사 유공 표창 수상",
-          "source": "글로컬타임스",
-          "date": "2026.10.03.(토) 01:04",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwR3Y2M1doNU0zNGRHeDBZdXY5NUU4QTc0NUw3N05XY1lXaXlCQzl5bDNXTk1DaFlNWTljNUhhRFdTVXRPbjZuQTUxZVpTSHdPQm5SYUdPS2IzdUJJNU1nc2otTEtOZWRWTnBkX9IBbEFVX3lxTFBwR3Y2M1doNU0zNGRHeDBZdXY5NUU4QTc0NUw3N05XY1lXaXlCQzl5bDNXTk1DaFlNWTljNUhhRFdTVXRPbjZuQTUxZVpTSHdPQm5SYUdPS2IzdUJJNU1nc2otTEtOZWRWTnBkXw?oc=5",
           "region": "national"
         }
       ],
@@ -114,7 +114,7 @@
         },
         {
           "title": "소아심장 권위자 박인숙 명예교수 \"소아응급실 압수수색? 이런 식이면 응급실 닫는 수밖에\"",
-          "source": "MEDI:GATE NEWS",
+          "source": "medigatenews.com",
           "date": "2026.10.03.(토) 10:59",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40d1VzbkdDQ3dIalpyeklqX2xldXdKUFVjS3BQQTFmLTJZTkg4TjBEZXFkSnNrOHNwdHFIWW1pcEJKRkhIaGtIZkM3LWJFMDV0TkE?oc=5",
           "region": "national"
@@ -133,6 +133,20 @@
           "region": "national"
         },
         {
+          "title": "울산생과고 '사랑의 단체헌혈' 생명나눔 앞장",
+          "source": "울산신문",
+          "date": "2026.10.05.(월) 20:10",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EM2UycExub1FoY2Z0VzNVUHE2dkU2TkRaREtzMHZnb2piUTNUVl9ILU1xRzQ4SGhXbG1iTWdWbzlGTlNEMkdGc0ZQQldOSFRmLWltSVRlc3ZJSkRmTHZBZm9kV3VxWjIyU1NramxB0gFyQVVfeXFMUEJ2UXlrSFRBcFltclNoZy1OUkhiaUlKTE43REp3cUZJTHBqbk9ldWRUU21oak1iUGlvQ2FDSVpVUnFlVUlEX2lFeGVDTnFEaEhrRzNtV182TjhyX1ItbEpJM1hvZndUS00wYWRrcmFIZl9B?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전북혈액원 도민 1만명 헌혈참여 릴레이 캠페인",
+          "source": "전북중앙",
+          "date": "2026.10.05.(월) 17:14",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13eERUU3VuNW1ReDJDNVBCU0pLWTF5UkVZdktqU243bWR0MlFUZUNILXFLS0czRVdOX0I3cmI4dUZ4T3VEenozQ1lrQlNHZ3RLcFNZNHh2OU5tTXlOQXJIalZ0WkJXMW_SAWtBVV95cUxPbEFlUDZkTWd4WG10Uk45bUY2QzJRYVRtNHNLdGlmVFpNQ0FUUktscG9qTkc3dTBveUhEYW1sWUJNT0w1RWlCUHRkV2NFM2pVNjdlc2dIaVFKRnlyQmh6Y1VEcEJpLVpUaUlnQQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "영천시, 올해 네 번째 생명나눔 사랑의 헌혈 운동 실시",
           "source": "신경북뉴스",
           "date": "2026.10.05.(월) 16:50",
@@ -140,10 +154,10 @@
           "region": "national"
         },
         {
-          "title": "슈퍼주니어 려욱, 헌혈로 완성되는 뿌듯한 하루 릴레이 캠페인 참여 > 뉴스",
-          "source": "더코리아",
-          "date": "2026.10.05.(월) 11:28",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcGx5Wm52ZkFObXQ3TTNjc3htTERvck9rWUs2czZqckxrbkVjSjRLa3BSNmpxU1J4cHZZMkFsdWppTS0zNHVSZHR5VWVBWTdqaTBVQ3VlWHVfUEhNVFA5TjgwM3lOazhVbGZaSFFHaVJwQTlmTXlkZFhKT1ozY2hHOXpVc0dSRWlFTjFXMENmd1dDeUVhUWFtZmFTWC1HNHptVnRYTWc4a1Jlc25EUE9PYTRXb3NxVzFneGJOU0piWHZHQWhNV1I5UWtfSk1vTlB2UGE5bEVnYnMyMS1ETHc2X2haMVJvTUNrWGhtU1Etdk80OWxw?oc=5",
+          "title": "5년간 해양사고 29% 급증… 인명피해 10명 중 6명은 '안전사고’",
+          "source": "데일리환경",
+          "date": "2026.10.05.(월) 15:19",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TM04zclhrWEpJQU9may1WMF91ZEZxalM4MjVBOUJ5Y2JCMmp0QmNjdmpqbmxlMGlqQVZxX2I0eFRXT0NXemNSTnZEQXd0TUd4LUdvdER6anJXTDVwRFE?oc=5",
           "region": "national"
         },
         {
@@ -193,13 +207,6 @@
           "source": "매일신문",
           "date": "2026.10.04.(일) 12:25",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQZzc3S2hRLUV1Q0p3eFlxXzA5V1I3RVRlbTd2UldVNHFWZWZxdm9GYlViUkNyRm5jeGxYYnVLSEhCOUFJMExfZ2d0c2tqMWZJbkM4Z3c0YVQ0azdxVjRkajFB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "하남시, 헌혈자에 온누리상품권 지원…헌혈문화 확산",
-          "source": "동방일보",
-          "date": "2026.10.04.(일) 08:49",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NeWdzblRHY2x3cDRKbUVwa3hQM3hyT1Z6UGRhV3QxdWUweDhZbUhpZmdZa0IzZ2xWWUtENXpKaHlTU0FROWUwbXBQbWZacUZZaGs5WnpwRlA5TzZwNEhOZFpxZENTMFRLSEsxaW9NMy1fN0U?oc=5",
           "region": "national"
         },
         {
