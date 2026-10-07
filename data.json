@@ -1,9 +1,65 @@
 {
-  "generatedAt": "2026-10-07T06:08:42.757135+00:00",
+  "generatedAt": "2026-10-07T13:34:00.513922+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "복지부 국감서 의료기관 보안·응급의료 대책 요구 잇따라",
+          "source": "스페셜타임스",
+          "date": "2026.10.07.(수) 18:20",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PdXBVeDlYWnNJUXFFVVh0aTRhaWg2eUJST1B0aDdlcWtKcEd5anJjUUhVX05odU5Ua2ZwSVJodXpsUTVJZWVSRUFnQjIxTlZIRjNSdFZ4U2lNWTZFdTB0NUhCaGZDYWhvUmY2VlNTX0hRZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "상급종합병원 47곳 중 14곳 권역응급센터 미지정 [2026 국감]",
+          "source": "쿠키메디",
+          "date": "2026.10.07.(수) 17:41",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DeUxmSm1yMUxXS1NfOHNyQjItakpNR2RfNzNwa2dncm1PYnBXX3JHajdzUGdjWlVGVmRvTnZfVnNDdUttODRYVVhENlhRTS1TV0lkbGR2UXJESzhCY3lEczRTNA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[2026 국정감사] 상급종합병원 14곳 권역응급센터 기피…공적 책임 외면 논란",
+          "source": "아주경제",
+          "date": "2026.10.07.(수) 17:41",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhaWtrYWhmSjJhMXJLaUpyMXFlQ0tGWDJDbzF4YUhFLURNM2xCZW5CdVFQUUF3SVk4XzNNWjJ3dWtRdnVhYTBTX1ZzR0pUc0tfeW9FOC0yM1XSAVhBVV95cUxQYWlra2FoZkoyYTFyS2lKcjFxZUNLRlgyQ28xeGFIRS1ETTNsQmVuQnVRUFFBd0lZOF8zTVoyd3VrUXZ1YWEwU19Wc0dKVHNLX3lvRTgtMjNV?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“47곳 중 33곳만 운영”…상종 응급의료 기피",
+          "source": "데일리메디",
+          "date": "2026.10.07.(수) 16:20",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRGJOdXhnSUV5UGllVlJNQmVlRmRodU5TTDB0NFJjQ0YtTlFLck9iS0haS2pJWWtwdzJmdy02cWZVemFIZE9WSl9SLVI2RkVlU1BfUzUtWmdlWEtTN1JqRUJxMVVaRXZp?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[2026 국감] 이만희 위원장 \"대형병원도 응급센터 꺼리는데 취약지는\"…응급의료체계 개편 촉구",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.10.07.(수) 16:05",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LaHdSQ3FndDE1cmN1Rlp3MW8zRi1yanlER0ZSbDZKcEw4ZkQxeVhTZndVV3RrVkotWEtFQVEwRzBqTDNxeTN4QnpaR0dyMGx5OVdSYVBaWQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "이만희 의원 “상종, 권역응급의료센터 기피…공적 책임 강화해야”",
+          "source": "메디칼업저버",
+          "date": "2026.10.07.(수) 15:58",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PX3hvQ3ZFTHZZY1Nzc0JRbmpmYS0yNEFuSDFQVldFejBjRlhKMVEzd1l3SVJjNTBWTk0xSVdzbWtYaVY0bFB1VmFKRDFWN18yUDFEckxaZzVzUnN4cE9NMjVlbEVYUFpQbUhF?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“혜택 누리면서 응급환자 책임 기피”…상급종합병원 역할 도마에",
+          "source": "뉴스더보이스헬스케어",
+          "date": "2026.10.07.(수) 15:48",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jOHNPUV9YOGhHOUdpYUZhRkN2ZXVGMGgtQ2ZRcUdibWp6azBHeGRoejZJZGRKUTk5T2ZFNFN3cXo4MExKMjlieWZWbmxQaU42UGhWRmwxXzc1TUQ0dEpfTnkyZXFvUGhJMHoySkdfUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "딥노이드, 충북대병원에 뇌동맥류 AI '딥뉴로' 공급…권역책임의료기관 첫 도입",
+          "source": "전자신문",
+          "date": "2026.10.07.(수) 14:26",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pQW5JdDVadHpjOVByaEl4bGpEX2s4c1ZMeEJodUY2OHpHbVEzbDg1WGZaSFJmdWVrTEdod0szTWIwUmVCQVJuY2JOd2szdw?oc=5",
+          "region": "national"
+        },
         {
           "title": "서산시, 지역 응급의료 안전망 구축 기여 ‘충남도지사 표창’",
           "source": "충청타임즈",
@@ -19,17 +75,24 @@
           "region": "national"
         },
         {
+          "title": "[2026 복지위 국감] 24시간 소아응급진료, 제한 없는 응급실은 13.5% 불과 外",
+          "source": "의약뉴스",
+          "date": "2026.10.07.(수) 11:05",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQLWFFSTJ2dHJSXzQzSDZnVnZwVHVmNlFpYUJrenB0N0NpNDBQRWxjQ3RubmFSb0VJX2syckg1RnJFd1FFWTZYQjQzdWZOSEt6aENNNGY0ZG5wXzdpRGk1U0ZkRkRjNzR6?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "가천대 길병원, 2026 협력병원 초청 간담회 개최",
+          "source": "경기신문",
+          "date": "2026.10.07.(수) 10:25",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zTXdzOG53M20yeEdBMGpmWHlJS1h0ZVVpUnVpRU10aTFNWkRvWnVGdUFza3BFLXhpbi1xRVlpbWR3cU9NQkhxSU9tWkoyNGZUekRXalhlOE0tOFlMSHA2ak9va1k?oc=5",
+          "region": "national"
+        },
+        {
           "title": "\"뇌동맥류 진단 AI\"…딥노이드, 충북대병원 공급",
           "source": "뉴시스",
           "date": "2026.10.07.(수) 10:03",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0S2NHQXpHUkRTVkhIZWxEVVZra1djQjZ5Tmo2aFp0aU9YcHJKWHk0LU5qc3VUZVlZaEZVakh5Q2NnbEJwa1lkYlpsZzRMYzdXMy1kSWRzUGlGU3FILVd0UUExejJjdmM0OVg3Y0F2YjludzBGaldFRNIBeEFVX3lxTFB0S2NHQXpHUkRTVkhIZWxEVVZra1djQjZ5Tmo2aFp0aU9YcHJKWHk0LU5qc3VUZVlZaEZVakh5Q2NnbEJwa1lkYlpsZzRMYzdXMy1kSWRzUGlGU3FILVd0UUExejJjdmM0OVg3Y0F2YjludzBGaldFRA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "서산시, 응급의료 안전망 구축 기여로 충남도지사 표창",
-          "source": "서산시대",
-          "date": "2026.10.07.(수) 09:17",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81VlAxY0RGUm5ZaUxla3p4NFAxbUJqUDE4MG03RnRhanR3TUp3SmNjZ0FxZ1NPYUxvOHctb0p0OGhIblJhNFlWVkx5akxWX050NHJSSVRwRnR3UWJ0Yk8ySDFoejFjQdIBakFVX3lxTFB4N2Vrdnc0UllKaHljaFFHdUlabkdCUTZCNWFpZnJsUXAwcWRpN0x4Z3VIb2ZhTHp5aEdDZlFONUlZQ01MSVFzWDEtVWw3THB4ejYwdVlUcnNSSFVHZk5WSFp4VkdtdFZmOXc?oc=5",
           "region": "national"
         },
         {
@@ -61,24 +124,10 @@
           "region": "national"
         },
         {
-          "title": "24시간 소아응급진료 가능 기관 13.5%뿐…응급실 전문의도 부족",
-          "source": "뉴시스",
-          "date": "2026.10.06.(화) 16:22",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JcWU0V3hOeEEyazB1OTY0aFJRM3JEN0U5SUR6NXpWU1lnem1kYU9pRXg4a21mNEhteE92Uk9SUy01eXdydW5rOFR3S0F1R3FKTTI1T3YyNy1pTGl5ZVdNQnZidEZkNTFtNDdKam9DUjIyMTRKOWszedIBeEFVX3lxTE9JcWU0V3hOeEEyazB1OTY0aFJRM3JEN0U5SUR6NXpWU1lnem1kYU9pRXg4a21mNEhteE92Uk9SUy01eXdydW5rOFR3S0F1R3FKTTI1T3YyNy1pTGl5ZVdNQnZidEZkNTFtNDdKam9DUjIyMTRKOWszeQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "서산시, ‘응급의료 안전망’ 구축 성과…충남도지사 표창",
           "source": "현대경제",
           "date": "2026.10.06.(화) 11:38",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfTFpLWFNNcGQ4VHNTcVN0cTNVbFR0Q2N2Y1hic09GVERtTnJWUmRrdC1OUnRrZnlDdDBwOVNjT3QzbXowczJ3cE1oWjlNNnlfdDZIQmxBQnE4UExVUVhhQWRweVhmSmNUaTBv?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전국 응급실 7곳 중 1곳만 '24시간 소아 진료' 가능…소아 의료 공백 심각",
-          "source": "진일보",
-          "date": "2026.10.06.(화) 10:21",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5NlI5VUZCcDJDV0NqM2E5NGRNVENtTmJiN1NEVThaVkoyTk1RUTJrVGVXa3o5c3RmQm1rM2pUbHFJWUx0dUNkTmRNZmx0Q251eHJkUVlMblZjblVVSW1kMlpXZ1lvbktTdVYwM1gzZw?oc=5",
           "region": "national"
         },
         {
@@ -93,41 +142,6 @@
           "source": "에너지경제신문",
           "date": "2026.10.06.(화) 06:47",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PQnJoNFlEbE1UWEwtR0s3allVV2VZZlM1cGYwc3VXXzlJWTByT01OS3ZGeWFhdWc0ZmpsY0M4bXRzeDJfM1ctZlp4a3E0dFVYUmdLWG94ODZuZUE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "충북 응급의료 인력 구인난… 권역외상센터 전문의 지원 ‘0명’",
-          "source": "중부매일",
-          "date": "2026.10.05.(월) 18:34",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTX01tclZGUzkzWGMtdHVLZUg3R3FCOTFldXhGVkd6WEFfVDNlcTVqd21xa184NnNjX2pab3ZzRHNENG1ERVdTQjRoMmVKU1dfaHpwcmR5bkU5QUwyRl9zLVh2Tlhua1gyank0OV9B0gFuQVVfeXFMUFNfTW1yVkZTOTNYYy10dUtlSDdHcUI5MWV1eEZWR3pYQV9UM2VxNWp3bXFrXzg2c2NfalpvdnNEc0Q0bURFV1NCNGgyZUpTV19oenByZHluRTlBTDJGX3MtWHZOWG5rWDJqeTQ5X0E?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "강원특별자치도의회 복지건설위원회, 속초의료원 긴급 현장 방문 “지역응급의료 공백 방지 및 조속한 정상화 총력 지원”",
-          "source": "산경일보",
-          "date": "2026.10.05.(월) 15:20",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52cm5oSXBiS0NfanlWR0M2V0wzNW9lbVpjekU1aW1JQVlYTlpzLXF0alMzRy00UkpSQjV6bGp0VXRjdUdZaXROQ0tVT3Ribng0WnFRMko2RmxFUHNUSUxpeUJGZjNQWGQzR2JiLWdxQUk?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "황금알 낳는 거위의 배를 가른 소아응급",
-          "source": "MEDI:GATE NEWS",
-          "date": "2026.10.05.(월) 11:14",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMjlhWmQ4TENOMHlKeVYzWFh1cy1OU29IajNOUS1NODZ5LWc4c2ZFOTZzandjSGpENlduY2lodENjaExadV9OWl9kQnBSSnROanc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "더민주당, 필수의료 살린다는데…응급진료 막힌 곳 1위 ‘소아청소년과’",
-          "source": "데일리메디팜",
-          "date": "2026.10.05.(월) 07:17",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VMV9DaFRpdmRPRHhtNkNMMk5rZGdpWFduYWZndXJZZ09kZkpHRE50Vms4dW1wV0REU0pSU2ZHM1Y2MUZNSm12S3ZUdkpxanE4V2xMcmZSZ2VDZGt6QThTQjl4VEQ0d2tjYmRRNTRXQlA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[N2 기획ㅣ완주 응급의료 공백 ①] 10만 완주에 응급의료기관 ‘0곳’…지역 응급의료 어디로 갔나",
-          "source": "뉴스투데이",
-          "date": "2026.10.04.(일) 18:50",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jeHlZUTI0SFdsQWFBaXU3b0NGdFRqVVViM3hXaHZsdFZ1ejRTNGY3TmxWREI0aklzdlNwT1N3U3c5TFYzTlhXMlZkTFdpV0d5OXo5SC1OYk9veHZxcUE?oc=5",
           "region": "national"
         }
       ],
@@ -149,6 +163,13 @@
     "disaster": {
       "label": "재난의료",
       "items": [
+        {
+          "title": "서귀포의료원 - 소방안전본부 ‘다수사상자 대비 현장 의료대응 교육 진행’",
+          "source": "뉴스N제주",
+          "date": "2026.10.07.(수) 20:55",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMWFkZ3B4LV9NVUROcVFWZVJXNXZ3ajJtR2xqU2VYdzRveHNSTDFBdFRmMU5uY0tMNjdGTnRiOGhaX2plV1VkbDBFaEVSX1BnWE4tb3B3M0FWUkFhaUpHZ2k4d0FndUFSdWdGcw?oc=5",
+          "region": "national"
+        },
         {
           "title": "부여군보건소, 철저한 재난 대응력 인정받아 도지사 표창 영예",
           "source": "충청탑뉴스",
@@ -192,6 +213,13 @@
           "region": "national"
         },
         {
+          "title": "제휴카지노 : 위험 피하기와 최적화 (2026년 최신판)",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.07.(수) 07:53",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQ0hpQ0hYOHQtbUVhWTFrZzdoTno2S1YyNk5Na1dKN0FrS3FrQi1hM0U0UUJWQ0lmMWtRcHhwQi1EUWh6Y1Y3Q1hFRFhEUVByclgtWDdKbTdZbTdhQzc5b2FUbWlLRk9rd05nQ3AwU3VEc1Z6X2thX3Rqcl9NTFZuUWQ2T21iWW9lUWc0RzVlX3N2cG5fM3BnUUQ3Q0ljZy1TVkJsODRLLWZmandZZmtsck9MRFEzaHUySlY5QjZRcDRWQ1pucDJlM3E3YUQwV1FwSy1TT1pxeWVqS3dJUldteWoyQUZiajB6SFV4bDNiZ2pjcE13Um9qR0FvcUdvYXlLUjI4X1RySTNscG80?oc=5",
+          "region": "national"
+        },
+        {
           "title": "천안시 보건소, 2년 연속 응급의료 유공 충청남도지사 기관표창",
           "source": "매일일보",
           "date": "2026.10.06.(화) 17:26",
@@ -206,10 +234,10 @@
           "region": "national"
         },
         {
-          "title": "천안시 보건소, 응급의료 유공기관 2년 연속 선정",
-          "source": "전국매일신문",
-          "date": "2026.10.06.(화) 06:41",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BalJrcUx0ZmRzSHZUOUVxSy1NbVlhb3IzWTNEQ1hwMFZkeFdOLXVsQUNMSzRFZXVYZmtubk8xMnNQWU5BRktJSmh5MGhaN0w4V3o3QWxMb1A2MEdXaVJhM0RKcjMybnRuYXQxU3pn?oc=5",
+          "title": "천안시 보건소, 2년 연속 응급의료 유공 •••충남도지사 표창",
+          "source": "충남문화신문",
+          "date": "2026.10.06.(화) 11:13",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQcE4xeFlBN29MamVzSzNuLVg5S2trVC1QUHcwZnQzYjQyMEdDTUpLcl9janVDbW51RHZvWHNXcm5kbm5qUUF5eXNxYTg1bDFkb19Ib01VSlo1dlRHcFhCRHpuQXU4X1Jv0gFsQVVfeXFMTTBtZE1yRUg4S2ZyQUhFUzdHaVc1bFFIdjNvb1FIWV9qWkZONmNXajAtY2k2djMwMGgwckJWZmtVLWFHM3hfME5ZVEZJUG5EYnZpdHFkYUsxSXpaMlZsWkIwX1JKLUxIWTRUSGxw?oc=5",
           "region": "national"
         }
       ],
@@ -224,6 +252,13 @@
           "date": "2026.10.07.(수) 11:22",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Na290OERCcGlOWFpjSWdCVDF0d1NjMkN2WlpJVDM3dUhKdThuTXBrRWl3MVlNbkZ5a3NwSmtOb2E5cGo5X3ctZHZRSjhkMHdqQ1pwV3YxVExZc1pxdUtjVVVJLWdvbjBySkRmcll3?oc=5",
           "region": "national"
+        },
+        {
+          "title": "소아응급실 압수수색에 들끓는 의료계 \"이러고 현장 남아달라 하나\"",
+          "source": "조선일보",
+          "date": "2026.10.06.(화) 16:00",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjFfb1NBZnZlNGlaTTVmemp1ZFAtX2hXTnFVUVBBYjRwMXB1X2ZremFMak5Jb0k5Z2VnZ1ZJTW9Fb1RiVEFmVTJwVVdKang4VUZCWVBUbVQ5ZUZycGxJYjV1Tk5WSGtYRC1HSjFPYkc5bURFVVd0XzRGZmJkQldtNmEzOWdWdFlHOFlRVUVkVQ?oc=5",
+          "region": "national"
         }
       ],
       "error": null
@@ -231,6 +266,90 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "직원 가족도 팔 걷었다…관문병원 헌혈 문화 정착 ‘앞장’",
+          "source": "대구신문",
+          "date": "2026.10.07.(수) 21:26",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rbTVYN0NFLXVGMUhrajhSWkd5Y2Y1RS1DOW1pQ2Z5RUtMWDFPbm9qUGRZUXdOakZOaWduWG5RMUNqZWhJNzFBVFpkRnVyc3RMRDN5OG1vLWMycFNXeGhrRnRhb2lIM0djcnFB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "과천시 공직자, ‘생명사랑 헌혈 캠페인’ 전개",
+          "source": "글로벌뉴스통신GNA",
+          "date": "2026.10.07.(수) 21:01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sTWg5a18xaUpZZDlUcGdWQ000MDFWNmczRmZSdWh1cVRwb1VpcXhSZXVWeUhPdENGUC1jd1RXSDR6UXFoUmhZbE1lbmZfSGVESGZFMzh6Vmc3U2dGbG9qSVg5a3FtQkpxamE1cWJjZkVYOTU1?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영도구, ‘생명나눔 헌혈의 날’ 행사로 혈액 수급 동참",
+          "source": "웹이코노미",
+          "date": "2026.10.07.(수) 20:39",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYd21xemVTMzRJS1lBU1Q2c2FiNkJKajhpaDdham5GMlZwVHdobE44ZTRDcFFSWlo0Nm0xdlZaWFhJX09FNmpBWG9NdVN2X3NrRjd6OE5KOXhiNE1DSlNVUDlsbFF5by11aUdIbUs3TmxPZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "iM뱅크, 창립 59주년 기념 임직원 '사랑의 헌혈'",
+          "source": "한국경제",
+          "date": "2026.10.07.(수) 18:34",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IaUJVVGVlNUJYU3ZxSUpxLUhwU2VEcDVFWWdmQnBQOU5xZy0tU3AybXBGY2V3aEJYdkJuX3U5eC1kM3hpRjQ1elFWRk5VdktHMmtzSUhETkZDUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"헌혈, 소중한 생명 이어가는 힘\"…\"일상에서의 나눔으로 자리 잡길\"",
+          "source": "충청신문",
+          "date": "2026.10.07.(수) 18:17",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92RFdQRWxCcGhZSHBmbGxjZk1nT2gteDVBWnNhazdCbXJkSGFBSGJWQnU0elhkZlJEMEhjUlZfeHJPRjZrU1ZHTmJEWk1LREg3NkpNRFdzMGtNeExYLXQ1VDY4Z0NYVHhXeU5zcG1B0gFuQVVfeXFMT3ZEV1BFbEJwaFlIcGZsbGNmTWdPaC14NUFac2FrN0JtcmRIYUFIYlZCdTR6WGRmUkQwSGNSVl94ck9GNmtTVkdOYkRaTUtESDc2Sk1EV3Mwa014TFgtdDVUNjhnQ1hUeFd5TnNwbUE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영도구 「생명나눔 헌혈의 날」 행사 개최 공무원·지역주민 따뜻한 나눔 실천",
+          "source": "국제신문",
+          "date": "2026.10.07.(수) 18:00",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVXdqRzQ4Uy03ZnR1UTVzWFdyY2g3U2hVQWZIMV91UnBCWkh0aF9lLXZfSmFPREVhSmxsN2pBd3otNUt1VUM2QjR2dklxemNnOU1wNmQxNTZFeEtYcTBSZXpHeEJXTGNzRDRyVng0eG01X3VDbE1mV1JncGU3M2c2eTltdVVXb25SaE5rQzVR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"생명나눔 실천\"...iM뱅크, 창립 59주년 맞아 임직원 헌혈 행사",
+          "source": "국제뉴스",
+          "date": "2026.10.07.(수) 17:16",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OWFJfZHI5Z1BtblpFdEhWOE9WRF9pM3lEYmpObVpKaElEeFN4bjI5dzNBWldtazNTRVF1RTYya2FGbUwxMG03UU1FVFlrOEdVQWxSTG1lc0tMT2pEV1lOOXMzVHpBQ19kdi1PRlhR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "iM뱅크, 창립 59주년 맞아 임직원 헌혈…23년째 생명나눔",
+          "source": "컨슈머타임스",
+          "date": "2026.10.07.(수) 16:44",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkTW9LQ0piSWxkU1d3VXNzM2RGbUVLdWZJMmFpSFhTTkdCcFFFaFMxRnB5LV9wTlFEUFJyZGZZaWd1dko1M3Yyd3VVTVVBMG9feHpBWFBKZjdmWVdYbEFuNll4YkdObUtKWnc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"헌혈로 잇는 따뜻한 나눔\"…근로복지공단, 13년째 동참",
+          "source": "뉴시스",
+          "date": "2026.10.07.(수) 16:38",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rWEFDRnduNlVuRVE2ZFQ1UXVvTndMbTlsX0VGTjdHUmZ0cHRRTkp5bVkxZHNMYlQ4YTdiaHE0elJGaXgzMUpIRDhCVWdJeGtBMWtaNENWa3YwYmU2ZnZicEZSN25oeFROZjYtM3BHd1hnX1BtS2FqYdIBeEFVX3lxTE1rWEFDRnduNlVuRVE2ZFQ1UXVvTndMbTlsX0VGTjdHUmZ0cHRRTkp5bVkxZHNMYlQ4YTdiaHE0elJGaXgzMUpIRDhCVWdJeGtBMWtaNENWa3YwYmU2ZnZicEZSN25oeFROZjYtM3BHd1hnX1BtS2FqYQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "구리, 공직자 대상 심폐소생술 응급처치 교육",
+          "source": "서울일보",
+          "date": "2026.10.07.(수) 16:09",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZk5ma3ZVbk9jWkpoQjNOSWRvZDhaTFpFZUtkV3pEZWtVUTc5dS1nVXMwbDQzWlNHekZ1U0RwWXpnbHg2UElGaGNvNnYzdnV5RlRnNDhnZFdWeWsyQ3VyeHE2QTludThIM3FpQ9IBb0FVX3lxTE9MdG5aSWRXU0hOWXRkNzFWMzFJbkctd0tTUlRCekVuX3JBR3hhRnBhUm9iOHEwYkMzYktjWGo4Qmo3RldYOWNSOXZYdTBJdTk0Wm9hS0lzeVRKNng1VVZJODNfcW1xaWI3ZVp0WmZGSQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "과천시, 공직자 대상 생명사랑 헌혈 캠페인 실시",
+          "source": "웹이코노미",
+          "date": "2026.10.07.(수) 15:54",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kX2pUWGZzX2NYYjRMM2R0dVpOMXBKOU5sTERVdS1Bc21LWmxja2J4bDVIZU5VUGdPUkJlNGFWRlJuZlRiVFhWdURLMVNQcTAxQ1RFek1RVUd3dFAzZ2ZtcnAxY1VobDV2aXJhem5saFBIdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "올여름 물놀이 사망자 14명…통계 작성 이후 가장 적어",
+          "source": "Daum",
+          "date": "2026.10.07.(수) 15:26",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PVUNCZGx4S0xDcHVDaTRJa18tRUZ2Q3F6NWNFcXJvcDk4Y2VpZ2xCcl9Gck1sQXZsWG5MUW5vVnZGRm1LNkxvUDdKYklZR1U?oc=5",
+          "region": "national"
+        },
         {
           "title": "대전시교육청, 19년째 사랑의 헌혈…생명 나눔 실천",
           "source": "충청매일",
@@ -246,17 +365,17 @@
           "region": "national"
         },
         {
+          "title": "청주서부소방서, 심폐소생술 교육ㆍ‘119안심콜’ 홍보",
+          "source": "FPN-소방방재신문",
+          "date": "2026.10.07.(수) 14:00",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ROS04dWdLU3hJQ0NVX0hnUGdhcTlsV2h6MjQtc1VKYWdpYVNBMHdaaUNXQTNWQ191aUJzWk95Y1N5clZs?oc=5",
+          "region": "national"
+        },
+        {
           "title": "세아특수강 포항공장, ‘사랑의 헌혈’ 행사 진행",
           "source": "철강금속신문",
           "date": "2026.10.07.(수) 13:56",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XTDNObDJlYXdRdzlucnJ6QUhhWjZ4bG9sQk9CUkNxNTBVVXNlcjJVWXY2LXBJVF9OUmR5TjdLVmpKSGMzaEpYU2ZEV09xdEw3WjRiRkpBcTJNY25hNTdvMTc2SVZBMllIQ3c?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "기록적 폭염에도 여름철 수상 안전사고 사망자 역대 최소",
-          "source": "도민연합뉴스",
-          "date": "2026.10.07.(수) 13:36",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OV0dMT3BqYTdXenV1VEVlRV9fWTRxSEc2czhpei1RcGFQekt2eHJrbTNVQUJEbXVSdEtEZjhOMHNBOHBGQzQ3ZkFOQ240RGJrdjdvYkg2VVBGazhSbjU0WUhOV1hXdU9oYlE?oc=5",
           "region": "national"
         },
         {
@@ -274,10 +393,10 @@
           "region": "national"
         },
         {
-          "title": "올여름 물놀이 사망 14명 '역대 최소'…전체 수상사고 사망도 13% 감소",
-          "source": "Daum",
-          "date": "2026.10.07.(수) 12:01",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3TVRpZHAwWGhqbUh2bzJqWURHRHAwNnMxdFpaNzdHRGl0SkV2eXV3MTdMc3YtdFR6b0VMeW43UzczSTc1bnotZVNUTW9IcVE?oc=5",
+          "title": "기록적 폭염에도 여름철 수상 안전사고 사망자 역대 최소",
+          "source": "서울Pn",
+          "date": "2026.10.07.(수) 13:09",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOUW5odEhTMms2NDJLdmw0N3ZmZUY2REUxTXFwXzc2ZjhGWk5oM053NGh6dm1CNE9MZk9IMEVTOVRwZWdQcVRSOWE2bGVnM1g2bGlmLXUwUlhweXN2eFZ2U1VB?oc=5",
           "region": "national"
         },
         {
@@ -302,17 +421,17 @@
           "region": "national"
         },
         {
-          "title": "과천시 공직자, '생명사랑 헌혈 캠페인' 전개",
-          "source": "경기매일",
+          "title": "과천시 공직자, `생명사랑 헌혈 캠페인` 전개",
+          "source": "경기평화신문",
           "date": "2026.10.07.(수) 11:25",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXREFwMWN4RnM2QWctTzl3MFZCS0hQOV9oX0gxb0FTZVp4MGFSd0NvNHVMQWdzYmhMTkxqRnJjUTd5WG9ITXczOFlRVjV3bjdoYnJWWGh1T1Z3dXhxNXM4U04tVmp1Nzg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmpmTl9Ga1lFSS1hRTZjTzl0N3RPRExqa0V6QzJsak5Ldjkxa1Z4S2FSeEE5eHhUcS1XMW4wQU9lUGtGdEdkcnJDZVZNdXBGclNhZmhsdVR1WFU2WGRDVnUxSlNaWlEyRGU5TVlaVTg0dmlFWWQ2Y3d5cWdHQ3RTSEZpaGdrR3hSX1lvVkQ2QTJuV0U5Mnc?oc=5",
           "region": "national"
         },
         {
-          "title": "과천시, 공직자 대상 생명사랑 헌혈 캠페인 실시",
-          "source": "경인매일",
-          "date": "2026.10.07.(수) 11:08",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aQ2toNTYwRjAwdmJuZjdBX21qMXdjeWtUMUZuS1kxWmpjelBoUlZGbmZjMnZoUGZhekZqR3NXbk1zUVRYd3Niam1OU25qUWFEeUhaOGE4S0tyUnktQWJ2akZNNVpkZ1NB?oc=5",
+          "title": "대전시교육청, 하반기 사랑의 헌혈행사",
+          "source": "뉴스파고",
+          "date": "2026.10.07.(수) 10:32",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9kT29OTk5SWDlHQ0pyWEVpZXBlZVRqaXlNaWdTd2x5d2NjRnFkMkVYQl9UT0lVMGNBUVJiZlFoTXQxN0sx?oc=5",
           "region": "national"
         },
         {
@@ -323,17 +442,10 @@
           "region": "national"
         },
         {
-          "title": "대한적십자사 부산혈액원-대양고등학교 생명나눔단체 업무 협약 체결",
-          "source": "인디포커스",
-          "date": "2026.10.06.(화) 23:32",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3bm5vWXRYU0ZFOGJ5Z29pcHd0SVlNODg2akpqVnM5NlpHcGg3LWcxYW5GUUtmRzZWRHp1WFE5Z2JVNkFtSV9iT1JReUVhVEU?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "어르신 밥상도 '지역 차별'… 경로당 급식비 지자체별 최대 5배 격차",
-          "source": "뉴스데일리",
-          "date": "2026.10.06.(화) 21:49",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XY21tT3VXTXhSME1wa2pjNWU0SWxRclZXNTdfU0E2UGdiZWdBQmtYdnRhaDJoNDdKclQ3aERiUVh2VFc3Q2ROQWpaLUhaRXJ4TDEwVkVwNXhYWllsVWxTMzRTRDBOQjQ0d21Z?oc=5",
+          "title": "김명찬 서장, 파주소방서 의소대 CPR 교육 현장 점검",
+          "source": "세이프투데이",
+          "date": "2026.10.07.(수) 07:21",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByRUdNLTFXN2FQTFpmellfQTE0TDZoakxTNkFFQmNoNWpTd3JtUlg4Ul9EdWlLdnZ4QjhreVNqTjVrZ3BDbEpNNjdabzI3X2RlOE9GZnBZV081OUU0bTBwMzl1M3c2QnQxSVJZ0gFuQVVfeXFMTmdKZlVFUE5ZbUVVQ1d5RjVKQW5sbldQd1kwTHNrcWNYWktDLWFuVTQzUE43U1Z4YWF0WFkwa0VpUG1WTk5RVDF5SXIwVFJrTmNlV1N3UF9yTmVsdVlRd1ZDYnV6N0Q3LTdIRzl0eXc?oc=5",
           "region": "national"
         },
         {
@@ -362,83 +474,6 @@
           "source": "경남일보",
           "date": "2026.10.06.(화) 16:00",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85NDYycm4xeFpNZ0t5RTJBU2wyLWdlbElmS2xueFZEVmxwd3JQV0FLMDJWXzFPakpDcmV4dEpjSGdIdGx6c1JHVXAyVXZUd09VTGU1U29XeWd2TU8tWUozbi1jdmRvSjFScTJN?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "포천도시공사, 제5회 사랑나눔 헌혈… 임직원·시민 77명 동참",
-          "source": "매일일보",
-          "date": "2026.10.06.(화) 14:34",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xU2pOWFdiV3BDLTF6YjhDWXVHdnd5WDJ5WjNlY1hmZFJZb1NhN3MzeHhyRUc4ckppTHBxd1ZnSUR5OVNkcnVTR0pkWjlFbGdiU3hIdnlzMTFMSEFVbzlUNmFqMFI?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "총신신대원 원우회 헌혈캠페인 펼쳐",
-          "source": "기독신문",
-          "date": "2026.10.06.(화) 14:21",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56Snd5TnFONEotc0p4TFN3VlpwTFV2ZUFDeXhDSHB6NnliR19EeW50RzRnU25PNVFWNGxaOUxPT054UkdKSjd5THFpSFMxekt6MHFzU1ktTWt6X3RQbE5oQjE4ZWR0TUk?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“생명나눔 문화 확산”…구로구, 10월 8일 구청 광장에서 ‘사랑의 헌혈’ 행사",
-          "source": "G밸리타임스",
-          "date": "2026.10.06.(화) 12:40",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZU1RNRVI2X2hJa1pHXzRERGdXaHNIbW5WV2dxYkRzS1p3a1lJTjYwWGNjYmlsdi1DY3o4aUlxenN1bG5iM2p4UEhoRGJndHRXdk84OEg0SWJrWkNFYVoxX2tkTEM1RFFaTURiNjN3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“소방서 점검 나왔습니다” 돈 요구하면 의심…천안 축제장서 사칭사기 예방교육",
-          "source": "현대경제",
-          "date": "2026.10.06.(화) 11:30",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeUtPWUh6VHJnMkZEWnRBbUFmMjVOSVBkT0s1UlBKSHpGbGxHRmVIM1VjOE5WdnZsWkllMGh2LW1hRGs1cXZuMmFjSFRpaWFBWTdiVGxZbTJXUXdaQmtiZEFEX3hSVVNCdkpB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "헌혈 수급난 가중!...8일 구로구청 광장서 ‘사랑의 헌혈’",
-          "source": "헤럴드경제",
-          "date": "2026.10.06.(화) 11:25",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lejB2djRWTHVacnhWQl9qMEtBSExiZzBVWkRTZE9ZWmVCX0VaVUtreHAzRWw1UHFxQWxCNE1yVFVRUDJVUktuTmJvMlhieU1OTDlPWjlB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "영천시, 올해 네 번째 ‘사랑의 헌혈’ 실시",
-          "source": "인터넷조은뉴스",
-          "date": "2026.10.06.(화) 10:42",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kbkJXb1Q0WjlsbGt3eXJpdzFPWlFGdTBvbWNtSzhIMHY0d1pLWm1haEFXa2Y5WW50dkdfWFZETjRLblV0MzIwMFlfcEZ4d2lGNXZtaW9GZWNuM1JlZ1Jka1NLaw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "포천도시공사 헌혈 운동에 77명 동참…12월 제6회 헌혈행사 예정",
-          "source": "포천일보",
-          "date": "2026.10.06.(화) 10:26",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95TjQ5XzZMVUZ4aFhoWWVCRWVoNFg2RmhyWUk5U3drQXpYVG05NXVSajc5bWloZktUYVNaai1QNklkWmJoRWhtSW9rWFFhTlpIX2lPb1h5eVJTUDhlanY2MVhpYmkyUQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "구로구, 8일 구청 광장에서 ‘사랑의 헌혈’ 행사",
-          "source": "자치행정신문",
-          "date": "2026.10.06.(화) 10:11",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0FNb0JCM0xqNlItUkg2Z3c4djVteUE1ZkRZTHo5LS1qTUZFOGNHQXVIMFg2NDZvQVd6T0NHQU5CWTdyQlZ3dm8zMDc2clFKZ0YzSzBLZTRQcklsOFZKMDNEbnNOXzR6NFRKNklFSWZiazRKSUFFa0std0dCMkh0TGdndUJocnRIc2ZhVjkycU8xaXBWUFFNang5VmhaTXpKVGxRSmpZYUk0Y1NPLUhr?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[BEST 119] 30년 이어진 선행… 대전소방 헌혈 동호회 ‘나누리’, 단체 헌혈 후 캠페인",
-          "source": "FPN-소방방재신문",
-          "date": "2026.10.06.(화) 10:00",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40a1VsVlgzcnNiR0F3c1kzcURZTU1QQkw0MkxZMmVYTUVPX1JrV28xcTBXRTZrdFlURldvbUJXVzRpeTR3cHc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "‘도민 헌혈의 날’생명 살리는 온기를 나눠주세요",
-          "source": "전민일보",
-          "date": "2026.10.06.(화) 09:18",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtOGRIZlJUdGNEQ19JVml4SHR2MU1mUnFwUXNiYlZ3TnRIbUdVNHY5M1kwNWZBMEVfMmt5RkJXdFZfXzZmMGZIT3NnSkNqZkx3V1J5LTJlZ2hvMXd6RUJNRi1IM0pqdjBWUFZHdg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전북혈액원 도민 1만명 헌혈참여 릴레이 캠페인",
-          "source": "전북중앙",
-          "date": "2026.10.06.(화) 00:30",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sQWVQNmRNZ3hYbXRSTjltRjZDMlFhVG00c0t0aWZUWk1DQVRSS2xwb2pORzd1MG95SERhbWxZQk1PTDVFaUJQdGRXY0UzalU2N2VzZ0hpUUpGeXJCaHpjVURwQmktWlRpSWdB0gFrQVVfeXFMT2xBZVA2ZE1neFhtdFJOOW1GNkMyUWFUbTRzS3RpZlRaTUNBVFJLbHBvak5HN3Uwb3lIRGFtbFlCTU9MNUVpQlB0ZFdjRTNqVTY3ZXNnSGlRSkZ5ckJoemNVRHBCaS1aVGlJZ0E?oc=5",
           "region": "national"
         }
       ],
