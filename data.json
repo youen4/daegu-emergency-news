@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-09T10:41:50.271550+00:00",
+  "generatedAt": "2026-10-09T18:24:08.188476+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "지역응급의료센터 2곳으로 확대 안산시, 응급진료 기반 강화",
+          "source": "반월신문",
+          "date": "2026.10.10.(토) 01:43",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtZlkwcURFUlVVS2ZTVHQydnlFcG5fcVNsb1ZITm9sMWh3dk5UbV9DalIxallQNXB2LWJ2aXRpNlRGNXdvMi1JcjNSUHRudEVKbkRmdXNWdGpqQldBRFlJRGE1QVg3OFU?oc=5",
+          "region": "national"
+        },
         {
           "title": "당진시, 소아 야간·응급 안전망 강화한다",
           "source": "당진신문",
@@ -136,33 +143,32 @@
           "date": "2026.10.08.(목) 06:35",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44dVZzajlaWnRucURRM09YRTY5VGoyclZWejhRWGU4Rnc2MUdURjRvOUEwalNTRjYwenBmaTZvSm9admlHTlNRQTkzX2ItaVQ1bWRKTi1OaDNRU0J1NlV0ZGJ3cktqbGQzLW1YZDBUUmViMWvSAXNBVV95cUxOOHVWc2o5Wlp0bnFEUTNPWEU2OVRqMnJWVno4UVhlOEZ3NjFHVEY0bzlBMGpTU0Y2MHpwZmk2b0pvWnZpR05TUUE5M19iLWlUNW1kSk4tTmgzUVNCdTZVdGRid3JLamxkMy1tWGQwVFJlYjFr?oc=5",
           "region": "national"
-        },
-        {
-          "title": "상급종합병원 47곳 중 14곳 권역응급센터 미지정 [2026 국감]",
-          "source": "쿠키메디",
-          "date": "2026.10.07.(수) 17:41",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DeUxmSm1yMUxXS1NfOHNyQjItakpNR2RfNzNwa2dncm1PYnBXX3JHajdzUGdjWlVGVmRvTnZfVnNDdUttODRYVVhENlhRTS1TV0lkbGR2UXJESzhCY3lEczRTNA?oc=5",
-          "region": "national"
         }
       ],
       "error": null
     },
     "er_runaround": {
       "label": "응급실 뺑뺑이",
-      "items": [
-        {
-          "title": "[열린세상] “최소한 응급실에는 갈 수 있어야”",
-          "source": "서울신문",
-          "date": "2026.10.07.(수) 00:19",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREpwVU5WZWFXMVFtZjhmV3VfRWJzcUd5Z3R2N2V4WEJzQWxVd3JwbHN0a016NXZaT2FmT3JISmVmeXZESUdQUjBnM09MZU1xRmk5eThKdGZpYjVmdHE3RVpiZ2dqTDFmT0sxbjR4OWVjVXNqOU9ZRmpBajFhMnZfeUNLWGxOcUE?oc=5",
-          "region": "national"
-        }
-      ],
+      "items": [],
       "error": null
     },
     "disaster": {
       "label": "재난의료",
       "items": [
+        {
+          "title": "옹진군·송도소방서, 재난 속 주민 생명 지키는 합동훈련 실시",
+          "source": "새한일보",
+          "date": "2026.10.10.(토) 01:01",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56SVNqY29lQVVVQ3pHT1BQYmtYUzU4LUctZFo0UlMxbDZJOG5IODZLRTB5MXlMeHdLeEF4d3YwRE1MYmpDN3F1MVN3d21fbGd5bVBWdUtVTTFSMWszRFg0UExoVzZQemx3RVHSAWpBVV95cUxOeklTamNvZUFVVUN6R09QUGJrWFM1OC1HLWRaNFJTMWw2SThuSDg2S0UweTF5THh3S3hBeHd2MERNTGJqQzdxdTFTd3dtX2xneW1QVnVLVU0xUjFrM0RYNFBMaFc2UHpsd0VR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "낚시터 카지노 심벌 설명 페이지의 읽는 순서",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.08.(목) 23:05",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMkJuUDktY1RpS2ItNktmazZvS0RHUkktdTNwSWVpSnhXczBsQ3NBbDg5QXVKWXByRTM3TGpwc0I2SWZiSllfV2VrV2dzWFNBQURVZXNlcV93S2R5LWdIUmhlcmNxQ2ZTNE95QjNmMmJHOG1LR0Z1YzlZWlNrVWJmakhLMmRuYmlJQ0dqd2RBV3Foa3NKTzVBVGE2TjhlTmVaYUw4ZDFQbHpJZHkwb3lnMDZQU1hKc3FaUzRVNHNfYkZaRFhvRk5MNDVMT2dxVUtkUXUtUkdrX0NBXzlzZDNPUEIzRE01NzJVMVp5c0YyRXpDUjEyY05faGFvNFZfNzJK?oc=5",
+          "region": "national"
+        },
         {
           "title": "'재난 속 주민 생명 지킨다' 옹진군보건소, 재난현장 구급대응 훈련 성료",
           "source": "포커스인천",
@@ -175,13 +181,6 @@
           "source": "국제뉴스",
           "date": "2026.10.08.(목) 21:04",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5Y191b1QwRU9tNm9XUFI2VGZyUGlHaUNoeFJRblhwZWxWZDJpTk1DSVJieDU2R3NDRkNZeC1tUG14N3V5T2F3ejZNVFh4ZFdTTHNrZVRqemR1UHV4Qk1UT01mdWRCUUVoRWQ5V2l3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "옹진군·송도소방서, 재난 속 주민 생명 지키는 합동훈련",
-          "source": "뉴스피크",
-          "date": "2026.10.08.(목) 15:30",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTnVIeWwtQjFrWUlRMkxTNUh2aUsyd25BUHZUU3F2d1liRmNjMEd2enM5VG82YTRIVVBzVXl6cko4M3pWZ3VGOXd1amRFMXk5QUI3bWZ6STgydEVKSU1ZeTM5YXkzZDRi?oc=5",
           "region": "national"
         },
         {
@@ -276,13 +275,6 @@
           "region": "national"
         },
         {
-          "title": "지원 기능을 기준으로 비교하는 파워볼 픽 게임 목록",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.08.(목) 08:34",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BZjdleVpuV3dERzJETFBIQ0I3YmlwWG01dmFmYXlEQnVnTEU3cVJ1ZVdoMzFKaEZoeUtFVnZ6WnRyZWItQll6VHlPTENBUVVjT01fTGJEcEpSWXdYWnhheFh6aUhSWnUtc0xuZVpHRQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "서귀포의료원 - 소방안전본부 ‘다수사상자 대비 현장 의료대응 교육 진행’",
           "source": "뉴스N제주",
           "date": "2026.10.07.(수) 20:55",
@@ -329,6 +321,20 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "하이퐁의 노동자들이 생명을 구하기 위해 손을 맞잡고 헌혈에 참여했습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.10.10.(토) 01:29",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3JuVjdRZ0VMbGxmUkI0b3VyV0ZFRkZYemN5WlJIWEJBVnVTeEFNbVN4WXJ6eEVxY2szcFU1VGhlckJRTXJFYlVRSDhEV1Y2R3ZvaGFXdE9BcEpOdDdoV3pJb045NnU5dnhxdzVHMG1wVHc4QWtsXzVWVVczRl81QU0xS3Jfc3oxUmhB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[삼척시] 삼척시사회복지협의회, 생명 나눔 헌혈 및 복지사각지대 발굴 캠페인 전개",
+          "source": "연리지TV",
+          "date": "2026.10.09.(금) 23:23",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCcEpZc0MwYUhOR29FR2FlQUYzUlZfdFdUVldnLVZjZTdueTlPcXhwaDV6QjRCYy1lTUc4Y2pRV3BFM1ZEcXhVdjc0TW5OQW1YWGxJNUNENzhrQzNLTk1zajl5YnNmUHdf?oc=5",
+          "region": "national"
+        },
         {
           "title": "과천시 공직자들, 저출생 및 고령화 극복 위한 생명사랑 헌혈 캠페인 전개 > 뉴스",
           "source": "더코리아",
@@ -421,6 +427,13 @@
           "region": "national"
         },
         {
+          "title": "천안동남소방서, 가을철 산악안전지킴이 운영… 안전한 산행 돕는다",
+          "source": "충남문화신문",
+          "date": "2026.10.08.(목) 09:03",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zRGo2eFFMQUhFSEt0Y3NJc2Z3Ykp3N1dCcWdKdVA3OHptSjBGVnQtaHB0QXhveGtyRFJWem5sbGdieklqX1JFdEdBb0FFX3F1TmdlNGlZZlJSTDJXMlJnbnFrNzBtbk0x0gFsQVVfeXFMUHlUSHhPbDRubFM2YmJ4ZGZGMGU2UWFhTGZrUl8ycFhJMTU5RGhHMVdGWDhoRl9tWGQ5ZExiZE5UX05BTHQyZ3RZeC1xSVQ2cGhaSWk0NnR1ZEpRbC1LeldHTDdONFljZGp1am4w?oc=5",
+          "region": "national"
+        },
+        {
           "title": "근로복지공단, 올해 두 번째 사랑의 생명나눔 단체헌혈 실시",
           "source": "울산종합일보",
           "date": "2026.10.08.(목) 08:44",
@@ -470,13 +483,6 @@
           "region": "national"
         },
         {
-          "title": "영도구, ‘생명나눔 헌혈의 날’ 개최… 공무원·지역주민 따뜻한 나눔 실천",
-          "source": "부산일보",
-          "date": "2026.10.07.(수) 17:54",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OcVFVU0VNWnFETlpnREhUc2V5UWloOTkzemJ3Z080UUlJTTNJWDlodDdxNEgxWDJlMW1oU2VMb3hiT3g3Ym1HY3NJWTFDQnVqRlItVjdXcU05cXdDck10ZUI4dUJsYUk3b2ltaDljVU1fejVMdkRn?oc=5",
-          "region": "national"
-        },
-        {
           "title": "\"생명나눔 실천\"...iM뱅크, 창립 59주년 맞아 임직원 헌혈 행사",
           "source": "국제뉴스",
           "date": "2026.10.07.(수) 17:16",
@@ -523,20 +529,6 @@
           "source": "서울일보",
           "date": "2026.10.07.(수) 16:09",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZk5ma3ZVbk9jWkpoQjNOSWRvZDhaTFpFZUtkV3pEZWtVUTc5dS1nVXMwbDQzWlNHekZ1U0RwWXpnbHg2UElGaGNvNnYzdnV5RlRnNDhnZFdWeWsyQ3VyeHE2QTludThIM3FpQ9IBb0FVX3lxTE9MdG5aSWRXU0hOWXRkNzFWMzFJbkctd0tTUlRCekVuX3JBR3hhRnBhUm9iOHEwYkMzYktjWGo4Qmo3RldYOWNSOXZYdTBJdTk0Wm9hS0lzeVRKNng1VVZJODNfcW1xaWI3ZVp0WmZGSQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "과천시, 하반기 생명사랑 헌혈 캠페인 실시",
-          "source": "경기도민일보 미디어",
-          "date": "2026.10.07.(수) 15:44",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyaGZFR0xCSkRzbV9FNVNEUGpOSnJSV3pubVVBMjc0aG9WaFpIWHdoRXBtQVFYTUNIcF82b2R1ZkczcTBYWmpObGhRUXpVWWpVNmlfamExY1BqMEtjLVRjNjBadHRHX0Y2N2c?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "올여름 물놀이 사망자 14명…통계 작성 이후 가장 적어",
-          "source": "Daum",
-          "date": "2026.10.07.(수) 15:26",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PVUNCZGx4S0xDcHVDaTRJa18tRUZ2Q3F6NWNFcXJvcDk4Y2VpZ2xCcl9Gck1sQXZsWG5MUW5vVnZGRm1LNkxvUDdKYklZR1U?oc=5",
           "region": "national"
         }
       ],
