@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-11T05:57:22.272589+00:00",
+  "generatedAt": "2026-10-11T13:02:15.903523+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "단국대병원, 재난·응급의료 발전 공로 충남도지사 표창",
+          "source": "충청매일",
+          "date": "2026.10.11.(일) 14:35",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aVTZpUkxfRTlaZG5raUR3MHVvTHFvN2V0VjhuWVlRemxuaWRyZzg3MVlEWWJLRU9WWUNwbzY3UnQxdnpBRTB2VS1IczVmaUc5anF5Qk1kNmFTM2FsaUZxV1JBWWdpU1QwSWc?oc=5",
+          "region": "national"
+        },
         {
           "title": "단국대병원 재난·응급의료 공헌 충남도지사 표창",
           "source": "대전일보",
@@ -45,27 +52,6 @@
           "date": "2026.10.09.(금) 08:23",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Pbjk0c0xQYzlKaUdQaXFJU1JMbEluU2JheDd2dkV1dDVFMDNZdTVyNUZIOFphUklkYWNvQnZkX3RiVVVvLU4zXzdOSGo4djM5c2U0cg?oc=5",
           "region": "national"
-        },
-        {
-          "title": "허태정 대전시장, 취임 100일 맞아 응급의료·트램 상권 등 민생 점검",
-          "source": "뉴스체크",
-          "date": "2026.10.08.(목) 18:55",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EcEdNUzFwZHRPTU1vVGozVnNkWXozWS11clRpVDBsUHVOVEFTMC1NdGJVYllnVlFrUkhmVEM1eVRwX240YnFEZXBWZHZ0ejFfTVNfTUswZXVQc1FsTEFiNnAtX0xCSlpHTlNlU0JLcWfSAXBBVV95cUxNRHBHTVMxcGR0T01Nb1RqM1ZzZFl6M1ktdXJUaVQwbFB1TlRBUzAtTXRiVWJZZ1ZRa1JIZlRDNXlUcF9uNGJxRGVwVmR2dHoxX01TX01LMGV1UHNRbExBYjZwLV9MQkpaR05TZVNCS3Fn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 충남도지사 표창 수상…지역 응급의료 발전 공로 - 보도자료 | 기사",
-          "source": "더팩트",
-          "date": "2026.10.08.(목) 17:06",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqVXZQSEZHOUVXOHRJQ3puN3Y2WnFsR1NHZ21XSjhOOEoyTzhiZFpWcElIMkRXa0Q2SzNqZmh2SWRldXRQUGlZa2JBYkRWSENQVEdFQ3FZWF82U3Z5Qzd3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "허태정 대전시장, 민선 9기 100일 맞아 응급의료센터·트램 현장 방문",
-          "source": "중부매일",
-          "date": "2026.10.08.(목) 15:45",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIclpGUDJlN0V4c1Q4Z2s2enpmTER4aHdlS2dPaG5mdVN1RHY3SDhINjBrbEJ3MGFwTjY4WlRYamxValZnLWg3VXRRUDdYT2MteTFmcEEta05VSDVGZ1dscXRaLXZ0YWhrMlE?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -79,10 +65,38 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "옹진군보건소, 재난현장 구급대응훈련 실시",
+          "source": "현대일보",
+          "date": "2026.10.11.(일) 18:35",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45U3pxQ0NqY1A2ZS1pdEk2Tko3c19lY2JxeTd3TFlIeGtWM0pRVDdFNWlqMzFhSG5tMHZzcmdQNk5oQkhYSHhLbWVxTVd4aTRHVXNoUFphMUNZUDNQVlZkcnBJdXk4QXI2bDdNREt3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "인천 옹진군, 송도소방서와 ‘2026년 재난현장 구급대응훈련’ 열어",
+          "source": "경기일보",
+          "date": "2026.10.11.(일) 15:15",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yMWY1ZU9mdzFULWJIU213aXYzMEwwbFdKeWxMeDhDN1ZqUVZFaHdTdVRJSmd0YVNKZmpnM2Z1OHU0Sk9rWWdMUmt1VVhoN3Rqd2lqcGxfQ0hMSlU?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "단국대병원, 재난·응급의료 발전 공로 충남도지사 표창",
+          "source": "충청매일",
+          "date": "2026.10.11.(일) 14:35",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aVTZpUkxfRTlaZG5raUR3MHVvTHFvN2V0VjhuWVlRemxuaWRyZzg3MVlEWWJLRU9WWUNwbzY3UnQxdnpBRTB2VS1IczVmaUc5anF5Qk1kNmFTM2FsaUZxV1JBWWdpU1QwSWc?oc=5",
+          "region": "national"
+        },
+        {
           "title": "단국대병원 재난·응급의료 공헌 충남도지사 표창",
           "source": "대전일보",
           "date": "2026.10.11.(일) 12:06",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TNmdfT3ROWlFaNE5ETDY5SlJycmYyWlBRTDBtRk03LXJXTmI4a1VOTnhkR0VZQlNnOGFDaGI5czBsV0pEZ1EzeVFKVGZQSy1GWjhPWDB3SDROUEhIcDRvaUJsR1luVHMzbllucDd1a9IBc0FVX3lxTFBWWFYyZ1dheGozUDlfZzJRSnMyUjBVQ1hPTVg5V1BLWmszTjYxQm9rU1d6LU9lVzhTd3RDY1M3Wm1XbThmaVBFdmFBTkZTalRpXzdHLWlQWEpNRlBLQ2FaRUFIaF9FZXZjbkNYUG9RMk11MEk?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "가볍게 훑어보는 게임의 골격, 무료 스핀 카지노 스페인",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.10.(토) 20:51",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPSndMaFJ1VVp4R3N1UTFhMjlZNGtPbWw3WmxqTGdmYVl3VkRBRFFHZllIeXA0OFFSSGxYU25JbE9WUDdEalViVmhGRW95OXRUcUlIcFlYQWFGMk84Mmg3M0V1RkZNVVZMQTBtQ3JRNVVPRS14S3lfVVc4ZVlkd3FzNDBpV1dvSDdOb29yMnNNNlNjbjlsM3VwM0JoTTBUa0J5MkRWNWh6STZkT2g1LWNuVFY1YW5UVTVMdkx3aVJmaDVWVXNyaHZPZGhXbFRfRGlGaVVOOGViNkVTWGl0R1drQkszVFpidWFwa014SzMzX2Zmb2VVdjhUeXh6OHhIc3J3R24tNUdSWXlSMVhQR3Z4V3I3Y052YkVCVm1lTzhvN0hqR0dzUmZrU3lNVGVWZGVodkE?oc=5",
           "region": "national"
         },
         {
@@ -93,31 +107,10 @@
           "region": "national"
         },
         {
-          "title": "옹진군·송도소방서, 재난 속 주민 생명 지키는 합동훈련 실시",
-          "source": "새한일보",
-          "date": "2026.10.09.(금) 23:07",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcUdZa2VEUmwxeUtNaUR6OVB5NFhVVHFyT1MzWWIzd0xXclpfajFoTS1MRkVtV2VBTzBFSGhZUmlUSHJ1b2liT2JZMkRINFAwTzQtdUVMZy15UWtrU2lBQkJEWllWelXSAWpBVV95cUxOeklTamNvZUFVVUN6R09QUGJrWFM1OC1HLWRaNFJTMWw2SThuSDg2S0UweTF5THh3S3hBeHd2MERNTGJqQzdxdTFTd3dtX2xneW1QVnVLVU0xUjFrM0RYNFBMaFc2UHpsd0VR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "낚시터 카지노 심벌 설명 페이지의 읽는 순서",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.08.(목) 23:05",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMkJuUDktY1RpS2ItNktmazZvS0RHUkktdTNwSWVpSnhXczBsQ3NBbDg5QXVKWXByRTM3TGpwc0I2SWZiSllfV2VrV2dzWFNBQURVZXNlcV93S2R5LWdIUmhlcmNxQ2ZTNE95QjNmMmJHOG1LR0Z1YzlZWlNrVWJmakhLMmRuYmlJQ0dqd2RBV3Foa3NKTzVBVGE2TjhlTmVaYUw4ZDFQbHpJZHkwb3lnMDZQU1hKc3FaUzRVNHNfYkZaRFhvRk5MNDVMT2dxVUtkUXUtUkdrX0NBXzlzZDNPUEIzRE01NzJVMVp5c0YyRXpDUjEyY05faGFvNFZfNzJK?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "'재난 속 주민 생명 지킨다' 옹진군보건소, 재난현장 구급대응 훈련 성료",
-          "source": "포커스인천",
-          "date": "2026.10.08.(목) 21:07",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QcExZdFhCcWJfeGZJb00xS1F2SDBYNkhiM2J0ODlRRHpRVnlfb3M0T1FYTWN3YV9Dbks1aWtQMkhCQTJPNE1qV1VvbEdYNkF3YUpVbUJNaGJwSTZERVFpTVozMzdjTGUtcERaTlhUNNIBckFVX3lxTFB4RGllYm1KbG81TjJqUFBkdTl6eFJOemdFa09QYzlFQkdtUWRUVHFtbWRLNkNWRmk1S3ZVMjA4cGtsRmF3c1lYSDl0OHpNN3BsR3VpNXJqSW4yY1VUOW1vNmMtZ0I1TWRSSEV6RS1iR3Zmdw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "옹진군보건소·송도소방서, 재난현장 구급대응훈련 실시",
-          "source": "국제뉴스",
-          "date": "2026.10.08.(목) 21:04",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5Y191b1QwRU9tNm9XUFI2VGZyUGlHaUNoeFJRblhwZWxWZDJpTk1DSVJieDU2R3NDRkNZeC1tUG14N3V5T2F3ejZNVFh4ZFdTTHNrZVRqemR1UHV4Qk1UT01mdWRCUUVoRWQ5V2l3?oc=5",
+          "title": "동아대 대학원 재난관리학과, 베트남 나트랑대와 국제 학술교류 개최",
+          "source": "인디포커스",
+          "date": "2026.10.09.(금) 21:50",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zbERyU1NXakJSTGREY0FCazZhRktxdFp4aHZVUG53S0VGNzlnd214cW4xUUVFR3NSejhRVkFlTlFaX1k?oc=5",
           "region": "national"
         }
       ],
@@ -126,6 +119,13 @@
     "pediatric": {
       "label": "소아응급의료",
       "items": [
+        {
+          "title": "소아응급센터 압수수색 유감",
+          "source": "전북도민일보",
+          "date": "2026.10.11.(일) 13:56",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY2NIeFpWUEYyVXRoNy1qZVFTTmt5QUdjeHhxTW1CSFJ0TE9zMktsRVJEZlBPek9yOXQ2MnJ3WlR5U1J5UTBtN3pzYWxQX0tiYnZsV3RTTzFocmFSMlpKT0g0Y2JUSFgtRmdoQUluRFVzSVpza0tyaTBoNk5VVFZKbmJBV1ptZw?oc=5",
+          "region": "national"
+        },
         {
           "title": "소아청소년병원 75% “의사 부족”…응급실 압수수색에 기피 심화 우려",
           "source": "헤럴드경제",
@@ -140,17 +140,66 @@
       "label": "기타",
       "items": [
         {
-          "title": "iM뱅크, 창립 59주년 맞아 임직원 ‘사랑의 헌혈’…23년째 생명나눔 실천",
-          "source": "뉴데일리 대구경북",
-          "date": "2026.10.11.(일) 13:32",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aa0txNTZpTFlCOURGcEVNXzRNRGZxeGd0OC0yZHY0VGpIYktvd2J4S1laUy1QdWRETzZTcDMtRV9IbklraXhxZjBodmcwM2lOVlFKMjdXNmdUamRkdERvUG9uSFhnc1FEdmNHd055ZDg4MXZuajY1elhn0gF_QVVfeXFMUE9YVzVaOFB4VnZJTFctR2VCR25HQkpsRV9iYjI1aXRFTnlNXzkyREV4WUNOajN4RTcyZTRrdkhVTjNwU2x2QzBTQnk5cjM3bl9MLXNMbEhsSVd1blVMVnN5Yk9CbU1IcThHcWtJYWIzbDdPQjdtYXZxTGVvLU1SQQ?oc=5",
+          "title": "2026년 \"기업가 정신을 기리는 헌혈\" 캠페인 확산",
+          "source": "Vietnam.vn",
+          "date": "2026.10.11.(일) 18:54",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3VnFMRm1PM0dvRVI0dmwyRENrODdvV1lKbWFoUV90X1U4VmJaWnlYaDhDOGg0NlVqR2cyZldtNFdPb0NqMEw0b1dLTVdvb2VTTW81Z09UdlRNUmprelZaNTJPaDBKbjViUzNXVjg4M0g?oc=5",
           "region": "national"
         },
         {
-          "title": "한게임 고스톱 다운받기 클러스터 방식 적용 여부",
+          "title": "500명이 넘는 청년조합원과 학생들이 자발적인 헌혈에 참여했습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.10.11.(일) 16:43",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUVNbDY1Y3NUdWo5WE5vVUVuVXotb0E0VHYwcHFXMzV5ampyZEFrUG5YUFpHYnZXcDJiQlQ1Tnh6MnlBNnFrSlg3QktpaXRQa0NoWmU3cHNpUGVZMnQ2bUFSWmZNV29yMDhPZXFmTElkamhwVkZwazlPdFBjaktDdHJUWVB5RFpTWlB3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "충북과기원, '사랑의 헌혈'로 이웃사랑 실천",
+          "source": "충청일보",
+          "date": "2026.10.11.(일) 15:57",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qSFNLajV1ZWFnUzNWVWZzNTJsUUt6UWUwa0pfRjBuMEs4NFlJaE1ObjhIOGVtRzZDLTlwcjVVSzRiVmJjSXFmY3Z2MU5ua2hKeTNUTWtUcmg1UW1lWlp2VFZYN3J2THdqLUFjZGE2SUo?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "◇광주비엔날레, 오늘의 작품- 정금형 作 ‘재활 훈련’",
+          "source": "남도일보",
+          "date": "2026.10.11.(일) 15:57",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00SVBnZjk5V3dOTjMtZklKMnh0SXQ4aEY3TS1Zdm5LNGlERS1VZXhuMlhoLUJiTUJpR0cwZXFQX0hRSnM1b3dnUDFLeG50eC1uTkU5YW1McmVKMDdLSF9MNTJRcWs0ZjltNFgtWTh5ZVDSAXBBVV95cUxNNElQZ2Y5OVd3Tk4zLWZJSjJ4dEl0OGhGN00tWXZuSzRpREUtVWV4bjJYaC1CYk1CaUdHMGVxUF9IUUpzNW93Z1AxS3hudHgtbk5FOWFtTHJlSjA3S0hfTDUyUXFrNGY5bTRYLVk4eWVQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "시민상 15명 시상·새 슬로건 공개…인천 시민의 날 축제 열려",
+          "source": "인천게릴라뉴스",
+          "date": "2026.10.11.(일) 15:44",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QSk9vQVJUZzFOWlI5N1dvNnJnQ1kyOGlDS0pxM2dXQ19sSlhkVEVlWjUtNzNSV2ZMcVdIZkEzUDVXbnUwdWFaNGFYQTBDTGQzaDdHeGNzU3I5REd2akdYVUNXVHJsZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“생명을 살리는 작은 실천”…동강대, 헌혈·조혈모세포 나눔",
+          "source": "진일보",
+          "date": "2026.10.11.(일) 14:49",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83cjg4RWxRNXY4ZGFFYldHOFVVaGVCU1pPM2tpeXVjWlhmajdMZWZuT1BEUkZsMmdQaFpLQ2w1SFNybFFtT3Q3bFVBeUdQNDkxMmx1QTN5NkJPZnRzQkFlb2ZDTEdmcDRDX0JCT21qSQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "iM뱅크, 창립 59주년 맞아 임직원 ‘사랑의 헌혈’…23년째 생명나눔 실천",
+          "source": "뉴데일리 대구경북",
+          "date": "2026.10.11.(일) 13:32",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPWFc1WjhQeFZ2SUxXLUdlQkduR0JKbEVfYmIyNWl0RU55TV85MkRFeFlDTmozeEU3MmU0a3ZIVU4zcFNsdkMwU0J5OXIzN25fTC1zTGxIbElXdW5VTFZzeWJPQm1NSHE4R3FrSWFiM2w3T0I3bWF2cUxlby1NUkHSAX9BVV95cUxQT1hXNVo4UHhWdklMVy1HZUJHbkdCSmxFX2JiMjVpdEVOeU1fOTJERXhZQ05qM3hFNzJlNGt2SFVOM3BTbHZDMFNCeTlyMzduX0wtc0xsSGxJV3VuVUxWc3liT0JtTUhxOEdxa0lhYjNsN09CN21hdnFMZW8tTVJB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "평택도시공사, '사랑의 헌혈 행사' 실시…올해 세 번째 생명나눔 실천",
+          "source": "뉴스핌",
+          "date": "2026.10.11.(일) 12:01",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92Qnd5X2lXX0FrbDY2UVdJeVpHcTVrcllONE9NZUYzX0FzRHFFMlpKbFdGUVZYMy1sSzRyekVyM1dZMkNTQWlWbW8wQ2pwWjlGWFBDT0JkU3dzUVhV?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "조용한 환경에서 확인할 토토 결과슬롯보증 소리 옵션",
           "source": "Calgary Roughnecks",
-          "date": "2026.10.11.(일) 01:43",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGR3TmlVZ3pJTzlOamJMd0lEbTgwLTNhYmREVG1ueUNPU3ZPVWs5R1djbEQ5V2R3N19ncEk4OFpLeEtWZC1WdktlVExqNzN4VGE5WUx0bE9NRzNOTUFUWm9JMmNnUTBLekFyb3RKaVFLRXJreERTdGVIWDlVeXZBUG9tSmk4cWJrOHhudHpjSHBYUnpXWTJMb25PcGFGaWZGNUpMVGJTM1RIMnlKallwV2R2aEM2WFhNVkVubVpzcklJal9hUUh1a0t3?oc=5",
+          "date": "2026.10.11.(일) 02:48",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2JyelIwaDczWmVlbXVMVWFUYzRqVGlzU0RkeW1hdmM1NmVxbWpMMGs3WGstM3B2Zi1lOEg0UTFlRDNiN1RLMGlZckkyZ2NpSE9wbWlqY3BjX3FKT0tmdEFjTEIzNDhadXAwRjVRbFB1Yl9qeV9ucjQ2REFvWm42czd5RU93eUtTWnpDdkRmZ1ctaTVlejEtRnZkRUVoUnlhM1g3NXV6TTF0YTVsN2FMRGN0andqN05uODFoYk5fSkJFSUlzbEE2aGVBMk51TllvQWNUYkNYSnpudw?oc=5",
           "region": "national"
         },
         {
@@ -196,6 +245,13 @@
           "region": "national"
         },
         {
+          "title": "종로에서 뺨 맞고 한강에서 화풀이한다 意味 도움말에 없는 항목 확인하기",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.09.(금) 22:22",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQamt1QXRlUEhZYUtpSEo3bmJzTDVnVWkzVW9wa0tiNWN1NHg2ZVZqb2NDQ09BVFZ4Rkk2MFFBb2JDeVFqcXE1Rk9SdzJ2aTZDUUg5V0NYQTB5bTdUczRUbFRPdENMcVJyUE1MenVhekxBQy1QajE4WnExN25ZaGxhV2VlUWtraThfUG80WERjMnpFaW1aTXlMaE1IVURGTnpFZzZJNFY1OE13N2JuTGU1SHd3Mjh5clpDczZGbjNoLUh0eGRXRUEyUTl6VXlNai02UjE1QUJIMXJvZFpUb1hwaXRSejdVWUdwcnB2eE5Sa0luRGh4bDRnMGZUaFBXNnpDeHp0YklJNHVWTkNtOEJSMQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "수원시여성리더회, 장학기금 마련 젓갈 포장 행사 열어",
           "source": "투데이경제",
           "date": "2026.10.09.(금) 22:08",
@@ -234,7 +290,7 @@
           "title": "과천시, 관악산 등산객 과밀에 안전문자…\"안전거리 유지 당부\"",
           "source": "뉴시스",
           "date": "2026.10.09.(금) 14:23",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uYVpzWnR5SzktaTBIVVRIRXp1RUR4RVgzTTh4WWhVLUs5UGt3Vmh5YlpFbmg0LUkxcmJ6SGtQdVg3Uko3dzk5V2tBdy0yXzEtRXl4WmEtbkd1c2lEb2YtZ3hTT3dPaUdtajQwcm9Cc3QyVnZ2NGlGS9IBeEFVX3lxTE9uYVpzWnR5SzktaTBIVVRIRXp1RUR4RVgzTTh4WWhVLUs5UGt3Vmh5YlpFbmg0LUkxcmJ6SGtQdVg3Uko3dzk5V2tBdy0yXzEtRXl4WmEtbkd1c2lEb2YtZ3hTT3dPaUdtajQwcm9Cc3QyVnZ2NGlGSw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KZXVWY0JLcno0TXV0QzFzbGotQTJDSGVxSWpUNlYyTjluMzAySzNyZlNKTW84Zk9wU0pMUThWZEkwb2d4MTRBdnRtcjFFM2RhR00zWmx5SjFBelpGRWVkUdIBeEFVX3lxTE9uYVpzWnR5SzktaTBIVVRIRXp1RUR4RVgzTTh4WWhVLUs5UGt3Vmh5YlpFbmg0LUkxcmJ6SGtQdVg3Uko3dzk5V2tBdy0yXzEtRXl4WmEtbkd1c2lEb2YtZ3hTT3dPaUdtajQwcm9Cc3QyVnZ2NGlGSw?oc=5",
           "region": "national"
         },
         {
@@ -291,62 +347,6 @@
           "source": "Vietnam.vn",
           "date": "2026.10.09.(금) 03:13",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZTHZURVluUEVvenUyV3p3UVZsNzNFXzJ6ZXZMeHh0MUxwUUFjeVZ6a285S3FLd0Y3LWtPbE5RTkFFRFNMYXczT2Y5QXN5eWgwMFVhTXRuSy1rSUc5Zkk3WWEtUW85QlNZWG41MFcwam1KOVVpV3ZTLVQzcTYxNkk?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "스포츠토토 지점 : 초보자가 알아야 할 모든 것 - 실용적인 접근법",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.09.(금) 02:24",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4teVF4M0lDcHh4U2hVY2pZVW5YMFhwbmRBSmNxMHRWSXhDOVZOeS1VRVVmLVZ0RTh4bU9kVmZxSzBjaWNKTHcwVm03MVJaalBqRHZ6ZTgxb1hKQi1GeUlKSjFfS181X1RjZjhaYU5iVQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "희망브리지 전국재해구호협회,서울 청계광장서 ‘2026 대국민 하임리히법 체험교육’ 진행",
-          "source": "대한일보",
-          "date": "2026.10.08.(목) 23:56",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vMEJ4S1dWQzB2cU9jTmlNaVdhOTNLSGx0TENMN2RmbE9iSERWZldYeGdPanNGUGpwaTV5dHlZS2lhMUl4MTg3Z1pidUk5OTJSaG1sY2NHVXB3aG54RDV6Y3luQ0tpWjd5dmRBVUpHZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[단독] 항응고제 다량 투여…‘헌혈 왕’ 중태 빠트린 그 실수를 또",
-          "source": "JTBC",
-          "date": "2026.10.08.(목) 23:48",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3RGNiYjBMSVlYNTR6b0w1MkZjRlBjeThMWkpqeFA2d3hmNnhxX3dHemNkcFByXy1xOGZqQ3FqLTdKNGRCNGNmYUQxbFlGX1lFcnc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "울진국유림관리소, 안전사고 예방을 위한 산림토목사업장 안전보건 점검 실시",
-          "source": "다경뉴스",
-          "date": "2026.10.08.(목) 23:14",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1EUkg1UUZKT2JFTnRackNkOU13VUVEOWlSRmpQVThoak5zQWFJUlFJd0VvNWtWWm9hamhWelY5Q3ZxbTFs?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“광명에서 행복하개!”… ‘2026 광명 반려동물 문화축제’ 10월 17일 개최",
-          "source": "야호펫",
-          "date": "2026.10.08.(목) 22:57",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHRVbnNXTmh4NHpOc3VhYUlDZENLUTRid1FtaG5tbzFkZWNYZjh2SUVvNDhjRGxIMEpaS3BLNTFsbXVObU0zcG9xTk1GQkhrd1duTEwwWnJuNG90MzlaY0RyMjZUbUgwWC0tSEE2bWN1dldaV1VxeXg4Vmt0SGFPU29GalAtejdiV2stcTU0WV9mZGNfOUlDUXVtcTVKdzQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고삼면, 수확철 농기계 안전사고 예방 교육",
-          "source": "시사안성",
-          "date": "2026.10.08.(목) 22:18",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QSXVsb0lxQ0U2TkVvakFfZzRWRTljUjFRMTBEU2pFRzVUMXlfbDhiOHZhbHNIbDBTemp3M2NGZGlVVjZOb2x6R0V6cUFEZXpQTzhOZXJPTTVhRlN2LUtfY1p5NlNHcTBxV2NLZQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "부산혈액원-대양고, 헌혈 참여·나눔문화 확산 ‘맞손’",
-          "source": "국제신문",
-          "date": "2026.10.08.(목) 19:40",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDlQSVBtM2QtSzBNb0NqOFNTSUVYc0lsUXlFZy1ScEtQd2I5ZUdiRkVuandvUzIzRzJ5cXlxT3lPT3FIM2FOdnRyQ2NtZUxuYUs2Z0hURk1BRzJfSy1ZY2V5U3JNMm8tb2xPRWxONjdPdXFiX25qcW54M29teGphWFJIeFd0QWpFTHI4cnB3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "창립 59주년 맞아 생명나눔 실천···iM뱅크, 임직원 헌혈 행사 개최",
-          "source": "CNB뉴스",
-          "date": "2026.10.08.(목) 19:18",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81LXZETWI2azNCcmUtdXpZT0NMRU1JZGl4dVVoLWJxR3ZpNE9Id1R2clVvLVQyenY2V0ZGaVlKUFpnSzRxTzJWLWpucHVpWHNkTlJXMzJwUlVsaU50VU5lT0QtS3ZCWTFOb0hj?oc=5",
           "region": "national"
         }
       ],
