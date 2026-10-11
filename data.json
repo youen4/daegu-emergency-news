@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-10T21:50:20.191470+00:00",
+  "generatedAt": "2026-10-11T05:57:22.272589+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "단국대병원 재난·응급의료 공헌 충남도지사 표창",
+          "source": "대전일보",
+          "date": "2026.10.11.(일) 12:06",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TNmdfT3ROWlFaNE5ETDY5SlJycmYyWlBRTDBtRk03LXJXTmI4a1VOTnhkR0VZQlNnOGFDaGI5czBsV0pEZ1EzeVFKVGZQSy1GWjhPWDB3SDROUEhIcDRvaUJsR1luVHMzbllucDd1a9IBc0FVX3lxTFBWWFYyZ1dheGozUDlfZzJRSnMyUjBVQ1hPTVg5V1BLWmszTjYxQm9rU1d6LU9lVzhTd3RDY1M3Wm1XbThmaVBFdmFBTkZTalRpXzdHLWlQWEpNRlBLQ2FaRUFIaF9FZXZjbkNYUG9RMk11MEk?oc=5",
+          "region": "national"
+        },
         {
           "title": "단국대병원, 재난·응급의료 공로로 충남도지사 표창",
           "source": "메디포뉴스",
@@ -59,90 +66,6 @@
           "date": "2026.10.08.(목) 15:45",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIclpGUDJlN0V4c1Q4Z2s2enpmTER4aHdlS2dPaG5mdVN1RHY3SDhINjBrbEJ3MGFwTjY4WlRYamxValZnLWg3VXRRUDdYT2MteTFmcEEta05VSDVGZ1dscXRaLXZ0YWhrMlE?oc=5",
           "region": "national"
-        },
-        {
-          "title": "백종헌 “부산대병원이 7년째 권역센터 빠진게 정상인가” 질타",
-          "source": "국제신문",
-          "date": "2026.10.08.(목) 14:46",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmx5cjk0OU9qbFh0U2lWSkZjUGtFekRMbU1iVkp6M2hyV0hNMHRkS1I0UElpYTFIMU44aHRSQTByRDhLeS1DZE5EVDliNzQwMUFFYl9hU3BwUS1iWmNGYnlTRHFselFkcGZacmxOMUVMZmZCeGROOGZLZTdOR2NlWTFYbjludVRLUy05cHRRM01BNkE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 공로 충남도지사 표창",
-          "source": "의학신문",
-          "date": "2026.10.08.(목) 13:21",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HUHEzMHViQjBVMjZROUVOZVo2Yzk1UjlWUHMzby1FakJqdHVZLTdsa0Z4Z1R4SzVtSEhCVnJhVkY0cV9xYVRzMVdaRU1DMWthWml3MDVJN0NvMkVxOXBNVHRWMmVTczMtOXc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "부산대병원, 7년째 권역응급의료센터 복귀 못 해…“차기 공모 반드시 신청”",
-          "source": "의학신문",
-          "date": "2026.10.08.(목) 13:18",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JeDZKUmpfSk9mdFl6RUVjWmpuOHRrb0t0aXktWFNuLXlqenJpdFpIbkt3bDIyM3p3V0JtcGM5cndkRThRVUdiREFLbmxCeklUalY4RExTOVNwMmhrRzJwWF9pRklCemg5Umc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "응급환자 생명 지키는 지역 의료안전망…단국대병원, 충남도지사 표창",
-          "source": "충청시사신문",
-          "date": "2026.10.08.(목) 11:22",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rYmdyczFEa0R4WVNQZU9ZeVdmVmJISUY3akY2Qm9FUTBqTG9pVTZ2WXpINDlwYW9pNnFzN0FmNUNnc2JydDZKcFlCUFJoQlVKWmdTcUZiZ2V1QVFyQ0FSc1F3WEpqYTMwYTVz?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 공로 충남도지사 표창…조정은 응급구조사도 수상",
-          "source": "현대경제",
-          "date": "2026.10.08.(목) 11:21",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JMTVRMzZMZ20zT3BOTXRFYkFRX0JhX2FsYkNWYWhvWkd2b3J0OXdlM0l6S3J5TjRYcmNuNmJVOUFha2ducHNqdlJtbWhDUFRySDdnQWxlLXhOc3NxXzFIaFh5ckVmTFNyYjZ3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, `지역 재난·응급의료 발전 공로` 충남도지사 표창 수상",
-          "source": "뉴스파고",
-          "date": "2026.10.08.(목) 11:01",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9TMURGNmNmQ0xxRnFQRlJsNlc2ZE5zYXIyYWtoWjJkWWlxT09IcVBJWDFWd1drOE1WczE4Q2kyanBxOWRF?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“당기순이익 432억원 삼성서울병원, 권역응급의료센터 기피”",
-          "source": "현대건강신문",
-          "date": "2026.10.08.(목) 10:53",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zbDlZTlJrWUVhNmVkS1hoeWxEMGdzWkw4NGsyQ3FwcHhfd3g1Y00xS3RWQlZ4OFFKLVEtNFg4RTJRMXpMdk9JQ2RIdllhZzNtMmowQ2xn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 유공 충남도지사 표창",
-          "source": "디트NEWS24",
-          "date": "2026.10.08.(목) 10:49",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zUklGLXFWeENsUlRwVmYzSEFrQ1Y4eHlCVE9EUnVJYlFuNEFpUDViNmFxSllMTm1sNUI0U2FKcndnR0E0OU9JSjg4ZEZhUy1DQW8wUFFxQlJhd2xaYTZwRnhlZEpNY2x0OFpn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 충남 응급의료 지킨다…도지사 표창 : 대학병원",
-          "source": "의약일보",
-          "date": "2026.10.08.(목) 10:49",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03WjFUaUtQSlNkVHIzQmdtYmJTeVZxaEVSLVJJbHp0NmxUX0Q5ZkI3OTBhSUFLUGgxU3hrcGR5cGF3Uk5uQm9EcmZrMk5DeGthaTl5eA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "野, \"수백억원의 흑자 낸 삼성서울병원-서울성모병원-영남대병원 등 3곳 권역응급의료센터 지정 회피...적자 우려\"",
-          "source": "데일리메디팜",
-          "date": "2026.10.08.(목) 10:16",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2ZS1GT3VqRm1PMVJjVm5FeGNIa1RpMjZqSE50ZFMtcU5BUGIwQjZVaEZoRDg1X3VMa3NtRVJ4ejN1T1VqcXB4WG5ValU5T1dTRU5KRWdUajF2VndCcjhCbUxsTTJ3bkFIY25SaFBqVS0?oc=5",
-          "region": "daegu"
-        },
-        {
-          "title": "단국대병원, 충남 재난·응급의료 유공 기관 선정. 도지사 표창 쾌거",
-          "source": "국제뉴스",
-          "date": "2026.10.08.(목) 10:15",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LRXJrQmxGQmQyeWZDa3p0YzVaYm03a0lGYjdwNEJ1RURNd3oxVENYYzNyZW96b1ZCMFhXX2xHc05EUU9wMlV5OVRzbHZyekdYRnR3ckp6NEVMTVZQakQ2VEJuajdrNWlQVnBhekJR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 유공 충남도지사 표창 수상",
-          "source": "충청뉴스",
-          "date": "2026.10.08.(목) 10:04",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZmlLalowSV9OUWlkaFFzVGpiWklZREVkeU1tWUtMVW9KMnN3TkhoUUtDRF9KUW5uMmt1bmZ4LTRtMlN3TzlaaWcwV1htcG5EUGNUTDJwYmtSUU95NU8yUEs5QXVRZ3BqdTlwXw?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -155,6 +78,13 @@
     "disaster": {
       "label": "재난의료",
       "items": [
+        {
+          "title": "단국대병원 재난·응급의료 공헌 충남도지사 표창",
+          "source": "대전일보",
+          "date": "2026.10.11.(일) 12:06",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TNmdfT3ROWlFaNE5ETDY5SlJycmYyWlBRTDBtRk03LXJXTmI4a1VOTnhkR0VZQlNnOGFDaGI5czBsV0pEZ1EzeVFKVGZQSy1GWjhPWDB3SDROUEhIcDRvaUJsR1luVHMzbllucDd1a9IBc0FVX3lxTFBWWFYyZ1dheGozUDlfZzJRSnMyUjBVQ1hPTVg5V1BLWmszTjYxQm9rU1d6LU9lVzhTd3RDY1M3Wm1XbThmaVBFdmFBTkZTalRpXzdHLWlQWEpNRlBLQ2FaRUFIaF9FZXZjbkNYUG9RMk11MEk?oc=5",
+          "region": "national"
+        },
         {
           "title": "단국대병원, 재난·응급의료 공로로 충남도지사 표창",
           "source": "메디포뉴스",
@@ -189,97 +119,6 @@
           "date": "2026.10.08.(목) 21:04",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5Y191b1QwRU9tNm9XUFI2VGZyUGlHaUNoeFJRblhwZWxWZDJpTk1DSVJieDU2R3NDRkNZeC1tUG14N3V5T2F3ejZNVFh4ZFdTTHNrZVRqemR1UHV4Qk1UT01mdWRCUUVoRWQ5V2l3?oc=5",
           "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 공로 충남도지사 표창",
-          "source": "의학신문",
-          "date": "2026.10.08.(목) 13:21",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HUHEzMHViQjBVMjZROUVOZVo2Yzk1UjlWUHMzby1FakJqdHVZLTdsa0Z4Z1R4SzVtSEhCVnJhVkY0cV9xYVRzMVdaRU1DMWthWml3MDVJN0NvMkVxOXBNVHRWMmVTczMtOXc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "응급환자 생명 지키는 지역 의료안전망…단국대병원, 충남도지사 표창",
-          "source": "충청시사신문",
-          "date": "2026.10.08.(목) 11:22",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rYmdyczFEa0R4WVNQZU9ZeVdmVmJISUY3akY2Qm9FUTBqTG9pVTZ2WXpINDlwYW9pNnFzN0FmNUNnc2JydDZKcFlCUFJoQlVKWmdTcUZiZ2V1QVFyQ0FSc1F3WEpqYTMwYTVz?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 공로 충남도지사 표창…조정은 응급구조사도 수상",
-          "source": "현대경제",
-          "date": "2026.10.08.(목) 11:21",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JMTVRMzZMZ20zT3BOTXRFYkFRX0JhX2FsYkNWYWhvWkd2b3J0OXdlM0l6S3J5TjRYcmNuNmJVOUFha2ducHNqdlJtbWhDUFRySDdnQWxlLXhOc3NxXzFIaFh5ckVmTFNyYjZ3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "동아대 대학원 재난관리학과, 베트남 나트랑대와 국제 학술교류 개최",
-          "source": "국제신문",
-          "date": "2026.10.08.(목) 11:02",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm5VcHNVRVJDNVEwcXNpQzlVV2VlN1ZIVUttUkhwQVp4UHhzaGFweTItT3UwRkxhZmNaME1wV1pfZ2doZWdIVTVIRGxHOWxWSVl1MVU1ck00MXlROHpRQlVXYXJnLUdMLWM2b3p1ckY1Z0YxVGRyMS1fRVE0TWt6eUhBWDZKdXBWVE82aHVB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, `지역 재난·응급의료 발전 공로` 충남도지사 표창 수상",
-          "source": "뉴스파고",
-          "date": "2026.10.08.(목) 11:01",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9TMURGNmNmQ0xxRnFQRlJsNlc2ZE5zYXIyYWtoWjJkWWlxT09IcVBJWDFWd1drOE1WczE4Q2kyanBxOWRF?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 유공 충남도지사 표창",
-          "source": "디트NEWS24",
-          "date": "2026.10.08.(목) 10:49",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zUklGLXFWeENsUlRwVmYzSEFrQ1Y4eHlCVE9EUnVJYlFuNEFpUDViNmFxSllMTm1sNUI0U2FKcndnR0E0OU9JSjg4ZEZhUy1DQW8wUFFxQlJhd2xaYTZwRnhlZEpNY2x0OFpn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 충남 응급의료 지킨다…도지사 표창 : 대학병원",
-          "source": "의약일보",
-          "date": "2026.10.08.(목) 10:49",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03WjFUaUtQSlNkVHIzQmdtYmJTeVZxaEVSLVJJbHp0NmxUX0Q5ZkI3OTBhSUFLUGgxU3hrcGR5cGF3Uk5uQm9EcmZrMk5DeGthaTl5eA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 충남 재난·응급의료 유공 기관 선정. 도지사 표창 쾌거",
-          "source": "국제뉴스",
-          "date": "2026.10.08.(목) 10:15",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LRXJrQmxGQmQyeWZDa3p0YzVaYm03a0lGYjdwNEJ1RURNd3oxVENYYzNyZW96b1ZCMFhXX2xHc05EUU9wMlV5OVRzbHZyekdYRnR3ckp6NEVMTVZQakQ2VEJuajdrNWlQVnBhekJR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 기여로 충남도지사 표창",
-          "source": "안티에이징뉴스",
-          "date": "2026.10.08.(목) 10:09",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kTlR0SHZ2M2dKRW1veVRpLTI4LWtRY2xhdXB6djFSaUpBUjBQcC16eWY1cUpsZ2lzQnlFUmFQZWVKcDJIQ3JPOWFiMmVSOW9WN3YwaVlkdGw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 유공 충남도지사 표창 수상",
-          "source": "충청뉴스",
-          "date": "2026.10.08.(목) 10:04",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZmlLalowSV9OUWlkaFFzVGpiWklZREVkeU1tWUtMVW9KMnN3TkhoUUtDRF9KUW5uMmt1bmZ4LTRtMlN3TzlaaWcwV1htcG5EUGNUTDJwYmtSUU95NU8yUEs5QXVRZ3BqdTlwXw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 발전 공로 충남도지사 표창",
-          "source": "데일리한국",
-          "date": "2026.10.08.(목) 10:03",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BZ2NhTTdpTVhaNFVPeGp5bVByb0dVTFJ2X0htRWZNZldPZzJtaFZwZllYdG1CQlN2Vkhwd1Q4ZjRBRE5zSnRiOW1GaVAyMGk4TTFBcjRCcGdZUUN2OGpsakREMUxSSGM1N01SRVVlZ9IBc0FVX3lxTE9NUEhOME9XT1pIZXdIYmlLRjdfR2lSOG8yblBQcU92cGZnSWJxTmRoTGRMZmpwYlBrTVRIdlZFVENSSk52VWZhTWZVYVdjWDI4c0x1MWhKWGlNTFFqejdFUnBYVm5wVi1kTVVQQnAyOXNSWHc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 발전 공로로 충남도지사 표창",
-          "source": "간호사신문",
-          "date": "2026.10.08.(목) 09:28",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNUZ0MGs1d0tCNkQ3S2J1WERkZkE5ODRaRlFicGZRMHJaS1BMQ3hVWmxPNkRfNWdZZTJkUXQzTnI1ZXdzUUxMOFJFT1BYSEYzTTdKLTVuaHJVM3NKU3JLdllnYTlmQzdXd1VWNmRn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 충남도지사 표창 수상…지역 재난·응급의료 발전 공로",
-          "source": "뉴스충청인",
-          "date": "2026.10.08.(목) 08:49",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kRE5PQ3NKY2hjNGxzd3hfWUlaWE0zWXMxN3BHbThUdV9CTUlwRzRTcU5oLVVWNmdPRU9BQkljdFRqZzF1QVE?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -293,13 +132,6 @@
           "date": "2026.10.10.(토) 17:37",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkajQ4REVqVjZ6QWhyS2RCMHR5UmIyR2QwX2ktTmRZNEZ3VmUtamNUbTBjZ2s3LUVjZm1SY1J2VWRIS0NKSVFHazdHakhYaXY0ajdaekdB?oc=5",
           "region": "national"
-        },
-        {
-          "title": "25곳 모두 “수용 어렵다”..한밤중 35주 산모 위해 벌어진 긴급 작전",
-          "source": "위키트리",
-          "date": "2026.10.08.(목) 07:56",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nanlqcEpUWkdwX3RTRGFoeWI5SnE0NzZKei1ibGhVZGVFMjNmc1NaRnZHc0RMVXVLS2doZ01YNEtqQmZpdW5mX3RpNFFNRmNUSEwzejln?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -307,6 +139,20 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "iM뱅크, 창립 59주년 맞아 임직원 ‘사랑의 헌혈’…23년째 생명나눔 실천",
+          "source": "뉴데일리 대구경북",
+          "date": "2026.10.11.(일) 13:32",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aa0txNTZpTFlCOURGcEVNXzRNRGZxeGd0OC0yZHY0VGpIYktvd2J4S1laUy1QdWRETzZTcDMtRV9IbklraXhxZjBodmcwM2lOVlFKMjdXNmdUamRkdERvUG9uSFhnc1FEdmNHd055ZDg4MXZuajY1elhn0gF_QVVfeXFMUE9YVzVaOFB4VnZJTFctR2VCR25HQkpsRV9iYjI1aXRFTnlNXzkyREV4WUNOajN4RTcyZTRrdkhVTjNwU2x2QzBTQnk5cjM3bl9MLXNMbEhsSVd1blVMVnN5Yk9CbU1IcThHcWtJYWIzbDdPQjdtYXZxTGVvLU1SQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한게임 고스톱 다운받기 클러스터 방식 적용 여부",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.11.(일) 01:43",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGR3TmlVZ3pJTzlOamJMd0lEbTgwLTNhYmREVG1ueUNPU3ZPVWs5R1djbEQ5V2R3N19ncEk4OFpLeEtWZC1WdktlVExqNzN4VGE5WUx0bE9NRzNOTUFUWm9JMmNnUTBLekFyb3RKaVFLRXJreERTdGVIWDlVeXZBUG9tSmk4cWJrOHhudHpjSHBYUnpXWTJMb25PcGFGaWZGNUpMVGJTM1RIMnlKallwV2R2aEM2WFhNVkVubVpzcklJal9hUUh1a0t3?oc=5",
+          "region": "national"
+        },
         {
           "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
           "source": "에너지경제신문",
@@ -347,20 +193,6 @@
           "source": "연리지TV",
           "date": "2026.10.09.(금) 23:23",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZkFLaEJEMm1ydU1mY0tEX3VaWkJWVVVFT0RTN2tRZ2M5YlpwRExXUHVPVE1tTndWX213R2lWZnZzNFNOMk1sbERWSU04NGUtY2hfRHc0NVFIaTVKVnJNMUlIbWhnUmllUUE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "종로에서 뺨 맞고 한강에서 화풀이한다 意味 도움말에 없는 항목 확인하기",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.09.(금) 22:22",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQamt1QXRlUEhZYUtpSEo3bmJzTDVnVWkzVW9wa0tiNWN1NHg2ZVZqb2NDQ09BVFZ4Rkk2MFFBb2JDeVFqcXE1Rk9SdzJ2aTZDUUg5V0NYQTB5bTdUczRUbFRPdENMcVJyUE1MenVhekxBQy1QajE4WnExN25ZaGxhV2VlUWtraThfUG80WERjMnpFaW1aTXlMaE1IVURGTnpFZzZJNFY1OE13N2JuTGU1SHd3Mjh5clpDczZGbjNoLUh0eGRXRUEyUTl6VXlNai02UjE1QUJIMXJvZFpUb1hwaXRSejdVWUdwcnB2eE5Sa0luRGh4bDRnMGZUaFBXNnpDeHp0YklJNHVWTkNtOEJSMQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "삼척국유림관리소, 산림사업장 안전사고 예방교육 실시",
-          "source": "한국영농신문",
-          "date": "2026.10.09.(금) 22:22",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LelFTSXoxY2VCcGkwVUVnYmNtSk5QNTdQczVzaDF1cmNZWTU2OEUtYTFvWjdxV2tCeHJtZ0dEOF9UZVhTbnduNUdCdkljbkR1TzZHM3dWYzZMNGZmbVhCYjF2akRlWUxoSElBbk9n?oc=5",
           "region": "national"
         },
         {
@@ -413,6 +245,20 @@
           "region": "national"
         },
         {
+          "title": "평택도시공사, 정기 헌혈로 생명나눔 실천",
+          "source": "글로벌에픽",
+          "date": "2026.10.09.(금) 11:53",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tTndRODl2b3V5RjNSRmpmLV9ZSWZVS2Q5anBlc3F5aWJVQlI5MXg1cVZnODUySHREb1NaRUI5R3Z0cHZrQUhZX2NNaEhtdEhsel85QlpDZk9aYThldVRQc1loYmxTcHhjVzJWVTdVU3VWVmx0dWc5V3FFYWw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "직관적인 조작인지 비교하는 엔젤 카지노 먹튀 인터페이스",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.09.(금) 11:43",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk54R2xPRWRidTd5Q0VYa3BGSm1WQTFuT0FISVkxRWJsQXFYZklwaEY4NHFyNzlyaWE5SE1nYUN5SFJpUVZzZWJMYTVsbFZkQzhYZ3lKZVhvSXJOUEdWWk1Nbl9lRFhNanZLV0tRbmY4cGcwLVJiVTI0V0FQSGFuRE9EazRESldOd2tCNUFUX1FMd09kTl9tbDJXdzExR2ZQdkxnM19ZRzZmallB?oc=5",
+          "region": "national"
+        },
+        {
           "title": "약 먹고 헌혈한 20대 \"내 피 안돼\" 알렸는데…60대 여성에 그대로 수혈",
           "source": "뉴스1",
           "date": "2026.10.09.(금) 10:46",
@@ -431,6 +277,20 @@
           "source": "베타뉴스",
           "date": "2026.10.09.(금) 08:49",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwV0UzODcxbTJmN0lyNDNiVFZvdGN4X3QxcUlhZUVFREtyZmlwZ1g2VklJZnVGdUk3UHZFaGpWZjdUVGs4RGFRbTZyM25lNHFoSVE2ZFk3bENPcnQ4RmlqVXZwQ28?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "임업 분야 안전사고, 최근 5년간 4,844명 사상",
+          "source": "여성종합뉴스",
+          "date": "2026.10.09.(금) 07:15",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jR2dIZGpiMGtLeE1SNU5DeWtodHo2eFp6R0Z3TFRlQzBxYjZxb3FGb2tiOTJnQTVwUkhlVVdhcFFydEREYVQ1MDE0eDJtZWEzTXp6SnNjQk1Rdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "기동경찰로부터 100단위 이상의 혈액을 수혈받았습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.10.09.(금) 03:13",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZTHZURVluUEVvenUyV3p3UVZsNzNFXzJ6ZXZMeHh0MUxwUUFjeVZ6a285S3FLd0Y3LWtPbE5RTkFFRFNMYXczT2Y5QXN5eWgwMFVhTXRuSy1rSUc5Zkk3WWEtUW85QlNZWG41MFcwam1KOVVpV3ZTLVQzcTYxNkk?oc=5",
           "region": "national"
         },
         {
@@ -455,6 +315,27 @@
           "region": "national"
         },
         {
+          "title": "울진국유림관리소, 안전사고 예방을 위한 산림토목사업장 안전보건 점검 실시",
+          "source": "다경뉴스",
+          "date": "2026.10.08.(목) 23:14",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1EUkg1UUZKT2JFTnRackNkOU13VUVEOWlSRmpQVThoak5zQWFJUlFJd0VvNWtWWm9hamhWelY5Q3ZxbTFs?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“광명에서 행복하개!”… ‘2026 광명 반려동물 문화축제’ 10월 17일 개최",
+          "source": "야호펫",
+          "date": "2026.10.08.(목) 22:57",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHRVbnNXTmh4NHpOc3VhYUlDZENLUTRid1FtaG5tbzFkZWNYZjh2SUVvNDhjRGxIMEpaS3BLNTFsbXVObU0zcG9xTk1GQkhrd1duTEwwWnJuNG90MzlaY0RyMjZUbUgwWC0tSEE2bWN1dldaV1VxeXg4Vmt0SGFPU29GalAtejdiV2stcTU0WV9mZGNfOUlDUXVtcTVKdzQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고삼면, 수확철 농기계 안전사고 예방 교육",
+          "source": "시사안성",
+          "date": "2026.10.08.(목) 22:18",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QSXVsb0lxQ0U2TkVvakFfZzRWRTljUjFRMTBEU2pFRzVUMXlfbDhiOHZhbHNIbDBTemp3M2NGZGlVVjZOb2x6R0V6cUFEZXpQTzhOZXJPTTVhRlN2LUtfY1p5NlNHcTBxV2NLZQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "부산혈액원-대양고, 헌혈 참여·나눔문화 확산 ‘맞손’",
           "source": "국제신문",
           "date": "2026.10.08.(목) 19:40",
@@ -466,55 +347,6 @@
           "source": "CNB뉴스",
           "date": "2026.10.08.(목) 19:18",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81LXZETWI2azNCcmUtdXpZT0NMRU1JZGl4dVVoLWJxR3ZpNE9Id1R2clVvLVQyenY2V0ZGaVlKUFpnSzRxTzJWLWpucHVpWHNkTlJXMzJwUlVsaU50VU5lT0QtS3ZCWTFOb0hj?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[뉴스룸 오프닝] ‘대사 소환’ 강력 조치 / \"내란 범죄 척결하겠다\" / 헌혈하다가 중환자실",
-          "source": "JTBC",
-          "date": "2026.10.08.(목) 18:42",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44YWtndXRTT0Fia1VScWhKRElQcno5aFZYY0l4bW5nV0dxS1AtWFg3TENwUFV6UHA5d0JTS3c3V1I5UElYTEh1UUQyaFFaSTIwT0w0TA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[단독] \"126회 프로 헌혈러인데\" 피 뽑다 의식 잃고 중태…식염수 대신 항응고제 다량 투여",
-          "source": "JTBC",
-          "date": "2026.10.08.(목) 17:30",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2TGdaODUzT1JhLWpyNGU1SmJNZDdTY1AtOGJySURGcUtvOERTVl9RYjdfZk5ZQUtXLWpLcldZcDQ4ZFZMTGRvMmRiWmpDdngyUVhkUA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[현장] 총기 그림 알아보고, 심폐소생술 돕고…국산 AI 반도체의 진화",
-          "source": "에너지경제신문",
-          "date": "2026.10.08.(목) 17:26",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxT1JEVVhfaGJPU1ZlbnFmMkZSa1dqdlNWUEY2bzhram1SSm90eW9pa0hjZGZWZVR1cFFvQTA4U0pKV3ZiSkFyQ1hzTWZLTVNsYmJydWRTNEVzOVU?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "김해서부소방서, 진영고 학생 대상 응급처치교육",
-          "source": "FPN-소방방재신문",
-          "date": "2026.10.08.(목) 15:33",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NVExzdWhuOEJNSGZkZ0M3THNIYm1IWldHQXpyeU96cnJGYUVzT1ppWjBNSDFMcGM5NGdmRkQ0YmJ2OEpo?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[단독] ‘행방불명’ LPG 가스통, 무려 31만개…가스안전공사 “별도 관리 안 해”",
-          "source": "경향신문",
-          "date": "2026.10.08.(목) 14:11",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ga1NIdkFPWDBFLUJZUU85MktwNk9Sd011QXRLdWlYbmxlYTlRMG14VThubmgzS3JWMzl5c1VWOHFXMGJUMEREOVJYSHhYc185bnN4cUh0M1JzRUx6VlVN0gFfQVVfeXFMT0ZrU0h2QU9YMEUtQllRTzkyS3A2T1J3TXVBdEt1aVhubGVhOVEwbXhVOG5uaDNLclYzOXlzVVY4cVcwYlQwREQ5UlhIeFhzXzluc3hxSHQzUnNFTHpWVU0?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[금주의 구리시] 코스모스축제장 더 화려해진다…계절꽃 3만1천 본 식재 外",
-          "source": "중부일보",
-          "date": "2026.10.08.(목) 14:10",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GV0RtOVlkcGY5WWtFSHBTMWI1SDBTdTFrcGEzRjh4TnZuenNvT0JHWWEtV0pWU2FMMlNpcnN6anJ6UGtnV05wUDdDb1FKUmZSY0pkVnBsa3FUd1h6bHpIRkFWWUt4WXZyRldaZG1LQQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전국 신협 실무책임자 550명 광주 집결…AI 시대 금융혁신 모색",
-          "source": "한국경제",
-          "date": "2026.10.08.(목) 13:37",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UTExLSmpYTldtTGNpNDNjd2VpLUJtdHB4aWxWQXdDVlF6NFRScGg1VUs1Z0FQQXNYUGw1MGk2WXNUQ25IUHVleXNxOG1jaTRQWTRLaDV4LTd6QQ?oc=5",
           "region": "national"
         }
       ],
