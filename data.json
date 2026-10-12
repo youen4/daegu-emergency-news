@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-10-12T11:01:48.145087+00:00",
+  "generatedAt": "2026-10-12T21:18:20.255216+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "연휴에 건전지 삼킨 아기, 전북→부산백병원 헬기 이송",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.10.12.(월) 20:12",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3RXlyX2NHV2NlZmdtUTY2NlJDOE9HbEhYZXFpc29ab1JwX193NHdKUGpJVmExNWdlLUY1bXJFUmtibTk4RUFFcU1ldzhnZXNfNGc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "원정 진료에 응급의료 공백까지…강원지역 공공의료 개편 목소리",
+          "source": "연합뉴스",
+          "date": "2026.10.12.(월) 18:58",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xeURKTElBZ09JZ2NTbE4wUHU5OUNxWWVmSUtYRUVjYjR3bzM0SjV2dlRGVEpVcnM4aDB6MmtRYndQWEFyTXBnWVhVVi1mSjg4SXdPblJUSEwxZ0JfOGxnWtIBYEFVX3lxTE1xeURKTElBZ09JZ2NTbE4wUHU5OUNxWWVmSUtYRUVjYjR3bzM0SjV2dlRGVEpVcnM4aDB6MmtRYndQWEFyTXBnWVhVVi1mSjg4SXdPblJUSEwxZ0JfOGxnWg?oc=5",
+          "region": "national"
+        },
         {
           "title": "[화제] 동전형 건전지 삼킨 9개월 아기, 230㎞ 날아 부산백병원서 치료",
           "source": "간호사신문",
@@ -16,6 +30,13 @@
           "source": "한스경제",
           "date": "2026.10.12.(월) 17:23",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWDYtVkNmb3A0ZGxKWnl1NnZON0RKZXVUNW1NZlhFWVZ3eWl4V3VqWXJrd3NQbTMzdVpkTlNBdjg2cXRWVFJvUVhHb3EwWHJLc1hQTk9ibkRmdVBTWUFPdjY5NU1nTWxkbGExbmd1aw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "속초의료원 지역응급의료센터 지정 취소",
+          "source": "설악신문",
+          "date": "2026.10.12.(월) 17:17",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyMUJnOHlmUF94bzR4S05ZWWV3a05oal9MNi11NXF0QlBZSXNZRDRKTW5tcTVCcXR3NVg2aXJiaHB6cm15SGdEdzNsUVFSSUdJaFBuMG9fZE9oZVZ1a1hrUTNFLU02UFcz?oc=5",
           "region": "national"
         },
         {
@@ -36,7 +57,14 @@
           "title": "복지부, 거점외상센터 '아주대병원·원주세브란스기독병원' 선정",
           "source": "의협신문",
           "date": "2026.10.12.(월) 16:19",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2NwOU5KS29fYnIxenNQc25aRDNrU3pNVHQxOElGRlZZczlyRjNhc2NYOFI4WmgtbGpEVE9LdERLRDMwZVR6b3duRGg1dUxBTlBVTFZHVXhZUENnR2ZDNjRhX3dkOUdnd0VoazM4VXNVMW9Xb0dadTJ0QUhtWGFObURfTG0xTzV3NXZB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Fa2hoQWhIV0NUckZGMHZTRmxra182UmgtelJNTk5lQ1RLdDJEUlhtbHZtQVVDOF9KZHVnY3hjMExFS05SOHVIOXcyUDg5cDBnNWRlYk9FbFAtSDZmTzMwVHVJVFBsbGR2TnJ6ZFQ1VHRWUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "게임 설명과 실제 화면을 맞춰 보는 몬스터 라이프 슬롯 확장",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.12.(월) 14:36",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUp4RDU5ZjFiYzVMa2FPMmt3MFdVWFBuVmlvdzlWRVhZaW1vYk91MVV5cTIzVHU3WWR0N1B5TjBoMHZOUktudWNXOXpXbTZiYlZZOWJVV0ZWaHRsQ3cwUWdKNVVpa3ZQdzI5VkJYSlQ5QXRTUmVzWWtwdGlqMEd3VVp6WWdUaldiNGhSLVVIT3B3Yy01aDRHcGx4TlVIcUFpcWdMdDFCNmVGRmdOenphTkJ4a1VJczJfQ0dxdEplMFdrNGZpN3lhNmY4N0ExMTE0R21n?oc=5",
           "region": "national"
         },
         {
@@ -47,10 +75,24 @@
           "region": "national"
         },
         {
+          "title": "중증외상 최종치료 역량 강화…적시 치료 위해 거점외상센터 2곳 선정",
+          "source": "코리아헬스로그",
+          "date": "2026.10.12.(월) 11:06",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBteGFzdDdraXZiNmV6ZTNJc0Rja3JOWXhNdlBXTHF4MEVGUXRBQ2NpekViR0dqMzFkb3hYbHNPWkxpRHZFVl9DbUVpTDlWd19Ic3hIcmFULVVybHhZN1V4V0dwZVA1YU5wM2tZS0NyZjZBd9IBdkFVX3lxTE1qVXBBc0ZEcUc2TWhuWGhLeGtPUzR6ci1KUTVUczN1NVB0c1Nsa1BLaDJGV2htamgtZFhHdmZEaXgyZlJraVNoOVRrTjVuMlg0aFJWVzMyTFdncUNSSUxVWFBlVGJMaTlKeWFBLTVuVTFVSlM1UGc?oc=5",
+          "region": "national"
+        },
+        {
           "title": "중증외상 거점외상센터에 아주대·원주세브란스 선정",
           "source": "뉴시스",
           "date": "2026.10.12.(월) 10:38",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jM1RmZDctOUVKOHAxcXBObERTOTNBRmRCdjdSRmN6Nl81SXJZYzZ1THM2WUtsS3phMXlnTWI3X3N4YmhjZkc0NFlNQXZYRUQyM1dlMWZybFdGcjZmQU94Z1BEdXBmVnNJZ25DZ1lqb2kwLUV4bFZDWNIBeEFVX3lxTE1jM1RmZDctOUVKOHAxcXBObERTOTNBRmRCdjdSRmN6Nl81SXJZYzZ1THM2WUtsS3phMXlnTWI3X3N4YmhjZkc0NFlNQXZYRUQyM1dlMWZybFdGcjZmQU94Z1BEdXBmVnNJZ25DZ1lqb2kwLUV4bFZDWA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "마우스 없이 조작 가능한가요? 닌텐도 스위치 게임 추천 2023 입력 지원",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.12.(월) 07:45",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRFRLdVBoenNySkNaV3otMGxBWUpVQ2sxTG9Rdm0xT2NReU9DU2pJWjJsSUxUYVd6bGVLM0pJX1RzVk10dGJkYnFKMmw0OG81cFg3eVUxMl9nWURKZkJiSDR0VnNwOGNldnljSEpjQlNwYkJzb3ZHMFhtdWZvckdEVlpiX1FwTTF0VnlCdUpOeGJFSUNJTnRBWUdnSFg3UnFRY3hiOUw0Rk5SdllZU0tlY3J4RFY0Qk9wbEZGalZGc2oyNW5fU1g0Z20yMDFKWGVpZnAyOVM0WHNtaXdf?oc=5",
           "region": "national"
         },
         {
@@ -87,27 +129,6 @@
           "date": "2026.10.10.(토) 15:39",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tMDE4bUgzY0FfMzktUGI1aTVCb1FfQ0JabjdhWVFXejFpVTZfRFM5eGNZc19HeXlGRTlVcGxNaVNpbHFVeUlfWmtDa1g2Zk9ucTlCUjlrcWY0ZVNnOXZrcEQ3MFU?oc=5",
           "region": "national"
-        },
-        {
-          "title": "토이 토토 게임 안내의 기호와 범례",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.10.(토) 14:45",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjJ4R1lHQVhrbGNYNUtnT3RJVENsQVdsUF9ONDdvNXBzSF9TYmZfSkoxM1E1R3VGcDFNaFNnUUpWN3VPSzhDLXBpam5QaTJTMEk4U3FpY25zWFFKS3BnVXlzblN2RTNBeUpHUjBjVGhsbHltLVFpZWF0Q1FTcXNacFdHTDBDSW5WOGdIczRZNTR3RUVRWTRNYVBYYVJPUEZ4bFhzblRtV1MxM05qdmlV?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "블록 체인 스마트 계약 도움말의 그림과 숫자 읽기",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.10.(토) 03:39",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ2ZOcWtZYXJTRHQ1aWFVYlpPWkllVnR4VHN0aXk3SlRJczhDbVFBYUZ3RVloWmVUb3Y5M05UQUtvTXFQWUNPZTluekd3eXVmQ2s5YmFkRTlWYTdwejRkTTBTWEF5Q3ZadG5mam0tV0JGUXVsanZIZXVrUEhMRks1MkpzYVVnbkRyLUN1WnlWbGJvd2ZEdGc5MWVLM2RxYXFZcURDbQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "지역응급의료센터 2곳으로 확대 안산시, 응급진료 기반 강화",
-          "source": "반월신문",
-          "date": "2026.10.10.(토) 01:43",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtZlkwcURFUlVVS2ZTVHQydnlFcG5fcVNsb1ZITm9sMWh3dk5UbV9DalIxallQNXB2LWJ2aXRpNlRGNXdvMi1JcjNSUHRudEVKbkRmdXNWdGpqQldBRFlJRGE1QVg3OFU?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -120,6 +141,13 @@
     "disaster": {
       "label": "재난의료",
       "items": [
+        {
+          "title": "게임 속 알림창이 전하는 토토 3폴더 놀이터벳 진행 정보",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.12.(월) 04:13",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbzk2ZWRvN0pBeFlvbzFDVWRXZ0EtQy0wczV4ZHpoQXpfcE9sYTYxRkV2RnZBYlYydnU0amc2SmsweTRNUkhaMHFVcEdSYXNtS2dGY1dFanZjX1ZQNk1qbF9GLUlzRS1VYlpCVWQ1MGtQbFVtRFkyUFp4WVpDTUY4SERBN1FzNkV5LXBDaXcwczgtRGhCbnJfZ2hmOGg0OVpUWjdESmJwU3pNcktOaUM3Z1liMmZlbmljYkFYaGllOWd5a2FYdkVUVkE5dGRTREt4V3FCSUJfUzdSX2I4NWFfRlNlTUx2TDY5ZXMxa0FZWWlkRWlmenoycDdKLURDY3VsNUtmdDhnMXF4dzR6MUdkR0JWZXdSWHhaVWJkR0UtMUFOQlBOckE?oc=5",
+          "region": "national"
+        },
         {
           "title": "옹진군보건소, 재난현장 구급대응훈련 실시",
           "source": "현대일보",
@@ -149,24 +177,10 @@
           "region": "national"
         },
         {
-          "title": "가볍게 훑어보는 게임의 골격, 무료 스핀 카지노 스페인",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.10.(토) 20:51",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPSndMaFJ1VVp4R3N1UTFhMjlZNGtPbWw3WmxqTGdmYVl3VkRBRFFHZllIeXA0OFFSSGxYU25JbE9WUDdEalViVmhGRW95OXRUcUlIcFlYQWFGMk84Mmg3M0V1RkZNVVZMQTBtQ3JRNVVPRS14S3lfVVc4ZVlkd3FzNDBpV1dvSDdOb29yMnNNNlNjbjlsM3VwM0JoTTBUa0J5MkRWNWh6STZkT2g1LWNuVFY1YW5UVTVMdkx3aVJmaDVWVXNyaHZPZGhXbFRfRGlGaVVOOGViNkVTWGl0R1drQkszVFpidWFwa014SzMzX2Zmb2VVdjhUeXh6OHhIc3J3R24tNUdSWXlSMVhQR3Z4V3I3Y052YkVCVm1lTzhvN0hqR0dzUmZrU3lNVGVWZGVodkE?oc=5",
-          "region": "national"
-        },
-        {
           "title": "단국대병원, 재난·응급의료 공로로 충남도지사 표창",
           "source": "메디포뉴스",
           "date": "2026.10.10.(토) 15:39",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tMDE4bUgzY0FfMzktUGI1aTVCb1FfQ0JabjdhWVFXejFpVTZfRFM5eGNZc19HeXlGRTlVcGxNaVNpbHFVeUlfWmtDa1g2Zk9ucTlCUjlrcWY0ZVNnOXZrcEQ3MFU?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "동아대 대학원 재난관리학과, 베트남 나트랑대와 국제 학술교류 개최",
-          "source": "인디포커스",
-          "date": "2026.10.09.(금) 21:50",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zbERyU1NXakJSTGREY0FCazZhRktxdFp4aHZVUG53S0VGNzlnd214cW4xUUVFR3NSejhRVkFlTlFaX1k?oc=5",
           "region": "national"
         }
       ],
@@ -175,6 +189,13 @@
     "pediatric": {
       "label": "소아응급의료",
       "items": [
+        {
+          "title": "[충청논단] 소아과 기피 현상 대책은",
+          "source": "충청타임즈",
+          "date": "2026.10.12.(월) 20:08",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfWWlubS0tNDEtcFBEejQwZHczaXFrU1NoZnpZWHgyUXZjSS04dmZDLVQxdmZjQVpMZDNPbHE3clFPZ2IzTGkzWi1nYU14Nkp4UWFPaXE0MUYyemFQRmh4SURXLURaSlJH?oc=5",
+          "region": "national"
+        },
         {
           "title": "지역 소아필수의료 첨병, 소아청소년병원 전문의 부족 ‘심각’",
           "source": "후생신보",
@@ -202,6 +223,48 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "헌혈증 1천100장에 담은 생명나눔…환자들에게 전한다",
+          "source": "바른지역언론연대",
+          "date": "2026.10.12.(월) 23:07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MaFZVV2pac0NkZFczdy1vZjd4ckY4M2hXOXctbk5tNmUxUzE5Mm1CU2lZV3R5R2N3ODk0OGlHaGRRSUpqSU5Wam5XRFM0RHZfU1h2ZFZkNXIzeEpYNlBKaE5xY2NKT3FmZlcxatIBbEFVX3lxTE5MaFZVV2pac0NkZFczdy1vZjd4ckY4M2hXOXctbk5tNmUxUzE5Mm1CU2lZV3R5R2N3ODk0OGlHaGRRSUpqSU5Wam5XRFM0RHZfU1h2ZFZkNXIzeEpYNlBKaE5xY2NKT3FmZlcxag?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "드라큘라가 헌혈증 기부 앞장서",
+          "source": "디컬쳐",
+          "date": "2026.10.12.(월) 21:57",
+          "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5LM0lHNHA5ZXV0bE95Z0RDR2tOTkt0Q3VmMjNmVzkxbVhsT081XzY3M3dzNWt3MDRPYUMzNjdB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "뮤지컬 ‘드라큘라’, 헌혈증 1000장 기부… 소아암 어린이 돕는다",
+          "source": "MHN스포츠",
+          "date": "2026.10.12.(월) 21:53",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VNzdhSmpVMUJMNmlueUxmbmQ5eW85WExFRi1kT3JPeTNJMDNBUEw1Qjg1dUE2T3B3bnpIV0tsdUtsYnJjYmdXQUtuaUJHcHd4NnMyXzgzeW5DdThWdHM5cFNRNA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고양소방서, 꽃우물축제서 소방안전체험 운영…화재·응급상황 대응 교육",
+          "source": "더글로벌기빙뉴스",
+          "date": "2026.10.12.(월) 21:14",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83c0pMTjhzSmJLcjlkWkhPTzA2SUFjdUFCVVlDaWx0MHZvWmI5a2JkX3JQejJFa3ZtYXJQRzJ5VnN6STlieVFHcjVYNW10RnBkZzE2Rw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "뮤지컬 '드라큘라' 무대의 감동을 생명 나눔으로 잇다, 관객∙배우∙스태프∙한마음혈액원, 헌혈증 1,000장 기부",
+          "source": "서울자치신문",
+          "date": "2026.10.12.(월) 20:59",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBacVM5QlliTHRmaHBKT0h4VmVUcU5hMjJSczJrS1ZtTmo5M19TSFJfQWV4cV9KaE9zaVN5VnZmeU16bTRfU3JtRkpMUlV1dWljY1BSUzd1NlM1YTYxXzF5Mi1WS181NFhn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경북전문대, 10월 한 달간 헌혈증서 2,104매 기부…생명나눔 실천",
+          "source": "국제뉴스",
+          "date": "2026.10.12.(월) 20:15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wamlFMm5LQ3lVLTJJTWNtbDlhdUQyaVg2NUNNeDd3cWpWdW4yZGRnXzlyc0kxeWtCTWlHVzB4Wl9hV1QyMkRfdnMtb0FOSTNlVjNHMHh5cnhYTWRTYkhGUEo4aW93UkxsWEhvN0tn?oc=5",
+          "region": "national"
+        },
         {
           "title": "[포토뉴스]대한적십자봉사회 인제군협의회 헌혈캠페인",
           "source": "강원일보",
@@ -249,13 +312,6 @@
           "source": "더코리아",
           "date": "2026.10.12.(월) 12:22",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbmMzRlZKSUpYYVpNY3YwN0Rpa1lDbHpPNWpvWUpydWdwUS1SODhLeC1fb1dRYzEzRnNDbzQtSnpDSFdhaWVwSzlxVHdKOGxfT0JDY1NMeFNob0dkOGlkZ01qMEJkZEE2eE9Sdi1oMUQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고양소방서, 화정역 꽃우물축제서 소방안전체험 부스 운영",
-          "source": "내외뉴스통신",
-          "date": "2026.10.12.(월) 11:53",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Z3VIUDE1UkJtRjM4S0ZFRWJkOGV4bkZlSWtTNlBSUmdmWG1DSTBPWUFqU3VZZ1RpYWlEUUdIX1JkLXFiY3RyUTRLeklRazVmSU5SdkRVaHg0dWZVVWtoWWRWS1lwTGdMZEF3cmdB0gFwQVVfeXFMTUdIYjE3clAyRzhtMXZ0bldiS0R4ZXZYZ0s2TjlKWlpXU1JWZWJSSkxjMVJvWHVxajJzTFA3RnFSUC1Ka2xKQmd4NzRBQk90UHA1SXFoWDBsWTMtV0dXcExzNkVnLW91UWhaVzZ4RGE4OA?oc=5",
           "region": "national"
         },
         {
@@ -323,16 +379,16 @@
         },
         {
           "title": "뮤지컬 ‘드라큘라’, 헌혈증 1,000장 기부…무대 밖에서도 빛난 사랑",
-          "source": "www.ikoreadaily.co.kr",
+          "source": "코리아데일리",
           "date": "2026.10.12.(월) 09:21",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44R05aUXdUVGZBcWZYdS1NZGliakdfMFR3V1VXYUczTXFpc2p3S1VBQkM0d2VwV29LaEZ0Nm9EbjlYRWhNLVV3Wk0xX1BsNzN1STU4RUlLZm1XYTJOR1MzdnRNY1MwT2ZGcGNRUktrb3E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxU1AzU3VSQ0pYNThQbnNOcmR6NXlySElncTdBTGVxeVFaV28tNno5ZmFEMFZiTUk2OTJOZ1ZGbGdPZEtWa1NWZ29KVWp3aGpka182TnRmWFM2cld4anFyYjViYnJWUGxXdXAyNk5EazhrQQ?oc=5",
           "region": "national"
         },
         {
           "title": "뮤지컬 '드라큘라' 헌혈증 1천장 기부⋯관객x배우 힘 모았다",
-          "source": "조이뉴스24",
+          "source": "아이뉴스24",
           "date": "2026.10.12.(월) 09:14",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZYXpQT1FJei1XQU1CTHJiYTBOU0ExVGhLMUlDTlRrSTRBQ0JmQU15dEY3c1ZuUjFiUWxIM0xIYlZDY0U4ZWZZSTdzQUIwMXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TTHRrRHEzTk1PQTlwVmNWdVUyNnZ4YWZpZElraWlDdGJjVGYyejUyQmJ6c1RsUTF2WkJ4TUtYTFFFeEk1Mld4UDRKVQ?oc=5",
           "region": "national"
         },
         {
@@ -375,41 +431,6 @@
           "source": "Vietnam.vn",
           "date": "2026.10.11.(일) 18:54",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3VnFMRm1PM0dvRVI0dmwyRENrODdvV1lKbWFoUV90X1U4VmJaWnlYaDhDOGg0NlVqR2cyZldtNFdPb0NqMEw0b1dLTVdvb2VTTW81Z09UdlRNUmprelZaNTJPaDBKbjViUzNXVjg4M0g?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "500명이 넘는 청년조합원과 학생들이 자발적인 헌혈에 참여했습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.10.11.(일) 16:43",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUVNbDY1Y3NUdWo5WE5vVUVuVXotb0E0VHYwcHFXMzV5ampyZEFrUG5YUFpHYnZXcDJiQlQ1Tnh6MnlBNnFrSlg3QktpaXRQa0NoWmU3cHNpUGVZMnQ2bUFSWmZNV29yMDhPZXFmTElkamhwVkZwazlPdFBjaktDdHJUWVB5RFpTWlB3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "충북과기원, '사랑의 헌혈'로 이웃사랑 실천",
-          "source": "충청일보",
-          "date": "2026.10.11.(일) 15:57",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qSFNLajV1ZWFnUzNWVWZzNTJsUUt6UWUwa0pfRjBuMEs4NFlJaE1ObjhIOGVtRzZDLTlwcjVVSzRiVmJjSXFmY3Z2MU5ua2hKeTNUTWtUcmg1UW1lWlp2VFZYN3J2THdqLUFjZGE2SUo?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "◇광주비엔날레, 오늘의 작품- 정금형 作 ‘재활 훈련’",
-          "source": "남도일보",
-          "date": "2026.10.11.(일) 15:57",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00SVBnZjk5V3dOTjMtZklKMnh0SXQ4aEY3TS1Zdm5LNGlERS1VZXhuMlhoLUJiTUJpR0cwZXFQX0hRSnM1b3dnUDFLeG50eC1uTkU5YW1McmVKMDdLSF9MNTJRcWs0ZjltNFgtWTh5ZVDSAXBBVV95cUxNNElQZ2Y5OVd3Tk4zLWZJSjJ4dEl0OGhGN00tWXZuSzRpREUtVWV4bjJYaC1CYk1CaUdHMGVxUF9IUUpzNW93Z1AxS3hudHgtbk5FOWFtTHJlSjA3S0hfTDUyUXFrNGY5bTRYLVk4eWVQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“생명을 살리는 작은 실천”…동강대, 헌혈·조혈모세포 나눔",
-          "source": "진일보",
-          "date": "2026.10.11.(일) 14:49",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83cjg4RWxRNXY4ZGFFYldHOFVVaGVCU1pPM2tpeXVjWlhmajdMZWZuT1BEUkZsMmdQaFpLQ2w1SFNybFFtT3Q3bFVBeUdQNDkxMmx1QTN5NkJPZnRzQkFlb2ZDTEdmcDRDX0JCT21qSQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "iM뱅크, 창립 59주년 맞아 임직원 ‘사랑의 헌혈’…23년째 생명나눔 실천",
-          "source": "뉴데일리 대구경북",
-          "date": "2026.10.11.(일) 13:32",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPWFc1WjhQeFZ2SUxXLUdlQkduR0JKbEVfYmIyNWl0RU55TV85MkRFeFlDTmozeEU3MmU0a3ZIVU4zcFNsdkMwU0J5OXIzN25fTC1zTGxIbElXdW5VTFZzeWJPQm1NSHE4R3FrSWFiM2w3T0I3bWF2cUxlby1NUkHSAX9BVV95cUxQT1hXNVo4UHhWdklMVy1HZUJHbkdCSmxFX2JiMjVpdEVOeU1fOTJERXhZQ05qM3hFNzJlNGt2SFVOM3BTbHZDMFNCeTlyMzduX0wtc0xsSGxJV3VuVUxWc3liT0JtTUhxOEdxa0lhYjNsN09CN21hdnFMZW8tTVJB?oc=5",
           "region": "national"
         }
       ],
