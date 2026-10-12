@@ -1,14 +1,70 @@
 {
-  "generatedAt": "2026-10-12T00:36:47.407030+00:00",
+  "generatedAt": "2026-10-12T11:01:48.145087+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "[화제] 동전형 건전지 삼킨 9개월 아기, 230㎞ 날아 부산백병원서 치료",
+          "source": "간호사신문",
+          "date": "2026.10.12.(월) 17:34",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1cHF0UXlSUm0ySE1PNk1ZSTJPQldZMGNBXy12c2NrZ3lUWmNVTHMxdTNGRkNPUW1oZHZtck96WXU1a3ZpRmZFMVpoY3Rkb3pkOVV5ellhSWRmZkRIVkQ5dDR1NnA4THpYOENLWmp3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "건전지꿀꺽 삼킨영아...\"230KM날아\"부산백병원이 살려 |",
+          "source": "한스경제",
+          "date": "2026.10.12.(월) 17:23",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWDYtVkNmb3A0ZGxKWnl1NnZON0RKZXVUNW1NZlhFWVZ3eWl4V3VqWXJrd3NQbTMzdVpkTlNBdjg2cXRWVFJvUVhHb3EwWHJLc1hQTk9ibkRmdVBTWUFPdjY5NU1nTWxkbGExbmd1aw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "아주대병원·원주세브란스기독병원, 거점외상센터 지원 병원 선정",
+          "source": "아주경제",
+          "date": "2026.10.12.(월) 16:54",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OR2g4dXkyRmc5UDA0N3BRY0V6MnZlUmRQc203a20xWG5mS1lJLV8yV2hnOEl5OHlnMV9HUUVSTE1ST0xlbkpKUWZMdnpfamxlV1ZhZXhOOVHSAVhBVV95cUxPTkdoOHV5MkZnOVAwNDdwUWNFejJ2ZVJkUHNtN2ttMVhuZktZSS1fMldoZzhJeTh5ZzFfR1FFUkxNUk9MZW5KSlFmTHZ6X2psZVdWYWV4TjlR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "리튬건전지 삼킨 9개월 영아, 전북서 부산까지 헬기 이송",
+          "source": "국제뉴스",
+          "date": "2026.10.12.(월) 16:25",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TaFRTSTk0ZWJ4cnMwQmJtR2JpUWkzWDNPU0ZJWWlyOFBiRWJHWDBTY01RVmd6UExpTFcxV1VvNTRfMG9FRlNjM2NIYktoUERGaFlWdHo5RWpvMDdGeFBMMUw4SkMyTEJoR2hVU0pR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "복지부, 거점외상센터 '아주대병원·원주세브란스기독병원' 선정",
+          "source": "의협신문",
+          "date": "2026.10.12.(월) 16:19",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2NwOU5KS29fYnIxenNQc25aRDNrU3pNVHQxOElGRlZZczlyRjNhc2NYOFI4WmgtbGpEVE9LdERLRDMwZVR6b3duRGg1dUxBTlBVTFZHVXhZUENnR2ZDNjRhX3dkOUdnd0VoazM4VXNVMW9Xb0dadTJ0QUhtWGFObURfTG0xTzV3NXZB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "단원병원, 지역응급의료센터 승격 지정… 전문의 10명 전담·소아 야간진료 연계",
+          "source": "경인매일",
+          "date": "2026.10.12.(월) 13:59",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Ylh0czdKS25vZDNoZmd6Y2N2Rk5LcUlmR25kRjU2VDdfSFdQZXZNdjcyTTFxOE9hQzZ5ekZkUkpqZUtJX0pMLUtaZ0RmR1VuWDJ3ZXRzYi0xU1dKaFNjMkJUMUtpT3hl?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "중증외상 거점외상센터에 아주대·원주세브란스 선정",
+          "source": "뉴시스",
+          "date": "2026.10.12.(월) 10:38",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jM1RmZDctOUVKOHAxcXBObERTOTNBRmRCdjdSRmN6Nl81SXJZYzZ1THM2WUtsS3phMXlnTWI3X3N4YmhjZkc0NFlNQXZYRUQyM1dlMWZybFdGcjZmQU94Z1BEdXBmVnNJZ25DZ1lqb2kwLUV4bFZDWNIBeEFVX3lxTE1jM1RmZDctOUVKOHAxcXBObERTOTNBRmRCdjdSRmN6Nl81SXJZYzZ1THM2WUtsS3phMXlnTWI3X3N4YmhjZkc0NFlNQXZYRUQyM1dlMWZybFdGcjZmQU94Z1BEdXBmVnNJZ25DZ1lqb2kwLUV4bFZDWA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "단국대병원, 재난·응급의료 발전 공로 충남도지사 표창",
           "source": "충청매일",
           "date": "2026.10.11.(일) 14:35",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aVTZpUkxfRTlaZG5raUR3MHVvTHFvN2V0VjhuWVlRemxuaWRyZzg3MVlEWWJLRU9WWUNwbzY3UnQxdnpBRTB2VS1IczVmaUc5anF5Qk1kNmFTM2FsaUZxV1JBWWdpU1QwSWc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한게임 피망 포커 : 완벽한 비교 가이드 (2026년 최신판)",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.11.(일) 14:27",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0lrSmpuT1VIUE41VVFWQjJDOU5mMVVYbjIycTZ4blpUbVhDcG1VbDVZb294OFFidnhZQmZjZHhlbFZBazFYZEJORXpWQWw4N1ZEMkJBeE5JRFhwaV9pNFBHbHl2aW9uVmFMS3RmcTZVakV5M0RtM2stb3ZqX091WTBjcDBnczI3VlAtOVhHVkhJSjd3Qkl3WDR2dG9zc211RkU0MjZULVljYXBjX0E?oc=5",
           "region": "national"
         },
         {
@@ -33,6 +89,13 @@
           "region": "national"
         },
         {
+          "title": "토이 토토 게임 안내의 기호와 범례",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.10.(토) 14:45",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjJ4R1lHQVhrbGNYNUtnT3RJVENsQVdsUF9ONDdvNXBzSF9TYmZfSkoxM1E1R3VGcDFNaFNnUUpWN3VPSzhDLXBpam5QaTJTMEk4U3FpY25zWFFKS3BnVXlzblN2RTNBeUpHUjBjVGhsbHltLVFpZWF0Q1FTcXNacFdHTDBDSW5WOGdIczRZNTR3RUVRWTRNYVBYYVJPUEZ4bFhzblRtV1MxM05qdmlV?oc=5",
+          "region": "national"
+        },
+        {
           "title": "블록 체인 스마트 계약 도움말의 그림과 숫자 읽기",
           "source": "Calgary Roughnecks",
           "date": "2026.10.10.(토) 03:39",
@@ -44,20 +107,6 @@
           "source": "반월신문",
           "date": "2026.10.10.(토) 01:43",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtZlkwcURFUlVVS2ZTVHQydnlFcG5fcVNsb1ZITm9sMWh3dk5UbV9DalIxallQNXB2LWJ2aXRpNlRGNXdvMi1JcjNSUHRudEVKbkRmdXNWdGpqQldBRFlJRGE1QVg3OFU?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "당진시, 소아 야간·응급 안전망 강화한다",
-          "source": "당진신문",
-          "date": "2026.10.09.(금) 14:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TZUFfY29BQXB6OUhhZW5RVWJIVVBUSXJPdzdadjJab1R1WnNzZm0xVGVhRWRzbHp5eFBSYXJRUDM1Sm81ZlVRblc3VDR2SzJ6bFRQZ2trRm1iTjRzUTFPVldCN2VjS183?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "게임 중 회전 잠금이 필요한지 보는 포커 프로텍터 모바일 정보",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.09.(금) 10:43",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQThwYjN3YUdtcExhSUtzeTVLYkkwSlJjVURYMmxydlhyOHRMclp4N0ZzS2t5U2RmWWVlUFNnUWhMY2tfb1pTdlU4TjdDTGNfd1pqek54cmNoZzBHdDRfV1JOWDJsNzVkSWlRRkQtdkFhUTJ1MzRRZXV0eF9NVVVEdmpBUFpyN1c1Ykw4VGtzU2ZLcTdlTGR3N0hpdlg4Zk9WcXhucVNrazdDa0cxVkpIM0ZENTJlem8?oc=5",
           "region": "national"
         }
       ],
@@ -137,7 +186,7 @@
           "title": "소아응급센터 압수수색 유감",
           "source": "전북도민일보",
           "date": "2026.10.11.(일) 13:56",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY2NIeFpWUEYyVXRoNy1qZVFTTmt5QUdjeHhxTW1CSFJ0TE9zMktsRVJEZlBPek9yOXQ2MnJ3WlR5U1J5UTBtN3pzYWxQX0tiYnZsV3RTTzFocmFSMlpKT0g0Y2JUSFgtRmdoQUluRFVzSVpza0tyaTBoNk5VVFZKbmJBV1ptZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3cwOXB1ZHZ2dU9zX2lCU3E0STNISWdPemcyVmpxRlJtRk5BaUJnWmJmOVJBV1pCcnRIWGVaU1phVUlXWDRsdVprZ09ubkE1UlQwbVVNMkNZLUt6cVV5aHV0SzV6MHNNNUpUUmxpaGU1eUEtSUxUWEE1eXUxeGI5c3pLMUlqbjQ?oc=5",
           "region": "national"
         },
         {
@@ -154,6 +203,118 @@
       "label": "기타",
       "items": [
         {
+          "title": "[포토뉴스]대한적십자봉사회 인제군협의회 헌혈캠페인",
+          "source": "강원일보",
+          "date": "2026.10.12.(월) 18:39",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CbnRlbWZIS0p4ZGVFMDlrNWlYVEl2Y1c3alpUY0szYmhCRXZyQTV6R0h4cGdBdEt6eDMtbzk5NERQd1hwRFV6X29xM3dQUU9sLXRvdTFYUGlpVWs?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경북 포항보건고등학교, 사랑의 단체헌혈로 생명나눔 실천",
+          "source": "대구매거진",
+          "date": "2026.10.12.(월) 17:09",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xTTE4enRGVGFVUE9zalh0N2xaTGtKWXRqa21lN0dJNS1jQ3M2YzlnUGNldng5Wk5MUU14dzJsXzRlZHBYUmtYX2V3TGdNcDlxX0xYRUdCcHcxakhEZW9qRmU0UTBqRzJYNktnM0RlY9IBckFVX3lxTE9yOFFpSUx1cjNrRWx3WEZ1OURUWlFFSlp1TnNxdFFqeUlQeGRIUUtZeUZzZElEajNLR3dGSWJWc19jVHljbGd2NUpYczI5TmhnZ3lnc2ZHR2U3RXI5X2NZbU9odkVWRXBQdUJiSnBYMXdTdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "뮤지컬 '드라큘라', 관객·배우와 함께 헌혈증 1,000장 기부…‘생명 나눔, 무대 밖으로’",
+          "source": "더쎈뉴스",
+          "date": "2026.10.12.(월) 14:15",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMkR5aC1ZbjdtaXlKSmtja1hyZGMwRktQMW5pWnJjeS1sRGhtbDlvRE5WTHdtOWlXVGs5eEJrMGNPMlExazl1U0ZSTThEUmlSdzM3cktIbldNdWRhWkhXbV9XRjRDeTIx?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "제주 해녀 조업사고 80%가 70대 이상… 심정지 3건도 고령층",
+          "source": "파이낸셜뉴스",
+          "date": "2026.10.12.(월) 13:58",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjYnpfdXJIY2FBQi04bnNyNmZneExiS1dnTU5wbHJSb2FuY0hfaEpodkF0bDlSZF9ubjZTdzRHS05rSk1ueUs0aUZ0eW9pR1Y4WDU0cXhKQThidw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "종로소방서, ‘종로구 어린이집 한마음 가족축제’서 소방안전 체험부스 운영",
+          "source": "FPN-소방방재신문",
+          "date": "2026.10.12.(월) 13:30",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VWHE2VXRyMjUwQTVHTlR2bWZUMkhxTmJkeU1Ka252RXBwbGVGWVNVcXBSZ05aZUNIU1NLc0RsSF92cnFI?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "계양소방서 의소대, 초등학교 대상 방문 소방안전교육",
+          "source": "FPN-소방방재신문",
+          "date": "2026.10.12.(월) 13:00",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ZbWJ5NkdBemxjczhyM0p5ZHY0Rjg0aURPOE1kd2xWNkp3TFpRYlVMWXJvZGdnSGFVbkNoX2ZUaWxPYjlx?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고양소방서, 꽃우물축제서 소방안전체험 부스 운영 > 뉴스",
+          "source": "더코리아",
+          "date": "2026.10.12.(월) 12:22",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbmMzRlZKSUpYYVpNY3YwN0Rpa1lDbHpPNWpvWUpydWdwUS1SODhLeC1fb1dRYzEzRnNDbzQtSnpDSFdhaWVwSzlxVHdKOGxfT0JDY1NMeFNob0dkOGlkZ01qMEJkZEE2eE9Sdi1oMUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고양소방서, 화정역 꽃우물축제서 소방안전체험 부스 운영",
+          "source": "내외뉴스통신",
+          "date": "2026.10.12.(월) 11:53",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Z3VIUDE1UkJtRjM4S0ZFRWJkOGV4bkZlSWtTNlBSUmdmWG1DSTBPWUFqU3VZZ1RpYWlEUUdIX1JkLXFiY3RyUTRLeklRazVmSU5SdkRVaHg0dWZVVWtoWWRWS1lwTGdMZEF3cmdB0gFwQVVfeXFMTUdIYjE3clAyRzhtMXZ0bldiS0R4ZXZYZ0s2TjlKWlpXU1JWZWJSSkxjMVJvWHVxajJzTFA3RnFSUC1Ka2xKQmd4NzRBQk90UHA1SXFoWDBsWTMtV0dXcExzNkVnLW91UWhaVzZ4RGE4OA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고양소방서, 꽃우물축제서 소방안전체험 운영",
+          "source": "뉴스팟",
+          "date": "2026.10.12.(월) 11:52",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9BMm1uY0taX3NTTUoxakhFNUlMU0tEb1pSWHFrQmdDTXdhMTFXR1h4Szhtb1hxNi1seFNvd3BFNUJhd2s?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포천소방서, 시민의 날 안전체험부스 운영",
+          "source": "포천좋은신문",
+          "date": "2026.10.12.(월) 11:38",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMYnRCMHVKVTc3X2NKS09WdHg0VU51WVMyeTA0bXg5TE9OV0VLelZ4TndtME5fZFFUVHh4M2JDeGpuNF9ka1JhMmpYVjA2Tm02UHo1ZENGTnhnekhHbDZfTDlId0dRdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "달서소방서, ‘대구 유아차 걷기 한마당’서 소방안전 체험부스 운영",
+          "source": "FPN-소방방재신문",
+          "date": "2026.10.12.(월) 10:28",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4waENTS2NoS280UkFCQllXMDJTZ1FfNDlxRTF6OGd6bGltbU8tYk1WbDV2WEVkNDJVVUl1X0pMN0htWmpE?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "김준수·신성록 출연 뮤지컬 '드라큘라', 폐막 앞두고 헌혈증 1000장 기부",
+          "source": "SBS연예뉴스",
+          "date": "2026.10.12.(월) 10:16",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04bXlPQXRhcUFLRWxkRmU3VGxnbmw4enhPX1d4NXZRWkRmUHZhY0oycTFhWU8xaWUtOVAweFg0QzR3QmZPdmpaVzhCOFoteV9tMm10ak5lVVA0VzVUaHF2S2pCRWwzZ1AtVzFKTNIBbEFVX3lxTE04bXlPQXRhcUFLRWxkRmU3VGxnbmw4enhPX1d4NXZRWkRmUHZhY0oycTFhWU8xaWUtOVAweFg0QzR3QmZPdmpaVzhCOFoteV9tMm10ak5lVVA0VzVUaHF2S2pCRWwzZ1AtVzFKTA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "뮤지컬 '드라큘라' 헌혈증 1,000장 기부... 무대 감동을 생명 나눔으로 잇다",
+          "source": "선데이뉴스신문",
+          "date": "2026.10.12.(월) 10:13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FNFpqb3VMdmlXd2psTHdIRVZNNEp4d0I2VktJUUFzemhyZmlLOXpFWmxudkxGWVZFaEd2ekVBSE5ZbDE4UU1wRGY0WWVoR21kMUhfSmJfTGN4S2JV?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "'드라큘라' 10주년, 헌혈증 1,000장 소아암 어린이에 기부",
+          "source": "국제뉴스",
+          "date": "2026.10.12.(월) 10:00",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NMXIzRFljZ0hGakJMNUlEY2FhYTVIaWJOdzhFS092YVRHbVJ0RDJidkRzYXFsbThDeXEyMlhoaTVYcTV5M2k4bnNBVEE1R2VockhLUWo3enRUN3ZDU2V3RVM1UXJJZzNIWVkxUTB3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "뮤지컬 ‘드라큘라’, 헌혈증 1000장 한국백혈병어린이재단에 기부",
+          "source": "스타데일리뉴스",
+          "date": "2026.10.12.(월) 09:56",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Yd2pEQ2h4bVFNRThLb3RnUWR2YzJkN2ZSNmJqT3F4alVuWVJaT1ZJRHEtckI1MGl6aUY0R3cwcDd5VWR0VG1EVDEzc1Iza3hESWhEODdETjBYdURub0lxYmVYV21CRDItSDJaSzRhdlVkbkw1Q0dkSdIBeEFVX3lxTE5Yd2pEQ2h4bVFNRThLb3RnUWR2YzJkN2ZSNmJqT3F4alVuWVJaT1ZJRHEtckI1MGl6aUY0R3cwcDd5VWR0VG1EVDEzc1Iza3hESWhEODdETjBYdURub0lxYmVYV21CRDItSDJaSzRhdlVkbkw1Q0dkSQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[산청소식]교육지원청 '보드게임 학부모 연수' 운영 등",
+          "source": "뉴시스",
+          "date": "2026.10.12.(월) 09:48",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNXlLMUhJaXhSczllNE84RDBwX2pzYjlvd0J6UFZqTU5HUGlNTFRweDZrdjZTU0NLdC02d0IyU0xCc0t4UXpzU3VTdkNkQkNwMTd3dXJ3anhyS3JQbHl4XzdRQnFWTmR3bEE3X1QtMnFLeXRrdkVvetIBeEFVX3lxTE5ZNXlLMUhJaXhSczllNE84RDBwX2pzYjlvd0J6UFZqTU5HUGlNTFRweDZrdjZTU0NLdC02d0IyU0xCc0t4UXpzU3VTdkNkQkNwMTd3dXJ3anhyS3JQbHl4XzdRQnFWTmR3bEE3X1QtMnFLeXRrdkVveg?oc=5",
+          "region": "national"
+        },
+        {
           "title": "농기계 안전사고, ‘치사율 15.4’의 경고",
           "source": "농업인신문",
           "date": "2026.10.12.(월) 09:25",
@@ -168,13 +329,6 @@
           "region": "national"
         },
         {
-          "title": "성남문화재단, 위례스토리박스 생활문화축제 ‘다섯 번째 With Story’개최",
-          "source": "매일타임즈",
-          "date": "2026.10.12.(월) 09:15",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yNmptX2t3cTlDT0VRMGhXQWpwbEVXdmFzQ2NGaUFuNU5nRk5OYnFtdUdJOWF3d2Nub280RnhlNVVLYmNMWlZLa01IUWowRHJoOE9ZR3Nrcl8zdWxkZEY1WkRuLVhwa3Rm?oc=5",
-          "region": "national"
-        },
-        {
           "title": "뮤지컬 '드라큘라' 헌혈증 1천장 기부⋯관객x배우 힘 모았다",
           "source": "조이뉴스24",
           "date": "2026.10.12.(월) 09:14",
@@ -182,17 +336,24 @@
           "region": "national"
         },
         {
-          "title": "우리동네 봉사왕 시상",
-          "source": "횡성신문",
+          "title": "성남문화재단, 위례스토리박스 생활문화축제 ‘다섯 번째 With Story’ 개최",
+          "source": "성남포커스",
           "date": "2026.10.12.(월) 09:08",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VbnFDNHEzclp4NXJBRGRzSTBERlBWU1V6RXd4djRXWWN1dE15dlZTQTlUUHJmTHd6UjhESmF4WmFDVVpiM0l0TFJDLU8zczE2QWZjYzladnQzbE1QM0xOODdkQTdTcjlFbGdsS2tua2ZJc3pVOVJ1aTN2TWFqMG8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWNERVFuQ3ZMcTNvT2J4dzQyUWxZOTRmWHA3ZmhOV25haUVpd0RhZ3pGR0lpeTJNNmxFLXFzY0hqLVRKMnZwWFMxQVFHRk80WG1TaFk1RThGa09NOWU2aGNBZzJNeVNObHBLVEU5VE9MVzVnZmFVWGdaR0Z1THJLX3lGeU9oVF8yT2FUdks1ZWpfUQ?oc=5",
           "region": "national"
         },
         {
           "title": "[공식] `드라큘라`, 피로 베푼 선행…\"헌혈증 1,000장 기부\"",
           "source": "마이데일리",
           "date": "2026.10.12.(월) 08:14",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QbjBXTTBELWxGdGhzSXlJSTRWQVJoWFdKMlJoRkNwdTNJcmFxc2RoRkhaTWItRzIwUUp4RGdGZDc2c2pqV0VrZFBCVHhzNzNWb3pUSTlyTVJ5TC0xWkZNVC1CaG1xdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tcGEwbEtxMGZ4d19RMnhaXzZCdUNiVXBrZGRsa2wwdUI0aEZ1cHpaLVM0RFd5ekZHUHJrQnhxbVJtYVJDdHpTSTQ5N0dfR2pqNUthUzgtQTBhdFNxcjFnTw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "與, 중대 환자안전사고 181건 중 48건 사망…사망 사고 62.5%는 투약 관련",
+          "source": "데일리메디팜",
+          "date": "2026.10.12.(월) 07:49",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yY0tqV2twWEhVcE9sdXhDZk1yNEFjMnp5NVNpVFhyT3hGa3RURmdlWjFHWl82Sy16NHZsc0REYmJGRzNBdGcyQTBJQUxtUkpSbTVnUzN0RlcteWIzY3JHejBiSk5hdVJOMGVLbVBR?oc=5",
           "region": "national"
         },
         {
@@ -207,20 +368,6 @@
           "source": "시사미래신문",
           "date": "2026.10.12.(월) 00:17",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSLXNjUEQtSEttRVdIZ2lQM0Zjd1FhT0doenlBZDNOWDB5VjYzZnhVYS1jS2RrMU5QYWhoOUV4Um1JMlNGNHBCMkstTTdaWXJBVjlvM3lkZ2ZIU2syNDBfR01wTQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "2026년 자발적 헌혈의 날에 245단위의 혈액을 수혈받았습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.10.11.(일) 23:59",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3pKYTRXcFFxR3NWSk1ubWZlN2Z4T1dHNm9vM1dJc05RdkNlZmJYUUw3MEN1eXQzYzBpbXBSdHcxaGZnd25OMGNKTUNwUTM4NUljUVV3dUNVNG9jRGpQamFUMXpOUWptbkI2U1F1Qk1NZnpkZFVlVTFHbzQxdmVQdEpzMzBHQlQtT04xaFlHN0Ftb2tWWGhmTzFENA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "게임 화면의 작은 문구까지 읽는 슬롯 리모컨 정보 탐색",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.11.(일) 19:36",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRTFQOEFrXzhhNHk3d01UQWxYTVRrUHp2OUlHUERzV3RweXNMOU02cVp1Ujdobkx1eTRNcnVIblljQUY0QkxEOGQzSUZobnRhT3NzUjVsa3l6cjlzVHpYRXdrY01WSS1VRjM3X2VhZHItbVczRWJYTW8yMHFwUmxzNDdMRnNNZXRYd2VMX0FreUZPdTdNT2MxYlVNYk5Qd2tyZjNNemVndXN5SzdiWnVEaHFlcks3WFctWjhzZDlaR29Lb1I1UnY3Ykx1T0JGUEhlT1VnWkR4UFZZUkdiUTNRVEdmd0t2cjRZMDV0M0FvMWNWLUFpdFFHSlpxWDNQRXowWEIxNF9XOVhtOF9XNXVuaFpOT21mTGVWQ1BDMjR0SXlqTHc?oc=5",
           "region": "national"
         },
         {
@@ -252,13 +399,6 @@
           "region": "national"
         },
         {
-          "title": "시민상 15명 시상·새 슬로건 공개…인천 시민의 날 축제 열려",
-          "source": "인천게릴라뉴스",
-          "date": "2026.10.11.(일) 15:44",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QSk9vQVJUZzFOWlI5N1dvNnJnQ1kyOGlDS0pxM2dXQ19sSlhkVEVlWjUtNzNSV2ZMcVdIZkEzUDVXbnUwdWFaNGFYQTBDTGQzaDdHeGNzU3I5REd2akdYVUNXVHJsZw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "“생명을 살리는 작은 실천”…동강대, 헌혈·조혈모세포 나눔",
           "source": "진일보",
           "date": "2026.10.11.(일) 14:49",
@@ -270,97 +410,6 @@
           "source": "뉴데일리 대구경북",
           "date": "2026.10.11.(일) 13:32",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPWFc1WjhQeFZ2SUxXLUdlQkduR0JKbEVfYmIyNWl0RU55TV85MkRFeFlDTmozeEU3MmU0a3ZIVU4zcFNsdkMwU0J5OXIzN25fTC1zTGxIbElXdW5VTFZzeWJPQm1NSHE4R3FrSWFiM2w3T0I3bWF2cUxlby1NUkHSAX9BVV95cUxQT1hXNVo4UHhWdklMVy1HZUJHbkdCSmxFX2JiMjVpdEVOeU1fOTJERXhZQ05qM3hFNzJlNGt2SFVOM3BTbHZDMFNCeTlyMzduX0wtc0xsSGxJV3VuVUxWc3liT0JtTUhxOEdxa0lhYjNsN09CN21hdnFMZW8tTVJB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "평택도시공사, '사랑의 헌혈 행사' 실시…올해 세 번째 생명나눔 실천",
-          "source": "뉴스핌",
-          "date": "2026.10.11.(일) 12:01",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92Qnd5X2lXX0FrbDY2UVdJeVpHcTVrcllONE9NZUYzX0FzRHFFMlpKbFdGUVZYMy1sSzRyekVyM1dZMkNTQWlWbW8wQ2pwWjlGWFBDT0JkU3dzUVhV?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "조용한 환경에서 확인할 토토 결과슬롯보증 소리 옵션",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.11.(일) 02:48",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2JyelIwaDczWmVlbXVMVWFUYzRqVGlzU0RkeW1hdmM1NmVxbWpMMGs3WGstM3B2Zi1lOEg0UTFlRDNiN1RLMGlZckkyZ2NpSE9wbWlqY3BjX3FKT0tmdEFjTEIzNDhadXAwRjVRbFB1Yl9qeV9ucjQ2REFvWm42czd5RU93eUtTWnpDdkRmZ1ctaTVlejEtRnZkRUVoUnlhM1g3NXV6TTF0YTVsN2FMRGN0andqN05uODFoYk5fSkJFSUlzbEE2aGVBMk51TllvQWNUYkNYSnpudw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한게임 고스톱 다운받기 클러스터 방식 적용 여부",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.11.(일) 01:43",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGR3TmlVZ3pJTzlOamJMd0lEbTgwLTNhYmREVG1ueUNPU3ZPVWs5R1djbEQ5V2R3N19ncEk4OFpLeEtWZC1WdktlVExqNzN4VGE5WUx0bE9NRzNOTUFUWm9JMmNnUTBLekFyb3RKaVFLRXJreERTdGVIWDlVeXZBUG9tSmk4cWJrOHhudHpjSHBYUnpXWTJMb25PcGFGaWZGNUpMVGJTM1RIMnlKallwV2R2aEM2WFhNVkVubVpzcklJal9hUUh1a0t3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-          "source": "에너지경제신문",
-          "date": "2026.10.10.(토) 20:48",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvN3hmNF9CZUlfb28waDl0TDBxZ242WVlNTUtsN3JjUnJ4VTJuX1NwMmIxTFA3UmtSLTZ5TnJCSWgtUm1JcGYxOTlqWkxlcDlSOWdJUVdVSHdlU0E?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전국 중대 환자안전사고 181건 중 48건 사망...인천서도 10건 발생",
-          "source": "경인방송 뉴스",
-          "date": "2026.10.10.(토) 16:42",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05ci04aEtpVlU4VkR5QVczb2piNFVWX1g3Tkd6dk0xVnJqVjhaakJ4N0UwVzFXaEdZYkhpQ1ZTaEdraXpvVVBkeUNqVGZlZERLNi1HSS1WNTdYYm1abG81VExORERjM3BH0gFoQVVfeXFMTTlyLThoS2lWVThWRHlBVzNvamI0VVZfWDdOR3p2TTFWcmpWOFpqQng3RTBXMVdoR1liSGlDVlNoR2tpem9VUGR5Q2pUZmVkREs2LUdJLVY1N1hibVpsbzVUTE5ERGMzcEc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "콩주머니 사건으로 드러난 우리 교육의 형사책임 공포",
-          "source": "교육언론[창]",
-          "date": "2026.10.10.(토) 11:51",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9INmhyVThhczNaUG5pT1lsajVfWGdZZVhVOGZFSDZYQUdNaThqNWhnRHF2OTR3RHFsU3ZnenhocmZuSmFtWDdvQ1RCYklGWkZzSnM0TDRkUzZKamZaTFNaempjaHRmMlIza2ptdkUwRVrSAXBBVV95cUxPSDZoclU4YXMzWlBuaU9ZbGo1X1hnWWVYVThmRUg2WEFHTWk4ajVoZ0Rxdjk0d0RxbFN2Z3p4aHJmbkphbVg3b0NUQmJJRlpGc0pzNEw0ZFM2SmpmWkxTWnpqY2h0ZjJSM2tqbXZFMEVa?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "최근 5년 중대 환자안전사고 181건…사망 48명...투약 오류도 5년간 30명 사망...다른 부위 수술도 125건",
-          "source": "재경일보",
-          "date": "2026.10.10.(토) 08:22",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xaW0wX0tHc2RmZ0F5Ynhub3hEQXcxb1pqRmxDLUhCaXYtQm5GUDJBY290eTFQWHVobE1jNHgwcV92b2x2WjdlZVJXWQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "하이퐁의 노동자들이 생명을 구하기 위해 손을 맞잡고 헌혈에 참여했습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.10.10.(토) 01:29",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3JuVjdRZ0VMbGxmUkI0b3VyV0ZFRkZYemN5WlJIWEJBVnVTeEFNbVN4WXJ6eEVxY2szcFU1VGhlckJRTXJFYlVRSDhEV1Y2R3ZvaGFXdE9BcEpOdDdoV3pJb045NnU5dnhxdzVHMG1wVHc4QWtsXzVWVVczRl81QU0xS3Jfc3oxUmhB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[삼척시] 삼척시사회복지협의회, 생명 나눔 헌혈 및 복지사각지대 발굴 캠페인 전개",
-          "source": "연리지TV",
-          "date": "2026.10.09.(금) 23:23",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZkFLaEJEMm1ydU1mY0tEX3VaWkJWVVVFT0RTN2tRZ2M5YlpwRExXUHVPVE1tTndWX213R2lWZnZzNFNOMk1sbERWSU04NGUtY2hfRHc0NVFIaTVKVnJNMUlIbWhnUmllUUE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "수원시여성리더회, 장학기금 마련 젓갈 포장 행사 열어",
-          "source": "투데이경제",
-          "date": "2026.10.09.(금) 22:08",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2ZklIWVlKa2JCOHRMQUtvWDlBeGRqTWs5c1BPMk9Hd3JMR2ctTElfRmZUVUlVY3U0bEU0ZFlQc0F4dUl4RTJvYlNGOUZDa0xwTmRyMWt6ZFpBMFloZU5GUjA5YmhhM2RYTGtj?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "평택도시공사 한병수 사장 “지속적인 헌혈로 나눔 확산”",
-          "source": "뉴스타운",
-          "date": "2026.10.09.(금) 21:57",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZ2YyUnNDTEpINTlDbGNqUDEtTjZ5cHc0QXAxNVVOOFRTaWJodDZTUERHZXdHcEFfeHh5bVFvcURIOTk3WG4wbURvTGVLV0laVVM5OVY2SklxaVBTcUFfOHlQa3MyanhNbVZBNGZ3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"Drop of Compassion\" 프로그램을 통해 90단위의 혈액을 수혈받았습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.10.09.(금) 20:15",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEpjR1k5UnRzaV9JMXl1Z2RDQjB0bjBpaTl2VzRraC1TU3VWaHNJVHRkenhlWktZdjAwa0RzZGRST3prSEhLMVduM0VXanlVSHhFUE5YZEI2ekZuU2czNlM4OHczWFhKYXFBRERaeFQ2S1o4eHVDdEFzOGJQOTBLZzFWSVY4TjNkOS10Ug?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경기도교육청평생학습관, 특수교육대상학생 학부모 위한 생활미용 프로그램 운영 > 뉴스",
-          "source": "더코리아",
-          "date": "2026.10.09.(금) 17:20",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBINW1HdG9Ra2NtOERESC1tcm1xTVdSbTltVzlVeFNwRWVMSUdfS3pPZUdpTDlaR3hJY1NtVk1wTUdRcWM?oc=5",
           "region": "national"
         }
       ],
