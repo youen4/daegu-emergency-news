@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:59:35.058123+00:00",
+  "generatedAt": "2026-10-13T22:52:16.582967+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -19,6 +19,13 @@
           "region": "national"
         },
         {
+          "title": "응급의학 전문의 34% 증가 ‘30분 초과 이송’ 2.7배…혁신위 “배후진료가 문제”",
+          "source": "medicalworldnews.co.kr",
+          "date": "2026.10.13.(화) 15:03",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdFcxMm1LRlE3Nl9SMTI0Vm1UbnRRM1VJU0FJX0tnTzhZZkxSNlZhMFcyTWhoMW0tY1BSakFzUVZURWkyVFZHR190TGhjbDRVMUxIc2VEaVNtdGM2T1FLdFRDNXEteFI5ZXFTM0UwYzY?oc=5",
+          "region": "national"
+        },
+        {
           "title": "연휴에 리튬건전지 삼킨 9개월 아기…전북→부산 헬기 이송",
           "source": "연합뉴스",
           "date": "2026.10.13.(화) 14:44",
@@ -29,7 +36,7 @@
           "title": "속초의료원 응급센터 취소 파장 4억 연봉에도 인력난 : 책",
           "source": "의약일보",
           "date": "2026.10.13.(화) 12:45",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVmVQcEhPVkNmTXgwbUpSdGRPOHl6OVNhTjllZUF5R0ZiMjkxbG14TmttWnRpNVhnM25VRGtjQTZmR3NkUDJtcjhBQmp2T29rb2NYMw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUN0lHV0V0RmNsZXZ3SmlldmZzTVJGNFV6dnpVZnQ4U2JXbDRfNHFWN1A5U2hkWmxYNjFFczlDc1V3b2d1WklFSl9idHNrTlBCTDVTWA?oc=5",
           "region": "national"
         },
         {
@@ -47,7 +54,7 @@
           "region": "national"
         },
         {
-          "title": "“9개월 아기 몸에 건전지가?”…소방헬기까지 뜬 긴박한 순간",
+          "title": "“9개월 아기 몸에 건전지가?”…전북→부산 헬기 띄운 긴박한 순간",
           "source": "이데일리",
           "date": "2026.10.13.(화) 09:48",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNxbDF2UzN3SUdUMWRkS3BITVVWbFIzRnRuUDZfU3U5VHY3SHdzRFFXZmlQWEM3MTF3TlpyTm5VWW41T09JNm1ULWJReDhGQnlKX0lGYnMyRkg0Q2YwbExidjNzazQxaldtWWtHbkg2TVRwQlpjQnBtamhXYmJyRg?oc=5",
@@ -110,13 +117,6 @@
           "region": "national"
         },
         {
-          "title": "최종현 도의원, 첫 도정질문서 강원 공공의료 위기 집중 질타",
-          "source": "누리일보",
-          "date": "2026.10.12.(월) 16:10",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOdkZDSGRMR00tdnZ4OEdtbTQwYVV5M0VIQVRfWlUwNXdjNEpXNk50SWJrR3Zqd29jc1M2VFo1bENEbEdxby04SWhGMjdVYy0xTnktVDZuc2lsR2N5?oc=5",
-          "region": "national"
-        },
-        {
           "title": "게임 설명과 실제 화면을 맞춰 보는 몬스터 라이프 슬롯 확장",
           "source": "Calgary Roughnecks",
           "date": "2026.10.12.(월) 14:36",
@@ -163,17 +163,17 @@
           "region": "national"
         },
         {
-          "title": "인천대, 공공의대 대신 의전원 설립 정조준",
-          "source": "기호일보",
-          "date": "2026.10.12.(월) 19:01",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlV3o4SnAySl9lbFBKNXZqVW14Qm1fTGtWMUVNUzBUY3E2SFJTdjZrT2pDVFJRMTJUai1ZWFg0UXhNTHBnNVRENjBGZkQ5Y3FETUVscy1zeU1pbUpwYXdKbDZsM1BrYl8tN1pnWVVZMA?oc=5",
-          "region": "national"
-        },
-        {
           "title": "옹진군보건소, 재난현장 구급대응훈련 실시",
           "source": "현대일보",
           "date": "2026.10.11.(일) 18:35",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45U3pxQ0NqY1A2ZS1pdEk2Tko3c19lY2JxeTd3TFlIeGtWM0pRVDdFNWlqMzFhSG5tMHZzcmdQNk5oQkhYSHhLbWVxTVd4aTRHVXNoUFphMUNZUDNQVlZkcnBJdXk4QXI2bDdNREt3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "마작 중드 게임 종료 전 진행 상태 확인",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.11.(일) 16:38",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTklUTnZVS0hRNjlYZHprNVExWnYxZWpqZ01rM2NvNWpiLUdHcW9OTV9YVmltaEx2NzZrVlRubXdSeGl3MTFkVS1KRXNVajhRYmNlUmpQbTBYYnhIOFo4NWN2em9NbDM3LTZXNnVMdGp4S3A4OHQtcS10el9ZX1J0dnJYeEQ5c28wUTVkTjZiNVBtX21RMzIwQUxheXFUVXZxOU5zYk40TURkLVRITFJOSDd5UFg?oc=5",
           "region": "national"
         },
         {
@@ -245,6 +245,20 @@
       "label": "기타",
       "items": [
         {
+          "title": "대구 남구 천마라이온스「사랑나눔 헌혈운동」개최",
+          "source": "씨원뉴스",
+          "date": "2026.10.14.(수) 04:50",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjZ0k5UWlRUUhpVWo2X2RBUW5reEFweFFwdVNjQjRrTVp0RGJPVWJ0bk5xOTVSZ05TNGQwc3JZeUpTSVRsWEJsQW0wR3l2SEhiVGJPR3l1ZWw1QlZsN1djVG1YdHpvNE0?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "윤성규 시의원 \"조치원 복숭아축제, 안전사고 전력 외지업체 검증 부실… 세종시, 지역 업체 상생 외면\"",
+          "source": "뉴스피치",
+          "date": "2026.10.13.(화) 21:22",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Z0RFQ2NwWWwzY09hbTFZcnlaMnNEdTRHOVQ4YldqazJHUlBCR0VfX2dKUEVneG9DdmJycU15WEpRUDNQS1M2YWVGV2lUN2JaWUt4cURaYnRvNDRGLXFHeEt6bDdXS3hDM1E?oc=5",
+          "region": "national"
+        },
+        {
           "title": "2026년 \"기업가 정신을 기리는 헌혈\" 캠페인 확산",
           "source": "Vietnam.vn",
           "date": "2026.10.13.(화) 19:41",
@@ -256,13 +270,6 @@
           "source": "퍼블릭뉴스통신",
           "date": "2026.10.13.(화) 19:29",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjNDRVbjI5bUNJdTdiTW5jSnJxT0twTVF0ZWlyYWpRenJmNkRGdEhCV3drYW5BdUo4UVpTVk5ySlBUbHZtc19fTWppYW9HalRpODhLekpuMUZjT0JibWpWRENBSGd6b0JoUVNv?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "자연보호협의회, 환경보전부터 생명 나눔까지 봉사 실천",
-          "source": "충남인터넷뉴스",
-          "date": "2026.10.13.(화) 17:29",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUV0d0VzBmQjdmQWttZmdUa0VIMEFGR1U5SnZQVzVNLTZvNXVTX1k4SGZzWlBPaDhzRk5ia2psUzN5cjVPS1dRbFJVd0txQ0J2NFk2MktuWmMzV2FUVFNnNkdEeGZfZFlq?oc=5",
           "region": "national"
         },
         {
@@ -283,7 +290,7 @@
           "title": "李 '산재와의 전쟁' 선포에도… 농어촌공사 안전사고 5년 새 88% 증가",
           "source": "한국일보",
           "date": "2026.10.13.(화) 15:51",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GTzlmLUVjUWcxVHlrVFgydTFORDZNYThSZG9WWDRSdUtFQmZKcjBEVHd5TUN0WTJGLWFKQW1pMHl6SnRXek9fVTNaM3ZyV2dvYXZPaTNYSDM2VlNiNW1FMXlTbVZSU2tNcXdWX1V6U3FQOTjSAXNBVV95cUxORk85Zi1FY1FnMVR5a1RYMnUxTkQ2TWE4UmRvVlg0UnVLRUJmSnIwRFR3eU1DdFkyRi1hSkFtaTB5ekp0V3pPX1UzWjN2cldnb2F2T2kzWEgzNlZTYjVtRTF5U21WUlNrTXF3Vl9VelNxUDk4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16SDZBQ3NvMDZRYmZlWk9IX1FaMVRseWlQUTEtTHQ5S1lWWVgxS2ZPSnBwWUkwLVk0LUczTm1YQnQyNzlCS0I4QlNsdm9maWtJbXZoYmswbktFaUZlQTdRYlE2ZVZRdm5oRmZaWThB0gFzQVVfeXFMTkZPOWYtRWNRZzFUeWtUWDJ1MU5ENk1hOFJkb1ZYNFJ1S0VCZkpyMERUd3lNQ3RZMkYtYUpBbWkweXpKdFd6T19VM1ozdnJXZ29hdk9pM1hIMzZWU2I1bUUxeVNtVlJTa01xd1ZfVXpTcVA5OA?oc=5",
           "region": "national"
         },
         {
@@ -292,13 +299,6 @@
           "date": "2026.10.13.(화) 15:20",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKYUltRXVTV3ZGNDlpTHNyLTdaV2Q0bW55NFVFdGQ4QVhHRUR4dWZyQ2loczdTTktJeFlUUk1SUWFONS1HbDFvQmkzM3VjYWJkTndpNFFWbEhTUWdCY2daalU2cmdUYzlNbWc?oc=5",
           "region": "national"
-        },
-        {
-          "title": "대구 남구 천마라이온스, ‘사랑나눔 헌혈운동’",
-          "source": "OMATE 시니어",
-          "date": "2026.10.13.(화) 15:09",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYbkFDR3ZjeWhkME5UN1A3b3dIMFNNcVpYZDlzZUpSaHYxVE5sOVVMRHZDSmVZZUxKVklrVGpTTDJGT09XaTVJN3Q0UlA4dHFfUnByTTRsVkZZeGtkRWt0YjlYWnY?oc=5",
-          "region": "daegu"
         },
         {
           "title": "경북전문대학교, 안동성소병원에 사랑의 헌혈증서 1100매 기부",
@@ -347,13 +347,6 @@
           "source": "충남일보",
           "date": "2026.10.13.(화) 12:47",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmUXlpVTBGbjc2OTVSbVB5TUE0b1A5YmVxd0lCM2FnMnZqLTdqY0hzMGhmQ1lYLUdPaVI2QmotYnJqZ0I3cUpRblI2M3NxV0ctNHI2SVNicnBxbndUWVQtOUQ1YTROYzZreUxDS1F1bG5lQQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "고양소방서, 꽃우물축제서 소방안전체험 부스 운영",
-          "source": "세계뉴스",
-          "date": "2026.10.13.(화) 11:36",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MWlZHbjdaeU1JX0FnYTM3T202Zjl5Rm5xY2lQbU5weW9WYU9LWk9zX1dlNEZyN01hYTdGMTY0X2FQZzJRNWdWQzVXUmQ3TXlScXZwWW1YNkVjQdIBVEFVX3lxTE9DUVVxOEJTN0lKUkxLOU1qcG04bEFFRWx0VnNJWjNwVDJLb3hhQndzTW9ZTFJSUUo4Q19Tbk5vaHA1dEY4WlpUdUgtZGdtb3JhSXY3OA?oc=5",
           "region": "national"
         },
         {
@@ -452,6 +445,13 @@
           "source": "국제뉴스",
           "date": "2026.10.12.(월) 20:15",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wamlFMm5LQ3lVLTJJTWNtbDlhdUQyaVg2NUNNeDd3cWpWdW4yZGRnXzlyc0kxeWtCTWlHVzB4Wl9hV1QyMkRfdnMtb0FOSTNlVjNHMHh5cnhYTWRTYkhGUEo4aW93UkxsWEhvN0tn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[포토뉴스]대한적십자봉사회 인제군협의회 헌혈캠페인",
+          "source": "강원일보",
+          "date": "2026.10.12.(월) 18:39",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CbnRlbWZIS0p4ZGVFMDlrNWlYVEl2Y1c3alpUY0szYmhCRXZyQTV6R0h4cGdBdEt6eDMtbzk5NERQd1hwRFV6X29xM3dQUU9sLXRvdTFYUGlpVWs?oc=5",
           "region": "national"
         }
       ],
