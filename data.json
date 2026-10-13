@@ -1,14 +1,35 @@
 {
-  "generatedAt": "2026-10-13T06:51:58.311393+00:00",
+  "generatedAt": "2026-10-13T16:59:35.058123+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "정의당 “속초의료원 지역응급의료센터 지정 취소…설악권 응급 공백 비상”",
+          "source": "강원일보",
+          "date": "2026.10.13.(화) 17:23",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByb2tJYjhDVTR1YXM3NmxLOXFaTFhLSnp4dkVRT2JaNFFNQXRKaWNZamxNOHdjRVZhOGNTNzl0WnF6MHMzYnB5cFBzcmx4Q3hpUU1wSFdGaFNxcU0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "리튬 건전지 삼킨 9개월 아기…전북서 부산까지 230㎞ 헬기 이송",
+          "source": "조선일보",
+          "date": "2026.10.13.(화) 15:52",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjh5UTNOX3FCMlk4d3o2SWxIT2VsakNCWV9odmZQQzQ1Nll6a2psMXp2M0dmOUpaYWVsTzctM0E4S3cwdXZYVDc5a3Z3dlFvckhNTjN6UlB2Q0FoeDZJYUNIczhCeWlncjJYb3d6WV9WZ29wMHRSdVZpSDhZd0dDd09mM3NQdw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "연휴에 리튬건전지 삼킨 9개월 아기…전북→부산 헬기 이송",
           "source": "연합뉴스",
           "date": "2026.10.13.(화) 14:44",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XUk92R0szdC1HVUlHeTNJRTdGdWRKTkRhQTRsQkhKRXM2QmttN1FXT3BvSXdPandGd0dvSWFJWFRIV1JGWUVKZlFSWlNJbFZ5SF9vbXQ3UzBNQnR3NzkxS9IBYEFVX3lxTE5XUk92R0szdC1HVUlHeTNJRTdGdWRKTkRhQTRsQkhKRXM2QmttN1FXT3BvSXdPandGd0dvSWFJWFRIV1JGWUVKZlFSWlNJbFZ5SF9vbXQ3UzBNQnR3NzkxSw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "속초의료원 응급센터 취소 파장 4억 연봉에도 인력난 : 책",
+          "source": "의약일보",
+          "date": "2026.10.13.(화) 12:45",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVmVQcEhPVkNmTXgwbUpSdGRPOHl6OVNhTjllZUF5R0ZiMjkxbG14TmttWnRpNVhnM25VRGtjQTZmR3NkUDJtcjhBQmp2T29rb2NYMw?oc=5",
           "region": "national"
         },
         {
@@ -26,7 +47,7 @@
           "region": "national"
         },
         {
-          "title": "“9개월 아기 몸에 건전지가?”…전북→부산 헬기 띄운 긴박한 순간",
+          "title": "“9개월 아기 몸에 건전지가?”…소방헬기까지 뜬 긴박한 순간",
           "source": "이데일리",
           "date": "2026.10.13.(화) 09:48",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNxbDF2UzN3SUdUMWRkS3BITVVWbFIzRnRuUDZfU3U5VHY3SHdzRFFXZmlQWEM3MTF3TlpyTm5VWW41T09JNm1ULWJReDhGQnlKX0lGYnMyRkg0Q2YwbExidjNzazQxaldtWWtHbkg2TVRwQlpjQnBtamhXYmJyRg?oc=5",
@@ -43,7 +64,7 @@
           "title": "연휴에 건전지 삼킨 아기, 전북→부산백병원 헬기 이송",
           "source": "MEDI:GATE NEWS",
           "date": "2026.10.12.(월) 20:12",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xdkF4M3BZNnlkWGdVdmxsVG42dEVqd0d2STVHYTgyTGlOR1FSODlSZm12b3ZHZUg2Vmd2WThDU3hOR3pkVFUtZ1pWcVV2VDM0VVVnenJjUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3RXlyX2NHV2NlZmdtUTY2NlJDOE9HbEhYZXFpc29ab1JwX193NHdKUGpJVmExNWdlLUY1bXJFUmtibTk4RUFFcU1ldzhnZXNfNGc?oc=5",
           "region": "national"
         },
         {
@@ -65,13 +86,6 @@
           "source": "한스경제",
           "date": "2026.10.12.(월) 17:23",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWDYtVkNmb3A0ZGxKWnl1NnZON0RKZXVUNW1NZlhFWVZ3eWl4V3VqWXJrd3NQbTMzdVpkTlNBdjg2cXRWVFJvUVhHb3EwWHJLc1hQTk9ibkRmdVBTWUFPdjY5NU1nTWxkbGExbmd1aw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "속초의료원 지역응급의료센터 지정 취소",
-          "source": "설악신문",
-          "date": "2026.10.12.(월) 17:17",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyMUJnOHlmUF94bzR4S05ZWWV3a05oal9MNi11NXF0QlBZSXNZRDRKTW5tcTVCcXR3NVg2aXJiaHB6cm15SGdEdzNsUVFSSUdJaFBuMG9fZE9oZVZ1a1hrUTNFLU02UFcz?oc=5",
           "region": "national"
         },
         {
@@ -129,20 +143,6 @@
           "date": "2026.10.12.(월) 10:38",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jM1RmZDctOUVKOHAxcXBObERTOTNBRmRCdjdSRmN6Nl81SXJZYzZ1THM2WUtsS3phMXlnTWI3X3N4YmhjZkc0NFlNQXZYRUQyM1dlMWZybFdGcjZmQU94Z1BEdXBmVnNJZ25DZ1lqb2kwLUV4bFZDWNIBeEFVX3lxTE1jM1RmZDctOUVKOHAxcXBObERTOTNBRmRCdjdSRmN6Nl81SXJZYzZ1THM2WUtsS3phMXlnTWI3X3N4YmhjZkc0NFlNQXZYRUQyM1dlMWZybFdGcjZmQU94Z1BEdXBmVnNJZ25DZ1lqb2kwLUV4bFZDWA?oc=5",
           "region": "national"
-        },
-        {
-          "title": "마우스 없이 조작 가능한가요? 닌텐도 스위치 게임 추천 2023 입력 지원",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.12.(월) 07:45",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRFRLdVBoenNySkNaV3otMGxBWUpVQ2sxTG9Rdm0xT2NReU9DU2pJWjJsSUxUYVd6bGVLM0pJX1RzVk10dGJkYnFKMmw0OG81cFg3eVUxMl9nWURKZkJiSDR0VnNwOGNldnljSEpjQlNwYkJzb3ZHMFhtdWZvckdEVlpiX1FwTTF0VnlCdUpOeGJFSUNJTnRBWUdnSFg3UnFRY3hiOUw0Rk5SdllZU0tlY3J4RFY0Qk9wbEZGalZGc2oyNW5fU1g0Z20yMDFKWGVpZnAyOVM0WHNtaXdf?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 재난·응급의료 발전 공로 충남도지사 표창",
-          "source": "충청매일",
-          "date": "2026.10.11.(일) 14:35",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aVTZpUkxfRTlaZG5raUR3MHVvTHFvN2V0VjhuWVlRemxuaWRyZzg3MVlEWWJLRU9WWUNwbzY3UnQxdnpBRTB2VS1IczVmaUc5anF5Qk1kNmFTM2FsaUZxV1JBWWdpU1QwSWc?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -163,10 +163,10 @@
           "region": "national"
         },
         {
-          "title": "게임 속 알림창이 전하는 토토 3폴더 놀이터벳 진행 정보",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.12.(월) 04:13",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbzk2ZWRvN0pBeFlvbzFDVWRXZ0EtQy0wczV4ZHpoQXpfcE9sYTYxRkV2RnZBYlYydnU0amc2SmsweTRNUkhaMHFVcEdSYXNtS2dGY1dFanZjX1ZQNk1qbF9GLUlzRS1VYlpCVWQ1MGtQbFVtRFkyUFp4WVpDTUY4SERBN1FzNkV5LXBDaXcwczgtRGhCbnJfZ2hmOGg0OVpUWjdESmJwU3pNcktOaUM3Z1liMmZlbmljYkFYaGllOWd5a2FYdkVUVkE5dGRTREt4V3FCSUJfUzdSX2I4NWFfRlNlTUx2TDY5ZXMxa0FZWWlkRWlmenoycDdKLURDY3VsNUtmdDhnMXF4dzR6MUdkR0JWZXdSWHhaVWJkR0UtMUFOQlBOckE?oc=5",
+          "title": "인천대, 공공의대 대신 의전원 설립 정조준",
+          "source": "기호일보",
+          "date": "2026.10.12.(월) 19:01",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlV3o4SnAySl9lbFBKNXZqVW14Qm1fTGtWMUVNUzBUY3E2SFJTdjZrT2pDVFJRMTJUai1ZWFg0UXhNTHBnNVRENjBGZkQ5Y3FETUVscy1zeU1pbUpwYXdKbDZsM1BrYl8tN1pnWVVZMA?oc=5",
           "region": "national"
         },
         {
@@ -195,6 +195,13 @@
           "source": "대전일보",
           "date": "2026.10.11.(일) 12:06",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TNmdfT3ROWlFaNE5ETDY5SlJycmYyWlBRTDBtRk03LXJXTmI4a1VOTnhkR0VZQlNnOGFDaGI5czBsV0pEZ1EzeVFKVGZQSy1GWjhPWDB3SDROUEhIcDRvaUJsR1luVHMzbllucDd1a9IBc0FVX3lxTFBWWFYyZ1dheGozUDlfZzJRSnMyUjBVQ1hPTVg5V1BLWmszTjYxQm9rU1d6LU9lVzhTd3RDY1M3Wm1XbThmaVBFdmFBTkZTalRpXzdHLWlQWEpNRlBLQ2FaRUFIaF9FZXZjbkNYUG9RMk11MEk?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "단국대병원, 재난·응급의료 유공 충남도지사 표창",
+          "source": "중도일보",
+          "date": "2026.10.11.(일) 11:25",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KZXJhS0QzNEkzdlExbnBrbmc1Z3BidVV1UlltamZXTGRSd3pIdWhvTmtxS0l2WFBvT2hqUnVMbW1rQm1lc0k4V1JLcGFSaXc1RUNlSG44bWhjRDctYmIwZjVVdUI?oc=5",
           "region": "national"
         }
       ],
@@ -230,13 +237,6 @@
           "date": "2026.10.11.(일) 13:56",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3cwOXB1ZHZ2dU9zX2lCU3E0STNISWdPemcyVmpxRlJtRk5BaUJnWmJmOVJBV1pCcnRIWGVaU1phVUlXWDRsdVprZ09ubkE1UlQwbVVNMkNZLUt6cVV5aHV0SzV6MHNNNUpUUmxpaGU1eUEtSUxUWEE1eXUxeGI5c3pLMUlqbjQ?oc=5",
           "region": "national"
-        },
-        {
-          "title": "소아청소년병원 75% “의사 부족”…응급실 압수수색에 기피 심화 우려",
-          "source": "헤럴드경제",
-          "date": "2026.10.10.(토) 17:37",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkajQ4REVqVjZ6QWhyS2RCMHR5UmIyR2QwX2ktTmRZNEZ3VmUtamNUbTBjZ2s3LUVjZm1SY1J2VWRIS0NKSVFHazdHakhYaXY0ajdaekdB?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -245,7 +245,49 @@
       "label": "기타",
       "items": [
         {
-          "title": "금산군, 군민 응급상황 대응 역량 강화…응급처치 교육 시행",
+          "title": "2026년 \"기업가 정신을 기리는 헌혈\" 캠페인 확산",
+          "source": "Vietnam.vn",
+          "date": "2026.10.13.(화) 19:41",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3VnFMRm1PM0dvRVI0dmwyRENrODdvV1lKbWFoUV90X1U4VmJaWnlYaDhDOGg0NlVqR2cyZldtNFdPb0NqMEw0b1dLTVdvb2VTTW81Z09UdlRNUmprelZaNTJPaDBKbjViUzNXVjg4M0g?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "소노펫·풀무원아미오, 펫 웰니스 캠페인 개막…헌혈견 지원 등 공익 가치 결합",
+          "source": "퍼블릭뉴스통신",
+          "date": "2026.10.13.(화) 19:29",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjNDRVbjI5bUNJdTdiTW5jSnJxT0twTVF0ZWlyYWpRenJmNkRGdEhCV3drYW5BdUo4UVpTVk5ySlBUbHZtc19fTWppYW9HalRpODhLekpuMUZjT0JibWpWRENBSGd6b0JoUVNv?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "자연보호협의회, 환경보전부터 생명 나눔까지 봉사 실천",
+          "source": "충남인터넷뉴스",
+          "date": "2026.10.13.(화) 17:29",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUV0d0VzBmQjdmQWttZmdUa0VIMEFGR1U5SnZQVzVNLTZvNXVTX1k4SGZzWlBPaDhzRk5ia2psUzN5cjVPS1dRbFJVd0txQ0J2NFk2MktuWmMzV2FUVFNnNkdEeGZfZFlq?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "금산군보건소, 군민 응급상황 대응 역량 높인다",
+          "source": "서울일보",
+          "date": "2026.10.13.(화) 16:56",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ybEZIQ0Y2TUJpeVhXQ1ZLbG1YOFVqU2JzQ0hITDZPZzZNT2FTN1lPRktMZG91aXVjNmpwVXh6Uk93SlAydDVHMmI0Z1dYSWRQekFZT2ZWc3RkMFhaVTIzWWYtdkpaQndFck50a3NOa9IBb0FVX3lxTE9ybEZIQ0Y2TUJpeVhXQ1ZLbG1YOFVqU2JzQ0hITDZPZzZNT2FTN1lPRktMZG91aXVjNmpwVXh6Uk93SlAydDVHMmI0Z1dYSWRQekFZT2ZWc3RkMFhaVTIzWWYtdkpaQndFck50a3NOaw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "소노펫, 풀무원아미오와 반려견 '바른 먹거리' 캠페인",
+          "source": "뉴스저널리즘",
+          "date": "2026.10.13.(화) 16:48",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45cENNZ3hocG45NmNlUGFSdEtUWGNobmQ2SEtEYk5wdWJPS2VhVWdHR3JRSy1VSFBWcERNcHllbUZTaXFWTUxpRXdJMHBxbzU4Rm5fWTBrTi1XSlZCUzVNbzEzX2xGQ1lXeEZz?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "李 '산재와의 전쟁' 선포에도… 농어촌공사 안전사고 5년 새 88% 증가",
+          "source": "한국일보",
+          "date": "2026.10.13.(화) 15:51",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GTzlmLUVjUWcxVHlrVFgydTFORDZNYThSZG9WWDRSdUtFQmZKcjBEVHd5TUN0WTJGLWFKQW1pMHl6SnRXek9fVTNaM3ZyV2dvYXZPaTNYSDM2VlNiNW1FMXlTbVZSU2tNcXdWX1V6U3FQOTjSAXNBVV95cUxORk85Zi1FY1FnMVR5a1RYMnUxTkQ2TWE4UmRvVlg0UnVLRUJmSnIwRFR3eU1DdFkyRi1hSkFtaTB5ekp0V3pPX1UzWjN2cldnb2F2T2kzWEgzNlZTYjVtRTF5U21WUlNrTXF3Vl9VelNxUDk4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "금산군, 군민 응급상황 대응 역량 강화",
           "source": "충청매일",
           "date": "2026.10.13.(화) 15:20",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKYUltRXVTV3ZGNDlpTHNyLTdaV2Q0bW55NFVFdGQ4QVhHRUR4dWZyQ2loczdTTktJeFlUUk1SUWFONS1HbDFvQmkzM3VjYWJkTndpNFFWbEhTUWdCY2daalU2cmdUYzlNbWc?oc=5",
@@ -260,16 +302,9 @@
         },
         {
           "title": "경북전문대학교, 안동성소병원에 사랑의 헌혈증서 1100매 기부",
-          "source": "www.hidomin.com",
+          "source": "경북도민일보",
           "date": "2026.10.13.(화) 15:08",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BcDh2N1FiQ1JkZDdFZ1Y3Z2JrSThBQzRRemVXLUhheHV2bF9mR3d6VEN5eFFlT1hWdnFiMk5ocjQ1VDJ1R1F3emN0X0RDNDBKb2pqZW1SS1YyRjU2Ui1sbVRFcWc5cU1LQlE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "금정구 장전1동, ‘건강리더양성’ 프로그램 추진",
-          "source": "부산일보",
-          "date": "2026.10.13.(화) 13:51",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vb1pUbDBfWUxSckJ0WElGS250dXJ2aWxfbzRPRVQ1S3BUUHc1anJjRTRTMl9fVzRsYXdtRU1jV0J0S1pQVHV4OWNtQU1vOTBDaGtHVTdTOWIzdzk5SnFicXdXMkdtX3VYRllzZk54ekl5ZUVxdFpyYjgyOEw?oc=5",
           "region": "national"
         },
         {
@@ -287,17 +322,17 @@
           "region": "national"
         },
         {
-          "title": "금산군보건소, 군민 응급상황 대응 역량 높인다",
-          "source": "금강일보",
-          "date": "2026.10.13.(화) 13:33",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvRlVseTBxMWdzeldZYXdDRWdxQXFBN1ZJb0lqZGxoZ1E3WHM4TGUtWkwwTVl6WWpRZzhlTDB5djJwazZKSlFfLWE0S3Y0WE4weGh4X3I2aDhmQlBfQTM5RlFxT0hjbXVmc1E?oc=5",
-          "region": "national"
-        },
-        {
           "title": "유기견에 사료, 헌혈견엔 휴식…풀무원·소노펫의 특별한 선물",
           "source": "뉴스1",
           "date": "2026.10.13.(화) 13:19",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OVHV0eGt6bE5JSmk4Zmt6ODRSMXNpYUdFem1mZ2JBVDhTc24xTHU3NUc4ajNsUDhFOHNfb182Nk1yYUpiN0ZBaXFsY3FVRlhrblh3Nk5ZQnhnVmpRbzFyUVhfVGs?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"유기견 지원\"...풀무원아미오, 소노펫과 반려견 캠페인 진행",
+          "source": "청년일보",
+          "date": "2026.10.13.(화) 13:15",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkQ0hSamRuenNxOGRSR1QtR0pHaVEzVkdEYnc0YVpkTU5Pd0czaFVlb0VhLVlYcFRNNGg4Sml3LWxZdEZ2bU5tdWlRWm9LSWtJcjBXZVI1VnZPcUJmcjAxM3ZLVDE1Vjg?oc=5",
           "region": "national"
         },
         {
@@ -311,7 +346,7 @@
           "title": "금산군보건소, 27~28일 심폐소생술·응급처치 교육",
           "source": "충남일보",
           "date": "2026.10.13.(화) 12:47",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZmVzaVM1aGVuWWNsbmhwX29TR3dBQVRnbTNtc1hXTUtGbjQ0UjdjNDktY2p6NGNTcXM3Mk03dG02ci02LS01dXF3WG1TdXo4U0ZhMXVndkJLTWw3ZTlIeHFycHdjMDdKdk1JRWFyWWZlclU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmUXlpVTBGbjc2OTVSbVB5TUE0b1A5YmVxd0lCM2FnMnZqLTdqY0hzMGhmQ1lYLUdPaVI2QmotYnJqZ0I3cUpRblI2M3NxV0ctNHI2SVNicnBxbndUWVQtOUQ1YTROYzZreUxDS1F1bG5lQQ?oc=5",
           "region": "national"
         },
         {
@@ -371,20 +406,6 @@
           "region": "national"
         },
         {
-          "title": "풀무원아미오·소노펫, 유기견 지원으로 펫 ESG 확대",
-          "source": "디스커버리뉴스(DISCOVERYNEWS)",
-          "date": "2026.10.13.(화) 09:29",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBibDRlTGpqNTBnN3JsTGtnZEpBTS1NckpGeUNmUTN1MXZLSjd4cnA4bm1FbE91X1ZJVV9KbnhyeVA1RDJpMFVnbjBDSlNhQkJnTUxTY3BnR2tVLXdWT19YbHFQdGJUakpIT2ozSng1MnJXZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "풀무원, 소노펫과 반려견 캠페인 전개…유기견 지원도",
-          "source": "매일일보",
-          "date": "2026.10.13.(화) 09:07",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02Y0ZEZW9Vc19RVENGMmNjNFJZbWtvS2cyWW1tVVlSS1Z6RXMyOWNlcl9GT1JhRGNySVhPUlRTaDVKeHZFY3BSWmJzcHdxbm8zN3hRaVNLR1JVRlhqeTh1ZU5DWnI?oc=5",
-          "region": "national"
-        },
-        {
           "title": "풀무원아미오, 소노펫과 반려견 캠페인…유기견 사료 지원",
           "source": "연합뉴스",
           "date": "2026.10.13.(화) 08:57",
@@ -399,17 +420,10 @@
           "region": "national"
         },
         {
-          "title": "헌혈증 1천100장에 담은 생명나눔…환자들에게 전한다",
-          "source": "바른지역언론연대",
-          "date": "2026.10.12.(월) 23:07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MaFZVV2pac0NkZFczdy1vZjd4ckY4M2hXOXctbk5tNmUxUzE5Mm1CU2lZV3R5R2N3ODk0OGlHaGRRSUpqSU5Wam5XRFM0RHZfU1h2ZFZkNXIzeEpYNlBKaE5xY2NKT3FmZlcxatIBbEFVX3lxTE5MaFZVV2pac0NkZFczdy1vZjd4ckY4M2hXOXctbk5tNmUxUzE5Mm1CU2lZV3R5R2N3ODk0OGlHaGRRSUpqSU5Wam5XRFM0RHZfU1h2ZFZkNXIzeEpYNlBKaE5xY2NKT3FmZlcxag?oc=5",
-          "region": "national"
-        },
-        {
           "title": "드라큘라가 헌혈증 기부 앞장서",
           "source": "디컬쳐",
           "date": "2026.10.12.(월) 21:57",
-          "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5LM0lHNHA5ZXV0bE95Z0RDR2tOTkt0Q3VmMjNmVzkxbVhsT081XzY3M3dzNWt3MDRPYUMzNjdB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oUGFzUUVuRFhMWms5cDhqa0xTOHdLQlFtVFl6aUFFRVRzSDJ6YjZDeXhCV2VUcDRxUG05Z1MzcE9OVnBvWVpia3ExbFN2bXhv?oc=5",
           "region": "national"
         },
         {
@@ -434,24 +448,10 @@
           "region": "national"
         },
         {
-          "title": "파주소방서, 감악산 외국인 등산객 대상...다국어 심폐소생술 교육 운영",
-          "source": "미디어투데이",
-          "date": "2026.10.12.(월) 20:55",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmdkQmtZWjAxOGw4YUZoMm0tdTJ3M2R3NEJ1ejBpNmt1VHZnbEdzN1Q5RFpJMHR4Slg4eDF3SWVXV0I4dlRqNkFCcEdwSXNNbzhtLWlSckR2bzdlb04yZWVOenhDaVRFWnFzM25VQXZ0ZFc4WlZDSmIwelBaVGpkalFTd2xYZ1ZFR0ppcEtDN1FlSndRVmI5UA?oc=5",
-          "region": "national"
-        },
-        {
           "title": "경북전문대, 10월 한 달간 헌혈증서 2,104매 기부…생명나눔 실천",
           "source": "국제뉴스",
           "date": "2026.10.12.(월) 20:15",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wamlFMm5LQ3lVLTJJTWNtbDlhdUQyaVg2NUNNeDd3cWpWdW4yZGRnXzlyc0kxeWtCTWlHVzB4Wl9hV1QyMkRfdnMtb0FOSTNlVjNHMHh5cnhYTWRTYkhGUEo4aW93UkxsWEhvN0tn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[포토뉴스]대한적십자봉사회 인제군협의회 헌혈캠페인",
-          "source": "강원일보",
-          "date": "2026.10.12.(월) 18:39",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CbnRlbWZIS0p4ZGVFMDlrNWlYVEl2Y1c3alpUY0szYmhCRXZyQTV6R0h4cGdBdEt6eDMtbzk5NERQd1hwRFV6X29xM3dQUU9sLXRvdTFYUGlpVWs?oc=5",
           "region": "national"
         }
       ],
