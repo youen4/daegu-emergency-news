@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-14T12:02:47.057393+00:00",
+  "generatedAt": "2026-10-14T17:18:36.434257+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "“우리가 닫으면 환자 갈 곳 없다”…강원도 응급환자 종착지 춘천성심병원",
+          "source": "이데일리",
+          "date": "2026.10.14.(수) 19:50",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWhRVF9EMS1xenQwSmV4NThRU0pQTlRKaE1aM1I1YnRNZnFNRC1Mb1ZGX1NhQV9MOE5YWG1wTmlRTmZLMGhpLUZKVmxoTmRDdGR0RlpxckZJUWxYSUhXWXhQRkZJeEE2OE9EYnNfYUluX3lVSGpkTzdxSkVzN05CLQ?oc=5",
+          "region": "national"
+        },
         {
           "title": "[르포] 한림대춘천성심병원 권역응급의료센터의 선택과 집중…\"일단 환자부터 살린다\" |",
           "source": "포인트데일리",
@@ -89,13 +96,6 @@
           "region": "national"
         },
         {
-          "title": "인천나은병원, 의료 데이터 백업·복구 솔루션 '메디세이프' 국내 1호 도입…지역책임의료기관·지역응급의료센터로서 만일의 전산 장애에도 '진료 연속성' 확보",
-          "source": "메디컬헤럴드",
-          "date": "2026.10.13.(화) 08:00",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EMlU3Y2FWQ1ZCTV9tZlRvemFMUl9MOHY0U0ZocXdZaTNnRXNVRDFGUmRsMEhHTUtGZDRPX0o1eGlLOXJFRWRZaFU0cEdTa0VnTEpicFQ4YkI0OEIyT3lFV1BEYXhUekpKTHhJ0gFvQVVfeXFMTWhtaGNtVmhCXzZjX09nSHZJazE0NW9VUDNUUDh4eWNVYTZGLVotZUFkVVpFMmVOR3ZkcVNsY29ucjVzeVFLMkpLV191ZFJLWWtvRlY5LUEyel9LU0lHT09xbnVqa25rdGozdjNmX1BJ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "연휴에 건전지 삼킨 아기, 전북→부산백병원 헬기 이송",
           "source": "MEDI:GATE NEWS",
           "date": "2026.10.12.(월) 20:12",
@@ -156,6 +156,13 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "화학재난 대비 합동 제염·제독 훈련 실시",
+          "source": "병원신문",
+          "date": "2026.10.14.(수) 23:03",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SeVlSSVJFTWVfSlFUY1F1aGs5VVlWcHZ3OExnbE5UZHN4eEc4bHJadldFYldVN0hBNHpPdUVNVVFhMUwzS3h5cWhQSUFobWhrNlkyZUR3Q09pX18xQkNPNzloZ2pNQW1zLUE?oc=5",
+          "region": "national"
+        },
+        {
           "title": "경북대병원, 화학재난 대비 현장 제염·제독 훈련 실시",
           "source": "프레시안",
           "date": "2026.10.14.(수) 17:04",
@@ -170,17 +177,10 @@
           "region": "daegu"
         },
         {
-          "title": "경북대병원, 화학재난 대비 합동 제염·제독 훈련 실시",
-          "source": "www.hidomin.com",
-          "date": "2026.10.14.(수) 14:58",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yODVWdEhScnlseGZhQ3U5aHJ3S2Vla3hFcjhHQ2Jyc2taR3c5aWxOTmNlTDY4QjBrLWJ2TGVrNDFlRzZjYWVIdzdqZEtxenV1VHhkVXZSdURZb0ZUUFh4U3NDOWN5QnBpU2c?oc=5",
-          "region": "daegu"
-        },
-        {
           "title": "경북대병원·대구시·소방, 화학재난 대응 합동 제염·제독 훈련",
           "source": "서울일보",
-          "date": "2026.10.14.(수) 13:41",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwMG40d0JrRFpoa0pDdnc4bnV4VjRMRjhHOW05cktrMHFqbjhzM1FYeDdnelFKNHZVUVJYb0ExNTRlZFA0d2hKZW5DQTJkQmJNVE9DdHZOVjFzWVlUZnNoNEstbjdHZUpwbVdwRmNtZ9IBb0FVX3lxTFAwMG40d0JrRFpoa0pDdnc4bnV4VjRMRjhHOW05cktrMHFqbjhzM1FYeDdnelFKNHZVUVJYb0ExNTRlZFA0d2hKZW5DQTJkQmJNVE9DdHZOVjFzWVlUZnNoNEstbjdHZUpwbVdwRmNtZw?oc=5",
+          "date": "2026.10.14.(수) 13:25",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFLS1EQ0tDZHQ5MTBCckRXZktTMlBmMjZVaEhuaFVlZ3p5dlVyN0h1eDg0MllqenJudlcxVjRCaGNLMmNveTdpQWk3OFVURS1sdll5dWlxSENBblcyQ0dnYlhOeVlKbEVYZHFpb9IBb0FVX3lxTFAwMG40d0JrRFpoa0pDdnc4bnV4VjRMRjhHOW05cktrMHFqbjhzM1FYeDdnelFKNHZVUVJYb0ExNTRlZFA0d2hKZW5DQTJkQmJNVE9DdHZOVjFzWVlUZnNoNEstbjdHZUpwbVdwRmNtZw?oc=5",
           "region": "daegu"
         },
         {
@@ -224,6 +224,27 @@
       "label": "기타",
       "items": [
         {
+          "title": "하나금융, 룹사 임직원과 ‘사랑 나눔 헌혈 캠페인’ 실시",
+          "source": "비즈월드",
+          "date": "2026.10.14.(수) 21:11",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90NWFUVEg5STBrdmZRSy0tN0xKUEVrWlNEZVlJTlAyOVFPMERGZ0lGUjBFLWxkSkdvczNPMFE2dFRWWXl2eElON0FoWEFyVzZPQkVjN2g0TGRfUks4WDE1Ukx0dG1JanFMeXc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "하나금융그룹, 임직원 헌혈 캠페인 전개…4개 사옥서 릴레이 진행",
+          "source": "데일리포스트",
+          "date": "2026.10.14.(수) 20:37",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOVY2dXdqcFFBQkRUOWdGOElpUWRxc0hJdjh0SGxPb0taQlpZeldWSURWTTZ6QjRUZzVmcjJVVDRZSncyTnN6bXdZdE10UkozODVBRmpsenFxdTZiRzNfTUxJR1hLVFY3cDdMdjVDcjJQWWfSAXNBVV95cUxNZjlWNnV3anBRQUJEVDlnRjhJaVFkcXNISXY4dEhsT29LWkJaWXpXVklEVk02ekI0VGc1ZnIyVVQ0WUp3Mk5zem13WXRNdFJKMzg1QUZqbHpxcXU2YkczX01MSUdYS1RWN3A3THY1Q3IyUFln?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "하나금융그룹, 임직원 참여 ‘사랑 나눔 헌혈 캠페인’ 실시",
+          "source": "중부일보",
+          "date": "2026.10.14.(수) 20:27",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpbjRkV2lpTEZveEhDelRveUtNTDlsNDVXdjRzaENXNmNMdndmTGlCVkdEUzNzRVZTb3lLcUNMVms1ZWhET0FRYTA3cHhubkg1c1NNUTVoRUtTMnlsWWJxMVJzZHlOSWN4ZUtFQkRHVQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "하나금융, 전 그룹사 임직원 참여 ‘사랑 나눔 헌혈 캠페인’ 전개",
           "source": "조세일보",
           "date": "2026.10.14.(수) 17:35",
@@ -231,10 +252,10 @@
           "region": "national"
         },
         {
-          "title": "하나금융그룹, 전 그룹사 임직원 동참 속 헌혈로 생명나눔 실천",
-          "source": "중앙뉴스",
-          "date": "2026.10.14.(수) 17:12",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUYWptU3NRbTJLd3JhazNRaWJUTUxraXZPQ1lUMWJ0RVdweWs2d0YxQWc5UXR3TDBGR0tLZ2RyVXQ5LVBwNmxpWGwzSWJ5TEw0YlJFdGZRSEZxNzdvbGtZWTdSbjg4SnZyN25TS9IBb0FVX3lxTE9JQTdfdjRFdHNIOGE4UE02SDVrR2EwSDlIQXdSVFNZSFc5ZTVYT1lLSjBKV18tYUxuRjVRUDE2OWc2RzJqQVhiU2FIbHotNkFCNTB1TU9jZERNeVplTEdYUEdsX1dMNXdCZFJzYWpnSQ?oc=5",
+          "title": "하나금융그룹, 나눔의 가치...'사랑 나눔 헌혈 캠페인' 진행",
+          "source": "디스커버리뉴스(DISCOVERYNEWS)",
+          "date": "2026.10.14.(수) 16:59",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XZFJ5aE13MDV4U1lBUGsyY2QyMC1pZlVib1lYUXlnQWJzNHdleWlrX0lmNFJ5dFc4bFBFQkNGOUMyUjhQVmg4WUxjLWo2VXJsejI2VTZLX003ZG9nYUdMSnFFRVp2LVRJMFZOaEZ4d3JfZw?oc=5",
           "region": "national"
         },
         {
@@ -266,17 +287,17 @@
           "region": "national"
         },
         {
+          "title": "[함께가자 우리ESG] 하나금융, 사랑 나눔 헌혈 캠페인 실시... ESG 경영 선도",
+          "source": "뉴스락",
+          "date": "2026.10.14.(수) 15:39",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CRnJOYm1adloyd3pvWHpxbEx2c1pWUWpMMXJZQnJvOER5U3N2ZmlSa0xEYmZ2V3prUGhCdGg2aTd6dFc0azUwZXp2eFo0UTZGLTFnMVFvOGtaUXU1REhnR3g3djlQT2pyV3JhNw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "하나금융, 임직원 참여 '릴레이 헌혈 캠페인'",
           "source": "뷰어스",
           "date": "2026.10.14.(수) 15:13",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfdmI3YzlvcEwtdTBmVU83LTBrLXJ4Qzd4WWYwYm5CLWhHZzJLQVJpYUNiN1JlMHh2eWxNcTRTQ21VSjJXdDZ4SVA3NjJONHhpRURDYXk4LTc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "하나금융, 그룹사 임직원 참여 헌혈 캠페인…ESG경영 실천",
-          "source": "퍼블릭타임스",
-          "date": "2026.10.14.(수) 15:00",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybS1VNHpjRk96ZWRWMHFTbXZzZHZEWWNqdTZzanpBNHhIWHhOYnVWMU50VnZUVTJUMW1wRWMzRzNFTXo4QzNaTGJMeUFMT1BNcDlFOEpHY2ZKREwyM2syRHhEdUt4eFhJMXfSAW5BVV95cUxQUkVSaUZWTWlETFBmbGVRbTc1RjZPa2htamxDYy0xWmh3WWcteUlleGFZZW5JQmNWSlpHTWliZ2xkN2Q1Sk5IRFlUZXJJNGtTcEFMZEU0ckVPTlloX0Vsb3FEOVdKUGsyOHpENnE5dw?oc=5",
           "region": "national"
         },
         {
@@ -287,10 +308,10 @@
           "region": "national"
         },
         {
-          "title": "“헌혈로 생명 나눔”… 하나금융, 전체 그룹사 릴레이 캠페인",
-          "source": "뉴스웰",
-          "date": "2026.10.14.(수) 12:57",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BOVd2Z1BWWkN6Y0lJMFRRTHBnQ3EyRHFVaWxQcjhMTXpzRzQyMWRzekVQMndCbXdYYl9Uc0U1NWlLZ3BHUzliRVlfa3hpMEltVF9qdVlvLWpzT2FnYlBmN0hwdldNR3BlUTZEdQ?oc=5",
+          "title": "인천시청소년활동진흥센터, 청소년지도자 응급처치 교육",
+          "source": "기호일보",
+          "date": "2026.10.14.(수) 13:26",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vZ0JQRkEzazllbUFEZHNGVW1rMV9lT05iRlNzemJQNktEMWljb2laTUJmS3l2U2R4ZDRMak1tcGxBYTM5NzlwRlZLREZxMFJYTmF5X2ZicTBvS2psd1hGcHZFZ0NGdGRUenE2cHIwbw?oc=5",
           "region": "national"
         },
         {
@@ -298,6 +319,13 @@
           "source": "CNB뉴스",
           "date": "2026.10.14.(수) 12:50",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTkR4V3YxSGlXaHd6X2xfWHoyVkw2N1VzaW5rT3F0V1cxZ19HX0dJNHF6aURoZll3V01hOVlHNHh5UjNQSV94UHhQeHFhX2NpSVhHRXlwNjl4OVEwWm1pWVk4M2FwZkdPNUFN?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "하나금융, 사랑 나눔 헌혈 캠페인",
+          "source": "뉴스프리존",
+          "date": "2026.10.14.(수) 11:51",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRLXp5Q3c4aUdYS2pQcFBUUU1OMzNVYUlJSko1eExpTHlGMXR6Y3hEVGFZei1xeHlBbEFSWklDRTZkVkZrbS1XVDJwbk5veDhoZHRUdDZid3NiaTNYLU5DLVhlUG1uR2Z6cXhETEFIVUtfMmNZZnhn0gF3QVVfeXFMUFEtenlDdzhpR1hLalBwUFRRTU4zM1VhSUlKSjV4TGlMeUYxdHpjeERUYVl6LXF4eUFsQVJaSUNFNmRWRmttLVdUMnBuTm94OGhkdFR0NmJ3c2JpM1gtTkMtWGVQbW5HZnpxeERMQUhVS18yY1lmeGc?oc=5",
           "region": "national"
         },
         {
@@ -332,7 +360,7 @@
           "title": "하나금융, 그룹사 임직원 헌혈 캠페인…명동·강남 등 릴레이 진행",
           "source": "파이낸셜투데이",
           "date": "2026.10.14.(수) 10:31",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xbFp4R196TDE4UjlWVWt2Z3RXWnYxN1dzcUVza0hzdmdqOEZMcGdsN3dSMGRFNjQ4WGFvUzNQUFF6SVItMWhlaWZjM05oWF9JajJPaG0zN3N1YjRsZ0MzWnRKWEs4ZUFSZV9B0gFuQVVfeXFMT3AzQzVuNlRVMDg3blByU3FMY0FxS0ZXSTNReVhubmRkb0JscVFIdlBtZUp1bDByN1BiU3dlSHNZbVRTRk9xdVl0X0l2VS1YMHJsaW1mMUZ0ckoyN1JKcXdtZ3ZWb0M2Vmw3RHBSOGc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlRTU5VWtvamRRNVM1VGNkeWtsdmtGcUllUEZzQTBnRmQ0SmVzV1ZuU3dSMmoySkV4WkpYQjBnd1hCc3pKMVZUM1UwNFdBdXNjYXZydzRqX0dCbTdwaDlnbElqdmtBSzF6R1HSAW5BVV95cUxPcDNDNW42VFUwODduUHJTcUxjQXFLRldJM1F5WG5uZGRvQmxxUUh2UG1lSnVsMHI3UGJTd2VIc1ltVFNGT3F1WXRfSXZVLVgwcmxpbWYxRnRySjI3Ukpxd21ndlZvQzZWbDdEcFI4Zw?oc=5",
           "region": "national"
         },
         {
@@ -361,27 +389,6 @@
           "source": "한국보험신문",
           "date": "2026.10.14.(수) 09:56",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxTVQxRWU2Ym93bTRQdGZaLVFib3JQUGg2c2tuR1FaY0JDX0dXaWphMjlCSG9reHhaS28yUFI2T2xLYmxPQTFxZ3VvcXNIX0IwNExyS2RCNlhyV3RhUUhaNGp1ZE9fc1A3UU9z0gFvQVVfeXFMTnZha0pod2dfUDIwVjJBR01WVjM4YXlaYUZSZ2VDVTJRTGVRVExhN2ZySUwyUlg1MTZUa21ERmNjRmJacFNENktJZG9YU2pSeHJ5VEJxZ2dpZmh5RG02emNPeHJDS2Z3aVdrQWNZY2xn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "하나금융그룹, 전 그룹사 임직원 참여 '사랑 나눔 헌혈 캠페인' 실시",
-          "source": "뉴스드림",
-          "date": "2026.10.14.(수) 09:44",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15N0oyVnc1MVQ3d1o2a2I3c0QxWThaNEhqT0hUT2RVSWg0bDlMWHZacDBycUtrckwycVBDQzNlMkpYaDRsaEhRNjJ4ZW9JZmc5QVQySDlLS3MtOHJBa0Z5VTZyRXRKQ1VFS2U40gFuQVVfeXFMTm0tNmNlU0NGUHYyN2lTWjlCM25rX2I1NmRaS1VZdTZ4VndYM2U2ajBlRnF2SlJVazNBQUFOdmNFU1NDdmJ6aW4xc0RIWll0aGN4ZDZIbTB6YW40bUQ1clZfaUFaRHVNbFVSM3pIdWc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "하나금융그룹, 전 그룹사 임직원 참여 ‘사랑 나눔 헌혈 캠페인’ 전개",
-          "source": "경인매일",
-          "date": "2026.10.14.(수) 09:32",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CZTFRVUUwLVJNZ0FkVE5BOG55OXR5MV9mV19BNDAzeEF4QUJvQmdhS3NBVHMtSFRPRFdjdzJjS3I0TjlaSEdiQktPNkVGMGVDb0dmeTR0aGlpTjctWTZOTTd2amZGa01I?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[심층분석] 하나금융그룹 헌혈 캠페인, 금융권 ESG 경영의 과제는 ‘참여’에서 ‘지속 가능한 사회적 가치’로",
-          "source": "뉴스밸류",
-          "date": "2026.10.14.(수) 08:30",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JN0c0R0R1SWJMYnRJb2FsNnk5TUFKMmxoMWdHVU15MUpkRHhwa0YtdjBhTHFxa21mcnNYWGFIbnl3N1FYVmNUdUExYzdFUUItMUU0bTBxUmlGV0dsSU5KSWczT0FfdG1XU2c?oc=5",
           "region": "national"
         },
         {
@@ -424,13 +431,6 @@
           "source": "엔디엔뉴스",
           "date": "2026.10.13.(화) 13:39",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8taFYzanNQWVBFaUhUNHoweUIxQUhRams4UFJvZTRxZ2hEcFFXX1p5blZad0JXdW5CODk4MUN3dnBlOG81UDFRcE9wQVYzRWp0QXhnSTVDRGVKZ0VtdUFiR2laMVRrLTBvVEZST2J0OUJKUdIBckFVX3lxTE8taFYzanNQWVBFaUhUNHoweUIxQUhRams4UFJvZTRxZ2hEcFFXX1p5blZad0JXdW5CODk4MUN3dnBlOG81UDFRcE9wQVYzRWp0QXhnSTVDRGVKZ0VtdUFiR2laMVRrLTBvVEZST2J0OUJKUQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "금산군보건소 심폐소생술 등 응급처치 교육",
-          "source": "충청타임즈",
-          "date": "2026.10.13.(화) 12:57",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YODhsbHR5VTIyTEY2ZHRLdXkzaFlFRTNmazhPZW9aUS1oRGxtelQ3emswUURyREFZRnc1aDFUdjlVNk4tQ1pwaF82VF9OZERyZ1RNTmJpeEFRemh4ZVYtNDZBREg4S3hH?oc=5",
           "region": "national"
         }
       ],
