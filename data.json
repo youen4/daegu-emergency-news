@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-10-14T17:18:36.434257+00:00",
+  "generatedAt": "2026-10-14T21:46:32.431112+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
-        {
-          "title": "“우리가 닫으면 환자 갈 곳 없다”…강원도 응급환자 종착지 춘천성심병원",
-          "source": "이데일리",
-          "date": "2026.10.14.(수) 19:50",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWhRVF9EMS1xenQwSmV4NThRU0pQTlRKaE1aM1I1YnRNZnFNRC1Mb1ZGX1NhQV9MOE5YWG1wTmlRTmZLMGhpLUZKVmxoTmRDdGR0RlpxckZJUWxYSUhXWXhQRkZJeEE2OE9EYnNfYUluX3lVSGpkTzdxSkVzN05CLQ?oc=5",
-          "region": "national"
-        },
         {
           "title": "[르포] 한림대춘천성심병원 권역응급의료센터의 선택과 집중…\"일단 환자부터 살린다\" |",
           "source": "포인트데일리",
@@ -23,6 +16,13 @@
           "source": "헬스조선",
           "date": "2026.10.14.(수) 16:39",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xUWVrM0puX3gxNmxSaWRuNnpvRWRmRVhyVVgxNUNfazhkLUtxY2JkSnlab2o2RHRyUHJFSkxWeGNQZUVVTzgtNFl0WlMyX09XS2NPQ0V5SGlQRDkwd1prdEliWDVOLXJybm1IRkU0MF80ZTJPR0E?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "‘응급실 뺑뺑이 방지법’ 맞물려…지방 의료 ‘책임형’ 전환 시급",
+          "source": "뉴스토마토",
+          "date": "2026.10.14.(수) 16:08",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zcjBjOV9PUkpaY1dwajhkdHZyZDZKVGhHcEFHVUpZOUF5SGNPNzN5TFo2X3FxVUFKeGU2THJlMHhzcHBfSThXcVdNbV9yN0NQazItVWM5SVJHSDhEdVgydA?oc=5",
           "region": "national"
         },
         {
@@ -58,13 +58,6 @@
           "source": "조선일보",
           "date": "2026.10.13.(화) 15:50",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjh5UTNOX3FCMlk4d3o2SWxIT2VsakNCWV9odmZQQzQ1Nll6a2psMXp2M0dmOUpaYWVsTzctM0E4S3cwdXZYVDc5a3Z3dlFvckhNTjN6UlB2Q0FoeDZJYUNIczhCeWlncjJYb3d6WV9WZ29wMHRSdVZpSDhZd0dDd09mM3NQdw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "응급의학 전문의 34% 증가 ‘30분 초과 이송’ 2.7배…혁신위 “배후진료가 문제”",
-          "source": "medicalworldnews.co.kr",
-          "date": "2026.10.13.(화) 15:03",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdFcxMm1LRlE3Nl9SMTI0Vm1UbnRRM1VJU0FJX0tnTzhZZkxSNlZhMFcyTWhoMW0tY1BSakFzUVZURWkyVFZHR190TGhjbDRVMUxIc2VEaVNtdGM2T1FLdFRDNXEteFI5ZXFTM0UwYzY?oc=5",
           "region": "national"
         },
         {
@@ -131,6 +124,13 @@
           "region": "national"
         },
         {
+          "title": "아주대병원·원주세브란스기독병원, 거점외상센터 선정",
+          "source": "재활뉴스",
+          "date": "2026.10.12.(월) 15:11",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CcFZsbVhnU3NYM3RPWThIOS0yTHpBRm1OS2pHcEg0OVFkWTRfQkMxV1pyekh4M0JMeWJxcmxPOFVZWXdnam1OVGVEcWNSODRNR0lZaTFOcmtob0pSWElmNG1kXzliNW1VLUY4?oc=5",
+          "region": "national"
+        },
+        {
           "title": "게임 설명과 실제 화면을 맞춰 보는 몬스터 라이프 슬롯 확장",
           "source": "Calgary Roughnecks",
           "date": "2026.10.12.(월) 14:36",
@@ -180,7 +180,7 @@
           "title": "경북대병원·대구시·소방, 화학재난 대응 합동 제염·제독 훈련",
           "source": "서울일보",
           "date": "2026.10.14.(수) 13:25",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFLS1EQ0tDZHQ5MTBCckRXZktTMlBmMjZVaEhuaFVlZ3p5dlVyN0h1eDg0MllqenJudlcxVjRCaGNLMmNveTdpQWk3OFVURS1sdll5dWlxSENBblcyQ0dnYlhOeVlKbEVYZHFpb9IBb0FVX3lxTFAwMG40d0JrRFpoa0pDdnc4bnV4VjRMRjhHOW05cktrMHFqbjhzM1FYeDdnelFKNHZVUVJYb0ExNTRlZFA0d2hKZW5DQTJkQmJNVE9DdHZOVjFzWVlUZnNoNEstbjdHZUpwbVdwRmNtZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mM3kxdGhfdHB0ZWpRYndnS0V5VWxONDIwazhMMG5ieFVsMDQxU2ZYNmppV1diZm55V3R0UzNuMVd1bTZvVTNMcU9UVGFBQzVmaUJyVWV1UjBTbWxoU0tTd3MzVFVRbFZzZXZR0gFvQVVfeXFMUDAwbjR3QmtEWmhrSkN2dzhudXhWNExGOEc5bTlyS2swcWpuOHMzUVh4N2d6UUo0dlVRUlhvQTE1NGVkUDR3aEplbkNBMmRCYk1UT0N0dk5WMXNZWVRmc2g0Sy1uN0dlSnBtV3BGY21n?oc=5",
           "region": "daegu"
         },
         {
@@ -224,6 +224,13 @@
       "label": "기타",
       "items": [
         {
+          "title": "[단독] 서울형 키즈카페 안전사고 매년 증가...예방 점검은 ‘빈틈’",
+          "source": "쿠키뉴스",
+          "date": "2026.10.14.(수) 23:32",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2TzJWbzlUUkRHUVlyVC1BTUZBa1RLSjN0cXZHWGFBMU44Tnh5Y0JON01yWVlJYTcwRWtkanc3cDJaQi1wcEdrTmdqQTZISW41cW5QZ2NEckZoU3h6d1ExZ0hOOA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "하나금융, 룹사 임직원과 ‘사랑 나눔 헌혈 캠페인’ 실시",
           "source": "비즈월드",
           "date": "2026.10.14.(수) 21:11",
@@ -248,7 +255,7 @@
           "title": "하나금융, 전 그룹사 임직원 참여 ‘사랑 나눔 헌혈 캠페인’ 전개",
           "source": "조세일보",
           "date": "2026.10.14.(수) 17:35",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aUm9UWE9YX1NyREY0MzFKZTRCb01qaDYxSE8tMmxBdGt6OUtPeUZDekptYzZ2dDNDX25hblBWTElMS2taXzctM043VEsxaWRsaXBsODRTZ2V5cVRCRzRjVnFnblJiYlR0WUJ5bEEycFFEQlE1?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lOFhmUXlyTktET2NqUmJTOWJUaGxoRDltbl95MXhpS3plN2E5TmFMT01oQWgzREZTb2JhbHFRcTdnQlYyVE41WDhNOHFOR01vc1JKYjh5bXkzeE55aGJN?oc=5",
           "region": "national"
         },
         {
@@ -312,6 +319,13 @@
           "source": "기호일보",
           "date": "2026.10.14.(수) 13:26",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vZ0JQRkEzazllbUFEZHNGVW1rMV9lT05iRlNzemJQNktEMWljb2laTUJmS3l2U2R4ZDRMak1tcGxBYTM5NzlwRlZLREZxMFJYTmF5X2ZicTBvS2psd1hGcHZFZ0NGdGRUenE2cHIwbw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“헌혈로 생명 나눔”… 하나금융, 전체 그룹사 릴레이 캠페인",
+          "source": "뉴스웰",
+          "date": "2026.10.14.(수) 12:57",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BOVd2Z1BWWkN6Y0lJMFRRTHBnQ3EyRHFVaWxQcjhMTXpzRzQyMWRzekVQMndCbXdYYl9Uc0U1NWlLZ3BHUzliRVlfa3hpMEltVF9qdVlvLWpzT2FnYlBmN0hwdldNR3BlUTZEdQ?oc=5",
           "region": "national"
         },
         {
@@ -417,20 +431,6 @@
           "source": "한국일보",
           "date": "2026.10.13.(화) 15:51",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16SDZBQ3NvMDZRYmZlWk9IX1FaMVRseWlQUTEtTHQ5S1lWWVgxS2ZPSnBwWUkwLVk0LUczTm1YQnQyNzlCS0I4QlNsdm9maWtJbXZoYmswbktFaUZlQTdRYlE2ZVZRdm5oRmZaWThB0gFzQVVfeXFMTkZPOWYtRWNRZzFUeWtUWDJ1MU5ENk1hOFJkb1ZYNFJ1S0VCZkpyMERUd3lNQ3RZMkYtYUpBbWkweXpKdFd6T19VM1ozdnJXZ29hdk9pM1hIMzZWU2I1bUUxeVNtVlJTa01xd1ZfVXpTcVA5OA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "금산군, 군민 응급상황 대응 역량 강화",
-          "source": "충청매일",
-          "date": "2026.10.13.(화) 15:20",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKYUltRXVTV3ZGNDlpTHNyLTdaV2Q0bW55NFVFdGQ4QVhHRUR4dWZyQ2loczdTTktJeFlUUk1SUWFONS1HbDFvQmkzM3VjYWJkTndpNFFWbEhTUWdCY2daalU2cmdUYzlNbWc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "태안소방서, 가을 캠핑의 즐거움… 안전수칙부터 챙겨야",
-          "source": "엔디엔뉴스",
-          "date": "2026.10.13.(화) 13:39",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8taFYzanNQWVBFaUhUNHoweUIxQUhRams4UFJvZTRxZ2hEcFFXX1p5blZad0JXdW5CODk4MUN3dnBlOG81UDFRcE9wQVYzRWp0QXhnSTVDRGVKZ0VtdUFiR2laMVRrLTBvVEZST2J0OUJKUdIBckFVX3lxTE8taFYzanNQWVBFaUhUNHoweUIxQUhRams4UFJvZTRxZ2hEcFFXX1p5blZad0JXdW5CODk4MUN3dnBlOG81UDFRcE9wQVYzRWp0QXhnSTVDRGVKZ0VtdUFiR2laMVRrLTBvVEZST2J0OUJKUQ?oc=5",
           "region": "national"
         }
       ],
