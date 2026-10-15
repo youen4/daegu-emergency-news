@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:07:51.598745+00:00",
+  "generatedAt": "2026-10-15T21:29:38.672224+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -110,10 +110,10 @@
           "region": "national"
         },
         {
-          "title": "연휴에 리튬건전지 삼킨 9개월 아기…전북→부산 헬기 이송",
-          "source": "연합뉴스",
-          "date": "2026.10.13.(화) 14:44",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XUk92R0szdC1HVUlHeTNJRTdGdWRKTkRhQTRsQkhKRXM2QmttN1FXT3BvSXdPandGd0dvSWFJWFRIV1JGWUVKZlFSWlNJbFZ5SF9vbXQ3UzBNQnR3NzkxS9IBYEFVX3lxTE5XUk92R0szdC1HVUlHeTNJRTdGdWRKTkRhQTRsQkhKRXM2QmttN1FXT3BvSXdPandGd0dvSWFJWFRIV1JGWUVKZlFSWlNJbFZ5SF9vbXQ3UzBNQnR3NzkxSw?oc=5",
+          "title": "응급의학 전문의 34% 증가 ‘30분 초과 이송’ 2.7배…혁신위 “배후진료가 문제”",
+          "source": "medicalworldnews.co.kr",
+          "date": "2026.10.13.(화) 15:03",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdFcxMm1LRlE3Nl9SMTI0Vm1UbnRRM1VJU0FJX0tnTzhZZkxSNlZhMFcyTWhoMW0tY1BSakFzUVZURWkyVFZHR190TGhjbDRVMUxIc2VEaVNtdGM2T1FLdFRDNXEteFI5ZXFTM0UwYzY?oc=5",
           "region": "national"
         },
         {
@@ -218,6 +218,13 @@
           "region": "national"
         },
         {
+          "title": "\"범죄자 취급 '소아응급실' 못 지켜…전문의 사직·센터 반납 현실화 시 경찰 책임\"",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.10.15.(목) 11:06",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yQkNxaXNVamkzWTAtbnJFZVFjYTZDOXJaeHh2ZERMT0lxX1o4emg2eGkxZnRTWHFiOUFtTkk1Q0pjdHhzb0RRNFcwWnk3bmU2?oc=5",
+          "region": "national"
+        },
+        {
           "title": "\"응급실은 범죄 현장 아냐…압수수색 사과해야\"",
           "source": "뉴시스",
           "date": "2026.10.13.(화) 13:22",
@@ -231,6 +238,13 @@
       "label": "기타",
       "items": [
         {
+          "title": "대한적십자사 혈액관리본부, 한미사이언스와 헌혈문화 확산 위한 업무협약 체결",
+          "source": "뉴스에이",
+          "date": "2026.10.16.(금) 03:39",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZUFaZ19wWEFPLWRTRU9icndkNXRwMFpreUxEY1VEQk5aeU12bk1BVUdOQ0tTa09BV25FdDVoVXAyalFYeURQbEV4MDdxVDU5ajJ4YzBia21VaUxqX25mZnljOEtNRXRSTHc?oc=5",
+          "region": "national"
+        },
+        {
           "title": "한미사이언스, 대한적십자사와 MOU 체결",
           "source": "e-의료정보",
           "date": "2026.10.15.(목) 23:58",
@@ -242,6 +256,13 @@
           "source": "여수넷통뉴스",
           "date": "2026.10.15.(목) 22:44",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52S2hzZ2pGdGZrRU1od0gyQzZQUjlqczNkUUstdzlzbHpEb2FqU3FYaEdlRkV1WVI4RmIzODNqdG5xdzMzbWxFUlNuNWxPdkljc0VkNkJfRWhKaFc3N25CUmduYXdfc0tmbmc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "봉화교육지원청 물야초, 세심한 안전 역량 강화로 안심 배움터 조성",
+          "source": "다경뉴스",
+          "date": "2026.10.15.(목) 21:46",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1SbjhQS0daWjY2Zy01eEx6ZDhCckdOb0pPZTZLOVNVOHhhMTU5WUFRY3Y5ZVhIUGRIXy1EVGZ2SkxtWG9v?oc=5",
           "region": "national"
         },
         {
@@ -259,13 +280,6 @@
           "region": "national"
         },
         {
-          "title": "한미사이언스, 대한적십자사와 헌혈문화 확산 '맞손'",
-          "source": "데일리한국",
-          "date": "2026.10.15.(목) 19:42",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oRUtHZGdFMTNTMmdXdUYzNlNadnFnYllQNk4wQV9qZkJJQWpSaTItZDRkWDhLcnNpeEd5NUt6QlJUTGFkeGY2cEtKRkVCbXUwQUdlWDBJM2JoMG9oT0FMMGN5eUtlSHVKYUJrTEpOUGN4dFHSAXNBVV95cUxNaEVLR2RnRTEzUzJnV3VGMzZTWnZxZ2JZUDZOMEFfamZCSUFqUmkyLWQ0ZFg4S3JzaXhHeTVLekJSVExhZHhmNnBLSkZFQm11MEFHZVgwSTNiaDBvaE9BTDBjeXlLZUh1SmFCa0xKTlBjeHRR?oc=5",
-          "region": "national"
-        },
-        {
           "title": "한미사이언스·대한적십자사, 헌혈문화 확산 업무협약",
           "source": "메디포뉴스",
           "date": "2026.10.15.(목) 19:36",
@@ -277,20 +291,6 @@
           "source": "펜앤마이크",
           "date": "2026.10.15.(목) 19:07",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54VjJuYkVLX3pZbFRGQlUtRzZkWFZ5N1YwbnBzNlBTNkdmbVhRR3k0d25YRU9iM0VvZXlOYURqcWVBYmlHQlJrdUthVmJPSEZsVDNBb0k4S3B5STAtbkJxNGdQV09HektiQ3F0bkZvc9IBb0FVX3lxTE54VjJuYkVLX3pZbFRGQlUtRzZkWFZ5N1YwbnBzNlBTNkdmbVhRR3k0d25YRU9iM0VvZXlOYURqcWVBYmlHQlJrdUthVmJPSEZsVDNBb0k4S3B5STAtbkJxNGdQV09HektiQ3F0bkZvcw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한미사이언스, 46년 이어온 헌혈 캠페인…헌혈자 건강지원 확대",
-          "source": "더퍼블릭",
-          "date": "2026.10.15.(목) 18:29",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SQ01kcURTREpCUTE0bmt4SDVwUHVLbnVaVmxJcTFXQnp6X1RyVjdRV3pTMU52LW5mZzZrX080WmI0bU9pcm5uNHRJWHl5U2tBdHFyT0N6U3poODB2Rm1Uem5RTWF0cE5SSnZEbW0tb9IBb0FVX3lxTE1SQ01kcURTREpCUTE0bmt4SDVwUHVLbnVaVmxJcTFXQnp6X1RyVjdRV3pTMU52LW5mZzZrX080WmI0bU9pcm5uNHRJWHl5U2tBdHFyT0N6U3poODB2Rm1Uem5RTWF0cE5SSnZEbW0tbw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "미래 소방관 꿈꾸는 청소년들… 안양소방서, 진로·안전체험 부스 운영",
-          "source": "경기일보",
-          "date": "2026.10.15.(목) 18:00",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zdGZSSmxTYkg1NWF4d2RBNHd1UDZEd1RYOVR1SnlvM1N4Q3g3MUwzN0Noa2pkazc5bk85bDZEa2dJOHA2YWtwSVZuaUgtemc1V0tKM2U4V2QybjQ?oc=5",
           "region": "national"
         },
         {
@@ -371,6 +371,13 @@
           "region": "national"
         },
         {
+          "title": "한미사이언스, 대한적십자사와 '건강한 헌혈문화' 확산 이끈다",
+          "source": "메디소비자뉴스",
+          "date": "2026.10.15.(목) 15:57",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qby1xRXBna05HT3o5eF9WQUlNQ3J5ajFnSER0TXUxX0ZYUThZX1dkZElBM1BwTjJ1Snpfc3RTOXlhT3NoTnFON2ZZOTlyVXZhcHdEQWtnRHRPbDhxVHNndk80RjB3NHNFdmx5Rk1RMXU2Z9IBdkFVX3lxTE9hT2ltZ1NzMjVpMnZlSTBTcktxMHJpTHVoZ3hGOHZmX0JWN2FwRTdLdGZYZTdYSi1HMDRKNGJxUTFlaDVoUTRGaTRHLW5zaFR2YmNfRlY5Qkp1ME91THZseW13Mmk5dk9KbXJPdVYzZnpYSnlfc3c?oc=5",
+          "region": "national"
+        },
+        {
           "title": "[바이오스냅] 한미사이언스, '건강한 헌혈문화' 확산에 앞장",
           "source": "연합뉴스",
           "date": "2026.10.15.(목) 15:43",
@@ -399,6 +406,13 @@
           "region": "national"
         },
         {
+          "title": "한미사이언스, 46년 헌혈 나눔 이어간다…헌혈자 건강 지원 확대",
+          "source": "미래경제",
+          "date": "2026.10.15.(목) 15:28",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5id0w1Wk44X0g1Q1NpckwyUS1WTTRJRGs5WGF1MXFWd0RDSnJhZ08xZlFTeW92U3pOclJ4RFNlV0lrRnRQMTUxQk9MZFlScXVVR0daUS1mcWRXd21UMXdLa1ZHTmRBSkhqUUhvMA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "한미사이언스, 서울 헌혈의집 42곳에 건강음료 1년간 지원",
           "source": "주간한국",
           "date": "2026.10.15.(목) 15:25",
@@ -424,13 +438,6 @@
           "source": "놀뫼신문",
           "date": "2026.10.15.(목) 14:36",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHckwxaWNodzhFdE85UEdDMmFiOHBOR1B1UElrRVdMM1FLcjJjQk9BVVhIcUZrY2Y5WUhTS1dJVDhpOUlTTGtmdW56M3ZUVlJoX2M2UUd2eXk3c1JkRUE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대한적십자사 혈액관리본부, 한미사이언스와 헌혈문화 확산 위한 업무협약 체결",
-          "source": "제보왕",
-          "date": "2026.10.15.(목) 14:32",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wYjUtWUZ1S3c5bGpkcHM2dzB0WGR0TTItRE5nSllhaHh1YWQwbjJPYnVITmI0VlB6TmY1a05rMURBdEd0MzhiOGRsZV9XUHo2UjRhSU83eUZTcG1lWThZYVZHVFpISXJidHNvNkQ3TdIBb0FVX3lxTE9wYjUtWUZ1S3c5bGpkcHM2dzB0WGR0TTItRE5nSllhaHh1YWQwbjJPYnVITmI0VlB6TmY1a05rMURBdEd0MzhiOGRsZV9XUHo2UjRhSU83eUZTcG1lWThZYVZHVFpISXJidHNvNkQ3TQ?oc=5",
           "region": "national"
         },
         {
