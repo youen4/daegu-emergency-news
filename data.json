@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-10-17T15:41:36.822206+00:00",
+  "generatedAt": "2026-10-17T20:42:03.895386+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
-        {
-          "title": "기능이 많다고 규칙도 같지는 않은 스포츠 토토 핸디캡 뜻 놀이터벳",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.17.(토) 19:06",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmRiVmpTSG1meUNRR1hkVlpCUXpnenp1clJuYndPcTRSTjZ5N1JCampRVWZvSzFoV1lVN2tveHp0QkEwbi1MZndMaGFkUFYxT0xuQUEtdHMyZlhSQnF6bzhKNmt1ZTNqUFVvczYxOGxHS0pQbHd3OEpvM0xyLW11QWs2NnQ1THFmS01QTHhSYUV6RnF1XzYxRmJtWkJPbHEzekNvcG16cVh4WVZKVWc?oc=5",
-          "region": "national"
-        },
         {
           "title": "짧은 문장으로 풀어 쓴 m.2 슬롯 게임 원리",
           "source": "Calgary Roughnecks",
@@ -107,7 +100,15 @@
     },
     "er_runaround": {
       "label": "응급실 뺑뺑이",
-      "items": [],
+      "items": [
+        {
+          "title": "정용채 도의원, 안동댐 50년 중첩 규제 해소 촉구 : 정치",
+          "source": "재경일보",
+          "date": "2026.10.17.(토) 20:09",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82T3VUVkptekxVWEd4d3h0WWxnTldmQ0cxd2hfa0RMV0xQRDFwS1NpY0dzbHB0aElkWmFOY2l3RlZDcjdoei03UjdpOA?oc=5",
+          "region": "national"
+        }
+      ],
       "error": null
     },
     "disaster": {
@@ -162,6 +163,13 @@
       "label": "소아응급의료",
       "items": [
         {
+          "title": "“아이 사망 10분 만에 과수대 진입”…아주대 소아응급실 그날",
+          "source": "중앙일보",
+          "date": "2026.10.17.(토) 06:00",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvWV81bVVOeDA1ZXpIUmMtaWluc01pMzZQb2dwV2syOFRTWUc1OUJuMW96dm5ENV9vNmE0R3ZkRW5nOUZpZ19TYWtrNHEyNnNvbFo2R2R3?oc=5",
+          "region": "national"
+        },
+        {
           "title": "\"범죄자 취급 '소아응급실' 못 지켜…전문의 사직·센터 반납 현실화 시 경찰 책임\"",
           "source": "MEDI:GATE NEWS",
           "date": "2026.10.15.(목) 11:09",
@@ -175,10 +183,31 @@
       "label": "기타",
       "items": [
         {
+          "title": "한미사이언스, 헌혈 넘어 헌혈자 건강까지…생명나눔 확대",
+          "source": "데일리포스트",
+          "date": "2026.10.17.(토) 23:53",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xS1A5YUxVdXFBOFlxRzBfQVpjbGtta2tKVmhyTWs5cmQxblhycE93RzB4aTFzU1Bpc2x4RUttMUx5N2JwNjNja3FmRmFZWlN6UGdxS2ZGSXUwMzFMYTNKR0dvTUxQZDVhQ1J6UkpzRlJyZ0XSAXNBVV95cUxNMUtQOWFMVXVxQThZcUcwX0FaY2xrbWtrSlZock1rOXJkMW5YcnBPd0cweGkxc1NQaXNseEVLbTFMeTdicDYzY2txZkZhWVpTelBncUtmRkl1MDMxTGEzSkdHb01MUGQ1YUNSelJKc0ZScmdF?oc=5",
+          "region": "national"
+        },
+        {
           "title": "“특별한 추억” … 음성소방서, 2026년 119어린이 한마당 대축제 개최",
           "source": "음성타임즈",
           "date": "2026.10.17.(토) 20:11",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6Mkw1a1ZvUzc1UnlZa2gyMnBvdUpaNnVhTkluYld0bUUtd2pLemQ1RDFSS20yNmhKMFIwOTdWczdKbE9Id1dLUS1ZM01uZWFoQnhNX2dqYTV6bXR0VG5xTjlrTTdKdmNnZUE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "음성소방서, '2026년 119어린이 한마당 대축제' 개최",
+          "source": "중도일보",
+          "date": "2026.10.17.(토) 18:36",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WT0FwSUZodnYxSUt2ZXltY3JiSjdHN08wdmFqMWQ2ckdkbzRPTFZkNUg4c3ZxWVNDSC13UkVIYnRzVkQ1OFdhNElaRGJBZHotRXZzakNGLVNLZUxjbjVZY3V1aVRKWVhjR2h1YQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "보라매병원, 개원기념 ‘건강한마당’ 개최…주민 건강 체험 지원",
+          "source": "더퍼스트미디어",
+          "date": "2026.10.17.(토) 17:58",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TZldneFgxVkQyYVFJUTd3eFdmc1ZNMG1wdW1veXZCeC00QXlraUMtR0lZemRmdVNMZXh3bDU1aTdNeE9lNUxoNEZlMFZKMVBadlcyd1ZId1ZiR1RDTmtRbU5NV1dHN09nWjY5YWVGSmhJZ9IBdEFVX3lxTE9IY3ZVZG1aWGVzR0dFNkU4NDVjRXo1dFpxZ3RsS2o2cGVWQWVhX1JOeFU3RkhRVllIOVhnM0tua2ZoZFNETUkzYUMxQkR1SXRmeHlkellUTWVhNGlralpWOGMwRnRFWE13ckJPUnlTcGl1bnZq?oc=5",
           "region": "national"
         },
         {
@@ -245,6 +274,13 @@
           "region": "national"
         },
         {
+          "title": "반려동물 안전사고 601건·사망 3명…농식품부 전담 예산 0원 논란",
+          "source": "진주인터넷뉴스",
+          "date": "2026.10.16.(금) 17:00",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xRjF1a0syQ3hWQno5SkJadmtQZmd5SjRrcTRJVU1waG82bW5LZlZubXh0TC1vWWotVkRjdHlFY0NjQmstd1ptX3VYTU1ISjBPWWhKQnVPR2dJbF9WMlptUFBlV2JYZkRWMnZfMHMwWDE0NjRiX2V3?oc=5",
+          "region": "national"
+        },
+        {
           "title": "강동소방서, 암사선사문화축제서 소방안전체험 부스 운영",
           "source": "FPN-소방방재신문",
           "date": "2026.10.16.(금) 16:50",
@@ -284,13 +320,6 @@
           "source": "아시아에이",
           "date": "2026.10.16.(금) 14:42",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zSTA0UTd1Y3VZWUVmQ2FxV2dubDU3Tm5DdzBQSTQwTWxYdVNDdTI3SmlRM2FQVnVYWWtORjNvMWZWbHZmcFpCdzVqQ2ZxWVNXTTczUXZrNnZnNFdaOVZvenV2OWRMY0ZpdU4wRGF30gFuQVVfeXFMTnNJMDRRN3VjdVlZRWZDYXFXZ25sNTdObkN3MFBJNDBNbFh1U0N1MjdKaVEzYVBWdVhZa05GM28xZlZsdmZwWkJ3NWpDZnFZU1dNNzNRdms2dmc0V1o5Vm96dXY5ZExjRml1TjBEYXc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "광주 10개 초교, '찾아가는 소방안전체험교실' 성료…750명 '안전 지킴이'로 성장",
-          "source": "피디언뉴스",
-          "date": "2026.10.16.(금) 13:54",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aa1dJVG9OYkZSOTNUcWo1S0g2SExpOGFPUzRwSTdiN3duUkFtcXA3RnIzTEZMcjJQeWlXclhTV0pGSEpxUmJJcDZuT3pSemNjMW9wTUlDaEN1aUZv?oc=5",
           "region": "national"
         },
         {
@@ -350,13 +379,6 @@
           "region": "national"
         },
         {
-          "title": "함평소방서, 중학생 대상 응급처치교육",
-          "source": "FPN-소방방재신문",
-          "date": "2026.10.16.(금) 10:00",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qZllXbHBxMW1yM01Oa2MyZXlpRzFIaUlIRlZ2Yk1RblZCY0tIcmJBY0prX253d0wzaWp2bDNtOTlQcU5VRGc?oc=5",
-          "region": "national"
-        },
-        {
           "title": "심정지 때 일반인 CPR 받으면 생존율 15.3%…미시행 때는 5.6%",
           "source": "해양레저신문",
           "date": "2026.10.16.(금) 09:56",
@@ -368,20 +390,6 @@
           "source": "뉴스포스트",
           "date": "2026.10.16.(금) 09:48",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRHZtaGxuZGdhOUN5SFNTR1AzLXlCQTh1ZFZ1Tng0WmplWGpRQzFFTmhFWldMXzQ3QnBrZy1iUFJLb3BhVDk2SFVoSnpNckQ3aHFaRHJKbmNlZXhYVEx5Q0RZVEhOXzV1RlE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "여수시도시관리공단, 2026년 하반기 사랑나눔 헌혈 캠페인 실시",
-          "source": "서울일보",
-          "date": "2026.10.16.(금) 09:35",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11cERHeDg1R3FhVHEzM05tRGFiMG9GVVl1TFFUY00tNk1lMktTaEFBa1lHNm02M3c3cmFjdVYxQXYyTVAyc1Q5Tl9nNjYtbmhfdVlvU0NfUWU2TWJqb2lkTDg0dzBfNmVtc1gycdIBb0FVX3lxTFA3cGFLRU9QTFFYNEpsaUhXMTVwb2lIZmNtaGtsRWdYamV2OXRGZmpRY3hnMFRmbURlRnZWWHpzY2FlUWRQbWktQ2g0RTdYbFFZWExwNFhGVE9Kd3poejdveWNxbmxTZ2h5M0xXSFdxcw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "안산소방서, 언어의 장벽 넘어 다문화 학생 안전 지킨다",
-          "source": "소방신문",
-          "date": "2026.10.16.(금) 09:14",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fNlExc19uclNWZE5QcTBhNmdCUjJnUU1kWmFSX3Rza1gzX2R5cTZJc1c4eE85QWs3ZkZObmpPVXFkZVVzSUxVanNhblNja19oTnowdEo0Z0hKd09QY3pUQWR4X2JjQVZWZEtj?oc=5",
           "region": "national"
         }
       ],
