@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-18T15:57:19.782302+00:00",
+  "generatedAt": "2026-10-18T20:52:11.188181+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "의사 떠나고 간판 떼고, 소아응급의료 위급 - 머니투데이",
+          "source": "머니투데이",
+          "date": "2026.10.19.(월) 04:10",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nQUdFeE9uLVZRZXBPRGdKekNxSmlOQVdPWXJHemRybjBFVVliQy1TeUtENWZMajR1dTRUS2hmYVpleHNzdzFteUx3RDdkZDBYaDFqMm5mdFBCR19xOFlPYThXNUE1NXotQTExNi1nTHJnZi1HOUxNWnJPaDXSAXxBVV95cUxPZ0FHRXhPbi1WUWVwT0RnSnpDcUppTkFXT1lyR3pkcm4wRVVZYkMtU3lLRDVmTGo0dXU0VEtoZmFaZXhzc3cxbXlMd0Q3ZGQwWGgxajJuZnRQQkdfcThZT2E4VzVBNTV6LUExMTYtZ0xyZ2YtRzlMTVpyT2g1?oc=5",
+          "region": "national"
+        },
         {
           "title": "설악권 응급의료 축소..지역사회 지원 시급",
           "source": "G1방송",
@@ -30,6 +37,13 @@
           "source": "시사뉴스",
           "date": "2026.10.18.(일) 11:18",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZdC1EQ18tdTlxaWlybS1LN05rcHhMckNLNlVRbUVoNHNjRnFUZl83QjFDTDBvdlRmMWlpd2lGbVFhSWpib0ZTLTVsaTRySnVmM2NRcW9rTEZhYVRtcm5iTkYyYw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "단국대병원, 지역완결형 응급의료체계 구축 공동심포지엄 개최",
+          "source": "시사뉴스",
+          "date": "2026.10.18.(일) 10:48",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rdmUtZ1ExdkVhRTM0QXBRZHljdzk2UUZmRlg3dkFFT2V2Y3FiVWowcTFFUFgzemRGZ0lMMVdFTnZIallRYXdHa0dCVTdDWGVISVBSZ3V0NUpjZUZzOFB1eTd0dw?oc=5",
           "region": "national"
         },
         {
@@ -75,10 +89,31 @@
           "region": "national"
         },
         {
+          "title": "조재호 춘천성심병원장, “강원 중증·필수의료 거점으로 도약할 것”",
+          "source": "서울경제",
+          "date": "2026.10.17.(토) 07:00",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlenFsd1hJU3JsOEpYbDBRN0lZeUJ4QmVzM0dBeXBHV2pVRF9wZlFhcWZ0UXRnSEo2ZFhzZnFDeVUzdUxqWWpDampydnBfME1XUkHSAVNBVV95cUxNTmpzUHJNZE9IZFFpV1ZwanhmRjlOSUFuLWtUeXpZMmhjdm5POG1LTVE2TTZwVl9jLXNyN2dsckRsTExZOUVKQUxkRUNHTmxzSTUzVQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "토토 양득 게임 내 언어 설정 확인",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.16.(금) 22:45",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXYxV3l0czRDRF9CbGkteDVIVnNoaXJodG5OejIzT3VfcTJ4d0t2T0ZhTEFrT2NOczVVS0g5aDdVbTUtRmNWekNBQ2dIMVIyNkdwZFJlbGNaMnQ3OU1iM1B6c0RFU1c5Znp2b2NLRkpVakIzV0VVWkE3elRjOE9PekxXNjhNV0pPZ0U2MEY3c0RycFBQQUJ2ZE44UDdyN01mX3YxWnlrNHNCREo3LTJxWUlHeWJsX1FaaEpqSFNnV1pzSE0?oc=5",
+          "region": "national"
+        },
+        {
           "title": "주한미군 제65의무여단장, 단국대학교병원 방문",
           "source": "메디포뉴스",
           "date": "2026.10.16.(금) 20:22",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00Mzk5ZkMyLWJsUXJWa2tZT0ctdUlZRjhRX0RSZ2tLbExZWjhHMjhHLU1VbzR2TW1ZX2o5aDYzaGZjVlN5dG5zWlNJVW1xbUJqMWY4eFBwQTVtLXBMSXZNeC16eC0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "단국대의과대학부속병원, 권역정신응급의료센터 지정‥전국 총 14개소",
+          "source": "에이블뉴스",
+          "date": "2026.10.16.(금) 17:29",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RcS1sQkNXU3cwRnNmT0xEcGprVWV5cUhCbGNlTTdtUF9vMk84YmZWM0NBbk5taUFIOTBidFNHbzMyT0F6dDNCMUFzd1lDNWZFSEc3UGJnS016ZTRNcktROXBKQ3hpNXRacVA1NWN30gFyQVVfeXFMTU5XZXJ0YmEzZm1xYWNKNUtZM3RIT292Y0xxVGlzZFdISDJpMXJ0bXNoeFBUVEtldnlsYlpEOEllWmVLMGtSR25qd0tHQ1ZOV25USVZ2ZnRBMmlXR1Z0dHYtXzdEOF9EZkpFeHVvM1hOTTRR?oc=5",
           "region": "national"
         },
         {
@@ -108,34 +143,6 @@
           "date": "2026.10.16.(금) 10:27",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RXdNTVFKT3B2TUFIWE40eXJCNEdUcmp1R3dZYnNqZHVXWUkwdXdIQUR0ZGp4ZE9BYVdESDlBTUhMcG0tYTZVbUtFbnZlWVByQUZTV3U2YUc?oc=5",
           "region": "national"
-        },
-        {
-          "title": "주한미군 제65의무여단, 단국대병원 간호부장 등 3명에 감사장 전달",
-          "source": "간호사신문",
-          "date": "2026.10.16.(금) 10:14",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxMG5JeTVwWlNoenZDQTRxcHU2RTR1clBMVEtQckNUTkJfV2hjSXJZdHdSM1Bhd3ZZRTMtZVhuSjBWei1fUlV1RjA2RVNGSnhrLXNtSEN1SUw4ZmQwX1oxdkZsdEpLbzZCY3cyT3hn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "주한미군 제65 의무여단, 단국대병원 찾아 의료협력 강화 논의",
-          "source": "충청시사신문",
-          "date": "2026.10.16.(금) 10:12",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OUHVvZXZ0RFBTaTY4eWEtRkR5eDZsWEhGa2xrdkh5QkctQlNzTFVjT2pwYjRyRWJEOFVLTFhPY2xlS2dZbzVoSFp3N1lhaGxYbHc2YlhrbXE1azVycGRidHFxT1lnTTBOcmR3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "주한미군 의무여단장, 단국대병원 방문…중증응급·외상 진료체계 점검",
-          "source": "현대경제",
-          "date": "2026.10.16.(금) 10:10",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10VVdPS21JWV9TZUVLX3ZrcFNYUWpxVDNEN3NzMHE1N1F1NUxpYV9NYlBXNjY2N25pX2hRaVFlQ013Rk1FRnJXVHdWbzN1WlVKaGFpUlo4RExuNnYwTHgyYVN1LUtWYk1meElV?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "단국대병원, 주한미군 제65 의무여단 방문…중증응급·외상 진료체계 공유",
-          "source": "뉴스충청인",
-          "date": "2026.10.16.(금) 08:30",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02a0JWVjd4Y0h2UEpfeHF1ZTZjMlRLTVR6a010X3RDalFIbXNCSDVSWTc5QndrRmhFNEUzdkRESzZqcEptd1E?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -164,10 +171,17 @@
           "region": "national"
         },
         {
+          "title": "연성대학교 응급구조과 1학년 ‘2026 한국형 재난의료지원 교육 기초과정(KDLS-Basic)’ 모의환자 참여",
+          "source": "베리타스알파",
+          "date": "2026.10.16.(금) 17:19",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nMXlJVUIwTDFSYkhTVGkyNE5ZQmZadk0wYWFCNVZPTExxWHluYWYxMjRTa1RWM2NWbGJ3b1BtbTEzRm9MSFlMNm5CdWRQUHZiTFlVVzg0VjR6NkliMjVZTTlRdnZycVg5c3k5cg?oc=5",
+          "region": "national"
+        },
+        {
           "title": "아산시 복합재난 훈련, 240여 명·장비 39대로 대응 점검",
           "source": "한국사회복지저널",
           "date": "2026.10.16.(금) 13:58",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PQjFhbnpzZmx0RnVGWTllWUxKd2Iycmx2TV9EREZ5dDcySnN6eFpOc3ZZTlRSZWQ5eEZETTVCRGk5cFRSbjV2THlPSmNwWGhuRk1UWnZNc2k5MVhGSUdEeHV0SE9jSlFzaUhJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vUEFYcC1EVlI3X3pobm9RSEcxa2U4cllsR2d2cmF4VXgzdFh5Y3M1OGNfZjRyZmhMSFdvblVyb19jbV9FdVpOZktuT2F1WjZLc1Atd2ZaTUwxT1hsUDdDWUVqZ3N0MExYam1QVQ?oc=5",
           "region": "national"
         },
         {
@@ -183,13 +197,6 @@
           "date": "2026.10.16.(금) 08:55",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GLTBqeDVxblFqdGZnRGlFTkFzWDlTVm5ZSERydnFPYXh4NUlqSHhrbnd6b3g3RjE2WUt5RXYtX2FwTlJmelE?oc=5",
           "region": "national"
-        },
-        {
-          "title": "용산구, 용산역 GTX 공사현장에서 재난대응 안전한국훈련 실시 > 뉴스",
-          "source": "더코리아",
-          "date": "2026.10.16.(금) 01:38",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6SG5SQ1ZPcjFfaXFEd3JiSkdqM1lORncxaEpFdnE5eTg0RGNZcnhEeHRpTjhuRXp1Q3dGTzFWMEZ2SXA4Umc1d3hXQjYtM0VxZkFCLWkxTUZ0UlJySlZrdFJnbk5UVnVvNi1XelNyYlA?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -202,6 +209,20 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "임실군 ‘사랑의 헌혈’ 캠페인 진행",
+          "source": "전북중앙",
+          "date": "2026.10.19.(월) 01:51",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FR0p2cGJjdlhlX3ZRRExKVHF5ODlpT2RIbEFzZXBtWEpoT21uTDN4V0lHdUNjYUc0bE9yMy1vRUN6TWFQWldJMTZnUXF0Yy01dGtQa2NsbW1URTBqZVg4eEZZdXVTcDlLWHFz0gFrQVVfeXFMTUVHSnZwYmN2WGVfdlFETEpUcXk4OWlPZEhsQXNlcG1YSmhPbW5MM3hXSUd1Q2NhRzRsT3IzLW9FQ3pNYVBaV0kxNmdRcXRjLTV0a1BrY2xtbVRFMGplWDh4Rll1dVNwOUtYcXM?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "안산시, 로보캅순찰대 연수 개최… 시민 안전 지킴이 노고 격려 > 뉴스",
+          "source": "더코리아",
+          "date": "2026.10.19.(월) 00:10",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB6cGdPYldUcmVhV2djMVRwcWVWdnpxMDhISnpyVDZiNFlvTjNEZ3BnSDVlMXJxZUxzVFQ5VTE2SWVfTUk?oc=5",
+          "region": "national"
+        },
         {
           "title": "2026년 자발적 헌혈 프로그램을 통해 407단위의 혈액을 수혈받으세요.",
           "source": "Vietnam.vn",
@@ -245,6 +266,13 @@
           "region": "national"
         },
         {
+          "title": "세종 119불조심 한마당, 안전을 체험하다",
+          "source": "유스연합",
+          "date": "2026.10.18.(일) 11:20",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NWENQQlBTanItcFlaQUhHaHNzMUhPNDdrVHRhNkk1TjQyOWhyZzRyVmUwZ3FKWnVmS3FDRkVDZVRoMEh2cDlLdjJNS1Q0YjdGQlJv?oc=5",
+          "region": "national"
+        },
+        {
           "title": "이민근 안산시장 '안전한 안산' 약속…로보캅순찰대 연수 개최",
           "source": "국제뉴스",
           "date": "2026.10.18.(일) 10:08",
@@ -277,13 +305,6 @@
           "source": "데일리포스트",
           "date": "2026.10.17.(토) 15:35",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ONlZDaXpLZllTSlZ4MTZtandHUWlZcks4Y1I5UTJORlJFQlZqeERFb2Nfdmd4RlVIZmtjbFVWVUJVMFg0ZjhDb3dTNk9reFJ0eGlvX01FTHdPY0ZlYTJycnRfN05oa3o2MEFyc0VLVdIBc0FVX3lxTE0xS1A5YUxVdXFBOFlxRzBfQVpjbGtta2tKVmhyTWs5cmQxblhycE93RzB4aTFzU1Bpc2x4RUttMUx5N2JwNjNja3FmRmFZWlN6UGdxS2ZGSXUwMzFMYTNKR0dvTUxQZDVhQ1J6UkpzRlJyZ0U?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "인천환경공단 가좌사업소, '헌혈운동' 동참",
-          "source": "국제뉴스",
-          "date": "2026.10.17.(토) 15:31",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdlZCRElNMVF4dV9VazJPY2Z6enNNTi01VVBrRVNyejZhWi1DejFsc0kwX0ZZck43aEs3Vm5XMkJWclBjeVJzb1lINE9zVEdHYU5uYkdlTEtkcGd4M2RYSzZRNkxvdDJxTUJYc1pB?oc=5",
           "region": "national"
         },
         {
@@ -396,20 +417,6 @@
           "source": "영남매일",
           "date": "2026.10.16.(금) 13:36",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YNnBXTktJTUlTZzRpSkhSWloyeDcyZjZrc3VCSkx2djBGTFhBNGJjdVVuWEFwMncyRDVWYkZQWWQtbFVNTlFOTV96WWF3eXVUeU4wcFFjbWdKY2NvNzRQSjdUM1VSTmM?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "에스원, 학교시설 개방 확대에 AI·IoT 안전관리 솔루션 공급",
-          "source": "더퍼블릭",
-          "date": "2026.10.16.(금) 13:32",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbkhVUldxem84Y2tUb09tcVpaTHEwRTgtdThMZWZHQ3JHN0hYOW0xZ1d6OUd3UklIOWpwaFRvUDNCb3VobEdkUHZ0SnJVMUhRLVFtWUZPT3VVeDRaakt4QkFBT1RfbTE5ZVZCa01MMNIBb0FVX3lxTE5wbkhVUldxem84Y2tUb09tcVpaTHEwRTgtdThMZWZHQ3JHN0hYOW0xZ1d6OUd3UklIOWpwaFRvUDNCb3VobEdkUHZ0SnJVMUhRLVFtWUZPT3VVeDRaakt4QkFBT1RfbTE5ZVZCa01MMA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "육군 15사단 백호대대, 헌혈증서 116매 기부…생명나눔 실천",
-          "source": "신아일보",
-          "date": "2026.10.16.(금) 12:43",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uY1hMTDFFQm9jTi1wZG1qTGxZbWdLM0dkZ2laaTY3dVFaZ0NKZnl2Tm9QVlR3TmJjYzU0NDF5TzZOZnBuNHdxSDVINTdqd05vX21GeHBsM2RLRDBXemZBRzlNWGlVUFJmcXRQQllLRDk?oc=5",
           "region": "national"
         }
       ],
