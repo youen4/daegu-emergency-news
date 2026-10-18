@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-18T11:19:07.872262+00:00",
+  "generatedAt": "2026-10-18T15:57:19.782302+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "설악권 응급의료 축소..지역사회 지원 시급",
+          "source": "G1방송",
+          "date": "2026.10.18.(일) 21:46",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51ZEQ4T1lHWVJMczJISzBBcjc1Zk0xd2VwTDBtcWkyUmtyWktmaE5qWHFiMGxtUGg2Ynh0SVg3ZWRLd1U4eS1Ta2p2OGtWUW1obDhYUXdoV1o1ZHM4UU9Ma1VnZVc?oc=5",
+          "region": "national"
+        },
         {
           "title": "단국대병원, 미군 의료지원·충남 응급의료 협력 강화",
           "source": "금강일보",
@@ -33,6 +40,13 @@
           "region": "national"
         },
         {
+          "title": "한 판 안에서 일어나는 변화, 폴아웃 뉴베가스 도박",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.18.(일) 06:27",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2eWpIWkEtdHRBQW9ULUtqUUh1bTJHdkdiMFhzRWRDaDFvSUE3Q2VqTUVGdXBXZmNlTm9sTVFfWVZQc3JSbWRFSGh4ZUNVWlVSS054ZWV0U2FYdndaZWlrV18yc21vZF9IakpURGFB?oc=5",
+          "region": "national"
+        },
+        {
           "title": "z플립5 sd카드 슬롯 클러스터 방식 적용 여부",
           "source": "Calgary Roughnecks",
           "date": "2026.10.18.(일) 01:35",
@@ -54,6 +68,20 @@
           "region": "national"
         },
         {
+          "title": "'응급실 뺑뺑이 금지법' 후폭풍…학회 회장 사퇴",
+          "source": "뉴시스",
+          "date": "2026.10.17.(토) 13:51",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wQkJOUnhjM0lZRk1GVU1TSGl1czl2YWtRZ0hGdXVjRlBEaElPT1pNSU95SHdDN3gyWFZGSFdFaWF4d2ZzcTVVM3dDMGRaUjUtbHd6NkQ5NHhTYlR3RXR1c1RfOE1JdjdXclVwVzBueENuWXNlRThXTtIBeEFVX3lxTE5wQkJOUnhjM0lZRk1GVU1TSGl1czl2YWtRZ0hGdXVjRlBEaElPT1pNSU95SHdDN3gyWFZGSFdFaWF4d2ZzcTVVM3dDMGRaUjUtbHd6NkQ5NHhTYlR3RXR1c1RfOE1JdjdXclVwVzBueENuWXNlRThXTg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "주한미군 제65의무여단장, 단국대학교병원 방문",
+          "source": "메디포뉴스",
+          "date": "2026.10.16.(금) 20:22",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00Mzk5ZkMyLWJsUXJWa2tZT0ctdUlZRjhRX0RSZ2tLbExZWjhHMjhHLU1VbzR2TW1ZX2o5aDYzaGZjVlN5dG5zWlNJVW1xbUJqMWY4eFBwQTVtLXBMSXZNeC16eC0?oc=5",
+          "region": "national"
+        },
+        {
           "title": "주한미군 제65의무여단장, 단국대병원 의료서비스 감사 표명",
           "source": "의학신문",
           "date": "2026.10.16.(금) 11:52",
@@ -72,6 +100,13 @@
           "source": "뉴스파고",
           "date": "2026.10.16.(금) 10:48",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5fOUlDWkpZdDlnd2hkendRQm1aZjRmMGxtaWVBdVRkb2otNlU5TzlEdnBzVzlZeHh4cEoyM3gzSDEySUFI?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "주한미군 제65 의무여단장, 단국대병원 방문…의료서비스에 감사",
+          "source": "안티에이징뉴스",
+          "date": "2026.10.16.(금) 10:27",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RXdNTVFKT3B2TUFIWE40eXJCNEdUcmp1R3dZYnNqZHVXWUkwdXdIQUR0ZGp4ZE9BYVdESDlBTUhMcG0tYTZVbUtFbnZlWVByQUZTV3U2YUc?oc=5",
           "region": "national"
         },
         {
@@ -132,7 +167,7 @@
           "title": "아산시 복합재난 훈련, 240여 명·장비 39대로 대응 점검",
           "source": "한국사회복지저널",
           "date": "2026.10.16.(금) 13:58",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vUEFYcC1EVlI3X3pobm9RSEcxa2U4cllsR2d2cmF4VXgzdFh5Y3M1OGNfZjRyZmhMSFdvblVyb19jbV9FdVpOZktuT2F1WjZLc1Atd2ZaTUwxT1hsUDdDWUVqZ3N0MExYam1QVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PQjFhbnpzZmx0RnVGWTllWUxKd2Iycmx2TV9EREZ5dDcySnN6eFpOc3ZZTlRSZWQ5eEZETTVCRGk5cFRSbjV2THlPSmNwWGhuRk1UWnZNc2k5MVhGSUdEeHV0SE9jSlFzaUhJ?oc=5",
           "region": "national"
         },
         {
@@ -161,25 +196,31 @@
     },
     "pediatric": {
       "label": "소아응급의료",
-      "items": [
-        {
-          "title": "“아이 사망 10분 만에 과수대 진입”…아주대 소아응급실 그날",
-          "source": "중앙일보",
-          "date": "2026.10.17.(토) 06:00",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvWV81bVVOeDA1ZXpIUmMtaWluc01pMzZQb2dwV2syOFRTWUc1OUJuMW96dm5ENV9vNmE0R3ZkRW5nOUZpZ19TYWtrNHEyNnNvbFo2R2R3?oc=5",
-          "region": "national"
-        }
-      ],
+      "items": [],
       "error": null
     },
     "etc_misc": {
       "label": "기타",
       "items": [
         {
+          "title": "2026년 자발적 헌혈 프로그램을 통해 407단위의 혈액을 수혈받으세요.",
+          "source": "Vietnam.vn",
+          "date": "2026.10.18.(일) 22:09",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkRvMVV0RUdPaXoxUDRRRy14WUkyRDRkTG53c241TklZbmtvamNVLWtMNHlTWHNzRVVxT1AxMnBNbEdOZEVHZE41emMwVkVFWFZmcllQcnRrczB1dGxFNTZBSGl1N3RtWnNvd3NrakRVUElMbzNnS1Z6RGJZV1pwTTZXekQ0YWhnd0VmRk45c3hsYnFrVnNpa3B3d3hLVkFt?oc=5",
+          "region": "national"
+        },
+        {
           "title": "임실군, 오는 22일 군청 광장서 헌혈",
           "source": "뉴스티앤티",
           "date": "2026.10.18.(일) 20:08",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EckpVMVJtUjY0VHRIX00xTzIwY05Kb0FpalNVVlZvdzdpWUhlaEstNzY4aEtWcGduRUVCUVZXdUJSNklid1Q1VXF2bXBCYWZZYW9IR19rSHNZU2lrMXkxRzdrb21hME81bUE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "임실군 ‘사랑의 헌혈’ 캠페인 실시",
+          "source": "산경일보",
+          "date": "2026.10.18.(일) 16:03",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5U3d0OTkwUXBqdlNBMXN3cnYyZnJheWlfOVV3aHAxcUhwb0xTU09xRnNEbjI5NEdWOGNUQlpLUm9vV3ZvajlsNUhTTDBpNHB4S0JvSEZoNENTMmdTMFhuQUlpeGxBSnBuTUhqdkVNRmQ?oc=5",
           "region": "national"
         },
         {
@@ -190,6 +231,13 @@
           "region": "national"
         },
         {
+          "title": "서울 지하철 안전사고 부상자 5년 새 2배 급증…지난해 1천명 돌파",
+          "source": "산경투데이",
+          "date": "2026.10.18.(일) 13:44",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tTVZMaEwyN2xsQ2NQelVPLUkzSzVibnkzeDE2bUZVZFcxMjZNc1hONTV2THpxbk51RGN0M2QwWjA4amJoNHNCbllZOVl4YTc0RzRWUW1tYndKdlgyREQxVVRvSVNIeXU0NWY3NkRnSErSAXRBVV95cUxONnhOTzAyM0k4TjA0Y3NaZU81bjJQeG5qaVZQd0l3T1VXdUF4bTl1Tk4yWGl2NkZlX0gzbnNJSE5ab3JRWW1XZFEyWXJmdWx4cjUzMFJmYjZ0cUg4VGZGZjlyLTFkYW9aWGNSeWRVZ3VCdjk4Sw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "\"삭막한 회색 산단 벗는다\" 구미산단 근로자 문화 축제 성료",
           "source": "매일신문",
           "date": "2026.10.18.(일) 12:29",
@@ -197,17 +245,17 @@
           "region": "national"
         },
         {
+          "title": "이민근 안산시장 '안전한 안산' 약속…로보캅순찰대 연수 개최",
+          "source": "국제뉴스",
+          "date": "2026.10.18.(일) 10:08",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lRHRwRG81eE84WndBWTVVOWxPanZQQWowZVEwNXBIS1JSVUNDRG1GMlJPLUs4aHAtdkFXYlhQZ2cwd2taSnVNLTNjSFk1UFk3UlpkRWlCUnZJaDFyZkdCUi0wX2FSZmV4M1BVLUhB?oc=5",
+          "region": "national"
+        },
+        {
           "title": "반복되는 헌혈 수급 위기…\"군장병 등 참여 요인 확대해야\"",
           "source": "뉴시스",
           "date": "2026.10.18.(일) 08:02",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfMjZUQ0ZwR2hKeEREbnlOWXhPUnVMR3FJeHVMdmxDOEJKUGw4ZnlHc3Q0MzJNcDZFVkhfTjhDUGl1R1lXWkVuODJkNHBZM01uMXhoS1Q0V0pBQ2xrc2h1LQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한미사이언스, 헌혈 넘어 헌혈자 건강까지…생명나눔 확대",
-          "source": "데일리포스트",
-          "date": "2026.10.17.(토) 23:53",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xS1A5YUxVdXFBOFlxRzBfQVpjbGtta2tKVmhyTWs5cmQxblhycE93RzB4aTFzU1Bpc2x4RUttMUx5N2JwNjNja3FmRmFZWlN6UGdxS2ZGSXUwMzFMYTNKR0dvTUxQZDVhQ1J6UkpzRlJyZ0XSAXNBVV95cUxNMUtQOWFMVXVxQThZcUcwX0FaY2xrbWtrSlZock1rOXJkMW5YcnBPd0cweGkxc1NQaXNseEVLbTFMeTdicDYzY2txZkZhWVpTelBncUtmRkl1MDMxTGEzSkdHb01MUGQ1YUNSelJKc0ZScmdF?oc=5",
           "region": "national"
         },
         {
@@ -222,6 +270,20 @@
           "source": "로컬세계",
           "date": "2026.10.17.(토) 16:29",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kNnIwWHprM01NNF9yUW54d1VLQUNTTlVGWThESWVicFJaOXRfS1lzNjI5ZHo4OFZxbjhvUDF0cC14Q2ZPXy0yOU9VZ1N4ZWN6UXZESURobG1kSEYyQlNsQ9IBWEFVX3lxTE1mVjJnNTB0VVpTSHI0RDNlRkNKZkhVRkN6VEx5N0dzUk10bW5acVFPeFJCQXFjcDZhdE9tYnhnQ3lUZUhWMUNyaHQtQktjaDd2eGxRVVNqZ0Y?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한미사이언스, 헌혈 넘어 헌혈자 건강까지…생명나눔 확대",
+          "source": "데일리포스트",
+          "date": "2026.10.17.(토) 15:35",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ONlZDaXpLZllTSlZ4MTZtandHUWlZcks4Y1I5UTJORlJFQlZqeERFb2Nfdmd4RlVIZmtjbFVWVUJVMFg0ZjhDb3dTNk9reFJ0eGlvX01FTHdPY0ZlYTJycnRfN05oa3o2MEFyc0VLVdIBc0FVX3lxTE0xS1A5YUxVdXFBOFlxRzBfQVpjbGtta2tKVmhyTWs5cmQxblhycE93RzB4aTFzU1Bpc2x4RUttMUx5N2JwNjNja3FmRmFZWlN6UGdxS2ZGSXUwMzFMYTNKR0dvTUxQZDVhQ1J6UkpzRlJyZ0U?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "인천환경공단 가좌사업소, '헌혈운동' 동참",
+          "source": "국제뉴스",
+          "date": "2026.10.17.(토) 15:31",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdlZCRElNMVF4dV9VazJPY2Z6enNNTi01VVBrRVNyejZhWi1DejFsc0kwX0ZZck43aEs3Vm5XMkJWclBjeVJzb1lINE9zVEdHYU5uYkdlTEtkcGd4M2RYSzZRNkxvdDJxTUJYc1pB?oc=5",
           "region": "national"
         },
         {
@@ -296,9 +358,9 @@
         },
         {
           "title": "사천시, 혈액수급 안정화를 위한 「사랑의 헌혈행사」 개최",
-          "source": "진주인터넷뉴스",
+          "source": "jinju.news",
           "date": "2026.10.16.(금) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkR0RzVlJ3T1NlQ1ROV1BjYUY4Z3VNVUNHYnFZX0VWLUtzY2hUZlpjSm1FR3dfN0lHSmhqcXJLTnBibEh5cXhGVWtoQVdNNUlBRXVWelFGV2F3SEkyM3p4c0piY0pENm11cnV3X0VBN1E2R0h1ZElF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHlFSHlyNWNiclZBbFZiTEpDSGZubDhMcm1VSS15cjNKc3hTZDJ4SldsTlZjOHc0NzBPbk4zSC1wQVRhZ1JzUFhrakp2MnR3VVMxc0V3TWdZd0FZWlV2ZXFrTVRjV2FINldaSGI0cGFINURfMUJPY1V4S1ZhRFBHN1BR?oc=5",
           "region": "national"
         },
         {
@@ -348,41 +410,6 @@
           "source": "신아일보",
           "date": "2026.10.16.(금) 12:43",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uY1hMTDFFQm9jTi1wZG1qTGxZbWdLM0dkZ2laaTY3dVFaZ0NKZnl2Tm9QVlR3TmJjYzU0NDF5TzZOZnBuNHdxSDVINTdqd05vX21GeHBsM2RLRDBXemZBRzlNWGlVUFJmcXRQQllLRDk?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "파주도시공사, DMZ 평화관광 도라전망대 하반기 자체소방훈련으로 현장 대응력 강화",
-          "source": "문화매일신문",
-          "date": "2026.10.16.(금) 12:32",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yMXFPVWVIV0l0YVlHSHA4dGVoam4yX3A5b0RMTHo3aGs2YkZRRG9EbkJ3VXZGclZuWDlVdGlTRGNmVHd6LVVMVFJ1Q1drb2l5aXZyMjRBSQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한라대, 강원혈액원과 생명나눔 협약…교내 헌혈문화 확산 나서",
-          "source": "신아일보",
-          "date": "2026.10.16.(금) 12:15",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FUEtodmJKS01nRVhicTVtUVBob2hZZjA2VkRwUnZJSlhnZW1WVzBpcnFYQUhqWlVhRXRyWkUxQTNQSEUyUGVxNUNxYzRlcG1OeE5OY3JLZVJmWC0xd0JWcFNlRWl1ejBGWk4wNU5jcmk?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "강동구, 2026 강동구 안전 아카데미 성료...민간 및 단체 역량 강화",
-          "source": "국제뉴스",
-          "date": "2026.10.16.(금) 11:34",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QWnZid2xDVzNFd0txTXVfZmlxM1Y0TThwVXBVTXd1MVFrc3lXTzA2Q0MtTjJiY1hkYU1IRHp0MWhtclpDcFFrbGlnSUdKRUxna2ZXakV5UEExa2dtLTRPa0dsMnp5d1RXcjV4OGl3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전시, 생명나눔 헌혈행사 이어가…올해 500여 명 참여",
-          "source": "행정수도뉴스",
-          "date": "2026.10.16.(금) 11:26",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jV2tSXzM5c1ZxenkyOU1oZTM1Yk9xbW9lOWNKMG5mZm5VX2l3NWlIYUhhYlI2SEJWWFB0OTZyTThIdkhROElQV053d2hFVTk4THJfa2hGZklaWUY4X3ExdDBxbmNVMXc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "임실군, ‘사랑의 헌혈’ 캠페인 실시",
-          "source": "한국미디어뉴스",
-          "date": "2026.10.16.(금) 11:10",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wUWRCY2M4cmhwYmdTZmtnWXc2cDEtbVN3TU9vY2JnRGVTbi1mVE9jblFVNGdUcm5ka3RtU0dlQ2d2RVRkZ3hEM2JiTGVBOGcwV3NhRDFhUFJ0ZEdnb1BoYXFQNVBXQQ?oc=5",
           "region": "national"
         }
       ],
