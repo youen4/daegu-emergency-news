@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-20T00:25:12.212724+00:00",
+  "generatedAt": "2026-10-20T08:39:50.372350+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "진주 '하모어린이병원' 개원 1년, 9천960건 진료…내년 운영확대",
+          "source": "연합뉴스",
+          "date": "2026.10.20.(화) 11:01",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CeUZLRUhGLXEwWEV5cGVZT253ejh4UEpfZWUwQnI4Rm40NGp4RmRHVHlDbmdnT2xybk1pMGNRRjMySW9NOEhUNlFndW1LTGpZRTFaUmZOSWVXYzMzd2dodNIBYEFVX3lxTE5CeUZLRUhGLXEwWEV5cGVZT253ejh4UEpfZWUwQnI4Rm40NGp4RmRHVHlDbmdnT2xybk1pMGNRRjMySW9NOEhUNlFndW1LTGpZRTFaUmZOSWVXYzMzd2dodA?oc=5",
+          "region": "national"
+        },
         {
           "title": "이주영 의원, 아주대병원 찾아 의료AI 지원 논의…소아응급·중증외상 조명",
           "source": "MEDI:GATE NEWS",
@@ -29,7 +36,7 @@
           "title": "조인수 한일병원장, 대한응급의학회장 선출",
           "source": "의협신문",
           "date": "2026.10.19.(월) 16:28",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTENaSTdoVngxdERIb18zTWpXWEV5clAtNVpSWWpCQWItRUk4SWNyOThoRjU0cDdYem0tYWNBWHh5YVNTa0VtVlJldXJrblN2N3gyYnJqUFJ0bUQ0Slg1N2luQ2cxWjNWX2duRmpNV1ZCbkNjSXoxbXEwZFk5eFVvOFZ5QWoxcnFhVHc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UY2hLTWxUa3FCbnJmRXVwN1l3S0JhWUxnVUlUNnZjQ3hpRnJ3aDRyeWV1NnFFVGtMY0ttUTBLMkNrWm13eUdzUHI5S0VQZ3ZWbHBzUmxQWFg5OF9Ic3RMdXdvbWVXcklCX0xoTUZzVjZRZw?oc=5",
           "region": "national"
         },
         {
@@ -64,7 +71,7 @@
           "title": "김진석 소방위 빈소 찾은 김민석, 떡하니 '응급환자 전용'에 주차 [지금이뉴스]",
           "source": "YTN",
           "date": "2026.10.19.(월) 13:17",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQYUNFeGdNQXRFZkFvZUxCR0V6ZHZRQlFnMWFaWXVpYVVXaDdGeE53V3F3WXVweEtTMm9Tc3VMUWhTLU80akQ3dUNMUHJhd3phWkt3Ykcxd21MRjBfNmlPSTNjbDVLdWsxSHVidTlsY1E3SU9xMXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CblRySUpVZC1JN1NOWFQwNUdxYnowT0V1T1NZZ0xoaUNGRHU2Mk4tN0ZPaEwyZGRITGpjeXEtNmJNaERlMENwMnl5TWtRa0lnQjFCV25GMjhGMmZpcmpBYmx6Z2dLYXNxZEQ3Qlg2cGFaMFJNRXc?oc=5",
           "region": "national"
         },
         {
@@ -136,13 +143,6 @@
           "date": "2026.10.18.(일) 16:25",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMSEVfZzQ1SWNGZW9VSW81bE9pZk8xLXpoeU9mS2VFZU1oTHFCQm54QzBmQXMweVo5VE05TzFmemxtN0NuZVNTWElDQnJKZVg2aUZ1cUxGMnpGZEctNy13YnBjTmJOQW9zVHFVMDQwY9IBb0FVX3lxTFBMSEVfZzQ1SWNGZW9VSW81bE9pZk8xLXpoeU9mS2VFZU1oTHFCQm54QzBmQXMweVo5VE05TzFmemxtN0NuZVNTWElDQnJKZVg2aUZ1cUxGMnpGZEctNy13YnBjTmJOQW9zVHFVMDQwYw?oc=5",
           "region": "national"
-        },
-        {
-          "title": "일반 라운드와 프리스핀, 강원랜드 바카라 배당 규칙 비교",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.18.(일) 16:13",
-          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQZEZIZVd3WkVPZll5bGVmSkN1dy1aMUdYbXRHV0FDLXpBdnNPWEVzUzdKUUg5WWJ5b25hc2t1aGxsRTAzZy04eGdBSFRER19zSVMyVW1xdnlvaThGOERHNG1ucHZEUHRfSVF1akJlb3VPbi01d0RmRUtGb1JKa1ZtYVBZaWRiTzZCbi1XQ3FOcEhQQXp3OGVYUkhvbTNaeE1jdm0zU1RtM1N4NUF4cXVrb0VheFZlWW11OWJhTF9ycWYyNG9kNmxwazNseXZJc3B6bmhvb0RrOU1vTnpJNnJUdGVreU53ZkNtUXNWSzVDaE5nTEIwdUllMWFGaGtPQ0c4M0x6QU50a01mYzA5Y01ValJJMkQ1amoyMTFYZ1daVWxBVWxBVk1WS2VvTkJ0eHRVVTc4Nm1nOTZmdXlGT0lydVJmY1VsZjNqUkNSWmMtVkVONUdnV2t0TVVJOGJIY0NGUnk0N1VnU3RqVk1vNWlZ?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -150,6 +150,13 @@
     "er_runaround": {
       "label": "응급실 뺑뺑이",
       "items": [
+        {
+          "title": "순천향대서울병원, 급성기뇌졸중 적정성평가 100점 만점···상종 못지않은 치료 역량 입증",
+          "source": "의사신문",
+          "date": "2026.10.20.(화) 11:01",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13TWxZS1VMWDlLak5xa2FrV1R4Ul9CV0V6cC03NWczTUtpLW1VY2UwUFA0YjRxTlpSa2hMSFEzTWZYSDBRSGdPelZWY1pJQTgtWThhVVI5ekMyb2JnbTNwWmVLWmFDdlJDbWxQMzJQdw?oc=5",
+          "region": "national"
+        },
         {
           "title": "\"급성기뇌졸중 환자 단 한 명도 놓치지 않는다”",
           "source": "의협신문",
@@ -171,6 +178,34 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "응급실서도 권력이 먼저? 국힘, 여당·대통령 응급의료 논란 정조준",
+          "source": "의협신문",
+          "date": "2026.10.20.(화) 15:31",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vWXNRZU9FRWJ4N254cmtrcXZTWFdSVzhsS1kxZEVxcWdOSENSbVhUNzJ4S0Z0N1hvM1g4dl9qUjZaQ2xZLTJyRUVvaUJWbGY5NGhSZER4Wm5VVFhlV2VHNi1HVUl5WUt3Q3R0X1R0bUtNZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"권력자의 주차·헬기엔 관대, 의료진엔 영장\"…野, 응급의료 관련 정부·여당 비판",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.10.20.(화) 15:10",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NdnRXRUlWVTZwckJUenZPNHZEenNvcndqUFVKbmYwY2dzanBFVkRRcDlWT0ZMWXVyLWx1MW5LMTIzcEdoSjBfVEpaZmtwbDVSekd2NUMzcw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "이슬라리조트 카지노 디자이너를 위한 반응형 디자인 실전 핸드북",
+          "source": "Calgary Roughnecks",
+          "date": "2026.10.20.(화) 14:17",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeUNFSHhkNFQ5eDNmb3A2YzRrOHJ4c0NUU2FlbzNISS1KRmVoTUkwazcwZXk2OFZwVFV1Y19POXUxSk9DeEhiSEw1bGZ4aV85SHd3RGxMUVRaWk1lNkJJUnNUN1NzSHh1czlBbnJNbWtQS3FDcE1IbjhUR3FqTk1PcHAwZ084bVg4QzN1NEZwNVhKTndodXU1UU1mZ21KXzJVT3Y4MDVsajA3WXJWSllFRTJ2UEpCZW45VUtIOWpkQWlmczhZZFQ0OVRqTkxpTGpFdWxXYktB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전북도, 재난의료 협의체 발족",
+          "source": "시사매거진",
+          "date": "2026.10.20.(화) 10:42",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCMGRUamR6eVBFa1RMbnhJM1NNdUxmQjY4WDBpRXhxLU1TR2tBVWVnRGFfNXpUZUZvWFd4VWcycWdfOHpvZUFIcFE0UnFkb3JaQi1hUG5VVks?oc=5",
+          "region": "national"
+        },
+        {
           "title": "[2026 차세대 리더-의학·과학] 김정언 중앙응급의료센터 응급의료상황실장",
           "source": "시사저널",
           "date": "2026.10.19.(월) 14:00",
@@ -178,31 +213,10 @@
           "region": "national"
         },
         {
-          "title": "6개월 내 대면진료 봤다면 비대면진료 가능…비만치료제 처방은 금지",
-          "source": "DongA Science",
-          "date": "2026.10.19.(월) 10:43",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XZkFWTFptcG1ublR5eXRsWU5yZlp3dGF1WWw5azFGdkJHVHBxZmFGUmI0X0tYS3RWUUQ2dDdOT1htYU8xMlBEMHdYOThlZ3diZmpCMA?oc=5",
-          "region": "national"
-        },
-        {
           "title": "기능 소개를 읽기 전에 알아둘 카지노 불로소득 조건 표현",
           "source": "Calgary Roughnecks",
           "date": "2026.10.19.(월) 10:13",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaEtvaXR6U2xGRFpRaWlZOHlaVEo2WVRJSXp6ZEZRcmNaTVRnUklHSDNUX1JqT1lnNExkbV82ak5EX2lSTkFnM3plUGlVTmJJRGlCeTR4cjdHQ2RIeDBzZXAzOEMwbmExc0QzWUZFenF2ZkMzTVBjOTdmOFVnaFB4SW1OSVYwZmtNYkNjb1FtQWhfa2padFV3TFlyVHdTT19OYWNGdkxEeW56YXMyQnFycGR2MWRleU55SmlBcmVhRjk3Y3dZclQ5ZjRmc2NKdmh6azdSX2dfaTNEOW5ZTVRQSlBjOXdRd2M?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원주세브란스기독병원 거점외상센터 선정",
-          "source": "원주투데이",
-          "date": "2026.10.19.(월) 09:08",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRG0xOFdUdzEyLWxBVkpoeGFsWnAtbEVHNFZQX2trZnZTRHR4MnR1RlIzVWZYZ0NIcVltMmU0VGhlMnJNMHpGbUFrcGlDbnBNTTVYOFQzNXZrQXZnUEJWdDl2WXE0RnhqZ3FNUl8tdFg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "처음부터 알아둘 결과의 불확실성, 꽁 머니 바카라 베스트 온라인 카지노추천",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.19.(월) 05:25",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TbUtxeDRYSzFZTGd2MTlQUzdZcUVBWGdBakpQTUx6MVQtME5idWhFNHo5cUpVNWtpcjFsT1JTY2xBcDlDUUxJNWNqRDQ3c1ZjOWl3MlFxM2NiaWMwSzFmcGxjWWtOMEhVWmNjR21WVV9wdW5O?oc=5",
           "region": "national"
         },
         {
@@ -218,13 +232,6 @@
           "date": "2026.10.18.(일) 14:44",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hbmV1bTU4ZFZiZEZNQzRVbDA4YVo4QmFTU2htUFpHbjUtOXQ2dE9tc2FLSENCaE5Ldk84d2I3bVdpOHlTdGJEbzZ3enlsQ2t6a1hPYTRLeXlaYlBJMGZZZXpyS3llNnRaa0Fv?oc=5",
           "region": "national"
-        },
-        {
-          "title": "비대면진료 초진, 거주 시도 내 허용…처방 7일 이내·비만약 금지",
-          "source": "뉴시스",
-          "date": "2026.10.18.(일) 12:02",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WNHNBZmp6ZHBVdmVjRUpfdU9ITDFyWHNnejNQZE9tTnpqWjNqblpPWDNSNmo0elljQ2pHSWVlVDdmei02alliYlRJeld0MWVGaGRrTUZFVFIzdjF6b1cyN2FteThGNmtSd3o3TXJiUDRNUW1PVEhIYdIBeEFVX3lxTE1WNHNBZmp6ZHBVdmVjRUpfdU9ITDFyWHNnejNQZE9tTnpqWjNqblpPWDNSNmo0elljQ2pHSWVlVDdmei02alliYlRJeld0MWVGaGRrTUZFVFIzdjF6b1cyN2FteThGNmtSd3o3TXJiUDRNUW1PVEhIYQ?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -238,13 +245,6 @@
           "date": "2026.10.18.(일) 16:25",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yR1h2aG93SUsxeHkyc3VuTnZtWmwwWXlzNFhrcVpxclBpYTVuZFJfSC0zRmNVMVVuLVJBYXh2aFp3aWk4cDVGQ01wWXNKeWcwVWFRN3JiZXlUb1lYWFJSSHNQclJQSEJ0RUHSAW9BVV95cUxQTEhFX2c0NUljRmVvVUlvNWxPaWZPMS16aHlPZktlRWVNaExxQkJueEMwZkFzMHlaOVRNOU8xZnpsbTdDbmVTU1hJQ0JySmVYNmlGdXFMRjJ6RmRHLTctd2JwY05iTkFvc1RxVTA0MGM?oc=5",
           "region": "national"
-        },
-        {
-          "title": "\"의료사고 수사받는 선배 모습도 교육\"…소아응급실 압수수색 의대생·전공의에 영향",
-          "source": "MEDI:GATE NEWS",
-          "date": "2026.10.17.(토) 16:58",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EeFlVaHZJOFRsNG1ZSzNWNk5oS3Z1dllJSEVyQ2JjMW9CaHlOSUdOM1E2VVNCbVhNWkxFZ3lKX3VDbExpWkpobDNoU3BwcURFU0pTT0dUMA?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -253,213 +253,213 @@
       "label": "기타",
       "items": [
         {
-          "title": "[2026 국감] 넘어져 삔 것도 ‘중대사고’, 사망은 ‘집계 누락’... 공기업 사고통계 고무줄 잣대",
-          "source": "산업인뉴스",
-          "date": "2026.10.20.(화) 08:50",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53WGFKSHlsa1NaaGpyVEw5TTI4WmFWQ0FVbjgyOGxSMzBiQnd1bkJBWlR0WUlNTkRsVE1vZEZUdG1ibXVLQWFvVW9HWV95aVpkZkNWR1pkUnRQZzk1Q3FXYk5HdTJVSTVRYWZfVEdB?oc=5",
+          "title": "예천군, 심폐소생술·자동심장충격기 실습 교육",
+          "source": "경북일보",
+          "date": "2026.10.20.(화) 17:15",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zYjRaQk1EVGNrUWlXTmpCS2VBTjUzcU9mVEx5bnhSaTAxbHFrTjIydU5oZk0yU29jYldDbGNNMEFjSjBEdHhRSDgzUXgtNGl1T1pfN2ZkTFdmLUVXRXpLM0VnU2JHQXZQSnNWNGdMRQ?oc=5",
           "region": "national"
         },
         {
-          "title": "경남신용보증재단-경남혈액원, 생명나눔 실천 헌혈문화 ‘맞손’",
-          "source": "메트로신문",
-          "date": "2026.10.20.(화) 08:48",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcnJxV0tpUDVHeW5McFRwVlZ4eHJEZW53SElLNWk2amxlb0dadkt5c1piY3lHM01nTzVsZWt1NVF0TU9xa05pNml6V0hzN0N1ZXRuTzNqRnlqdi1la2FTRg?oc=5",
+          "title": "일진전기, '사랑의 헌혈 캠페인' 실시… 나눔 문화 확산",
+          "source": "파이낸셜뉴스",
+          "date": "2026.10.20.(화) 16:31",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XdVlPVmE5djdCNVdxMU5MekNaUWhrVlg0UEY2OTUtYzgtMElabnVyaVRsdDdwSG5wQXItRUR1NWUxV0tQTWZVMExEYU1Oenp1c1pYaFl6NEtJUQ?oc=5",
           "region": "national"
         },
         {
-          "title": "소병훈 의원, 의원급 환자안전사고 보고 97% 약사 신고…의료기관 내부 보고 사실상 전무",
-          "source": "수도권지역뉴스",
-          "date": "2026.10.20.(화) 08:35",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwZHVHdXlFU2VHeTlLV0YzWW1LUHhLR3pfV2JFaHlTajVuZWRnVERUbXk5MlRKNWVaUm1ZVlQ5ay1NcDB6dmh2aC11V2lRbTE3cWlzb1RLV3QxOEZCVmhXb3JKZG1Kc0ZM?oc=5",
+          "title": "심폐소생술로 소중한 생명 지켜요!",
+          "source": "데일리대구경북뉴스",
+          "date": "2026.10.20.(화) 16:12",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BNVdNX2IwWm80SVNDeW9fenJnTFQ5U0d1T3VtMnB2Q0c1eVBRTDZFREx5aWNHSVowWkY2YVlXNzM4Y2lZMmpJT1RJM01KMElpbHVmQ29QeWVUTms3UDY3NFlUcWtEZw?oc=5",
           "region": "national"
         },
         {
-          "title": "영동군보건소, 2026년 하반기 심폐소생술 등 응급처치 교육 실시",
-          "source": "메가충청뉴스",
-          "date": "2026.10.20.(화) 07:03",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZZjVJT3ZGZF9vZ3NiUGxjSzdGZUxxTUFaSFRqdllia0Ewc0taYlhKVUROQWlIUjZwdnd6M2hhVWt6ZFFWS2ZzTUtFSnU3VVBfb1Y2b1g5MlFxSk9WN0JjMnBRZXVjZDl1ekY4?oc=5",
+          "title": "강원랜드, 2026년 제4차 사랑의 헌혈 캠페인 개최…8,269명 참여",
+          "source": "국제뉴스",
+          "date": "2026.10.20.(화) 16:04",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwT2s3Q1JvWW92M1BrOEg3QWtCT0taMnNfbEhaeTlqYi1LUzBQUmZsQVRYdFlUT0wtOEtKOEc0U0IybmJkN1haTmxMSjhlbWxxZkpUZU5MMWpoLXhqenF3NS1TTFFrQjFsTzdLcUNn?oc=5",
           "region": "national"
         },
         {
-          "title": "충북 진천군, 수확철 농기계 안전사고 예방 각별 당부",
-          "source": "청주일보",
-          "date": "2026.10.20.(화) 05:47",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zVkc1M3lyRDgzM3E2Z05wSGVtUVRGMzNBVmluRUh2YlNvYzNudXpYWXFFOHEwRFA0YkZXRUtaUGp1MTJFYW1LOG4yV2RQeWdDQWU2bHV2S2IzYVlVajNTOVhvMDJrd1BZdTJv?oc=5",
+          "title": "삼천당제약, 임직원 참여 '사랑의 헌혈' 캠페인 진행",
+          "source": "데일리팜",
+          "date": "2026.10.20.(화) 15:55",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PMkRiUzBlWmNrT0tYbHBoN0dldFBzM3ZfbVJoTkluN19OV3lNU0tiTUdUbDVRckxLOUpKbWdnZmZLeFNUZ19sTjlTOVNlaTdPRmxxR3hB?oc=5",
           "region": "national"
         },
         {
-          "title": "\"낭홍 2026\"은 300단위 이상의 혈액을 기증받아 젊은이들의 따뜻한 마음을 보여주었습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.10.20.(화) 00:45",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEtMOF9wTS1MZnVHRkk3V24tOVBTNWl4NnNEa1hnNDYtOWVMb2x2SjVTSV9HV2NKM0hteGdMRUYxWXoyZmtLQ1p6RDBzeEFZYzJfWDJEOGxBaC1fUXZRUkFuUnU5Rm5NMUtkdEkxTFF3MUphUUw4cEFjUUJLWTZDc1NjcVI3OTZLOGFmbU80VkxJLWVoWnpITjRmQ1RwTjhjNVFYeHhfODV2d3k4cGc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전 중구, 구민 대상 완강기·심폐소생술 체험 중심 안전교육",
-          "source": "뉴스티앤티",
-          "date": "2026.10.19.(월) 19:08",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15NGo0amZLUndMbThXS0U0UnZEN0l5M0JlaUxwRjFyQy1ubFBDaUg2TXhIekNKMjBzMW4xWnVWZnN2OGVneTY2bGJ4Wk1EUjBsOHhFUnpvX0h5Ym51VC03UWhPSzhTM0k2Umc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "생센당니에서의 헌혈: 93구에서 진행되는 2026년 11월 헌혈 일정",
-          "source": "Sortir à Paris",
-          "date": "2026.10.19.(월) 18:00",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTER4TkpjOVBiYlVXRXFQYnh1N2RlWTNRbkhkeWJGb3pWN2RISXRxTmRtSncwZ3R4U0JSMUU4WThiTFFUcXV6d1dzbTIzUkxHem9JMk0wVWtPeUMtTnRtMHpBZGs5UldmNmx2WmRoX2hGQWk3T2tLOUJiX0VwaDVRV0lzM1hPaVhVUTRmMnVoTURlcktJY0xHeGRYVUhTRmhtcmQwb2ZUMkdlV0JOQ0hMLTZYRTlJLWE2UUY5Y0o2XzNhbXAwY19CRW96dnBIbTE0cDZfNnpWQ3lDQUpNRDNDV1FIZVoyTUI4U0pZSjBlNVZlRnFhN2U2bHJKRjI5QnBXR0E?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전국 혈액 보유량 2.8일분…A형은 ‘경계’ 단계, 헌혈 참여 절실",
-          "source": "진일보 | 전남일보",
-          "date": "2026.10.19.(월) 17:45",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LMzJFNTlYRFRnNHVzS05lNzRBOUZ3bE1Hb0xEdTNmaXVHbzNsNzZ5cnZIQ1VKbzV4LWthLXEtMkFnay1Dcy1ackp1V3BWOERMVks3RldiYzNJWFh3dVkxcnFOU2hrNlMyX3oyd0I2OA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경남신보, 경남혈액원과 헌혈문화 확산 업무협약 체결",
-          "source": "CNB뉴스",
-          "date": "2026.10.19.(월) 17:10",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2TGRDVms1QzVqcFFUYzU5VW9UbU1HNDlocHE4VDlTUWMtaVUtQkVabWliNUo4OTdtM2tPU0JpWEdCaXNsOEpkNHJmY1R4QmpoNVVoWmFwZlM4dmZfMlNmMnYtcExXVzdYbDNv?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[울산소식]울산TP, 사랑의 헌혈운동 '나눔 실천' 등",
-          "source": "뉴시스",
-          "date": "2026.10.19.(월) 16:24",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92Mk1QTXJqUmtnSU00QjVkS3p0YnZzTUNoTzZSVlZxczZ5dlNlWmI3ak4wYkl4Z2pmQzRRZ2ZyWWV3SnZsLXhQZjhxbUR3QThyakVsZDJQaTBHRnh4OU5qWtIBeEFVX3lxTE1XZjlQUURHQ19pOEdqa0tKaEtBY2FtZ2R3SmlyMzNaTVlpRVMwTm9TMkdOV2drQU5aZmQxS1FIOWFqZ1ZscFJySVVWd0VpdE9nWTY4QUtYdm5ta2lpY1BZMW9FNXdLXzYtSTNsbnIxamcwY0tEbnRYUg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "울산테크노파크, 사랑의 헌혈운동으로 지역사회 나눔 실천",
-          "source": "경상일보",
-          "date": "2026.10.19.(월) 15:25",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqNUZoSGhQUHZZN0NJQmlLbDlzZnE3NGNEdGlXeGpISXJtNFNxSmlSU3FzcE1YSTF1OHFOZ2M1blR6X2tSOUlkd1BOX1dYd0pEbE1wNEVuSEw5RHFIUkpWckc1RzBJWDRodmkwQg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경남신보, 경남혈액원과 헌혈 협약 체결",
-          "source": "브레이크뉴스",
-          "date": "2026.10.19.(월) 15:23",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ycHl0Y3JvbnJJZ1NYMmIzSDVKSEw0aUVrNVpaUW5jX0trc3Z2d3FvRUxneG52NDFQYUgzV29ydzRJUDl2ajNseQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "헌혈량 증대를 위한 노력",
-          "source": "Vietnam.vn",
-          "date": "2026.10.19.(월) 14:44",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kUHlhS241Q1lQdjV5MGN5blZPSWxzOE5OakZORU41dWlUcGs5WXVwbzNyTmFFN05NN29ncTRocGZZeGc4MVJEemM5ek13bUVGVUktMWgwZFdhY09vV0JYa1Z3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전 중구, 완강기·심폐소생술 안전교육…구민 210여 명 참여",
-          "source": "충청매일",
-          "date": "2026.10.19.(월) 14:30",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QaE1QZ2dfZVVOS3NTNzBOdGZvRGNqUEt5MEZiTEYyblVSaVp5X3I3dWV3ZFJRTG5wR2VlRHZEbVJoQU00VFh6ZG9YQW5iendxLURGeTdFRnZJTjZEanhJRlZrcXdaeUFKN2c?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“환자안전사고 예방, 처벌보다 자율보고 생태계 구축”먼저",
-          "source": "의약뉴스",
-          "date": "2026.10.19.(월) 12:11",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yQ1kwVm1LeF8tc05tQW5PeDUzTFhLR2xKQmRwdnd3NXVNbGlTU2s4a1I0UV9EbU1SQzQ1bjB4RTh0RnZNbXhnWnQtYV96TW1QT3pHcU5WUXRMNmlSbU9CSmZsU25DeklR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전남광주 노인일자리 안전전담인력 304명중 233명 겸직",
-          "source": "뉴시스",
-          "date": "2026.10.19.(월) 12:09",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iX1pVN3NUbmtrVnZCU01IMW9fOHI5WjMtVVR4Zl9qOTFPMUo4b2hMUndiWXJEdk1QZUhsanFleVJEV1N6ZEFJS1ZwaFZycjdXRlVpMzh2RDRkbHE2X1pUMFFzUXR4Y1hCcUlpYXYxUFkxVGhxUEp4R9IBeEFVX3lxTE9iX1pVN3NUbmtrVnZCU01IMW9fOHI5WjMtVVR4Zl9qOTFPMUo4b2hMUndiWXJEdk1QZUhsanFleVJEV1N6ZEFJS1ZwaFZycjdXRlVpMzh2RDRkbHE2X1pUMFFzUXR4Y1hCcUlpYXYxUFkxVGhxUEp4Rw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "제주 노인일자리 안전관리 '빨간불'…전담인력 확보율 전국 평균 절반 수준",
-          "source": "제주뉴스",
-          "date": "2026.10.19.(월) 12:04",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUVjBSQXdzNGQ5YzhOZ3VteWlKRG5yNlVBTUxlaFpjTUw5LTVLZThGclpqRDZoV3ZRNTVtbUtzTkE5MXpZVWhxb3FvWXRxVEJLSnNydzY5RmtwSFRaVTgtZHVoLWltWFBpXzJXNXZB0gFuQVVfeXFMUFRWMFJBd3M0ZDljOE5ndW15aUpEbnI2VUFNTGVoWmNNTDktNUtlOEZyWmpENmhXdlE1NW1tS3NOQTkxellVaHFvcW9ZdHFUQktKc3J3NjlGa3BIVFpVOC1kdWgtaW1YUGlfMlc1dkE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전 중구, 완강기 체험 및 찾아가는 구민 안전교육 실시",
-          "source": "경기종합뉴스",
-          "date": "2026.10.19.(월) 11:38",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtWWUwbFNwTlEtcHdxTVNKQzlLekVwbDhfdTVnS0ZjM1Nsb2ZqWVJtNUVtaGYxRU5yenFsOE5ZaE9HM3ZQTWJNVGtyazZsS3AtTlVHWHM1RUhaM29aenNpWVpsYkhNSHo4LUg0TUFUek8tU28?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대구중부소방서, 가을철 캠핑 안전사고 예방수칙 홍보",
-          "source": "FPN-소방방재신문",
-          "date": "2026.10.19.(월) 11:14",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkVm5Xc29hRm1GTXRxb1l0QXEwSmhMcm1LV0ZoMUtnWjFQVEdLQmkwY0hGTVN2VHU1ZU50Z2FyY2ZiVk5y?oc=5",
-          "region": "daegu"
-        },
-        {
-          "title": "대전 중구, 완강기·심폐소생술 체험교육 실시…구민 안전 대응능력 높인다",
-          "source": "뉴스인뉴스",
-          "date": "2026.10.19.(월) 11:07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qWlFNeWFydUxtckZraVVLaGl3TjNma21KN1dSUndfRndIc3ljWmRRell0OFBqZllESVpONHN2QXRYNFlIWDhpOUhzVTZCeW5lNjJiMDc5RklReFkwUzdINVd3T2xDLTlhUGd4MA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "인천환경공단 가좌사업소 ‘생명나눔 헌혈운동’ 실시",
-          "source": "세이프투데이",
-          "date": "2026.10.19.(월) 10:35",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yVlphUTNhSEpkTE5OLVE4c3psS1NlbjNTNFo2Q0RFa1NrbURGb3RMMTNsQ2JXcWszbElWM3BBcG1ZTW1ELWFYOERnMGt0SEZlOWNpbEhEcGcyWW9icjFQUVJCRE1WZEYxOHBhSlZB0gFuQVVfeXFMT3JWWmFRM2FISmRMTk4tUThzemxLU2VuM1M0WjZDREVrU2ttREZvdEwxM2xDYldxazNsSVYzcEFwbVlNbUQtYVg4RGcwa3RIRmU5Y2lsSERwZzJZb2JyMVBRUkJETVZkRjE4cGFKVkE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "노인일자리사업, 매년 3천건 사고… 안전요원, 기준치의 24%",
-          "source": "경북신문",
-          "date": "2026.10.19.(월) 10:10",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoWFU1WkQyWm1KZkdMdW5OdDh0bWwtSFdyekdpak1RMWJOYURrTG5DYm9kLWZoNGZVTzB5UFZUOXU2b01GSjBiVUJna1VkV0RtX1h1dGRGVEE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "부천도시공사, 14년째 이어온 ‘사랑의 헌혈’…임직원·시민 함께 생명나눔 실천",
-          "source": "저널25방송",
-          "date": "2026.10.19.(월) 10:08",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nU2dRSTlrNnBxMDUzSDZKbC1FNzROYU1zZUgzQldBZ18tbTJUcVlNcW1PVHdSOXJZaXlSVlZmTXptMkNpdU81RUZpQlZaN2dEMjV0eWJCUHNlclJRMUZBODcxZHd0a3AwVGw1Sg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[박춘태 칼럼] 생명을 구하는 용기, 시민을 지키는 사회적 신뢰",
-          "source": "글로벌 비즈 뉴스",
-          "date": "2026.10.19.(월) 09:36",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01UmtXX3djZE5FZDdyRVpURnBsLUJsRzg1RlVReUFsejEyLTJLaTRSM1dWYVU0bEtmRTVTeVkzMTE2N3lvVHVaZzEzS1BwMTZ2dWQ3T081TnNkZlczejl1VDB1R01UQdIBaEFVX3lxTE5wdFVLZENORGtnbC10Q2tXTXZHMV9KZ3liT2VtY1lPSkwtSVU4WDA1TllicWRuNzFsZXFUS05hSjdDYmR6QXF4TjR1SFdaRVNPZXNub2pXUld5ZktlTTVyWXhUN0g3ZDBE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[서울시 팩트브리핑] 이용객 증가에 따른 안전사고 예방대책을 지속 추진하여 시민안전을 확보하겠습니다",
-          "source": "서울특별시",
-          "date": "2026.10.19.(월) 09:14",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xd2dIdVhSb2g5aVBRbERKajl6U1RnV3BLM2FtZ0FWRU5xbXZjUlQ5NnBPX1RUclk4MnI2VktncXo5RnhuQmYycktCZGZUNllzNTZ5dTdualA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "노인일자리 안전전담인력 확보율 24.2% 불과… 10명 중 7.5명은 ‘무늬만 전담인력 (겸직)’",
-          "source": "충청메시지",
-          "date": "2026.10.19.(월) 09:09",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yWjNHaTNlRGk5YWlaMmF2Vm9oRTdtLTg0QWRkT0YwSHp3VjRlaG5hQk5UTV8zMS11Q0g5cUstZkxPT0dxalVKZkRFNjF3OUZFWkt4ZmxmUC1HQ3hOektZenN4LVZSWkN3TkVn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[2026 국정감사] 노인일자리 안전전담인력 법정 기준의 24.2%뿐…현장 안전관리 공백 우려",
-          "source": "뉴시니어",
-          "date": "2026.10.19.(월) 08:21",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16NTUwbnRES3Y3M2RBSkxuM1d3V3g3RFNydVhnZk1xb18wdGlSMjZGZG1oM25sMEpUOTNFdnNDTk9RdWs0MWpNX2c1dDRxWlhRN056Z01hcVBzOVhYTVBkRmZuYw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "매년 3천건 사고 나는데…노인일자리 안전요원, 기준치의 24%",
+          "title": "[게시판] 일진전기, 관계사 임직원과 사랑의 헌혈 캠페인",
           "source": "연합뉴스",
-          "date": "2026.10.19.(월) 06:01",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QME9GOUE4STQzNjc0eFNpajR3Uk5Vc3dOdDNsNlhja3pxa2Izd0xJMXBhYkozWFN6RmdSUmdlRExmbjloVHlDbEk2cm94c24wb0czREZiLVliRUVQdFhqNNIBYEFVX3lxTE9QME9GOUE4STQzNjc0eFNpajR3Uk5Vc3dOdDNsNlhja3pxa2Izd0xJMXBhYkozWFN6RmdSUmdlRExmbjloVHlDbEk2cm94c24wb0czREZiLVliRUVQdFhqNA?oc=5",
+          "date": "2026.10.20.(화) 15:55",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dWRYOXBNbjRhWVpKMy16dWtBNXpHbUxoeHNqYjNZNGhuSl90WHAtSC01UVF2VURWd0wtVnltcFRuQWJBclRQWGN6MzJjVmdpVFhhVmoyMkgzUnPSAWBBVV95cUxNMlM2T2pJS0tpRVBRTUN4MklkMHdFZi0xU0k0dDVkMkhXQWZ4empSbngxeExKQk1BeHFQU1pzSDdvNnZQWmFGb2t2TGh5ZHhUZ05MVjJnTG9VQVA4T3Jzaks?oc=5",
           "region": "national"
         },
         {
-          "title": "임실군 ‘사랑의 헌혈’ 캠페인 진행",
-          "source": "전북중앙",
-          "date": "2026.10.19.(월) 01:51",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FR0p2cGJjdlhlX3ZRRExKVHF5ODlpT2RIbEFzZXBtWEpoT21uTDN4V0lHdUNjYUc0bE9yMy1vRUN6TWFQWldJMTZnUXF0Yy01dGtQa2NsbW1URTBqZVg4eEZZdXVTcDlLWHFz0gFrQVVfeXFMTUVHSnZwYmN2WGVfdlFETEpUcXk4OWlPZEhsQXNlcG1YSmhPbW5MM3hXSUd1Q2NhRzRsT3IzLW9FQ3pNYVBaV0kxNmdRcXRjLTV0a1BrY2xtbVRFMGplWDh4Rll1dVNwOUtYcXM?oc=5",
+          "title": "강원랜드, 사랑의 헌혈 캠페인…생명 나눔 실천",
+          "source": "뉴시스",
+          "date": "2026.10.20.(화) 15:24",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4eG9Id21HeWZhR01CMm56eE1hMm44Ri1pbU5Ga3dkMlo0aVA5SV9VbUJwYVZZakN6clUwTlJCSkt4ZDhhMzNpVGVrVGRKdzRxN1lLM3dzS2hJTUkzcm1XanRnSEw2cGM2YU5kN2tWc2ZoMkFEZ1Z5V9IBeEFVX3lxTFA4eG9Id21HeWZhR01CMm56eE1hMm44Ri1pbU5Ga3dkMlo0aVA5SV9VbUJwYVZZakN6clUwTlJCSkt4ZDhhMzNpVGVrVGRKdzRxN1lLM3dzS2hJTUkzcm1XanRnSEw2cGM2YU5kN2tWc2ZoMkFEZ1Z5Vw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, 주민과 함께 '사랑의 헌혈'…20여년째 생명 나눔",
+          "source": "연합뉴스",
+          "date": "2026.10.20.(화) 15:20",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CN1dkcktXUUtuSHlCckhya3dsTUo2djJYZF9xT2ZMUlVTQUhrTFFRZGR0Qk0wZkYyVkNmMXlOb2dFc1FTZXZWSEJzQnE4OWpHdllzaFZ6d3FudFXSAWBBVV95cUxQY3B5OXZHWlBDN2lqR1BMczNJa3RuZlZXM0xRc2Znc3JzeWhqR3hLdUxORUY1bk5vMUtVUUdKa1RyN08tLTRiOFAyNFZqcEh1T3BtS1pUMWRlWlVTQWRtcjM?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, 2004년부터 이어온 헌혈 나눔…8,269명 동참",
+          "source": "강원일보",
+          "date": "2026.10.20.(화) 14:59",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByNUwtTURoaWZsaEdEcUdzcDhUc1M5Tm1CT2xGalJWLWhzMzlHanJRa1hHVXoydWw4c1BhX1UtUDQya2psVGVyYy1rUUVzb1Y1V01xWndtSnlMbzQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, 적십자사와 손잡고 헌혈 캠페인 전개…사회적 책임 다할 것",
+          "source": "컨슈머타임스",
+          "date": "2026.10.20.(화) 14:50",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YQnZkSVZPcFlPWHNEZ29NRkRxeGYxSGxrVkNkdVBFcmU4Z2dXZ1RKeVNGV0NKMG5XMnR1SGJMeG0wNC15SWpnc25hWnpKaTF5WWhEQmRTSmwzdEF4d0FBVkstSHQyREkyMVE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼천당제약, 서울 본사·향남공장서 '사랑의 헌혈' 캠페인 개최",
+          "source": "컨슈머타임스",
+          "date": "2026.10.20.(화) 14:41",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52YlZ5RXRodkVxU29KdUFTTHVEdk9PMzJENG56UVg4SE5ZbldXTUpwaUo5ZUZiVFZ0YURISFlxVFJnS3d3cVJScGw5amJSeWlmNEtEMm1vaUdFbHRWZGI5TTA2U1lfNjZiaEE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, 적십자사와 올해 네 번째 헌혈 캠페인…협력업체·지역주민도 동참",
+          "source": "에너지경제신문",
+          "date": "2026.10.20.(화) 14:31",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cjktQmJfR00tbE9sY2QyMFdzTHhXSFZvbk1tRjZxVGhrTHVkMmU5eURIWXNkci1TZmxyV2xEM2tQYTUzY3U3UVJ0OHVqZl9sMzk5TUozd1JTQ3c?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드 헌혈로 사회적 가치 적극 실천",
+          "source": "강원도민일보",
+          "date": "2026.10.20.(화) 14:18",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvTzNXNXdBZlhtZXlWU2d0cmhNSE9ySVljR0c4dDlqdnNSQ2F6ZHltSTltUWxMUk9Ec2ZsRk1RTktNY2RldVVLVW1Md0RfeW9lMS10NGRTV0ZvWEU5VkNVRy1RbGlmUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "일진전기, 관계사들과 함께 ‘사랑의 헌혈 캠페인’ 진행",
+          "source": "아시아투데이",
+          "date": "2026.10.20.(화) 14:04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PSzVwdlFIazNoZkFMaDc1UjBpc1VFN0xlNmlkU1BVZEE1WHNySVRqak1MNVZPSFUxdG9kSFJ1bXBpbHZSVkl6Szg5Q0NfUzBINFpHT28wV1VJcUwzZDRLaEFuVjB3aG1mNkRiaQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, 22년째 이어온 '생명 나눔'…헌혈 참여 8200명 돌파",
+          "source": "리드경제",
+          "date": "2026.10.20.(화) 14:01",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zRlk4MmdwUWFvMy1MdlRKZzNrWmVwVEVsc1RVb0VGcDY3SmdOWTBRQ3hlTkdIM1NraGJzMWV2UXFQNVJJTjVWbWpVbTlsNVR4bzZRei1KYXdETnB3cXBRSlhRTTl4ZHZpdFBwMGtYa3Y?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, 22년간 헌혈 나눔…누적 참여 8269명",
+          "source": "서울경제TV",
+          "date": "2026.10.20.(화) 13:36",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50LVYxdjZDSVFHOTlLVUFnUDc4SnkwanRGa1J6cElOUFFKMGtxNDVFeTY0ckQxclNKYXc0dHF4cnh1UWI3YmhzUmNUaXBfNWM4ZDc1R2l6ZTl4TUN2dHVNYVBxb2g?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, ‘2026년 제4차 사랑의 헌혈 캠페인’ 실시",
+          "source": "전국매일신문",
+          "date": "2026.10.20.(화) 13:24",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lNXBhR3g2VGVidDJjU3hkWDAwYTJsNWNseU1wM0ppYXFQNzlDdVMyUWJnbkkzRDhmcV9zYktaSkJ5RGJ4c09KVjZLWG0ySDQ4WFVYZzlCaXQ4NmlidDdFaXBqLVRDbWhMLVd6akdR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "일진전기, 나눔 문화 확산…화성·홍성까지 헌혈 캠페인 확대",
+          "source": "에너지신문",
+          "date": "2026.10.20.(화) 13:17",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PQ2N6aWhxT0JqeE83U2RON2VGazFhRUNRSVB3NC1YZFJLcVhrWHZyQVZYbG5YVWxYcXQ1S1o0bW5yV2FZT1RpN2ZpVGM0ZFVQVW1rd3YyYzNDZHpNZHBOX0g3a2hWSmVkUjVZTWwyVDlrdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼천당제약, '사랑의 헌혈' 캠페인 진행…헌혈증 기부도 함께",
+          "source": "메트로신문",
+          "date": "2026.10.20.(화) 11:56",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sdWtja2d6M04tWEVyMWRKR2I5U1JMT1d3T1JFUEFVZEZQMElQc0xTekZkUUM4eHVjNHNxZHpaNFhYLU0wY3JsTGxuMEYybTYxVEFOZ0VZXzVlTmUxeGpyTQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "의원급 환자안전사고 97% 약국 보고···의료기관 전산 연계는 ‘반쪽짜리’",
+          "source": "의사신문",
+          "date": "2026.10.20.(화) 11:47",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CX3BtcFcxQzh6d0xvZzZBMS01WW83NHdJLXZfUDl3aldlRTI4eUpiOUV6VjFETjkyUUpfTzlMSVUtQ1l4MTFSUTFTWnpXcmVfcWpXd2E1Q0p5UzNNZXNVbTdzenRUMU5fLTRVR0ZsTQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, 올해 네 번째 헌혈 캠페인 실시",
+          "source": "핀포인트뉴스",
+          "date": "2026.10.20.(화) 11:23",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1d0N0OWY3OXFGamRlVUVRRm5qelRMNFlfS212YTE0RFAxaEdQRG9NSGdoeUFnc2lCbjFmYmZiZm5pTmpfMlU2WmVzZk5UQklUOHh5c3VPNzU5cnNhNzVTZkZabDJYUkdscmIycjE3TjJiMWvSAXdBVV95cUxPWG5yUVZhSS1MTmJkRVlMWEIxazMwdXE4bDI1bVZxN0lWOXBTclBlRjhWT0tnNWJ6TFRVQXJKam1MLW1KbWZaYU5FV1BhVmE3LVlmWUZuY2Y2R1c3eWpMT2VnM2FTWnFUQkpfSGdJaFg0YWJ5N0ctWQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "'생명 구하는 골든타임' 영동군, 하반기 심폐소생술 교육 60명 참여",
+          "source": "충북일보",
+          "date": "2026.10.20.(화) 11:16",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QT09kdElHelMyXzk1VU1HZXdjTGNjaXRsYXkxcmVpVXd4c1ZtU0NLTW5TRFJvRmRqai1VVlRaTXcwWG9tZE5seENlMzBlMGkwTzUzS1laeE9wdTYzcDNrZjFn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼천당제약, 임직원 헌혈 캠페인…헌혈증 기부로 나눔 확대",
+          "source": "PRESS9",
+          "date": "2026.10.20.(화) 11:10",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13QW1VeF9SNXJ2cXpnLU1lZnRYRVNJcUlvZjcyaTIxellFYWpaOTctdks3NkMzN3BLdURXd1RMNzJycERTYTlfTVI0c1p6NG1vTHFDM1VfX1VNU1hEMlpVMnR4U1hkQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강원랜드, 따뜻한 나눔으로 생명을 잇다...헌혈로 사회적 가치 적극 실천",
+          "source": "한국경제",
+          "date": "2026.10.20.(화) 11:04",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMWZaX1BKcXFzWmt3X2lLOUJWdzFnVUVJUnFST3huM2hwc25GYUdSOElUdUhsUVZFM3dza1dDMkpaZjk0TENjZEZQZzdlUk1jcFRrUkR3aDNGQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "공영홈쇼핑, 임직원 헌혈 봉사...혈액 수급 안정에 힘 보태",
+          "source": "팝콘뉴스",
+          "date": "2026.10.20.(화) 10:35",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qdFF0MklkVFZ4aGxiRGVQUEV0SjlBeVo1TXNNZVdDNl8yd2lRbWNUaUptMkZjOU1zT09iQWo2MHNIbFV5R2J0Z1YyNlRVYW1aNE10UVVxNm9YMzZ5dnplanhpdWljZmdhVFJ6ZEJkRdIBckFVX3lxTE1GSks4dE5tX1lNb1N6TXhFRS1aWWhRZWxOMVBvV21UY0t5VkZqNzlMTmdBNnY4ZGdIMXQteDVvbm9XQ1JkRlRHWG5VYTdLSnhwX3JxQTVFd3YtMHV3RTlUUW5QdTh2aGpKQm9pWExVRHFUQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "공영홈쇼핑 \"혈액 수급 위해 임직원 헌혈 봉사\"",
+          "source": "아시아경제",
+          "date": "2026.10.20.(화) 10:33",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBicnFReXZIcXQ0S0NxU0FFc1hCZWI2eTEzZEdSVDNoT2tUc1R1NmlOdnlnSi02WWNLbk0xaTJGZkUydFR1c1NtNHpQdkpzS3dUcTJSNDZCMHN6RDYzYjVCbQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "의원급 환자안전사고 97% 약국 통해 보고?",
+          "source": "약사공론",
+          "date": "2026.10.20.(화) 10:33",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSNGdZSmJzaUNKa1RlVWVnRmNQQ3IzV29JUUpFTk11TFFueVQ5Nm9aLVZ2V0wxbG52Y0VMa0NCYllFTkFnQ1d5WEtRSXlkUVJrZmlocUhBdjkwS0pTNzlIc0wtbjJOU29LQzVTTg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영동군보건소, 심폐소생술 등 응급처치 교육 실시",
+          "source": "국제뉴스",
+          "date": "2026.10.20.(화) 10:09",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaTnFnRjQxa3ZxYS1SczdaLTlJdmVHMWVNaE1PXzh1a196Y25nOFRfZkZKNEVQNnFRclNxRkVROFFtUHpYb2FfbVZnalRyS2haSHFQME5CVm56SnEwWElLT1o4QWk5LXJPWkpleGNR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼천당제약, 본사·향남공장 '헌혈 캠페인' 헌혈증도 기부",
+          "source": "약사공론",
+          "date": "2026.10.20.(화) 09:56",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44R1ZFTGlfSG1TMEMybnlLRURsM1d5c2FYS3dyZXVxNlJMVXNXWm9felMwdzVfd19PVFNlek95d1pqS3Q4MXJjLW15UGxNMno3N1hQbVNnSThheFJzeExWbWZKZGJGZnFST1ZzUw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼천당제약, ‘사랑의 헌혈’ 캠페인 진행…헌혈증도 기부",
+          "source": "약업신문",
+          "date": "2026.10.20.(화) 09:29",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbjV6c0EzSENWLWdJX2ktckxmYnRoSnZQTmVic01yZ096ZlNDNkFRSUJJRTFodnljT2d3VWNOa1BwU1RTY3hBc3djZXlVcWJ6V0VFVkswT0FNeUVFUTJnd2xvS1YxM0JTWFdYWmw4bndvU1plZmVr?oc=5",
           "region": "national"
         }
       ],
