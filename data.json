@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-19T20:37:18.234799+00:00",
+  "generatedAt": "2026-10-20T00:25:12.212724+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "이주영 의원, 아주대병원 찾아 의료AI 지원 논의…소아응급·중증외상 조명",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.10.20.(화) 08:55",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JZTItUEZoeDRoaHRpaW1FRHRIODR5MUc0cHFUNlhSNF8weGd4N2dCSC1pdndmTXpZTDQ2czZFSXRzSEYwcGozTmtOTnJhQnJ4eVE3TFhpNA?oc=5",
+          "region": "national"
+        },
         {
           "title": "김민석, 순직 소방관 조문 와서도 논란… 수행 차량 ′응급환자 전용주차장′ 30분 점유",
           "source": "세계뉴스",
@@ -16,13 +23,6 @@
           "source": "재경일보",
           "date": "2026.10.19.(월) 17:08",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhNlRzSklFVE8wX1djelA4dFNycTRhUlBXZU9GOTdqZHdkSW9GUjNRSWRudlBvVWFyd1hjeHU2NnJ5cFpyWEM4VDdJQQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "김민석 탄 차량, 순직 소방관 빈소 응급구역 주차 논란 : 정치",
-          "source": "재경일보",
-          "date": "2026.10.19.(월) 16:51",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQTHgtWGtvSkc4U3NlclVXZzJybEpsY19rb25uVkxRSjFZX2h3aDM4dVZKNVIxSkJhTjI1ZVRYUlFPQ2o4WUpQbHdLMA?oc=5",
           "region": "national"
         },
         {
@@ -64,7 +64,7 @@
           "title": "김진석 소방위 빈소 찾은 김민석, 떡하니 '응급환자 전용'에 주차 [지금이뉴스]",
           "source": "YTN",
           "date": "2026.10.19.(월) 13:17",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CblRySUpVZC1JN1NOWFQwNUdxYnowT0V1T1NZZ0xoaUNGRHU2Mk4tN0ZPaEwyZGRITGpjeXEtNmJNaERlMENwMnl5TWtRa0lnQjFCV25GMjhGMmZpcmpBYmx6Z2dLYXNxZEQ3Qlg2cGFaMFJNRXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQYUNFeGdNQXRFZkFvZUxCR0V6ZHZRQlFnMWFaWXVpYVVXaDdGeE53V3F3WXVweEtTMm9Tc3VMUWhTLU80akQ3dUNMUHJhd3phWkt3Ykcxd21MRjBfNmlPSTNjbDVLdWsxSHVidTlsY1E3SU9xMXc?oc=5",
           "region": "national"
         },
         {
@@ -245,13 +245,6 @@
           "date": "2026.10.17.(토) 16:58",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EeFlVaHZJOFRsNG1ZSzNWNk5oS3Z1dllJSEVyQ2JjMW9CaHlOSUdOM1E2VVNCbVhNWkxFZ3lKX3VDbExpWkpobDNoU3BwcURFU0pTT0dUMA?oc=5",
           "region": "national"
-        },
-        {
-          "title": "“아이 사망 10분 만에 과수대 진입”…아주대 소아응급실 그날",
-          "source": "중앙일보",
-          "date": "2026.10.17.(토) 06:00",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvWV81bVVOeDA1ZXpIUmMtaWluc01pMzZQb2dwV2syOFRTWUc1OUJuMW96dm5ENV9vNmE0R3ZkRW5nOUZpZ19TYWtrNHEyNnNvbFo2R2R3?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -259,6 +252,41 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "[2026 국감] 넘어져 삔 것도 ‘중대사고’, 사망은 ‘집계 누락’... 공기업 사고통계 고무줄 잣대",
+          "source": "산업인뉴스",
+          "date": "2026.10.20.(화) 08:50",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53WGFKSHlsa1NaaGpyVEw5TTI4WmFWQ0FVbjgyOGxSMzBiQnd1bkJBWlR0WUlNTkRsVE1vZEZUdG1ibXVLQWFvVW9HWV95aVpkZkNWR1pkUnRQZzk1Q3FXYk5HdTJVSTVRYWZfVEdB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경남신용보증재단-경남혈액원, 생명나눔 실천 헌혈문화 ‘맞손’",
+          "source": "메트로신문",
+          "date": "2026.10.20.(화) 08:48",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcnJxV0tpUDVHeW5McFRwVlZ4eHJEZW53SElLNWk2amxlb0dadkt5c1piY3lHM01nTzVsZWt1NVF0TU9xa05pNml6V0hzN0N1ZXRuTzNqRnlqdi1la2FTRg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "소병훈 의원, 의원급 환자안전사고 보고 97% 약사 신고…의료기관 내부 보고 사실상 전무",
+          "source": "수도권지역뉴스",
+          "date": "2026.10.20.(화) 08:35",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwZHVHdXlFU2VHeTlLV0YzWW1LUHhLR3pfV2JFaHlTajVuZWRnVERUbXk5MlRKNWVaUm1ZVlQ5ay1NcDB6dmh2aC11V2lRbTE3cWlzb1RLV3QxOEZCVmhXb3JKZG1Kc0ZM?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "영동군보건소, 2026년 하반기 심폐소생술 등 응급처치 교육 실시",
+          "source": "메가충청뉴스",
+          "date": "2026.10.20.(화) 07:03",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZZjVJT3ZGZF9vZ3NiUGxjSzdGZUxxTUFaSFRqdllia0Ewc0taYlhKVUROQWlIUjZwdnd6M2hhVWt6ZFFWS2ZzTUtFSnU3VVBfb1Y2b1g5MlFxSk9WN0JjMnBRZXVjZDl1ekY4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "충북 진천군, 수확철 농기계 안전사고 예방 각별 당부",
+          "source": "청주일보",
+          "date": "2026.10.20.(화) 05:47",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zVkc1M3lyRDgzM3E2Z05wSGVtUVRGMzNBVmluRUh2YlNvYzNudXpYWXFFOHEwRFA0YkZXRUtaUGp1MTJFYW1LOG4yV2RQeWdDQWU2bHV2S2IzYVlVajNTOVhvMDJrd1BZdTJv?oc=5",
+          "region": "national"
+        },
         {
           "title": "\"낭홍 2026\"은 300단위 이상의 혈액을 기증받아 젊은이들의 따뜻한 마음을 보여주었습니다.",
           "source": "Vietnam.vn",
@@ -295,10 +323,10 @@
           "region": "national"
         },
         {
-          "title": "에스원, 산악사고 야기 '야간입산' AI로 탐지",
-          "source": "지디넷코리아",
+          "title": "[울산소식]울산TP, 사랑의 헌혈운동 '나눔 실천' 등",
+          "source": "뉴시스",
           "date": "2026.10.19.(월) 16:24",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxU2xUcnp4bDAtN3BQeEhveHRaMTVpQXdvOVNYQW5Gc2NqS3B3UWdBYVhlOFNfMW95dDJrTWplUTcwZTNzTnB2M3d0Qy00c1VCV1hGRmxR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92Mk1QTXJqUmtnSU00QjVkS3p0YnZzTUNoTzZSVlZxczZ5dlNlWmI3ak4wYkl4Z2pmQzRRZ2ZyWWV3SnZsLXhQZjhxbUR3QThyakVsZDJQaTBHRnh4OU5qWtIBeEFVX3lxTE1XZjlQUURHQ19pOEdqa0tKaEtBY2FtZ2R3SmlyMzNaTVlpRVMwTm9TMkdOV2drQU5aZmQxS1FIOWFqZ1ZscFJySVVWd0VpdE9nWTY4QUtYdm5ta2lpY1BZMW9FNXdLXzYtSTNsbnIxamcwY0tEbnRYUg?oc=5",
           "region": "national"
         },
         {
@@ -358,6 +386,13 @@
           "region": "national"
         },
         {
+          "title": "대구중부소방서, 가을철 캠핑 안전사고 예방수칙 홍보",
+          "source": "FPN-소방방재신문",
+          "date": "2026.10.19.(월) 11:14",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkVm5Xc29hRm1GTXRxb1l0QXEwSmhMcm1LV0ZoMUtnWjFQVEdLQmkwY0hGTVN2VHU1ZU50Z2FyY2ZiVk5y?oc=5",
+          "region": "daegu"
+        },
+        {
           "title": "대전 중구, 완강기·심폐소생술 체험교육 실시…구민 안전 대응능력 높인다",
           "source": "뉴스인뉴스",
           "date": "2026.10.19.(월) 11:07",
@@ -389,7 +424,7 @@
           "title": "[박춘태 칼럼] 생명을 구하는 용기, 시민을 지키는 사회적 신뢰",
           "source": "글로벌 비즈 뉴스",
           "date": "2026.10.19.(월) 09:36",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFNkhLdk4tbWlxdDRLWWZIeV8yQWlvdjdNeUJrbmZwX0dUblVQdWNFSXJoRXNZSVZwQlZPckRyZmw2bFpmOWYyRWN0THV6ZnppWXoxcjZ5X2JUdEM4QU12NVBob3HSAWhBVV95cUxOcHRVS2RDTkRrZ2wtdENrV012RzFfSmd5Yk9lbWNZT0pMLUlVOFgwNU5ZYnFkbjcxbGVxVEtOYUo3Q2JkekFxeE40dUhXWkVTT2Vzbm9qV1JXeWZLZU01cll4VDdIN2QwRA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01UmtXX3djZE5FZDdyRVpURnBsLUJsRzg1RlVReUFsejEyLTJLaTRSM1dWYVU0bEtmRTVTeVkzMTE2N3lvVHVaZzEzS1BwMTZ2dWQ3T081TnNkZlczejl1VDB1R01UQdIBaEFVX3lxTE5wdFVLZENORGtnbC10Q2tXTXZHMV9KZ3liT2VtY1lPSkwtSVU4WDA1TllicWRuNzFsZXFUS05hSjdDYmR6QXF4TjR1SFdaRVNPZXNub2pXUld5ZktlTTVyWXhUN0g3ZDBE?oc=5",
           "region": "national"
         },
         {
@@ -407,6 +442,13 @@
           "region": "national"
         },
         {
+          "title": "[2026 국정감사] 노인일자리 안전전담인력 법정 기준의 24.2%뿐…현장 안전관리 공백 우려",
+          "source": "뉴시니어",
+          "date": "2026.10.19.(월) 08:21",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16NTUwbnRES3Y3M2RBSkxuM1d3V3g3RFNydVhnZk1xb18wdGlSMjZGZG1oM25sMEpUOTNFdnNDTk9RdWs0MWpNX2c1dDRxWlhRN056Z01hcVBzOVhYTVBkRmZuYw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "매년 3천건 사고 나는데…노인일자리 안전요원, 기준치의 24%",
           "source": "연합뉴스",
           "date": "2026.10.19.(월) 06:01",
@@ -418,55 +460,6 @@
           "source": "전북중앙",
           "date": "2026.10.19.(월) 01:51",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FR0p2cGJjdlhlX3ZRRExKVHF5ODlpT2RIbEFzZXBtWEpoT21uTDN4V0lHdUNjYUc0bE9yMy1vRUN6TWFQWldJMTZnUXF0Yy01dGtQa2NsbW1URTBqZVg4eEZZdXVTcDlLWHFz0gFrQVVfeXFMTUVHSnZwYmN2WGVfdlFETEpUcXk4OWlPZEhsQXNlcG1YSmhPbW5MM3hXSUd1Q2NhRzRsT3IzLW9FQ3pNYVBaV0kxNmdRcXRjLTV0a1BrY2xtbVRFMGplWDh4Rll1dVNwOUtYcXM?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "2026년 자발적 헌혈 프로그램을 통해 407단위의 혈액을 수혈받으세요.",
-          "source": "Vietnam.vn",
-          "date": "2026.10.18.(일) 22:09",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkRvMVV0RUdPaXoxUDRRRy14WUkyRDRkTG53c241TklZbmtvamNVLWtMNHlTWHNzRVVxT1AxMnBNbEdOZEVHZE41emMwVkVFWFZmcllQcnRrczB1dGxFNTZBSGl1N3RtWnNvd3NrakRVUElMbzNnS1Z6RGJZV1pwTTZXekQ0YWhnd0VmRk45c3hsYnFrVnNpa3B3d3hLVkFt?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "동탄의 한 건설 노동자가 101번째 헌혈을 했습니다. \"건강이 허락하는 한 계속해서 헌혈을 이어갈 겁니다.\"",
-          "source": "Vietnam.vn",
-          "date": "2026.10.18.(일) 21:24",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnIwWUwzQk9saWtZV2RIaUp2RDZWWFliUFFuVDZYelpDbGk1dVpoY3N2NUVpeXFSZzVXY0pxaS1BSEVKeUw0TFhzQTZLM3cyWTl3NzNjM3ZKdTkyRGNFM3RSLUFxanBQdEV5UVljNllOQUVKVkNGSTVTSWVOd2s2ZFZ6b3VTTnU4dEJtb0JiLVh1YldBM2hZdQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "하노이의 한 교사는 \"학생들이 18살이 되면 무엇을 할 수 있을까요? 자발적으로 헌혈을 할 수 있습니다!\"라고 말했습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.10.18.(일) 21:23",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE40NGEwTlIwQm4wdGNJOUZSX0p1OVdvb0xRbHpqZ1d3LXRLQmNDVXltSTZSSW5qdnd5TW9nVmFBQ1R1bE9YRDJqWFk0UFFwSEk2RHFickRmWkNNc2ZsVzJ4MHcwM2NDMWM5LUR1QlZYZGRBakhrcXRXai1EUmtodnlldlpkeUpJUEEzakdwQ0NXbFRhS3ZyUw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"고속터미널역 조심하세요\"…작년 서울지하철 안전사고 부상자 1062명",
-          "source": "아시아경제",
-          "date": "2026.10.18.(일) 20:13",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VRTJnc2RSNl92eE5pQXRFREs3UUVPM21hcUhOLUxwOEpwWUd0NmNtNzVJLXRmUF9XX3FEYVNRbVhuMFA0bUZsQUlmdjNjN2MyX2hhMFFlUDByTlRINkZ2bw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "임실군, 오는 22일 군청 광장서 헌혈",
-          "source": "뉴스티앤티",
-          "date": "2026.10.18.(일) 20:08",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EckpVMVJtUjY0VHRIX00xTzIwY05Kb0FpalNVVlZvdzdpWUhlaEstNzY4aEtWcGduRUVCUVZXdUJSNklid1Q1VXF2bXBCYWZZYW9IR19rSHNZU2lrMXkxRzdrb21hME81bUE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "임실군 ‘사랑의 헌혈’ 캠페인 실시",
-          "source": "산경일보",
-          "date": "2026.10.18.(일) 16:03",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5U3d0OTkwUXBqdlNBMXN3cnYyZnJheWlfOVV3aHAxcUhwb0xTU09xRnNEbjI5NEdWOGNUQlpLUm9vV3ZvajlsNUhTTDBpNHB4S0JvSEZoNENTMmdTMFhuQUlpeGxBSnBuTUhqdkVNRmQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "국회 재정경제기획위원회, 국가데이터처·관세청·조달청에 대한 국정감사 실시",
-          "source": "내외통신",
-          "date": "2026.10.18.(일) 14:51",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CSkgwaEktS3l0T2JRNFNGQm5zaF9Ld0pqdGwwSjJUMDhsWTNndVp1cWE2S0pIZXFNMWd2enhIeTdSZGtxQ0R3Q0tNVEVTX0R2eUdyOG0wUkhnSUNkY2dBMjhTTkhObE9yRGtB?oc=5",
           "region": "national"
         }
       ],
