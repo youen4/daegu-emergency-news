@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-21T17:19:38.976778+00:00",
+  "generatedAt": "2026-10-21T21:47:57.923916+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "\"소아응급센터 무너지면 경찰청장이 책임져야\"…경찰의 아주대병원 압수수색, 국내외 파장 확산",
+          "source": "수원일보",
+          "date": "2026.10.21.(수) 12:33",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NUEl5aE9hWWNKZXZrZEhVdWg1UmNVdTRzRVdHV1ZvRnkyZG1qbWZxb0NQSXA2RElSQUVZTTRxdFhNek9HcjJrU1c5eUNtOXdBcUEwWHRrVnMtOVd1YndlNjd0aXI2Zw?oc=5",
+          "region": "national"
+        },
         {
           "title": "문경소방, 지역응급의료센터와 소통·협력 간담회",
           "source": "세명일보",
@@ -19,10 +26,24 @@
           "region": "national"
         },
         {
+          "title": "부산 응급실 미수용 여전, 119 스마트시스템 이용률 1%대로 추락",
+          "source": "현대건강신문",
+          "date": "2026.10.21.(수) 08:22",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaHNzZVQxbW93Sy0zbFBpUldCUFJnazZQcmtzNXJhQnZPXzZ2UnJfMWdvcG00NHVha3pnMTBaMWJJVzhWQk9GRXhjQWZnNGFUV2ZlMDlB?oc=5",
+          "region": "national"
+        },
+        {
           "title": "작은 기기에서 메뉴를 찾는 대박 맞고 스크립트 오류 조작 팁",
           "source": "Calgary Roughnecks",
           "date": "2026.10.20.(화) 15:32",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUTBpbzk4Z3psdDBxWFpYUU0zUnM2MDJJVlV5SVRLOEpISWM4VnEzamNqUzY4WVhId2tCNDB6b0NIbDlaZGpXSUlyRjhWVTJQVXZMM0JaeG1ONExaRWp1WjVJLUNHWlVFODVtakFQa09rS0JZaVpVOFdFaE82VnMySVJpWm1pZE5UbExVSjRBMzJSOHlSSDl0c1BHa2NlWnQ3RzBIbnNhM3p2ZFU1NmhoU1dSbkN0Q3RCYU1WYkdMckZqWEtONnhmcTI3V3FlcW84YThDalI3TjdZT24wYWZEWFhIZDd3TF82aGc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "진주 하모어린이병원 1년간 9960건 진료…내년 자정까지 연장",
+          "source": "https://www.newsphere.kr/",
+          "date": "2026.10.20.(화) 14:54",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uWVhEdUcwS0FCSWEwMG5NRll3bi12WDNxS3hsT2wyN3dqcGcyRUR1TTlyVldsY25tNjh6STVNZFk1N29oNDdGenJsc3Axd1BoQzBKbVg2bmliSU10RzVseHo3RzVmcXdr?oc=5",
           "region": "national"
         },
         {
@@ -40,6 +61,27 @@
           "region": "national"
         },
         {
+          "title": "진주 '하모어린이병원' 개원 1년, 9천960건 진료…내년 운영확대",
+          "source": "연합뉴스",
+          "date": "2026.10.20.(화) 11:01",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CeUZLRUhGLXEwWEV5cGVZT253ejh4UEpfZWUwQnI4Rm40NGp4RmRHVHlDbmdnT2xybk1pMGNRRjMySW9NOEhUNlFndW1LTGpZRTFaUmZOSWVXYzMzd2dodNIBYEFVX3lxTE5CeUZLRUhGLXEwWEV5cGVZT253ejh4UEpfZWUwQnI4Rm40NGp4RmRHVHlDbmdnT2xybk1pMGNRRjMySW9NOEhUNlFndW1LTGpZRTFaUmZOSWVXYzMzd2dodA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "이주영 의원, 아주대병원 찾아 의료AI 지원 논의…소아응급·중증외상 조명",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.10.20.(화) 08:56",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JZTItUEZoeDRoaHRpaW1FRHRIODR5MUc0cHFUNlhSNF8weGd4N2dCSC1pdndmTXpZTDQ2czZFSXRzSEYwcGozTmtOTnJhQnJ4eVE3TFhpNA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "김민석 탑승차 응급구역 주차에 김태선 사과 : 정치",
+          "source": "재경일보",
+          "date": "2026.10.19.(월) 17:08",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhNlRzSklFVE8wX1djelA4dFNycTRhUlBXZU9GOTdqZHdkSW9GUjNRSWRudlBvVWFyd1hjeHU2NnJ5cFpyWEM4VDdJQQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "조인수 한일병원장, 대한응급의학회장 선출",
           "source": "의협신문",
           "date": "2026.10.19.(월) 16:28",
@@ -54,17 +96,31 @@
           "region": "national"
         },
         {
+          "title": "김민석 人性의 끝?...소방관 도열· 축제 무대· 응급실 주차까지",
+          "source": "최보식의언론",
+          "date": "2026.10.19.(월) 14:13",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xMjZ3VTFwa0hNYUFxdjNIbVU5Wk0tOXRZV3ZlM3NZdUJXdVQ5LWx4cHNtRFYzdGkyM2hYMlB6M1piNDMwM3UwSDRGajRoWThCWEI5UERCN01CVUMtUE9hRUVSNmgzVHgt0gFoQVVfeXFMTjEyNndVMXBrSE1hQXF2M0htVTlaTS05dFlXdmUzc1l1Qld1VDktbHhwc21EVjN0aTIzaFgyUHozWmI0MzAzdTBINEZqNGhZOEJYQjlQREI3TUJVQy1QT2FFRVI2aDNUeC0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[2026 차세대 리더-의학·과학] 김정언 중앙응급의료센터 응급의료상황실장",
+          "source": "시사저널",
+          "date": "2026.10.19.(월) 14:06",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lSkZYOWVDcERPSk9vc0IxbWo4Nm9NY0k1cVNuSlY5WnJ4NVYyV1lDN01iUDNxN3JWMmJrdTFnaXFBcGd0Q2NTQVJJbGtZTlZKWWRPZXY3TERBMTBscWhZUUNrT3VPS3ZZMk5qNEhubmZZejjSAXNBVV95cUxOZUpGWDllQ3BET0pPb3NCMW1qODZvTWNJNXFTbkpWOVpyeDVWMldZQzdNYlAzcTdyVjJia3UxZ2lxQXBndENjU0FSSWxrWU5WSllkT2V2N0xEQTEwbHFoWVFDa091T0t2WTJOajRIbm5mWXo4?oc=5",
+          "region": "national"
+        },
+        {
           "title": "‘응급환자 전용’에 주차된 차 탄 김민석… 비서실장은 “제 잘못” - 조선비즈",
           "source": "Chosunbiz",
           "date": "2026.10.19.(월) 13:59",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN2dSNm5kNUdaQzE0Tlp1bXhkb2U5bkxDRlkwNjhyZE1Ha0NSUndxeFJuenFHWVc4aGttdmtmNWZCa1JfcWdsWkphRGhSLVZlUkRsTWJVRFUxRERVMmNhV2pVS0JFZWNpUURqTVhTQTJ0clpTOW8td2taX1FCTGY0dVlRM256WVFWY3NGbHd1ONIBowFBVV95cUxOY2pDODYwbnVfQXdWNUhwc0JYRy1KR0luaFNyZGxDWUdjZUZrSHF4cF9IeXRIX1dIMmQxN3dydmpsRXU1bm9lNmo3LWJsQk1vbnpFak1lNDEtTVd6VThsd3ZQM1FZQ3hWX1ZLOUVlMXRkcTFYNl9vbjlZS3plS09zaW82TzhJc0FtUE1YRWFHTWNQblM3ZFhkN1NOcFVoS21MWnc0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2pDODYwbnVfQXdWNUhwc0JYRy1KR0luaFNyZGxDWUdjZUZrSHF4cF9IeXRIX1dIMmQxN3dydmpsRXU1bm9lNmo3LWJsQk1vbnpFak1lNDEtTVd6VThsd3ZQM1FZQ3hWX1ZLOUVlMXRkcTFYNl9vbjlZS3plS09zaW82TzhJc0FtUE1YRWFHTWNQblM3ZFhkN1NOcFVoS21MWnc00gGjAUFVX3lxTE5jakM4NjBudV9Bd1Y1SHBzQlhHLUpHSW5oU3JkbENZR2NlRmtIcXhwX0h5dEhfV0gyZDE3d3J2amxFdTVub2U2ajctYmxCTW9uekVqTWU0MS1NV3pVOGx3dlAzUVlDeFZfVks5RWUxdGRxMVg2X29uOVlLemVLT3NpbzZPOElzQW1QTVhFYUdNY1BuUzdkWGQ3U05wVWhLbUxadzQ?oc=5",
           "region": "national"
         },
         {
           "title": "김진석 소방위 빈소 찾은 김민석, 떡하니 '응급환자 전용'에 주차 [지금이뉴스]",
           "source": "YTN",
           "date": "2026.10.19.(월) 13:17",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQYUNFeGdNQXRFZkFvZUxCR0V6ZHZRQlFnMWFaWXVpYVVXaDdGeE53V3F3WXVweEtTMm9Tc3VMUWhTLU80akQ3dUNMUHJhd3phWkt3Ykcxd21MRjBfNmlPSTNjbDVLdWsxSHVidTlsY1E3SU9xMXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CblRySUpVZC1JN1NOWFQwNUdxYnowT0V1T1NZZ0xoaUNGRHU2Mk4tN0ZPaEwyZGRITGpjeXEtNmJNaERlMENwMnl5TWtRa0lnQjFCV25GMjhGMmZpcmpBYmx6Z2dLYXNxZEQ3Qlg2cGFaMFJNRXc?oc=5",
           "region": "national"
         },
         {
@@ -86,20 +142,6 @@
           "source": "Calgary Roughnecks",
           "date": "2026.10.19.(월) 07:40",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XTFVlemxxalRKN2doU1hlMXdITGtxRlZHV1owamRKNHN6NEY1QmljazF6UkNfLUhIWWVQdFVqRmNON3kwSEF0UnNHNks5OXNweU1ST3hjUUk2TVE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "응급실 또 시끌…평일 특정과 전문의 배치 ‘의무’",
-          "source": "데일리메디",
-          "date": "2026.10.19.(월) 05:21",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NSVhqYXByNXhKTjQyNi1NaVJnTmliZjA0bTB4VFZTbWdQVjhMMmZVWEVpU3FhS2VDMjJxcFFZdGdBWXlFUU1qT3VLaTJ3TmoyWU1JVnFZaUMwdUw1UUtBY193cGhsdGZr?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "의사 떠나고 간판 떼고, 소아응급의료 위급 - 머니투데이",
-          "source": "머니투데이",
-          "date": "2026.10.19.(월) 04:10",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nQUdFeE9uLVZRZXBPRGdKekNxSmlOQVdPWXJHemRybjBFVVliQy1TeUtENWZMajR1dTRUS2hmYVpleHNzdzFteUx3RDdkZDBYaDFqMm5mdFBCR19xOFlPYThXNUE1NXotQTExNi1nTHJnZi1HOUxNWnJPaDXSAXxBVV95cUxPZ0FHRXhPbi1WUWVwT0RnSnpDcUppTkFXT1lyR3pkcm4wRVVZYkMtU3lLRDVmTGo0dXU0VEtoZmFaZXhzc3cxbXlMd0Q3ZGQwWGgxajJuZnRQQkdfcThZT2E4VzVBNTV6LUExMTYtZ0xyZ2YtRzlMTVpyT2g1?oc=5",
           "region": "national"
         }
       ],
@@ -195,6 +237,13 @@
           "source": "의학신문",
           "date": "2026.10.21.(수) 13:20",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NbWN0dkNadGVyQ01fbUFGNk0tUDFISldZNDRLVUNRN0h2bVRldDZyemdkeEtRcTlIM08yb3ZVdUZ1WHVRQWFWTERVSDVSVFNPbDFsamtaQlVvWDBtWXlNS3ZQWURUOThEMUE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"의료사고 수사받는 선배 모습도 교육\"…소아응급실 압수수색 의대생·전공의에 영향",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.10.20.(화) 05:15",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EeFlVaHZJOFRsNG1ZSzNWNk5oS3Z1dllJSEVyQ2JjMW9CaHlOSUdOM1E2VVNCbVhNWkxFZ3lKX3VDbExpWkpobDNoU3BwcURFU0pTT0dUMA?oc=5",
           "region": "national"
         }
       ],
@@ -302,17 +351,17 @@
           "region": "national"
         },
         {
-          "title": "안산도시공사, 심폐소생술 경진대회로 현장 대응역량 점검",
-          "source": "시사일보",
-          "date": "2026.10.21.(수) 13:44",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84YzZpUzRTakRjWUFHRWZXSEdzaWFldjZtdGNHemZDVXZ4ZXlCam52Z2IxYVNHem9ScDR5NnRmak1ENGozSHFtMXR2Q0s?oc=5",
-          "region": "national"
-        },
-        {
           "title": "영동군보건소, 2026년 하반기 심폐소생술 등 응급처치 교육 실시",
           "source": "아시아뉴스통신",
           "date": "2026.10.21.(수) 12:31",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZVFLcFctcEhpZTEzNFc2ZVlWWkhkU1cwdjFHbmljOVl5ZlVrU1I3VlJoSF82NGtqd2dXa3hnVHAwMmFIVXJYbjk1Um4ybnlHa1V0NXJnNnFRemtVY19UVDFwMGNuZXJGXzRwYUhMbmlrYnNU?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대한적십자사 혈액관리본부, 한미사이언스와 헌혈문화 확산 위한 업무협약 체결",
+          "source": "한국투데이",
+          "date": "2026.10.21.(수) 12:31",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLeFFfOWJUWWo0akgxNlYtWWNFSGM3QklDci1WazhtakoxQkxObVJvRkdlSjRydEtITjF1RHoyVDd5YkJtMW5rSC1MMElQTjJXV09RckloQjFYaHZOLWFkTU5hMDVmSm1aU2fSAW5BVV95cUxOX3pkNzlaZkRGMHRSVG53OXhnWDRkOV9kSGNEX0JsZ2FfX2lMYUdaQlZnWXhZdzRXRkZReFJUN0M0d05TUlZoM0VVcGFfamQ1WDNnb1dDTGYxZVNTR0lkRzlkRG1yMmFfenpncFBnUQ?oc=5",
           "region": "national"
         },
         {
