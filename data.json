@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-22T12:02:28.732362+00:00",
+  "generatedAt": "2026-10-22T17:17:15.754729+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "“응급환자, 대관령 넘지 않고 지역에서 살린다”",
+          "source": "병원신문",
+          "date": "2026.10.22.(목) 23:00",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZckY1OFVtREU2WXozQlJsbUFKekVOR0hINjNpZXR5VTM1VGQ5bkV6b1VYUmFiMWpsNGNjUDFjVFhjZ0hiYlR2ZUVfV1p5My1yWW9jQUpBLUI0UXlpbXk3STdLNDJ1YTJPelE?oc=5",
+          "region": "national"
+        },
         {
           "title": "“응급환자 골든타임 사수”···강릉아산병원, 강원 영동권 응급의료 정책세미나 개최",
           "source": "이뉴스투데이",
@@ -47,10 +54,10 @@
           "region": "national"
         },
         {
-          "title": "강릉아산병원, '강원 영동권 응급의료 정책세미나' 27일 개최",
-          "source": "헬스이슈앤뉴스",
-          "date": "2026.10.22.(목) 12:36",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UmZNNnhEV19vd2Y4YWhURWlJN2VoTTZ4WlNza09vZ24xMThObUxMSVQ5NFJfWmt3aDd1Zzd4ZW5jaVJWM0p3Zks3WXk0cmdtYWVYRVFsZHZEWlRtQXZvZE1RX0M5OVpR?oc=5",
+          "title": "강릉아산병원 개원 30주년 지역완결형 응급의료 구축 : 대학병원",
+          "source": "의약일보",
+          "date": "2026.10.22.(목) 12:26",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KcllTa2ZhRF9oNFI3ZmRZSHgteVJ6bUkyX3dNc09ZT2taeFpKMGdzdmdVU3ZCNjFyYjFQdDNWTFZhLW1vdmJrOF9lS01sLWk5amxmUA?oc=5",
           "region": "national"
         },
         {
@@ -89,13 +96,6 @@
           "region": "national"
         },
         {
-          "title": "문경소방, 지역응급의료센터와 소통·협력 간담회",
-          "source": "세명일보",
-          "date": "2026.10.21.(수) 12:08",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9udGJZZDg3Rm8xcjhNbE1oMHJXUEhjZS0zNDhwUE5SSWRMT1pseEVlZGh3dFZIR1BJQ3hNd29La2ljajZXbk5JbkQ2X2xiWmtuR2lCUQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "작은 기기에서 메뉴를 찾는 대박 맞고 스크립트 오류 조작 팁",
           "source": "Calgary Roughnecks",
           "date": "2026.10.20.(화) 15:32",
@@ -107,13 +107,6 @@
           "source": "Calgary Roughnecks",
           "date": "2026.10.20.(화) 14:47",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSc3h3N0xPRDlaSXZVeXVNQmtiR09TTGg0NHdQU3VMaUh4MFYxZGpUUTFxalFRX3g3T3R1NW01UXdDX21zS1hnVGF3RVREZzlvcWxkRXljOXBIMHdEZzBoZHo5UXFJNGM?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "게임별 기능 명칭을 비교해 읽는 해외 온라인 슬롯",
-          "source": "Calgary Roughnecks",
-          "date": "2026.10.20.(화) 12:49",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSnhwLTJYREE2dEhMY3RPb0R1bTJHSm1uVUlTSjBLR1Q0X3NPOHJkZVYzZEdkcVlBZ01DeWh0ZG90NWVSYURxVXpGLUNqcGxtZlRwV3I1aFV5dXlDVmhtcmp0MHZMRmtpUi1FbUJBdWx6ZWZ0ZEVlZTczcWxJY3BHczVpeHg2czVkOEp2Q1JBX200VFFLMjEtWHMtWWFtYVphSFpyVXZiZVlIY1NHRmpQMXhULTgzSzV0S3psS1NUTy0tQU5Jc2VHWmlOYkpNMTlMMVZBMnByWDhCZw?oc=5",
           "region": "national"
         }
       ],
@@ -128,6 +121,13 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "영암군, 소방서와 대형 재난 응급의료 직무교육",
+          "source": "시민일보",
+          "date": "2026.10.22.(목) 18:16",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBndDloSnJZTWZBWl9GTmtfV3h5Y3Z5WmcyZFZmZ0V0dGNnd3RCVXJpalZvanRIM05BVW9ldFd2YTdCcDhYWV9QTzgzVy1xNmlkODJOcWlEeWpzSkRFM3FsVWxYR182aE85S1ZqY3JNWdIBb0FVX3lxTFBndDloSnJZTWZBWl9GTmtfV3h5Y3Z5WmcyZFZmZ0V0dGNnd3RCVXJpalZvanRIM05BVW9ldFd2YTdCcDhYWV9QTzgzVy1xNmlkODJOcWlEeWpzSkRFM3FsVWxYR182aE85S1ZqY3JNWQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "영암군, 재난응급의료 대응 역량 강화…보건소·소방서 합동 직무교육 실시",
           "source": "뉴스21 통신",
           "date": "2026.10.22.(목) 17:38",
@@ -135,17 +135,17 @@
           "region": "national"
         },
         {
-          "title": "영암군, 소방서와 '재난응급의료 직무교육' 실시 - 보도자료 | 기사",
-          "source": "더팩트",
-          "date": "2026.10.22.(목) 17:18",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oc1JQS2tDX2FDMUJBb3JCMUxaZEFsNjdwRzlsTWVEYnZrZ1hmbnBsYm8wYUxPZTZuQmdBMmpoczZCX1ZwVjBPZ3ZfbGFOZnpNUmRhZk81UktPclp1NFM4?oc=5",
-          "region": "national"
-        },
-        {
           "title": "영암군, '다수 사상자 발생 대비'... 소방서와 응급의료 협력 가동",
           "source": "뉴스워커",
           "date": "2026.10.22.(목) 17:00",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tb3NzMmNGb2tqeGRjWmpDcVFQQUUxUjNwVHA2QXJGUEVCU0RfNkV6d2taejV4ZF9zTy1pWHU4T3ZKOV9naXNSdDRqbWg2ajBUckhzR3d0TGNZOGhyX1liSjR2ajFVUFVGY29wc0hzR0zSAXRBVV95cUxQOWp4aWlPamdobklDOFdHOTdlM1haUzV4WGpCckg3c0JXSzlvME5maUF2elhPRWhnc2pOSXVYdHRTZWpxbGp4ZkF4TE9JeHJVZkVMYTVINVVRN09zNk1MeGxoS0JZWWdNbnVsSmpsZ0cwWl9YXw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5anhpaU9qZ2huSUM4V0c5N2UzWFpTNXhYakJySDdzQldLOW8wTmZpQXZ6WE9FaGdzak5JdVh0dFNlanFsanhmQXhMT0l4clVmRUxhNUg1VVE3T3M2TUx4bGhLQllZZ01udWxKamxnRzBaX1hf0gF0QVVfeXFMUDlqeGlpT2pnaG5JQzhXRzk3ZTNYWlM1eFhqQnJIN3NCV0s5bzBOZmlBdnpYT0VoZ3NqTkl1WHR0U2VqcWxqeGZBeExPSXhyVWZFTGE1SDVVUTdPczZNTHhsaEtCWVlnTW51bEpqbGdHMFpfWF8?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "중부소방서, 장충체육관서 대형 복합재난 대비 긴급구조종합훈련",
+          "source": "중구자치신문",
+          "date": "2026.10.22.(목) 16:45",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPNDh1VGpDMmpmMGlpU0VQT01hN0xhTk1LMUUwMURkbV9qNGJDZ2tGLUJsUWlSRXB2Rm1IZ3dtYlROenNMOW1BNV9BSmxiaERYbzFKVjVNZHZfblE?oc=5",
           "region": "national"
         },
         {
@@ -167,13 +167,6 @@
           "source": "데이터넷",
           "date": "2026.10.22.(목) 12:55",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdlJtM1ZBUE82bW9TQVNUVlF4XzVIUG1TcUZzYXpCOTdNNEY0RDJhZ2p5SkJIZXdvTHNYQklvUW9zb3NNbXpJb2pYUXdBS09xcVQ4aUNFZC1xTnpMXzQ3bU1HS3ZFY20yaDVMNA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "서울중부소방서, 긴급구조종합훈련 실시… 대형 복합재난 대응역량 강화",
-          "source": "소방신문",
-          "date": "2026.10.21.(수) 14:40",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzNnlwZ3JDY19MRGYtTkV5VkdSNHBmMlI2alBLak9Ua3MzdUhwTEkxemdHVVRPQ1E3cXBpbVdrNV9sNHE2NkhjMUdsR00zRnZsS1BOTkRNVTVza3o0WXZhSUFsSDlPX2ZuV2Zz?oc=5",
           "region": "national"
         },
         {
@@ -224,6 +217,34 @@
       "label": "기타",
       "items": [
         {
+          "title": "SGI서울보증, 소아암 환아에 5,000만원·헌혈증서 56매 기부",
+          "source": "더글로벌기빙뉴스",
+          "date": "2026.10.23.(금) 00:53",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90cjQzam8zalk0REd3alVKaV9LUW05Wi1QMjBKei1xZktIRE5wVmNLZmJUSDJ2QzU4NldnNWpCcWotaHBVMVBhQXU1M2psYVRwU1NqZg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[포토뉴스]횡성군, AED 설치기관 책임자 심폐소생술 교육",
+          "source": "강원일보",
+          "date": "2026.10.23.(금) 00:05",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kRmdyc25IQll3cXFqRDgwbEpBVjVSU0xCMkp4OVdmQzJvXzhkQ0F3a2hya3VjYld4VHhFb1I4TzRxWGhwOFkteDBDOXNMdEM2YzRrMlVNQW9pWEU?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "인천성모병원 교직원, 자발적 헌혈 참여로 ‘사랑·나눔·실천’ 생명나눔 전개",
+          "source": "더퍼스트미디어",
+          "date": "2026.10.22.(목) 23:43",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tdFFUdHFvcmpmX0lkZnVHSDl6RkwwaXZYRnhHajJ3XzVPanJlY25LN0hvMDNqb2Y2aVpieUxDUnRmblczVFFiWmZuemNxaUlUNTFtVkhBMzJ1dWR0Z0QzLTFURzFGekY0Tl83dmZnX2R5d9IBdEFVX3lxTE1oa2c2WG1ZTFFhUm5fWlVwSjM2aVpHY0lOSWxmOUp4Sm0yckhYYmozUktHRXVmcmZidHEzazdBVG15ckMyNGtvWnRPWkxYbU1Ua1N4QnlhcUZlel9WUkZqV0RFa0FnSHl4YTVNTEwtNGtuOEhj?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "서영석 의원 ...노인일자리 사고 ‘ 감소 ’ 는 통계 기준 바꾼 효과",
+          "source": "m.sisakoreanews.kr",
+          "date": "2026.10.22.(목) 22:38",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14Y3JWTlFOUHc3ZDRmcnlsNFNNdW9uM21aTllIUjV3aU5DN3V3Y3hnTzExRjM0cjlSNVFDZjRPMFBvdnJtNGl5ZGtB?oc=5",
+          "region": "national"
+        },
+        {
           "title": "인천성모병원, 교직원 대상 헌혈 캠페인 진행",
           "source": "로이슈",
           "date": "2026.10.22.(목) 20:07",
@@ -231,10 +252,17 @@
           "region": "national"
         },
         {
+          "title": "李대통령 \"핼러윈 등 안전사고 빈틈없이 대비…소방관 안전 대책 철저히\"",
+          "source": "연합투데이",
+          "date": "2026.10.22.(목) 19:46",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WU3lFc0ZXQzU1M0h2LUI4MlFaeVJ0SEF1VlJXYUNtaXZLRVpYQ1FzTlRONlFNOVRFQjlIT1BWdjA3RUxleW9lOXR3OUF5NWNZNHI3YmxoT0MyMXlzRmlkek9IMFlpd3pHX2s0?oc=5",
+          "region": "national"
+        },
+        {
           "title": "광산구여성단체협의회, 여성 헌혈 참여 확산 캠페인 전개",
           "source": "일등방송",
           "date": "2026.10.22.(목) 18:51",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVVkZ3TTQyeFhxNU9RMGtVMmhDUUprZl9WblkxUzlsUDI0SzJJUFZUWE04cFFZZ3pEWC1KdmI1dHNUbDd6UWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5MZVhnOFhEV1REVWZSVzdTZ2YtTEZhaUNWQjVyRUU5VEgybExXbjRySUp0OGtobGFxcnFKMGFjYklLZ29N?oc=5",
           "region": "national"
         },
         {
@@ -242,13 +270,6 @@
           "source": "국제뉴스",
           "date": "2026.10.22.(목) 18:02",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OTkd3YW9SdHFKOVJ0Vk56OWNjbU1VT2dCVTZTOXRpeGxvbEVYM1o3Q2VaVzZ0LTdycDJ4dXZSQnlLVDQwUDB5NWFXMDBHMzJkWE5SRXhjMk5YY0hqamQ1RGZPRHY4SzlLbmdORGd3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "여주시보건소, 자동심장충격기 관리책임자 등 응급처치 교육 실시",
-          "source": "웹이코노미",
-          "date": "2026.10.22.(목) 17:46",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tNDJEd0tMRGthbWtmYTNYai1RQ19SSUEtRUtHSHBQelo4V2kwUW1ncG44MjZ0Y1h1cmtUcW5vcU1EUWNYVXVKaFdzZjhVT21GQmtLQl9fb3lNYk5TaGg5aWhQUktlTURxSmlxTk5UOVVwUQ?oc=5",
           "region": "national"
         },
         {
@@ -266,13 +287,6 @@
           "region": "national"
         },
         {
-          "title": "탄쑤안 동은 자발적 헌혈 운동을 확산시키고 있습니다.",
-          "source": "Vietnam.vn",
-          "date": "2026.10.22.(목) 17:07",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOS1ZNXNtMlBzcWRHaGlJLUJhS0pBZ0daMkNiWi0tYkpOaEdkUmE4ZUFvM1NPNnBuMk1lRnBEWHhPdURyMXR4bVotWnRYVFJEaFFtalV6ajhkV21aTklqSS1Yb01TRHVfRDV0aGxUeHRxM21yUUNVWDJCOGczM1Q4aVRRRGgtVVlNbk1B?oc=5",
-          "region": "national"
-        },
-        {
           "title": "통계 기준 바꾸니 노인일자리 사고 ‘감소’",
           "source": "재활뉴스",
           "date": "2026.10.22.(목) 15:52",
@@ -281,9 +295,9 @@
         },
         {
           "title": "횡성군보건소, 심폐소생술·AED 사용법 교육... 응급 상황 대응 능력 강화",
-          "source": "m.newszoom.kr",
+          "source": "www.newszoom.kr",
           "date": "2026.10.22.(목) 15:46",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1TUl9tU2ZUTHZxU0hJa0ZFQmNaekdaSzc0YndpQ21RZm9YQmZHUVRveG1qY3J1T1Q4d3VFbDI5b2xOQWVf?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCc3c0SnBWTkVWM2N2NDFWUVptOFp4SlVkM2VFdE52aDVmQzVYX2RQMjExYXFtdlo3Z2pORXVCQVF3YWZmMUE?oc=5",
           "region": "national"
         },
         {
@@ -291,6 +305,13 @@
           "source": "서울경제TV",
           "date": "2026.10.22.(목) 15:45",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoU1cxWl9vZERTdXZDaGE2bmFOeDFRbXZ2eGRRS2VvTjZITmdWY3plY2t4VUo0Y0d0cHI0dXdaa083STNzNW5ZcWM1cnMwNGhKd0hONVZfbnFuRDY0eVpqM1FmS2Y?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "여주시보건소, 자동심장충격기 관리책임자 등 응급처치 교육 실시",
+          "source": "뉴스줌",
+          "date": "2026.10.22.(목) 15:36",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE54clJLTjB5VTRQOGNVejd5MXg4X01nSDNsRGVHZjhoUXAwOTBIbWtzWTlRM0ptVXVkY3h4Z0JKU3paekl3?oc=5",
           "region": "national"
         },
         {
@@ -333,13 +354,6 @@
           "source": "헬스이슈앤뉴스",
           "date": "2026.10.22.(목) 11:48",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxYlp2NUl2dDZBU2F0QXdsY05nLW1OSXdrQ3hqaU15TDVFbmd1NmRYRUZRakt1eEU3SDZUWGZTZ0NjR3RVZW1mVDNTTzc1SmV5ME1paG5uN0R2czkzY0NqOUVXYUExb1hs?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "노인일자리 사고 ‘ 감소 ’ 는 통계 기준 바꾼 효과 출퇴근 사고 빼고 4,036 → 2,820 건 , 같은 기준은 11~15%",
-          "source": "경기매일",
-          "date": "2026.10.22.(목) 10:36",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVMDFKQVpUWnNDVktnREprX3M0Um01QWVBVWthbDBWTjFYcm1KaG03eXNaUnhCZTZTNzQ0YnR4RGJTeXFIblNLQ1BVM3YwNXFBYnVvRnVpRFhOOFpBS0ZiWm9Tek95aTQ?oc=5",
           "region": "national"
         },
         {
@@ -410,27 +424,6 @@
           "source": "남도일보",
           "date": "2026.10.21.(수) 18:59",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vQkFOb2QtYmFEQVlIN3V1UUVLa3Uzbl9TSm5rbVdJODlrNzI1OHd3TktXU1o4NU1idkpKcTA4YUMtME1BR1V4SzRoQmY1RDhVVURtYzdXTnItb0NaTmxZb21GRUxVX0F2YzNQTlJ0T3bSAXBBVV95cUxNb0JBTm9kLWJhREFZSDd1dVFFS2t1M25fU0pua21XSTg5azcyNTh3d05LV1NaODVNYnZKSnEwOGFDLTBNQUdVeEs0aEJmNUQ4VVVEbWM3V05yLW9DWk5sWW9tRkVMVV9BdmMzUE5SdE92?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전 신세계, 고객 안전 위한 현장 대응 역량 강화",
-          "source": "중도일보",
-          "date": "2026.10.21.(수) 16:35",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RcVktNFF5QjEydEFxT2hmbFBkZFZ6bGRiVW5jVE1qUTBBU2h3TmNnQ0dfRWxFZ2dickRnNnJkSnJEMkN2Z3VldjdyQUM3dGNVdUh1UFEtVG1HMkpmNVdOVjBuWmw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "ADT캡스 경호팀과 심폐소생술교육",
-          "source": "화성 투데이",
-          "date": "2026.10.21.(수) 15:24",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1Q3JETGh2SWo3SzN6MWllS283bnZBSm0xaUFjakM5SFpIQllVb2tnRGM4Zk5BbEp1R0YwUXZJOEllQ25h?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "희망브리지, 장성군과 재난 현장 대응역량 강화 교육 진행",
-          "source": "비욘드포스트",
-          "date": "2026.10.21.(수) 15:18",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93R3dDNm12ejZYZEF0SVoyV044Z2xFOVBZdmZUdEVPMm90bFF0VFlWQnRGMVRoS1ZiOF9fMkJaVGhxMWpYQlVpVDE5LWVrV2RMLWI2Tm83bkljTzhiM05ySU9CSmxsd2V6ZGtIOEpBbHNpTy1PVzJ5WmRrU24?oc=5",
           "region": "national"
         }
       ],
