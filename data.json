@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:47:41.147722+00:00",
+  "generatedAt": "2026-10-23T17:14:52.233762+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -43,7 +43,7 @@
           "title": "경북 응급이송 지침 효과, 반복 수용문의 14.3% 감소",
           "source": "누리일보",
           "date": "2026.10.22.(목) 15:10",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4clZROVJSMnFCOWxHUjR0Y3Q1RGpaYkdsQzMwR0VsUXZnY01pbUp6U0swbkdpYzdvTWtKaXRRMFk4ZC1NTE1wLTI0eTV6eHlzdEFSemRTc1JEdTlB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5meHhQdmIzTGNIVDhzQXdwU3hIUVRJY2xZTlJ1QkxkUk00OEdJejNBQ1JSTl9mUDluaXpkSzE2Snp6MkJtM0k0cnFsS2Rqd2h2eVB3Uy1QbEhtczQ?oc=5",
           "region": "national"
         },
         {
@@ -128,17 +128,17 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "과천시보건소, 재난대응체계 강화를 위한 '신속 대응반 도상훈련' 실시",
+          "source": "시사팩트",
+          "date": "2026.10.23.(금) 22:44",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Ny1xYnB5X3I5eENzSzBxeUlXOURhRjBJSmhfQ3hXZkdaQnc0R3NET3JNNmZiZ3dKdm16a0dyNnRxOWp1eW1DczdGWDlRVHc2c1JzbGZwR2NkWXliX21qMzByNXZZR2hRRUxCaNIBbEFVX3lxTE52Ny1xYnB5X3I5eENzSzBxeUlXOURhRjBJSmhfQ3hXZkdaQnc0R3NET3JNNmZiZ3dKdm16a0dyNnRxOWp1eW1DczdGWDlRVHc2c1JzbGZwR2NkWXliX21qMzByNXZZR2hRRUxCaA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "“지진·대형 화재 발생하면?”…과천시보건소, 재난의료 대응훈련 실시",
           "source": "경기일보",
           "date": "2026.10.23.(금) 12:53",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOcVFIX2prQmNoMnR4NGEwZVkxSVBHTnE5M2RqblZ5RW8xMmt3ZjdmaFRkalhZWjNDWk03WWJLMUVIOHY1V3hISEJacTdYeVQ3aUxEVkVwa3ZRdjQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "과천시보건소, 재난대응체계 강화를 위한 '신속 대응반 도상훈련' 실시",
-          "source": "누리일보",
-          "date": "2026.10.23.(금) 12:10",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMkpTQjAtSWh0b2dDUk1PQ0x6anFKNzFJd3BKT05rUnE1ZU1qSXZROW1GVUY1MXRZM28xYWVuakZkVzQ4T1VtU0hNNlhaanZ0MkVxaUhncWF0RzA?oc=5",
           "region": "national"
         },
         {
@@ -191,13 +191,6 @@
           "region": "national"
         },
         {
-          "title": "중부소방서, 장충체육관서 대형 복합재난 대비 긴급구조종합훈련",
-          "source": "중구자치신문",
-          "date": "2026.10.22.(목) 16:45",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPNDh1VGpDMmpmMGlpU0VQT01hN0xhTk1LMUUwMURkbV9qNGJDZ2tGLUJsUWlSRXB2Rm1IZ3dtYlROenNMOW1BNV9BSmxiaERYbzFKVjVNZHZfblE?oc=5",
-          "region": "national"
-        },
-        {
           "title": "영암군, 소방서와 대형 재난 응급의료 직무교육 실시",
           "source": "웹이코노미",
           "date": "2026.10.22.(목) 15:44",
@@ -216,6 +209,13 @@
           "source": "데이터넷",
           "date": "2026.10.22.(목) 12:55",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdlJtM1ZBUE82bW9TQVNUVlF4XzVIUG1TcUZzYXpCOTdNNEY0RDJhZ2p5SkJIZXdvTHNYQklvUW9zb3NNbXpJb2pYUXdBS09xcVQ4aUNFZC1xTnpMXzQ3bU1HS3ZFY20yaDVMNA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "서울중부소방서, 긴급구조종합훈련 실시… 대형 복합재난 대응역량 강화",
+          "source": "소방신문",
+          "date": "2026.10.21.(수) 14:40",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzNnlwZ3JDY19MRGYtTkV5VkdSNHBmMlI2alBLak9Ua3MzdUhwTEkxemdHVVRPQ1E3cXBpbVdrNV9sNHE2NkhjMUdsR00zRnZsS1BOTkRNVTVza3o0WXZhSUFsSDlPX2ZuV2Zz?oc=5",
           "region": "national"
         },
         {
@@ -262,7 +262,7 @@
           "title": "중마장복-SNNC-삼동회, ‘생명나눔 헌혈캠페인’",
           "source": "광양뉴스",
           "date": "2026.10.23.(금) 17:57",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Td2lBWEgzUkJRUUxzTmRYSzdtdUJnaEczbFNkRkJoOVJBSlk1dHRMQXNzdVhVSmNkMTNzQ2UzODg5RlQzRTBWUlR6SFpxY3h2TTZnU0JXNXNLa3Fjc1JCZjF1ZHdJWHc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94dUh6M3pLakdwUGxVdE9md2I1SUo1YzM3MDczbDRONlFVaV83SUF5NXdOSTlkVk9ralZ1em5FclVNWEs1a24zMS1GMGh6TWp3RUtsXy1XWmhULWpuRU12Vk5OUjhvTVFH?oc=5",
           "region": "national"
         },
         {
@@ -277,6 +277,13 @@
           "source": "더메디컬",
           "date": "2026.10.23.(금) 17:26",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQlYyS0lpMWRSRDFMTDY1OGV4RHZkVFBOdGZCV1lxYzdPNzNudGt4TlhWRDYwaE4ycjdybnVjalhxeE81aWxkeFdKMmF4ZFhSUzU1aEFPMXJYZ3hCR0g0RHhYc252d1VNQmfSAW5BVV95cUxPanVHd1REZU4ya3ZaakV6alozZzRMazRJaGpTMUNOMzJ2bXFvX05VR3FuTGJZZjZuR3h4RkJOTF9tZl90OGM2Nm91TUpGR2QxMmhZS3M5XzJzQ25aeXA4Y1RVUU1zdmE1V3lhbnVCZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세계보건기구(WHO) 사무총장, ‘헌혈로 완성되는 뿌듯한 하루’ 캠페인 마지막 주자로 참여",
+          "source": "제보왕",
+          "date": "2026.10.23.(금) 16:48",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxMWdFalVSNGtoRkRTd0hMb1RFWWhPNFpjUUtTLVJpQ0F1S3VfUDZOdmVvQnZ6aXBkVkVyUG5mVlM3eml4eDBQQVlmS1dPUE9CcEVkVVBlR3JRRlM3TUFudWxtSi0wejhnSTFkbzc0d9IBb0FVX3lxTFBxMWdFalVSNGtoRkRTd0hMb1RFWWhPNFpjUUtTLVJpQ0F1S3VfUDZOdmVvQnZ6aXBkVkVyUG5mVlM3eml4eDBQQVlmS1dPUE9CcEVkVVBlR3JRRlM3TUFudWxtSi0wejhnSTFkbzc0dw?oc=5",
           "region": "national"
         },
         {
@@ -304,7 +311,7 @@
           "title": "‘농기계 사망사고, 6년간 319명 사망’…서삼석, “예방책 시급한데 예산은 전무”",
           "source": "인디포커스",
           "date": "2026.10.23.(금) 11:55",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSamJVaHk3dUlMQk8zbjdmU2Z5QklUQTNTOVhPeTNUMUZJei04aTU1VGNrMGh3M1l1R3JKZGZnaWdYU00?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1ZGdUxKTU9vaVhxTzF0cS1ZSFFVbGcwVm8tbWNkQndpNUNYejFRdkRMbWt6bzJ4OGpnRF9xN1pfcWhRSDR0bEFldkx4X0NaVjl3Zi1WeXZPdnM0VmN0Z01oQ1hsc0xKVTZPaVNaVmZ5MTh2WU5vRS1ROVBzMnZyWTVlT0ZHVFZMZERtUWdoUHA?oc=5",
           "region": "national"
         },
         {
@@ -353,7 +360,7 @@
           "title": "엔하이픈, WHO 사무총장 만나…헌혈 캠페인 성과 나눠",
           "source": "연합뉴스",
           "date": "2026.10.23.(금) 09:47",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tUk13eDhWc0x1WE8yMkhpUkYyWXd2VnVvdUk2LXh0MXhvQjIxMjJrLUhBWEtsY3BPLTBtb1hWVWpjX2dkRl9fdktGQlIxZ2R6RWdxUzlManVqWG5CeVB4cdIBYEFVX3lxTE9tUk13eDhWc0x1WE8yMkhpUkYyWXd2VnVvdUk2LXh0MXhvQjIxMjJrLUhBWEtsY3BPLTBtb1hWVWpjX2dkRl9fdktGQlIxZ2R6RWdxUzlManVqWG5CeVB4cQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NOHUwTDlMVDZsS21IemZWLVpCQ2oxWU9YcXdqNEh0ZmZVbGVMMFZxcHB3WkxMQjZpeVY5ZU1BdHp3TG4tWlZ1eXd1OThqeWpPU2VYakRnZVdwMXfSAWBBVV95cUxPbVJNd3g4VnNMdVhPMjJIaVJGMll3dlZ1b3VJNi14dDF4b0IyMTIyay1IQVhLbGNwTy0wbW9YVlVqY19nZEZfX3ZLRkJSMWdkekVncVM5TGp1alhuQnlQeHE?oc=5",
           "region": "national"
         },
         {
@@ -392,20 +399,6 @@
           "region": "national"
         },
         {
-          "title": "엔하이픈, WHO 사무총장 만났다…글로벌 헌혈 캠페인 성과 공유",
-          "source": "싱글리스트",
-          "date": "2026.10.23.(금) 08:31",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTHJ1Q0E1QWZBNnJXb2hkc0E2RG9HbkxBTkpCZVBDUFlfeGhHVkJkRXZDODJ0NldyOFc4b25JZ0tCTGFOYmxWMzMtVzJGWFZXa2NCT3FxbnhteEt4ZWRwNFpXVFNHZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "SGI서울보증, 소아암 환아에 기부금 5000만원·헌혈증서 전달",
-          "source": "이즈보험",
-          "date": "2026.10.23.(금) 08:00",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzUV82LXYyNTJEU2lveWlTYmVtcmllRk9CTTZwNmJPZG50Q1BxVG5zSHNFRFlES3RVSFdXeG9PWnFLakhSQXZJbW5CRTZqZzdiS2ZodlVDVmpaUnZtTGhqNGstc2wtSzZLcEE?oc=5",
-          "region": "national"
-        },
-        {
           "title": "[포토뉴스]횡성군, AED 설치기관 책임자 심폐소생술 교육",
           "source": "강원일보",
           "date": "2026.10.23.(금) 00:05",
@@ -434,13 +427,6 @@
           "region": "national"
         },
         {
-          "title": "李대통령 \"핼러윈 등 안전사고 빈틈없이 대비…소방관 안전 대책 철저히\"",
-          "source": "연합투데이",
-          "date": "2026.10.22.(목) 19:46",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WU3lFc0ZXQzU1M0h2LUI4MlFaeVJ0SEF1VlJXYUNtaXZLRVpYQ1FzTlRONlFNOVRFQjlIT1BWdjA3RUxleW9lOXR3OUF5NWNZNHI3YmxoT0MyMXlzRmlkek9IMFlpd3pHX2s0?oc=5",
-          "region": "national"
-        },
-        {
           "title": "광산구여성단체협의회, 여성 헌혈 참여 확산 캠페인 전개",
           "source": "일등방송",
           "date": "2026.10.22.(목) 18:51",
@@ -466,6 +452,20 @@
           "source": "웹이코노미",
           "date": "2026.10.22.(목) 17:37",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hTWhOUGhLczI0aGF5VUhEUzVIakFzTGZwN01rRDl0UHktNzRMNG9qeVA3LVZVS1IzdVlCN3YwUlBPdEdULUl0LU9SLVkxaUpmaXVaZlV2TjRrdDVNcFhFZnZ2eUJNQWx4ZmdqenZpZjVNdw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "통계 기준 바꾸니 노인일자리 사고 ‘감소’",
+          "source": "재활뉴스",
+          "date": "2026.10.22.(목) 15:52",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XMy1WSEUxbkJHWFB4c082clRkTm1qelRDQzB1M19FXzI4Z0VOanh4aExPXzVBNEVNbUZVd2YzcTJ6MEdjazRVOVN5MXk3MlRjQ1JENDZocDJTSjU2eGgzT1FvZmlCZFdjRUU4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "횡성군, AED 관리책임자 대상 심폐소생술 교육…응급 대응 역량 강화",
+          "source": "서울경제TV",
+          "date": "2026.10.22.(목) 15:45",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoU1cxWl9vZERTdXZDaGE2bmFOeDFRbXZ2eGRRS2VvTjZITmdWY3plY2t4VUo0Y0d0cHI0dXdaa083STNzNW5ZcWM1cnMwNGhKd0hONVZfbnFuRDY0eVpqM1FmS2Y?oc=5",
           "region": "national"
         }
       ],
