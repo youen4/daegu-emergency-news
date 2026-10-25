@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:56:36.057123+00:00",
+  "generatedAt": "2026-10-25T23:19:35.557366+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -65,6 +65,13 @@
           "region": "national"
         },
         {
+          "title": "연성대학교 응급구조과 1학년 ‘2026 한국형 재난의료지원 교육 기초과정(KDLS-Basic)’ 모의환자 참여",
+          "source": "베리타스알파",
+          "date": "2026.10.23.(금) 17:10",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nMXlJVUIwTDFSYkhTVGkyNE5ZQmZadk0wYWFCNVZPTExxWHluYWYxMjRTa1RWM2NWbGJ3b1BtbTEzRm9MSFlMNm5CdWRQUHZiTFlVVzg0VjR6NkliMjVZTTlRdnZycVg5c3k5cg?oc=5",
+          "region": "national"
+        },
+        {
           "title": "“지진·대형 화재 발생하면?”…과천시보건소, 재난의료 대응훈련 실시",
           "source": "경기일보",
           "date": "2026.10.23.(금) 12:53",
@@ -91,13 +98,6 @@
           "date": "2026.10.23.(금) 08:50",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPVk9mYWY2Q0dNLXRIZ1NzQjRsMHc2Z2l2VW0wc0tnR3VuVnp4blhVSm1ldmhVN2V0NE40dzNRUnhlMW15ckZObkQyT191OXdmSEpaLUVCREVGRXRZRkRIdUdPd21DVThr?oc=5",
           "region": "national"
-        },
-        {
-          "title": "[月朝 총력 특집] 북한의 ‘서울 불바다’ 위협 소방·재난 대응 체계는 어떻게 작동하나",
-          "source": "월간조선",
-          "date": "2026.10.23.(금) 08:10",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5leDM0SFQ3TjdFY0JwZ08yNzc2OTh0SkQ2TTFKRVdYYVBUaVA2RnZ2RUhyR0ZGODV6VUFFVnY5c2Z0M2xHaDJoQUo1Wm9OQlpmQW51dXZILXdsY003NTlPcWZKa2VCOFJ6LVEzaw?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -105,6 +105,13 @@
     "pediatric": {
       "label": "소아응급의료",
       "items": [
+        {
+          "title": "원광대병원, 고위험 산모·신생아 진료체계 정부 지원 절실",
+          "source": "병원신문",
+          "date": "2026.10.26.(월) 06:00",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aR2ZOVmd4UzhMR1I3UUdEdnYyZGNORkRzWFBsRm5zZXpnbmVkZ0VQOE1uYmJHalhWVDRSZjV5aUxoZ2lfbW1IY1JjcFZ5U1ZGYzBJY3IyMlpxUG5QM043bWtKM0xNLXNG?oc=5",
+          "region": "national"
+        },
         {
           "title": "“지방 필수의료 한계”… 원광대병원, 분만·소아 환자 급증",
           "source": "간호사신문",
@@ -139,20 +146,6 @@
           "date": "2026.10.24.(토) 21:42",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGpaTXhnTGVpdy01ZkFRS3BrSUNBNXZ3SjVobGIyQTdSMFJrMFhiQmlpanFtSXhmWWRZNF9ZME5IbzIyXzMzMW9iYlg0QXhiWnN6aDdnWnRPa1BieWh1WDhicm1lSUVMOUE?oc=5",
           "region": "national"
-        },
-        {
-          "title": "소아·신생아·분만 진료 ‘급증’…원광대병원 “지역 필수의료 지원 절실”",
-          "source": "전북일보 인터넷신문",
-          "date": "2026.10.24.(토) 20:23",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yUUp5dW93Nm8zUm9KV3lMREo1MzNZcjdoRGZ4VlBsUkxzM3VQTVFVdlpNVmdtd3dHQmhhMXBoeGNaaXJiaTZraTNwRjlhT3JGWUtQM0hYM1fSAVhBVV95cUxPclFKeXVvdzZvM1JvSld5TERKNTMzWXI3aERmeFZQbFJMczN1UE1RVXZaTVZnbXd3R0JoYTFwaHhjWmlyYmk2a2kzcEY5YU9yRllLUDNIWDNX?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원광대학교병원, 분만 53.7%·신생아 입원 35.9% 증가… 지역 필수의료 지원 절실",
-          "source": "국제뉴스",
-          "date": "2026.10.24.(토) 11:32",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44SFBiS1EzYVhzSUpqUjNOajlyRmh1d1pEQ0E5WUhMQjNSTXllUTVleFRXYWtuQjhlQ1J0ekJacEVlLV9VdzNHemJnSU1JMnZ3R0NQX3A1UXpsdS15Q1VNU3FyM1BEY0FscWFzMHF3?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -160,6 +153,27 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "예산군, 혈액 수급 안정화 위해 적십자사와 협력…헌혈 1회당 상품권 1만원 지원",
+          "source": "중도일보",
+          "date": "2026.10.26.(월) 07:36",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RdXRSOTFCTm44UHNkZXNMWFhtMWtybDBYVDdES2ZOUWJseHBpY1hZWld2YjJfdTNUVnlpNnZ6MjJjSkVhLXZQM0pST2FXVGpDVDE1czUwRlZzYW1WVlFSNFlLZDM?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "비브레스트, 스마트 AED 관제보관함 ‘XAFE’ 조달청 혁신장터 등록",
+          "source": "퍼블릭타임스",
+          "date": "2026.10.26.(월) 07:33",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84bUItWWxvQzBsZnBmTllsdDlQdnRFcmNMWFFMUUJrUHJzYjd4N3IxeDdMUzdIdmV4RWxYbVo1NXNPX2YxRWR6YjUzbndERl9PTmJYUV9WVTVua1FRYTFqTHVncGJSMUlEVkHSAW5BVV95cUxPWGFHUzlZRm9SeFNwYk0yWXJJUUZid2hRZnhhSWdJMmJVSmI5VGN5b3diSmswSFhsLTU5c1NLSG1fci1ES0VLbFRJZXduWDM0MTdwYVpsSTVIM1dyUkxGeEdGMGhJSHd2U3JZWTFmUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "-여주시보건소, 자동심장충격기 관리책임자 등 응급처치 교육 실시",
+          "source": "국민기자뉴스",
+          "date": "2026.10.26.(월) 07:30",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FbzlBV1BOOTVqbktlMmFhWTFEWHcxeFN3Q1FXRXU4eElrVl9uakRyODlNTDJHOXU2aTQwanJMUWtwTHU0SzY1ZzJDVlZuYi1lcWEyRWd2ZzZGTF9mRUFQMW5oTdIBZ0FVX3lxTFBBZ2o3TkszNFVTaHN5OUkxOElBNnVlbE52STRTcVIwYWhvNG8zcHJLVjc4YmtBcDRoV1hGVG1KdHVvS2k0cUJGcFZEQmVpNExicHdJZzZQZEw3M0ZNM3ZucDB0OXYtRTQ?oc=5",
+          "region": "national"
+        },
         {
           "title": "현장컨설팅-‘학교시장’이 지닌 상생의 가치[1]",
           "source": "보험신보",
@@ -280,13 +294,6 @@
           "region": "national"
         },
         {
-          "title": "SGI서울보증, 소아암 환아에 5000만원·헌혈증서 56매 전달",
-          "source": "천지일보",
-          "date": "2026.10.23.(금) 17:30",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90NUVYaHJFZEFXYjM2UnZDOW9lU200Y3BWTGJrUXhxcFhNZ0dyNkNWTWZBNFlLQXd2d01ndVJQWXl0QXBhYVl2UVN3NkRvUXV0VDFaanRkWE44dW9GeGpPSFc5VTA1SmpGWEE?oc=5",
-          "region": "national"
-        },
-        {
           "title": "노인일자리 안전사고 통계엔 ‘온열질환’ 없다",
           "source": "더메디컬",
           "date": "2026.10.23.(금) 17:26",
@@ -354,20 +361,6 @@
           "source": "놀뫼신문",
           "date": "2026.10.23.(금) 12:01",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcDBSN2ZYTXh5X2t2MndzUk1UWTl6RGxFWDd4bW56RE10aFo1Y0pOVGJRNmFYWkQ2N21ONUhURGlOaVJzNjJaejh6RWhzYnFsY3JQT1BTYUxWaUZXWnc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "‘농기계 사망사고, 6년간 319명 사망’…서삼석, “예방책 시급한데 예산은 전무”",
-          "source": "인디포커스",
-          "date": "2026.10.23.(금) 11:55",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1ZGdUxKTU9vaVhxTzF0cS1ZSFFVbGcwVm8tbWNkQndpNUNYejFRdkRMbWt6bzJ4OGpnRF9xN1pfcWhRSDR0bEFldkx4X0NaVjl3Zi1WeXZPdnM0VmN0Z01oQ1hsc0xKVTZPaVNaVmZ5MTh2WU5vRS1ROVBzMnZyWTVlT0ZHVFZMZERtUWdoUHA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "인천광역시교육청, 제4회 건강 나눔 한마당 및 청소년 심폐소생술 경연대회 개최",
-          "source": "세정포커스",
-          "date": "2026.10.23.(금) 11:28",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JMzNmYzI2ZDNXcG12dk1wZE5hQ3RLdmI5aGh0NGNVZFo3R1l5d0ZRUjYtLTdYblZmUnlOSENnSUllei0xVG5mTzBYTTRucUVNN2lrcTdKc1lCYVFoQzFVeGRKQ3J4Um9ibnJXOXZ3?oc=5",
           "region": "national"
         }
       ],
