@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:31:38.416630+00:00",
+  "generatedAt": "2026-10-25T20:56:36.057123+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -29,7 +29,7 @@
           "title": "배장환 소장 \"정부, 응급실 뺑뺑이만 해결한다고 지역의료 문제 해결한 것 아냐\"",
           "source": "MEDI:GATE NEWS",
           "date": "2026.10.24.(토) 13:52",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1aXh4QzZsTVdPQnNhSVpoVmlFLXNHX0RhSlJjRTVMQ254Z3Y1SkdBd0xGaXBieGNzMHVyOGp5RXowaFJoN3JWMDh5YUw1RlV4SDFwTg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBha09TQ204TEN0bFRZY2lVNjdERVRPZ1VJX3hGcjUtdEU3UEZoX2s2RXpWYzdSeUNfSHg3SHFZbGIwb0NXb2tRN3NGNlBHRC0waVE?oc=5",
           "region": "national"
         },
         {
@@ -44,13 +44,6 @@
           "source": "한국공공정책신문",
           "date": "2026.10.23.(금) 14:37",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9tVmNJX201ZUhhRVFZVVAxeDBRd1lzU0thZFd4Y01kVndpZFNVMXJVQ1QxdW1Pa1ZFS3VJX2puVHowNWs?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경북 응급이송 지침 효과, 반복 수용문의 14.3% 감소",
-          "source": "구미뉴스",
-          "date": "2026.10.23.(금) 03:57",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NZ3lDZmJaa1k4QU9aT00wR3VOQW5MTWdRYk9Jd0hiWVNXUlQ1M2VVNDRWMFlpTlM1UmxyV2dhS1R0QVEyRnpnTXRSLXhublN6QkNCMFhkNFFaNXJnUmJRcnFMakE0bm10a1NwZjFtei12WWl0?oc=5",
           "region": "national"
         }
       ],
@@ -117,6 +110,13 @@
           "source": "간호사신문",
           "date": "2026.10.25.(일) 17:13",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xOEVob25kYTlzTFVlaWI3TTYwSmN4NUMyR1JyREVTaWp6eC1MMnptbTVnbkZVUjcwTTNkWVNpb2ZZTDdBXzlrdWMxZjJ3VkNqX29SeWtET2p0QmpudjNtRXBuZmJQdVFKM3FXZ0Jn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "원광대병원 분만·신생아 집중치료 증가…“필수의료 지원 확대해야”",
+          "source": "전라일보",
+          "date": "2026.10.25.(일) 13:05",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SM2dQRWVMM0UtTFUyT0tNcTFLWndCYV9aaXJOYlZ1Y0FQbkdxMnpvNXNpaHcxQl82Wmktamp6U2dJUWZDQmtxVFpnNThnMHhBaXFUVFBGWG1YUjBnWXNZQmtBU0FIWURrSHFWU2QwbUjSAXBBVV95cUxOUjNnUEVlTDNFLUxVMk9LTXExS1p3QmFfWmlyTmJWdWNBUG5HcTJ6bzVzaWh3MUJfNlppLWpqelNnSVFmQ0JrcVRaZzU4ZzB4QWlxVFRQRlhtWFIwZ1lzWUJrQVNBSFlEa0hxVlNkMG1I?oc=5",
           "region": "national"
         },
         {
@@ -273,17 +273,17 @@
           "region": "national"
         },
         {
-          "title": "엔하이픈, WHO 사무총장과 면담… 선한 영향력 빛난 글로벌 헌혈 캠페인",
-          "source": "씨네플레이",
-          "date": "2026.10.23.(금) 17:40",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qc2NPZHRqb25ORHZzN29pV1NldmNsTEVkM0lGVUFBVTlqYk5JOVhXWmJKWFBZZFRVMFY2dWN4UTdtVVdFUFJBVGg2eHBBc3hWTTZUalBmcmZvZ1E?oc=5",
-          "region": "national"
-        },
-        {
           "title": "\"WHO 사무총장까지 나섰다\"…헌혈 릴레이, '생명나눔' 메시지 전 세계로",
           "source": "한국NGO신문",
           "date": "2026.10.23.(금) 17:34",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sbFdKMHBobHh3X05qRmdyUXJoSlBTc1d4MWRfZ2VSX2UwTlZuSHdfS21MUno3eXNQbFdYYkFkXzgwM3J0N0thMnpIVTVoZXVGT3hYU1ZTTlVLUjFjcFhqeTBTRkkzZ3BK?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "SGI서울보증, 소아암 환아에 5000만원·헌혈증서 56매 전달",
+          "source": "천지일보",
+          "date": "2026.10.23.(금) 17:30",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90NUVYaHJFZEFXYjM2UnZDOW9lU200Y3BWTGJrUXhxcFhNZ0dyNkNWTWZBNFlLQXd2d01ndVJQWXl0QXBhYVl2UVN3NkRvUXV0VDFaanRkWE44dW9GeGpPSFc5VTA1SmpGWEE?oc=5",
           "region": "national"
         },
         {
@@ -301,10 +301,10 @@
           "region": "national"
         },
         {
-          "title": "영종구, ‘찾아가는’ 교육으로 ‘아이마중’ 준비 임신부 맞춤형 지원",
-          "source": "세정포커스",
-          "date": "2026.10.23.(금) 15:12",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpMzQyMVhHMmlVSDdwODlFWHgzWlRaNHo5NTlyWFV6eXpNUUxMVUhpYnFqb2VWS1pQZjRSSS0wVExNVWdwV3d2QUxHVS14c0xVbWxLRjV3SkN3ck8wenB1MWxiVE15ZDRKSE84dlBR?oc=5",
+          "title": "캠코, 부산 화재 취약가구 900세대에 예방키트 지원",
+          "source": "시사매거진",
+          "date": "2026.10.23.(금) 15:28",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBudFRCSUdOaml2TFBJcGNRVElOaGQ2em0xNjd4SUdBWm5RY1NRLXNqaWhfYkdTbnVyUXo0YnNCT0lLVDNiSERIVlpZaDBaS094VFpSbUZTLXk?oc=5",
           "region": "national"
         },
         {
@@ -326,6 +326,13 @@
           "source": "경인투데이뉴스",
           "date": "2026.10.23.(금) 14:11",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBOd1FpOTN3aHZEYzdfeFUxT3JVVl9EeGJuMUZZaGs0Yks5aVFJeXIwdTlTeXpoRzNEcGh4ZVk0MHZMNUHSAV9BVV95cUxQNFdHY3RQbjd2MGpjRUo2MWcwWFNrSkZjRmJiNEhkZ1BqZ0RNeDF4YnA5dTRVWUpjcFFnRFlhaWpZUUwwTUtjTFZfaGtvY25sYWFOZjV3QmJCS3BHdHQwYw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "생극면 적십자봉사회, ‘사랑의 헌혈’ 봉사",
+          "source": "충청리뷰",
+          "date": "2026.10.23.(금) 13:40",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZZHV5eUw0UnJJMmFwUHJxaDAxUWxsRmFBQ2hsNkpjLUtnNkV3X3dRZndVSGhmTHN6TmVKaFJ2N1JxOGV0SDF6dUxhc05xbVR5RHVMRnBqLVZ3SXBVX3VLb2ZKRXEtbDVTNFdWeXpNV3RLZ9IBckFVX3lxTFBZZHV5eUw0UnJJMmFwUHJxaDAxUWxsRmFBQ2hsNkpjLUtnNkV3X3dRZndVSGhmTHN6TmVKaFJ2N1JxOGV0SDF6dUxhc05xbVR5RHVMRnBqLVZ3SXBVX3VLb2ZKRXEtbDVTNFdWeXpNV3RLZw?oc=5",
           "region": "national"
         },
         {
@@ -361,13 +368,6 @@
           "source": "세정포커스",
           "date": "2026.10.23.(금) 11:28",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JMzNmYzI2ZDNXcG12dk1wZE5hQ3RLdmI5aGh0NGNVZFo3R1l5d0ZRUjYtLTdYblZmUnlOSENnSUllei0xVG5mTzBYTTRucUVNN2lrcTdKc1lCYVFoQzFVeGRKQ3J4Um9ibnJXOXZ3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "헌혈 캠페인 펼친 엔하이픈, WHO 사무총장 만났다",
-          "source": "이데일리",
-          "date": "2026.10.23.(금) 11:14",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV0FZQTdFekRMQm13S1JPXzNMV2ppUDNGYVNqbC1GTXQ1Q29QckNPaXZra2xvVTBwRmtLeDJTSlJxUzhiUURYbHlpV1dpTV92N09tQ2hmZGx1TnVXWm1GVmJoT3AtTEllSmtFeV8yVkVvM29DZTh5elJRclBQXzhDZQ?oc=5",
           "region": "national"
         }
       ],
