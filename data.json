@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-26T13:16:24.417273+00:00",
+  "generatedAt": "2026-10-26T20:34:41.624790+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "포천시, 지역응급의료센터 2곳 지정… 응급의료 안전망 강화",
+          "source": "동방일보",
+          "date": "2026.10.26.(월) 22:36",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16NGdWbTR6TkVCTjVGOHlQZ0F6aHU1RU1TS29DSl9kQnJjZ0ZjSEJzRFhDNmNON0hIUzMtMFlUeTBPVjZ0bzY3N1RqWnM4RkZPaTliR1lybHpmZDdyNWZ5NkJhMXNZaWhyUU1EOXhVR28tRlE?oc=5",
+          "region": "national"
+        },
         {
           "title": "문경소방서, 구급대원·지역응급의료센터 간담회",
           "source": "대구신문",
@@ -16,13 +23,6 @@
           "source": "CNB뉴스",
           "date": "2026.10.26.(월) 20:09",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIeXVMV0xfWEJoZ0VzSkpqMmQ4R1FIVkhabklhcFZyb2tUM1F3UThVUTN2Q1hwNGwyM3pOZU4yeVVjMXpzMERlZnJ0VWh1bTRaS1Q2YnBGaFppWWlKSVY0TGg0RUw3M1ItUjRB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "포천시, 지역응급의료센터 2곳 지정… 시민 응급의료 안전망 강화",
-          "source": "엔디엔뉴스",
-          "date": "2026.10.26.(월) 19:10",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oUzk2dGZCT1BCOWIyeW84QUhZSFFJallycGNFaS1sTk51WTlwOVByT0ctam5EeElyVndhSzNtdWdJVkpwb3VjRFBuM2k0TzNzdkZqQ1U1VnlLNDNyemtuN2JZZHhpOVZQNG1IcUV6YUpCUdIBckFVX3lxTE9oUzk2dGZCT1BCOWIyeW84QUhZSFFJallycGNFaS1sTk51WTlwOVByT0ctam5EeElyVndhSzNtdWdJVkpwb3VjRFBuM2k0TzNzdkZqQ1U1VnlLNDNyemtuN2JZZHhpOVZQNG1IcUV6YUpCUQ?oc=5",
           "region": "national"
         },
         {
@@ -72,6 +72,13 @@
           "source": "신아일보",
           "date": "2026.10.26.(월) 12:15",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWVdJWWUybVBWdzg2NzEwek0tQ3VLcWt0OFZFQWtLS2ZGT0pNRGhPNzNuc25pTEdHc1NRcWVfbV9JYjk3cHJYa3VZZFVtSVlGbmNqcXB0X09raGhZNDBCMndqd1V2MkIwUmhSMUJXSzM?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포천시, 지역응급의료센터 2곳 지정… 시민 응급의료 안전망 강화",
+          "source": "포천신문",
+          "date": "2026.10.26.(월) 11:16",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXUDlNZW1CNl8yUDRrWlF0UE9rMmFOcFIwajhJbmRnLW9uS0ZhZkY4SDhfcWJxZ3YtZEFWZTlZRVZVQnhxbTIxSnBKd25CSndyOVVMS3dROWVVcVRCYkNSUkhZOVBsZTRyMHY3dkVtQW9RLWhyd1dBMA?oc=5",
           "region": "national"
         },
         {
@@ -183,13 +190,6 @@
           "region": "national"
         },
         {
-          "title": "원광대병원, 고위험 산모·신생아 진료체계 정부 지원 절실",
-          "source": "병원신문",
-          "date": "2026.10.26.(월) 06:00",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hc2dPYllScVE5V0pHVEpOX3dMX0w3NUI0a3c5dVdSeWljVGJkRmdDYm1KRzMwTjZkbEpxUWFhY3RkUzlXNnVtY000YWQ3cWJxMm1odnRVTkRjX1hTd0pkUHRWRnZQWjFPbWc?oc=5",
-          "region": "national"
-        },
-        {
           "title": "“지방 필수의료 한계”… 원광대병원, 분만·소아 환자 급증",
           "source": "간호사신문",
           "date": "2026.10.25.(일) 17:13",
@@ -197,31 +197,10 @@
           "region": "national"
         },
         {
-          "title": "원광대병원 분만·신생아 집중치료 증가…“필수의료 지원 확대해야”",
-          "source": "전라일보",
-          "date": "2026.10.25.(일) 13:05",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SM2dQRWVMM0UtTFUyT0tNcTFLWndCYV9aaXJOYlZ1Y0FQbkdxMnpvNXNpaHcxQl82Wmktamp6U2dJUWZDQmtxVFpnNThnMHhBaXFUVFBGWG1YUjBnWXNZQmtBU0FIWURrSHFWU2QwbUjSAXBBVV95cUxOUjNnUEVlTDNFLUxVMk9LTXExS1p3QmFfWmlyTmJWdWNBUG5HcTJ6bzVzaWh3MUJfNlppLWpqelNnSVFmQ0JrcVRaZzU4ZzB4QWlxVFRQRlhtWFIwZ1lzWUJrQVNBSFlEa0hxVlNkMG1I?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원광대병원, 분만·신생아 진료 증가세…“필수의료 지원 필요”",
-          "source": "전북도민일보",
-          "date": "2026.10.25.(일) 11:44",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRl9YbThWRl8zQmZ4Z2ptbko4UXE4RDdCSkw5SFRXYWdMUTJMZVVMbmZKMXBjMElnekpyZ3dydlNpajRJb2hJZ1dQOVJhUzl0M1BZWmtHR1pUal9UblVyLUJjMUdZTEduWG0zamJxaXdJeUJELW8wVE9rWDVqdERFMHE2N1J5LTQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원광대병원, 분만 53.7%·신생아 입원 35.9% 증가",
-          "source": "투데이안",
-          "date": "2026.10.25.(일) 10:00",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByXzN6N21HV3RYNTFxUlhlUW9lbFBMeWxlSEREMzNHaDNnSDVjVlR2NnRMNHNoNFhLcV9QMXpVM1NMYlQyVUFRbEJzME0yd1ZyUm1EZWJoeVQtNUZDVDlmWmZrdkl6UXJpNXc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원광대병원, 분만 53.7%·신생아 입원 35.9% 급증…지역 필수의료 지원 시급",
-          "source": "투데이안",
-          "date": "2026.10.24.(토) 21:42",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGpaTXhnTGVpdy01ZkFRS3BrSUNBNXZ3SjVobGIyQTdSMFJrMFhiQmlpanFtSXhmWWRZNF9ZME5IbzIyXzMzMW9iYlg0QXhiWnN6aDdnWnRPa1BieWh1WDhicm1lSUVMOUE?oc=5",
+          "title": "소아·신생아·분만 진료 ‘급증’…원광대병원 “지역 필수의료 지원 절실”",
+          "source": "전북일보 인터넷신문",
+          "date": "2026.10.24.(토) 20:23",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yUUp5dW93Nm8zUm9KV3lMREo1MzNZcjdoRGZ4VlBsUkxzM3VQTVFVdlpNVmdtd3dHQmhhMXBoeGNaaXJiaTZraTNwRjlhT3JGWUtQM0hYM1fSAVhBVV95cUxPclFKeXVvdzZvM1JvSld5TERKNTMzWXI3aERmeFZQbFJMczN1UE1RVXZaTVZnbXd3R0JoYTFwaHhjWmlyYmk2a2kzcEY5YU9yRllLUDNIWDNX?oc=5",
           "region": "national"
         }
       ],
@@ -256,6 +235,13 @@
           "source": "한스경제",
           "date": "2026.10.26.(월) 16:34",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bUN5YzNqU3NBdVo4SmtOa2tsMUFNV1BDVXNIMWE5UlJjZlFkaF9pME9qSFZPZ3Q0aVdMcXRQZ0dlNzhFY2podTBjQ01KNmUyLTN0S2kxdURWcEp1aFowS2N5UzNtUUpacGZNTDJmYw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "예산군-대한적십자사, 헌혈 참여 확대 위해 손 맞잡다!",
+          "source": "충남문화신문",
+          "date": "2026.10.26.(월) 16:10",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XZ3otYUdoR2FtQzZGUlVZLUJwVWJHWmNrS0dEbHluaWJFMDNkRW5OMzNZS2ZQS3JRZWZGNmFQUHB0MC10Y3hMenp3WjZlVHZOOGozZ01EWXdwZ2MtUlNEZWJ0VFAzVklI0gFsQVVfeXFMTm52ellPSHYwYTlWM0RrUXg3dm5zcTVlZ1dUb2dhdUlmT3VIRUtXU1pKeHRtWVlkRXpiYjB3NmlLaWNnWnEwX09RMEJOVVZILWlEM2Q0OC1fWU45WG9zNGJVSndiRUVPSjVTdEZV?oc=5",
           "region": "national"
         },
         {
@@ -309,16 +295,9 @@
         },
         {
           "title": "검단구보건소, 심폐소생술 및 응급처치법 교육 실시",
-          "source": "경기in",
-          "date": "2026.10.26.(월) 09:56",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9LdWJMVUxEYzVhejRicnI2Y0FBd1o5aGhrSEwxd1gyM0UxVUJPZkthOVo3RVFHMjZzLUlyY2E0bFp1aFk?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "예산군-대한적십자사, 헌혈 참여 확대 위해 손 맞잡다!",
-          "source": "웹이코노미",
-          "date": "2026.10.26.(월) 09:24",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsYzlGeVBIUnp6eVpYbk8taGh4Vi02X1ZodXhRcTdvWHAtY1Z6dlFRMEFGRWtRUkdmaWhWTGU5cW90eDZwZlBCMHFsaGRvX21BQUFCMWJsQl8xYjc5d1Y5YzhkdEc4V2ZSc2J1Vmo2WFE0QQ?oc=5",
+          "source": "중앙뉴스타임스",
+          "date": "2026.10.26.(월) 10:30",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vQ1hYSGxVYXc2SUt4ZFI3aUc1NjJNZFgyaW0wRFgwNUxQMlBLNnRGc2RreGRjdTZhRE9ZWjRfMGM1Y29qUHpSd2dpTklWWC1ZVXZSV2gzTmx3UDhsNTdEa2l3ZG4?oc=5",
           "region": "national"
         },
         {
@@ -357,17 +336,17 @@
           "region": "national"
         },
         {
-          "title": "옥천군보건소, 제2차 심폐소생술 등 응급처치 교육 실시",
-          "source": "내외일보",
-          "date": "2026.10.26.(월) 05:48",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvUmNrVm1PZjRHam56QmxRZVBxejFXcTVJTWpPM3g3RS10dzE1T3RTaW1OVVpLWVdnUXdPaTRsUzN0UXM1M2NQNGQ2UC1YNGw3bmM2Z2J0amlIWlJtRnVTT3V3MFE4NTBKTlV5RHNZaw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "예산군, 대전세종충남혈액원과 생명 나눔 협약",
           "source": "yesannews.co.kr",
           "date": "2026.10.26.(월) 05:40",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IazJLaHFrR1JZRGpxYmFqTDhiQ2lLSnpiQ3ZTRGZqOEtyVmRDWXYzZ3B4VHUyUFNjNEN0ZW1sVDBUbURZVGE3eklFYThsajRCTXNMVnFrRktrWnlBOEcwQXNBZEdUaTlmbzdKNVFKN2M?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "혈액 적정량 보유 빨간불…올 273일 중 ‘191일 미달’",
+          "source": "데일리메디",
+          "date": "2026.10.26.(월) 05:34",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xX2RpYXl5SFBSWno1QTI4Q0lCemFvZ0Z3SkozSXJqX2d0QWpIbzJCaVVBdm1ZMlpxeEdBSC1vZklvd2pZYnlIR2pjek1DWUFqamt5MWVxcWRMdWp0bDUtVlFGY0d5Uml5Z3JLbWc1S2MxMGV5?oc=5",
           "region": "national"
         },
         {
@@ -382,6 +361,13 @@
           "source": "글로벌뉴스통신GNA",
           "date": "2026.10.25.(일) 21:47",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFZja09mQ3JYR2VlNUlzQWFnNThaejJ4LVJoRmc0aHNkUkd4NDJnWl9Mb3lHSldpd0lLbXRfT2IyZ3lPR1pQSmhVRXNfdm03YjFUaV9DNTdZWjNjOWpQaDYxU29zZnRYYUxucnZma0F1Rk5Q?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "2026년 두 번째 헌혈 행사에 400명이 넘는 사람들이 자원하여 헌혈에 참여했습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.10.25.(일) 20:04",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmlfN0w4MjV2Qm9CUU0wRnpUbG45TmduWk96TEp1eVBWTW9NVlR6Yjg5enVBaF9SZVZseWE0WkNWc0JuQXNGWG9mZDMxdzJTN3I2NktYa0xwMzRtRFpCZ3VnMWdlUk5NVWw2NFpQRDRzMDhWanpZdG1oYldUalk0bg?oc=5",
           "region": "national"
         },
         {
@@ -431,13 +417,6 @@
           "source": "충청매일",
           "date": "2026.10.25.(일) 14:50",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZ0ZSNVdXVW52d2w5T3UybjRUSW9fdmd5ZS1raTdmT1FGbVZTQnFwcUdGLWQ3amV1cTB2Y21RTHZXSDFmVnBWVnJ1Q21SaXc0OHhJMmpZdW1zdW1VbXllcllNdkxBa2ZKbkE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대소원면 '서충주 헌혈의 날', 주민 참여로 생명 나눔 실천",
-          "source": "충북일보",
-          "date": "2026.10.25.(일) 14:32",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJMWd5cTE4cmo0S3NoQnFiWTFTejJpckZXbWFkdTZKY2JNeXNPWXgyRHhNLV9WaGdMZ0VxNkZCdy14bDBnVmw4MTB3dDlYYkUxa0ZpQ0N3UHk0SUgyOVgyWVFn?oc=5",
           "region": "national"
         }
       ],
