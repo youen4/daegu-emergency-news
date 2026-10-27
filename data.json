@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:24:46.289265+00:00",
+  "generatedAt": "2026-10-27T22:22:04.726811+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -199,6 +199,13 @@
           "region": "national"
         },
         {
+          "title": "국립소방병원, 제1회 소방의학 국제심포지엄 개최",
+          "source": "메디팜뉴스",
+          "date": "2026.10.26.(월) 14:14",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02eEp0SWxKcGJxQ0pUTEtEY1BBVjNTNzc1elNaU0d0UW5HQWlMS0VnWEhUZzhwQ3VGak5KYUFEQ3VQeXc1NnA3MjVSVFF5cnduc29tblNVWERwbWpfbFd5VGdQd3k5S2VfWnQydV9xVGhOd9IBdkFVX3lxTE9hLWtRTk5aTHNDeWFLbFZFVjRTMEVWYmc3RnNmVHVhMFRxM2FiZkJYWjE2d2lIV0s5Z01wbHc5cG5KYzYzX1NNLUpEN1VuaUZTV1dLcWl3aGw2TGsyVDN4YUVWQW9LZzdYMy1SMHNaQXFYUXpMM1E?oc=5",
+          "region": "national"
+        },
+        {
           "title": "국립소방병원 제1회 소방의학 국제 심포지엄 개최 : 인사·동정·부고",
           "source": "의약일보",
           "date": "2026.10.26.(월) 14:00",
@@ -225,6 +232,13 @@
     "pediatric": {
       "label": "소아응급의료",
       "items": [
+        {
+          "title": "\"돈 되는 의료는 방치, 필요한 의료는 외면\"…국감서 보건당국 '이중 공백' 질타",
+          "source": "메디팜스투데이",
+          "date": "2026.10.28.(수) 05:50",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZYjl0bVFZZzdNS3NuQktTV3VZLVBJdTE0eHlLWHl2NVFlTUhfTWVNOXJVVTg0czlZX0lEX0hlLUJpSHhzTUxoY0NDc0hKOWVqYWNkYU80UGtQa3gwcHpOdlpvbDZaMGhk?oc=5",
+          "region": "national"
+        },
         {
           "title": "울산시, 내년 172억 투입 필수의료 공백 해소 나선다",
           "source": "울산신문",
@@ -254,10 +268,10 @@
           "region": "national"
         },
         {
-          "title": "원광대병원 '지역 필수의료 지원' 절실",
-          "source": "브레이크뉴스",
+          "title": "원광대병원 `지역 필수의료 지원` 절실",
+          "source": "브레이크뉴스 전북",
           "date": "2026.10.26.(월) 09:01",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yYmZVMGpLdElQeHJJekNDN216ejQyR3JKTmFDODlHNV9zaWdoaEM4SkZuQUUxNGtFTmtxbkEtdkFDbjRQVzBPZQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1uZW40WW9TSU5jMG5yR3hhc3pVdUdNUmk5TFpyVkx6QlhaLUEyTTJ0X1p2UFhxRnN6UDByRTJJVktZUjA?oc=5",
           "region": "national"
         },
         {
@@ -265,20 +279,6 @@
           "source": "간호사신문",
           "date": "2026.10.25.(일) 17:13",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xOEVob25kYTlzTFVlaWI3TTYwSmN4NUMyR1JyREVTaWp6eC1MMnptbTVnbkZVUjcwTTNkWVNpb2ZZTDdBXzlrdWMxZjJ3VkNqX29SeWtET2p0QmpudjNtRXBuZmJQdVFKM3FXZ0Jn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원광대병원 분만·신생아 집중치료 증가…“필수의료 지원 확대해야”",
-          "source": "전라일보",
-          "date": "2026.10.25.(일) 13:05",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SM2dQRWVMM0UtTFUyT0tNcTFLWndCYV9aaXJOYlZ1Y0FQbkdxMnpvNXNpaHcxQl82Wmktamp6U2dJUWZDQmtxVFpnNThnMHhBaXFUVFBGWG1YUjBnWXNZQmtBU0FIWURrSHFWU2QwbUjSAXBBVV95cUxOUjNnUEVlTDNFLUxVMk9LTXExS1p3QmFfWmlyTmJWdWNBUG5HcTJ6bzVzaWh3MUJfNlppLWpqelNnSVFmQ0JrcVRaZzU4ZzB4QWlxVFRQRlhtWFIwZ1lzWUJrQVNBSFlEa0hxVlNkMG1I?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원광대병원, 분만·신생아 진료 증가세…“필수의료 지원 필요”",
-          "source": "전북도민일보",
-          "date": "2026.10.25.(일) 11:44",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRl9YbThWRl8zQmZ4Z2ptbko4UXE4RDdCSkw5SFRXYWdMUTJMZVVMbmZKMXBjMElnekpyZ3dydlNpajRJb2hJZ1dQOVJhUzl0M1BZWmtHR1pUal9UblVyLUJjMUdZTEduWG0zamJxaXdJeUJELW8wVE9rWDVqdERFMHE2N1J5LTQ?oc=5",
           "region": "national"
         }
       ],
@@ -309,13 +309,6 @@
           "region": "national"
         },
         {
-          "title": "부산환경공단, 임직원 60여 명 '사랑의 헌혈' 행사 참여",
-          "source": "국제뉴스",
-          "date": "2026.10.27.(화) 18:01",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TdTBfSVo2alppV1VfSGV1dWhtcTR6clVnYUxmQmE0OUFIYk9GcHBMYXF6dUF2X2VickZBZHVmLU1UU1E0bGl1XzdTdHVFWnBsakNFenJVS1dDOVlCNnNPbVdtamE0VlA1TWR2aE13?oc=5",
-          "region": "national"
-        },
-        {
           "title": "건학 50주년 맞은 백석대·백석문화대…헌혈증 5000장 기부",
           "source": "뉴시스",
           "date": "2026.10.27.(화) 17:58",
@@ -333,14 +326,7 @@
           "title": "부산환경공단, 임직원 60여 명 ‘사랑의 헌혈’로 생명나눔 온기 전해",
           "source": "부산일보",
           "date": "2026.10.27.(화) 17:08",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTMUlzdWdGbmdUaGVCZUtIOUhWRXpoSHJ3UEdVRWlQX0RaNFIwdTY3RTNGSlVEMGhNSm8xb2U0RDRUSFhaVUlyNlByQm9zWVVxbTVHbVkxaTFlQVBiSE5JTTl1cEM0YVp4RGRYOWpHc3RWTXJLRWloQg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경남도, 27일 직원 헌혈·장기기증 희망등록 행사",
-          "source": "경남포스트",
-          "date": "2026.10.27.(화) 16:54",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ROHlBektFMnFXR0VYek9TbF8tZVNyQ2ZudDFGd0ZlRWkxMEhpcHQzaFVNc2Z4QXdxMHpnRU8wTEUyREN4X0s1dy1Lb0ZHNVFq?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qdmlWaEVSNG5BZGdKNGdJSEpZSEh2dWdYNXNyMUhfbENzMnBTZ2pzYkZ0S01LUlhmbmZiay1iMzd6ZE9HYjR1ZXJHdTdoVUZ3dE1RY2ZjREl5MzlnSFNjTmxneHROWDFVTzh0VHhOYjhXM0lj?oc=5",
           "region": "national"
         },
         {
@@ -355,13 +341,6 @@
           "source": "국제뉴스",
           "date": "2026.10.27.(화) 15:46",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JN3RsVTBNaXVwZnJDMlJTUVE4aWlJQ3hieWtzUVJlX2szd0FOVkNrcTZ3eDRHOWdReFdqVW9ISDEzSWZZaThnMS1GWWp1Vi1WVXdXRFowWWxncUJQSmpnUDBLbFpyZXJVeEN6OTVR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "남원시, 10월 생명나눔 사랑의 헌혈 실시",
-          "source": "산경일보",
-          "date": "2026.10.27.(화) 15:17",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIa1VFSkJXWnlteWNZR1JReVRDN0w2aC1xdGZoQVBBRXdfV0o4dXZMQWhHbUlKalVuUF83OUhHVl9mNGEydDEwNmowMDNXakRTanBwSFVVVTNqbXJzajF2a2J6LUVDVUxpUUhyTXZCQzQ?oc=5",
           "region": "national"
         },
         {
@@ -400,24 +379,10 @@
           "region": "national"
         },
         {
-          "title": "멕시카나, 대한적십자사 창립 121주년 기념식서 표창 수상",
-          "source": "뉴스로드",
-          "date": "2026.10.27.(화) 09:49",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10dDlnQzFZOVVlWUl5MG85dV9HZU8xaVIxOGk3VWtWOFlsVnJkRWdpeGlBWDYxRnB3QjhfZEFTSTc2cFdIZlk5TmxKZ0VoTldZUENXRlk4RFNTUmR4MTBWbmh4ekZhNkgxcVlqQllyWdIBb0FVX3lxTE10dDlnQzFZOVVlWUl5MG85dV9HZU8xaVIxOGk3VWtWOFlsVnJkRWdpeGlBWDYxRnB3QjhfZEFTSTc2cFdIZlk5TmxKZ0VoTldZUENXRlk4RFNTUmR4MTBWbmh4ekZhNkgxcVlqQllyWQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "“육아 필수품으로 영아 생명 지킨다”…교보생명, ‘스마일 턱받이’ 나눔 펼쳐",
           "source": "더페어",
-          "date": "2026.10.27.(화) 09:47",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfdEpjSmppUzd4NWxqTWF1aUsyVnBmTUZ1cExDRkFMZXJVQm8wb2s2MHNJaGM2RnBZaGo2ZlB2RmJuQ0MwVjBvTk95aVBvTnNkQWVCQXlPbWw1MlBwMVB0REJDSW5CRU5iSEtyZWMyNULSAXRBVV95cUxOaWQwZ1BUMXN2dTNOWkJMN0F5RjNURFJ2NDNuVDZ2TkpGTUdWaGt2SnRWQ0lyNXhndFJHUDlSM1VaOFBoVGh6QmRuenJKQW54NDFhNm9vUktMVnpiNjc5UW1vYngzYjBISW92RUFrMFh2M1FuVQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "북부지방산림청, 벌목작업 현장 안전사고 예방교육 실시",
-          "source": "서울Pn",
-          "date": "2026.10.27.(화) 09:34",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNHpuYkgxaFFLNldEQ0tORzNGWUdHd0FGYXFhMnNIckJwU3pnU1pqRnBZUVpSNlNfREZXdEtPd09UT2JySXc2bGVSWUF1bUpnRThobW5hT2xSZnhaRWpKRGxn?oc=5",
+          "date": "2026.10.27.(화) 09:52",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZDBnUFQxc3Z1M05aQkw3QXlGM1REUnY0M25UNnZOSkZNR1Zoa3ZKdFZDSXI1eGd0UkdQOVIzVVo4UGhUaHpCZG56ckpBbng0MWE2b29SS0xWemI2NzlRbW9ieDNiMEhJb3ZFQWswWHYzUW5V0gF0QVVfeXFMTmlkMGdQVDFzdnUzTlpCTDdBeUYzVERSdjQzblQ2dk5KRk1HVmhrdkp0VkNJcjV4Z3RSR1A5UjNVWjhQaFRoekJkbnpySkFueDQxYTZvb1JLTFZ6YjY3OVFtb2J4M2IwSElvdkVBazBYdjNRblU?oc=5",
           "region": "national"
         },
         {
@@ -456,17 +421,17 @@
           "region": "national"
         },
         {
+          "title": "토쩌우 병동은 100단위 이상의 혈액을 기증받았습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.10.26.(월) 18:30",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TaXZ4aG9EQjdjaC1DU3VKLVNRWFRlMmpabklidVRuUjMzYkh3QUw1RU44WmFvWE0yb3h0S1p0WmtkOV9iQWZmYWRYb0NpNlctX1NUUFhjMGtiVXduYmd2blVmVERDRTFkWjhmeXZsU3REcGM0WDgwTG1R?oc=5",
+          "region": "national"
+        },
+        {
           "title": "비브레스트, 스마트 AED 시장 진출 |",
           "source": "한스경제",
           "date": "2026.10.26.(월) 16:34",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bUN5YzNqU3NBdVo4SmtOa2tsMUFNV1BDVXNIMWE5UlJjZlFkaF9pME9qSFZPZ3Q0aVdMcXRQZ0dlNzhFY2podTBjQ01KNmUyLTN0S2kxdURWcEp1aFowS2N5UzNtUUpacGZNTDJmYw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "예산군-대한적십자사, 헌혈 참여 확대 위해 손 맞잡다!",
-          "source": "충남문화신문",
-          "date": "2026.10.26.(월) 16:10",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XZ3otYUdoR2FtQzZGUlVZLUJwVWJHWmNrS0dEbHluaWJFMDNkRW5OMzNZS2ZQS3JRZWZGNmFQUHB0MC10Y3hMenp3WjZlVHZOOGozZ01EWXdwZ2MtUlNEZWJ0VFAzVklI0gFsQVVfeXFMTm52ellPSHYwYTlWM0RrUXg3dm5zcTVlZ1dUb2dhdUlmT3VIRUtXU1pKeHRtWVlkRXpiYjB3NmlLaWNnWnEwX09RMEJOVVZILWlEM2Q0OC1fWU45WG9zNGJVSndiRUVPSjVTdEZV?oc=5",
           "region": "national"
         },
         {
@@ -495,6 +460,41 @@
           "source": "내외뉴스통신",
           "date": "2026.10.26.(월) 12:08",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OeFVEX3hVUkMwWlFXQzE3Y1ZDUldaWWd4Qml0RVBORjBNdmMtVjlpYUpURUZKYXFjSVdxMW52eTZxalBITFBYOHdMSHkwMzdZNTZLdVJKM1Z0dGhIZjBheFYzeWlJSndBd2ItdXhB0gFwQVVfeXFMUDZvUElITVR6MlUxLW5mTksyQTFlSFhpandMVDNaWXJ6TkdUMkZ5d1VIdVRNZTUwZUFJVGtwN3FQTjRpNHAwZi11c2pnVjlWYVBUMlMzczk1YkxmbGRkSFRrUEJYSndBSGp2RDVZX1RmSA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“달리며 건강 챙기고, 헌혈로 생명 나누고”…제주혈액원 캠페인",
+          "source": "제주의소리",
+          "date": "2026.10.26.(월) 11:51",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5dzNMSHM2YXNkR0loOHRvZFRZNTRIdFhZWndtLU9JQml2c0N0LTN4SGNUWldPY2ZEeXpHclZvZFhEWU1lT25PcTJUbUUzOWVuWlNocG1wUjNYRzhadERDbHpSdGMxV1ljUzFB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "검단구, 심정지 대응 실습교육 실시…AED 사용법까지 익혀",
+          "source": "뉴스타운",
+          "date": "2026.10.26.(월) 11:21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ka1hLOFBJejg2YUpibDVSODhtVmdHVUZtbWFfcHRhaHdONFZXTmlnNjJvWUl2YTE5bzJiYlh5MTJ1NVpFZUVzWk9JU2ZuOGg1dHdNNmViMVJDWnpTdTRKb1hVVno0T2d5SFc0M3Nn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "검단구보건소, 심폐소생술 및 응급처치법 교육 실시",
+          "source": "경인신문",
+          "date": "2026.10.26.(월) 09:56",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YMHBVVmgydGU5TUdnTVJnR18zaXhQN1J0M1lUTmxTMjlJYjk3cXNRTW9nbzRsdW1ZcUNleDVfNjVJRXpJMHNqT2czaDNsS1N4aUZLV09zRUtpdUtrMHdiRTRmd2JJQ0E?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "예산군-대한적십자사, 헌혈 참여 확대 위해 손 맞잡다!",
+          "source": "파이낸셜경제",
+          "date": "2026.10.26.(월) 08:30",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrZkFHMU9yZlJEQmY5al8ybVphUjhmQUgtcDBqN3htTGJ5ZzhVTHJsNlAxcHNLSk5oYVVaMlRaZ1FhUXhEV09NTmJscC1Md211R0pOc1RqZkNiVXJPT0JWU29fUDRWdkZtS2lNUDRoNnM?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "더민주당, \"노인일자리 안전사고 ‘감소’는 출퇴근 사고 통계 뺀 결과...4036→2820건, 같은 기준 11~15%↑\"",
+          "source": "데일리메디팜",
+          "date": "2026.10.26.(월) 08:14",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hdmlrNDJsQVJEam4xWHVlTDBuelZYTlBQZHpEcHV6YnJ6S25YSloxLTVlLThyUmNJd2l3eTZ5S1k0WUJROGxkUWNNRkpfNjZXM3BaYmRneWFTNkJEZHI5VGVHWUJMOWx0b1gtWXdn?oc=5",
           "region": "national"
         }
       ],
