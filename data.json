@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-29T10:08:46.965575+00:00",
+  "generatedAt": "2026-10-29T18:31:32.171080+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "아주대병원, 의료질평가 최상위 ‘1-가’ 등급 7년 연속 획득",
+          "source": "경기일보",
+          "date": "2026.10.29.(목) 18:02",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVEhvYzFScWt0b3V3LW11OXc4STlrSWVqRS03M2p5UF9OSkEzRmhvNTI1bzBIaGtacmc2dFk0WGxFQ2FBbm54UHpheVFxSjNtWUs1Zzc4MkJRcEU?oc=5",
+          "region": "national"
+        },
         {
           "title": "센텀종합병원, 리모델링 마친 본관서 '지역응급의료센터' 가동",
           "source": "코메디닷컴",
@@ -33,6 +40,13 @@
           "region": "national"
         },
         {
+          "title": "전남광주통합특별시, 24시간 중증 소아응급센터 첫 입성… 전남대병원 지정",
+          "source": "녹색경제신문",
+          "date": "2026.10.29.(목) 11:46",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mSUs5eDFUTWdnYUhnYWVmU0pfT3RrSFhvTVlMZVNyWFhXTE5hRVcxNE51U3QyMEVqUUd5MUo3YWJLVnAxTjd3Y1EyWVBIRWN2NDd4U2NkZExuWFNhRTNRQ00xU24zdFRf?oc=5",
+          "region": "national"
+        },
+        {
           "title": "센텀종합병원, 지역응급의료센터 승격...진료 인프라 확충",
           "source": "의학신문",
           "date": "2026.10.29.(목) 11:15",
@@ -40,10 +54,24 @@
           "region": "national"
         },
         {
+          "title": "에쓰오일, 울산대병원 '닥터카' 운영 지원금 1억원 전달",
+          "source": "연합뉴스",
+          "date": "2026.10.29.(목) 11:10",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2ay1NRV9LT3QyUF95Sld0cGI2bXRUQXlmaTZVX2JGZVI1OXI2c2libDQ2RnVCTkhpWE9EczV5c01ESGtqU1VSeEJtU2I3RVZUZ25XWU5FZ3RHQ2VDZG5uRtIBYEFVX3lxTFB2ay1NRV9LT3QyUF95Sld0cGI2bXRUQXlmaTZVX2JGZVI1OXI2c2libDQ2RnVCTkhpWE9EczV5c01ESGtqU1VSeEJtU2I3RVZUZ25XWU5FZ3RHQ2VDZG5uRg?oc=5",
+          "region": "national"
+        },
+        {
           "title": "센텀종합병원, 본관 리모델링 완료…30일 지역응급의료센터 본격 가동",
           "source": "부산일보",
           "date": "2026.10.29.(목) 11:03",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkaFlnYVFKSnlya3JhT0QxcHpxQ0EyV3RPSG5sNnRnckgxbnQ5M29FUjhCT2YyX04tTFI4TUwzNlUzR3dPVl82NnJlTVd6UEY2RVFITzVzRXJKS213T0FrLWRfYkljSUZzNEllbmlYbWdQTzUz?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전남광주통합특별시, 중증 소아응급 24시간 전문진료체계 강화",
+          "source": "한국생활체육뉴스",
+          "date": "2026.10.29.(목) 10:36",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HS3pONF9yMTdlQ1Y1Z3BVeDRyQlJXV3dVdk56TU5WUFdOY1JkLUhGbWJiUVJwVUx0ZGZWYV9IWEJQUlZPUXVqbUoyc3kwR015RUJYdUFYSHBPS0VRejlkWWE1Q3lvczQxUkE?oc=5",
           "region": "national"
         },
         {
@@ -61,6 +89,13 @@
           "region": "national"
         },
         {
+          "title": "한해 환자 2만6900명 몰리는데…영동권 응급실 의료진 태부족",
+          "source": "강원도민일보",
+          "date": "2026.10.29.(목) 00:02",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zdmlrZDJfdzNIWl9sU3BsYTFRMWE1Y1FXMjVNS2taTG5NUHJZTERORGhSRGVMaHdON0tqdGhyVlBTLTNjZ1VkVGtpU0V5YXpUQ21ZUzBFQ3cyRW52eWkzaVJyMGxyYVE?oc=5",
+          "region": "national"
+        },
+        {
           "title": "전문의 부족, 영동권 응급의료 비상…의료공백 해법은?",
           "source": "LG헬로비전",
           "date": "2026.10.28.(수) 15:30",
@@ -72,6 +107,13 @@
           "source": "전라매일",
           "date": "2026.10.28.(수) 15:20",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44aWhQNnB0Uk5aMHFldnFMY2ZvLU1FUnFaN0V4N0JRQmxHeFJ1YUV4b2pKTTZLMGY0SDhMYWpoWlAzWW9fMUpCeS1EbjUwOHRrNEFLUFZ2NjY1dGFNYndMZUg5cE4yS1RQdlowYUhB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강릉아산병원 ‘강원 영동권 응급의료 정책세미나’ 개최",
+          "source": "강원일보",
+          "date": "2026.10.28.(수) 14:51",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iZUJCZmdIYzcxR1NpS0pkNG11MlZzNXQ1ZGpveV92YXJSWEdqSnRqZ1JRTG9HaW4xRGxBZFpEZjFXMENFZU5wZHI4Y2wxckp2bjlKcTZVMUkySzQ?oc=5",
           "region": "national"
         },
         {
@@ -100,48 +142,6 @@
           "source": "조선일보",
           "date": "2026.10.27.(화) 16:00",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODNFbHZQOXduaHBvemV1MWc0MktiNDJjZUQ4R0R0YVQ4R0xsTWM5VmZCMG1pN3Flb0NkdjhJeFFSQ1lnNzBDSzFwZVFidy1WTXlfQlo0eXVRX1JzWU9aUnQ4ZlNDcW84dmZsTWtFa082RExQa00tZ0FadXEwdnBiTi13S0JwVWFEZzdrdmRPbw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "빅5 병원 권역응급의료센터 지정 위해 제도 완화 의혹 제기",
-          "source": "의협신문",
-          "date": "2026.10.27.(화) 11:21",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZVG1uZlZ5cmpaYVhEc2JxNkhCYW9RNHhsUWZ3Q2FTOGNOSzJNRk5CVlJES1cwdGI5V01vSHFDbkhZUjlrZ0o2M3Z2SW9oMTFyTXZIeGQzVW9Qb1R1bE5YOF9mZi1PeElFMU1maHVGcnFvUQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "권역응급의료센터 지정기준 개편…“빅5 병원 특혜”",
-          "source": "데일리메디",
-          "date": "2026.10.27.(화) 10:15",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BZVp3RmRFRTRKZk1nWm1UaHVXOTRlSGJMTWpWLUdOSm5QaFNEb3UzLUNUYk1aSW1TVmlFZE1TNTNoS01rM01ndlQ2OHZ1dzFoVGhCSEJZQmc2c3J4TW9yRmRFYlhONHFG?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "같은 '빅5'인데 왜…권역응급센터 점수 격차 '40점' 벌어져 - 머니투데이",
-          "source": "머니투데이",
-          "date": "2026.10.27.(화) 09:39",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRRU1BQ19HT29GNkF4V18zcXFOSWYyNkJDcGJIM3d3Q2NiNjZKY3MxQUNmbFdXQWJqbEVEbXlMSWdWWHVNdnpPUlZ4UHhXYlFTMVZYU24wRGlpSU0xdVdTeWRfUmRreFBqMmfSAW9BVV95cUxPQklxQVROS2pMcUJiMnhUVUgwMzQtN1lFVFpQZEJfb1ZxT0RRRmVBcFdzNW11SmJoZ0lIMmZsTUdlRVZPb2hWSmVvT09nWWRTendfWEhIc0V2S2pSd25OcWxuM0dxb2JpWHF4UDNTZ00?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "권역응급의료센터 평가했더니 주요 대형병원 희비 엇갈려…세브란스 92점·서울대 68점",
-          "source": "메디컬투데이",
-          "date": "2026.10.27.(화) 08:06",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaG5udUhPeXFZZjJCX2F2N0piM0xoVzJHRUZsb3pheFZIU2RxTTFyNHo3SllhaEZ4UnJZSGlaOW91V0IwakFvSFdZTFJWQXBocW9ySTdpSGxGaF9GaGdGaW15YVRRa3ZEcWtCUw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "포천시, 지역응급의료센터 2곳 지정… 응급의료 안전망 강화",
-          "source": "동방일보",
-          "date": "2026.10.26.(월) 22:36",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16NGdWbTR6TkVCTjVGOHlQZ0F6aHU1RU1TS29DSl9kQnJjZ0ZjSEJzRFhDNmNON0hIUzMtMFlUeTBPVjZ0bzY3N1RqWnM4RkZPaTliR1lybHpmZDdyNWZ5NkJhMXNZaWhyUU1EOXhVR28tRlE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "문경소방서, 구급대원·지역응급의료센터 간담회",
-          "source": "대구신문",
-          "date": "2026.10.26.(월) 20:26",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYQjUyTnBkLVFiaWpyRlNERUZHVDFfOGRiR1BoVmVHbEpudGpzUnRzdlFvXzBXVV95c281RmJEbFFyVmtEN2NMdkNZU2FWbXVFZGFQQXJyTjcySXB6cTdxTVFmNU1aT2Qxd3lJ?oc=5",
           "region": "national"
         }
       ],
@@ -182,13 +182,6 @@
           "source": "이코노미사이언스",
           "date": "2026.10.27.(화) 11:34",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MYk11SUpRdlB6YlVsS3puZngtT1NKS1E2ODd4elpEMGpNWmltb1FqNm9GUHVYSHRpV2xCUlpKcXgxa0xUNGVFYjQwcjdQRDl5dWtrN01idFpxdFJYYkwzUjJhdjM4Z2EwckFoWEdPdw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대형 재난 대비…영암 보건소·소방서 공동교육",
-          "source": "영암열린신문",
-          "date": "2026.10.27.(화) 10:53",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mX0U1ZWlUMnlEa1M4cGdDVVpCdlpXTkpDMElmQXdzamdpbjNYeVJ2VUROVHQ4aUZ0cFpDUkpNVmFQeHhSTm9FNU53bThzbHM?oc=5",
           "region": "national"
         },
         {
@@ -245,13 +238,6 @@
           "date": "2026.10.28.(수) 09:58",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xWmoyOHpKV25TVGpnRjJaRmxSUEV1N3BLSEt2QURzTjlnTlYzNUFIVnJxUFhuNGpTa0JWNFE2cUdtM3lHdk9RdFhBSWptM3RiNTVoZg?oc=5",
           "region": "national"
-        },
-        {
-          "title": "울산시, 내년 172억 투입 필수의료 공백 해소 나선다",
-          "source": "울산신문",
-          "date": "2026.10.26.(월) 20:17",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sdW1OQ1BYMDRmZGxoSGE1TjJrQ0ROSkprZWhSVjJkMnh0Q1JWWEhrSV9sNUVtMERfVWo2eDZPRDdtODRnNkZVQkpHSkRlQzk4RmpHbjNlWTlreVFhX3F3WU5MWmxhNVFma1h4NTl30gFyQVVfeXFMTmZ4MnRRM3ZsazVyLXA2QkxYTDNGVUthSy1ZVUUzVDdIbkJ6WjdaREgzZDVfSGdrTFJZUnNXSURFR3NpZS1oTTRmWTJsQTRhQU0tblZjNUk1UWpCSXloVktrNkN1cFhEVXZrV2xMUlhzSVZB?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -259,6 +245,27 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "부산시설공단, 심폐소생술 체험 1,100명 참여…11월 15일 마지막 교육",
+          "source": "뉴스타운",
+          "date": "2026.10.30.(금) 00:31",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zeE9YcGZDTmc3MnZ1Vjl5dXFjUGhfZ0dEeGtVSTNlenZ4NWk5TmtWdHZqSi1rRTlZQ2w0Z2tya3IxNU5DZGR4UUtsbHVnY0ZEM1FiSExlb2g1ZjdSUmhCVUJmdVRPc003YmFhR1BR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“한 번의 헌혈, 누군가에겐 생명의 희망”…전남광주통합특별시, 나눔문화 확산 앞장",
+          "source": "시사의창",
+          "date": "2026.10.29.(목) 21:53",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IVmoxLTVDNWRhUm1OdlpBQjRIRUtpUWl6Y1pCTGdJNTY2QjBqcTZuZV9ib0RDNE90SFZWek03eGVpMU1EQVFSUXV0MUtxbHc0cG4wYg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "건협 대전충남지부, 생명 나눔을 위한 ‘사랑의 헌혈’ 캠페인 실시",
+          "source": "아시아뉴스통신",
+          "date": "2026.10.29.(목) 21:13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SOHgydmdmUmgxR25tc1ZudS1EM1JPWUd4dWlzaG9yeEt5VWljNGFSOTVTN0l5cm55QjN5b3A5c3dLYWt5X1pJamdpQktoRmlvV2VVVDVhSXY3ellC?oc=5",
+          "region": "national"
+        },
         {
           "title": "건강관리협 대전충남, 임직원 '사랑의 헌혈 캠페인'",
           "source": "뉴스핌",
@@ -309,10 +316,10 @@
           "region": "national"
         },
         {
-          "title": "여주도시공사, 수영장 심정지 환자 구조 기여자 3명 도지사표창 수상",
-          "source": "중부시사신문",
+          "title": "김천교육지원청, 2026년 교직원 심폐소생술 및 응급처치 교육 실시",
+          "source": "https://www.newsgb.co.kr/",
           "date": "2026.10.29.(목) 12:30",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5faG1CWkhXbS1BTGttaTE3QW9FN0FLeXNvdzdkOUhuODRLQ0U5NXNoQTFUSjNvOXl2V0pXOURlZmhpSWs3SS13SE9SX2g4bzlmZWhyVWhfRDh4VENMTmp6NzAyaw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlcXI0NS1qZDBJbVktWmp1QVFINUJsZTB1SzNzQXVvODZoS1N4bnpJYmZPMWxPQlVXd25xWFI2VUE3NFItaThNRi1GS3V6UEt1VjIxal9XT01SQVhNRl9IWA?oc=5",
           "region": "national"
         },
         {
@@ -320,13 +327,6 @@
           "source": "뉴시스",
           "date": "2026.10.29.(목) 12:00",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wWjdfaWE2QU5sSWdWRUdseUVxR0lmZF9xbi1jM0JJa1ZvbmxEU1B0OHRfdV9YMWxsSENqeGZac044NmphM1ZzYlFadHhLOXRxNEZIbl9DRldFMmxFcW9uTEpzdzR1VV9CeU9GdXhzaXJSTXJjSlNBQdIBeEFVX3lxTE5wWjdfaWE2QU5sSWdWRUdseUVxR0lmZF9xbi1jM0JJa1ZvbmxEU1B0OHRfdV9YMWxsSENqeGZac044NmphM1ZzYlFadHhLOXRxNEZIbl9DRldFMmxFcW9uTEpzdzR1VV9CeU9GdXhzaXJSTXJjSlNBQQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "김천교육지원청, 2026년 교직원 심폐소생술 및 응급처치 교육 실시",
-          "source": "미디어투데이",
-          "date": "2026.10.29.(목) 11:43",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZY2l2UTEzXzVnb2ZINnVUbXU3VmtDSFJhLXM5cVZnal9wOEk2QUZMRHNoc2VMWEVOVDVsamlkTElhaVFNODdQVk93?oc=5",
           "region": "national"
         },
         {
@@ -351,6 +351,13 @@
           "region": "national"
         },
         {
+          "title": "전남광주 북구, 국가 통계조사 우수 지자체 선정…장관상 수상",
+          "source": "더페어",
+          "date": "2026.10.29.(목) 09:24",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCclpRdEFjNHozVXhEQi0tSXBpLXBEX2lSLWdGdHNrdGVZYUUzeDRpQjZzYllFVm5hWm1ma1ZzdTNyQXRZLW5LQnBZdXVUMXV0OEpOUXVIcWd0SWFveWExV0JYUWhfRURHcE1UMGJET1DSAXRBVV95cUxQTWwxOWdqc0hDcUxwVkY3ejFzNEg0aHI5VWV3bUdabWl1TEdlQkUyT3o4OTctcS1YOXdlVHRSdGo3ZllVQWdVTlFZR3JSTlRNMU44VTlvRmx4XzJSc19kV3ZFbXpmVXVGNWx0a3FNTTdHb0U5OA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "전남광주 북구, 국가 통계조사 우수기관 선정…장관상",
           "source": "더쎈뉴스",
           "date": "2026.10.29.(목) 09:10",
@@ -362,13 +369,6 @@
           "source": "후생신보",
           "date": "2026.10.29.(목) 09:09",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBwano2czBkVThSZzZkenZvNFo1WjlZTHdHMlk2S0JTVGVjeTduSzNGWngwaXFJaHROWXBLVFBtbF9iMldh?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "용인특례시 처인·기흥구, \"불이야!\" 실전처럼",
-          "source": "경기타임스 e",
-          "date": "2026.10.29.(목) 08:48",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FcjlNZmhNN3I2RHFfbllOeTQ5djhRZ2tiRGZhTHFNejJDbEJNM2g4azVHbjhCLVNhVWpvRjYxMG5ROVZINjlrVkcxSVhhTFJJdmdRRXVoMGQwQmFnUWtwUHFnZFFfS1FoeERB?oc=5",
           "region": "national"
         },
         {
@@ -453,20 +453,6 @@
           "source": "뉴시스",
           "date": "2026.10.28.(수) 16:47",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWRxY011QmlmNHBkcHRYTmZBeWFtcE5CbFdZZkQ5Unc3eDBGdjVlUm5sYzVUZGdpc2Jtc0V6MENPb0VkellaUjVHdXlHd2NKUDRyNlFIMmpETEtFSEV2dFFBNVJ4dVk1alNXWmZTcDBRUE1mbVg0ctIBeEFVX3lxTE54NWRxY011QmlmNHBkcHRYTmZBeWFtcE5CbFdZZkQ5Unc3eDBGdjVlUm5sYzVUZGdpc2Jtc0V6MENPb0VkellaUjVHdXlHd2NKUDRyNlFIMmpETEtFSEV2dFFBNVJ4dVk1alNXWmZTcDBRUE1mbVg0cg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원주시시설관리공단, 임직원 17명 헌혈 동참…지역사회 생명나눔 실천",
-          "source": "서울경제TV",
-          "date": "2026.10.28.(수) 16:38",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mT25hYmNjcm9qa2ZGQzAzTWE0WWpQTHJVWnNHSDlXeURpODlhUXBROTI0bk03Ti13VWZHT1h2aWRIZVFnT05XTmJ0Z2tUb1hab2NVZVV5Tk11MWVXU1RpNGhEdTM?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "해운대소방서, 센텀그린타워아파트서 ‘화재안전 아파트 조성행사’개최",
-          "source": "소방신문",
-          "date": "2026.10.28.(수) 16:22",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vY3JYZjc4elJOc3RtcDJzY0lDdzdmV1ZqTXNVSklfX2twTld1SG5tUUFSOGZmNTdwLTFONTVKd18wRG1YVEFwdGN0SEJZc280U1hQVUx0bzZmUjZ1dnpYaWVIUGEwcldMMVRz?oc=5",
           "region": "national"
         }
       ],
