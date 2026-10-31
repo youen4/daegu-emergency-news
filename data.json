@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:43:58.839820+00:00",
+  "generatedAt": "2026-10-31T19:21:08.142133+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -280,6 +280,20 @@
       "label": "기타",
       "items": [
         {
+          "title": "㈜금호로지스, 사랑의 헌혈 캠페인 동참…생명 나눔 실천",
+          "source": "한국방송뉴스",
+          "date": "2026.11.01.(일) 03:32",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ITVg5X0U2TTNVNnVfUEpvd1V1ZkZWTmZLXzZUYTVESDNrTlFZMDVmS0lVeGRheGNWOHFEdEU0U2NkeUxscWtJa0JiOVZXNnozZm9xUTdCc3lWOTJxQUpjag?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "BPA·부산혈액원, 생명나눔 헌혈 약정… 혈액수급 안정 맞손",
+          "source": "부산경제",
+          "date": "2026.10.31.(토) 19:07",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiRExtSjA5VXBGcng5YTJLM0JwYUZfMGxDTWd6ZHc3YlhRU2lZeWFOcTI0QU9fZ0Zjdmx1cVBwVzR0VmJuWVUtMGJxQnlEUlZVdWtoRHNsMEl3VUhv?oc=5",
+          "region": "national"
+        },
+        {
           "title": "K-처녀귀신 태국 수출?",
           "source": "더리포트",
           "date": "2026.10.31.(토) 17:24",
@@ -399,34 +413,6 @@
           "region": "national"
         },
         {
-          "title": "신속한 심폐소생술로 생명 구해…의정부소방서, 시민 영웅 표창",
-          "source": "소방신문",
-          "date": "2026.10.30.(금) 14:18",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KUUdWVzhLV3RlbWpGT01FN0IzX1lzUWNTZVJUalE4S1hIblFNOV82SFVPc2JMcmljV3hpQS0zYTM1OHNwaXpfNnUzNjh6XzVvTGNpdEh4LV8tamZlVHFHb0VOSWVtZ0VUa0F3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전남광주소방본부, 체육 현장 맞춤형 응급처치 교육 실시",
-          "source": "연합뉴스",
-          "date": "2026.10.30.(금) 13:53",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HZ2sySllzVnA4R1ZOVjhHX0pFNjljV1V1Z0RTNlpEdUt1VU9La0RGYXhVVjVZN214Mmg0V1RCRk9wU0Qzc3dUdEFDZ3lDSUlpdDlkNC15SFpoV0HSAWBBVV95cUxQV3VXNVZYai1kbngxbkpjNk1IckJFUXBwQU1vNXNDSkwtZGhxQlJNckR6aFZaZU52VEhyUXRrX2pPck11ZGkxVmtnY2EwUEw0NGxTaVBDSl9lOVBJdUdqYlI?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "신안군, 올해 마지막 단체헌혈 행사 실시…공직자·주민 함께 생명나눔 동참",
-          "source": "뉴스21 통신",
-          "date": "2026.10.30.(금) 13:11",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCNEVhN1g2cWVPNjRHbWpGYlUwQ3pJRFczSFd3V092WU9QdVV0Vy1JVnBJVGN0c0hRa1RVcnVRNHhDTnBqSEVwSm9aUUd6blQ3X1d4M1pR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "\"선행은 늘 공급 부족\"…인하대 김인회 교수, 헌혈 '119회' 달성",
-          "source": "한국NGO신문",
-          "date": "2026.10.30.(금) 11:53",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81UXJmS0EzY1VrTzhfbWxSOGNxWTdOeVZhU091UW5yXzlUMjlNa2pRX252WGRXakg1QmJiSDJrQUJSN0xpTkZnU3RFSnE2XzFNaXlxWVN4UWFuZ3BQUnBzZjNZMjJ6bVky?oc=5",
-          "region": "national"
-        },
-        {
           "title": "KH건협 서울동부, 올해 네 번째 헌혈 캠페인으로 생명나눔 실천",
           "source": "서울로컬뉴스",
           "date": "2026.10.30.(금) 11:36",
@@ -438,13 +424,6 @@
           "source": "전라일보",
           "date": "2026.10.30.(금) 11:29",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nU3JhVEhPeE5xMzRwNE1ieGtBMGtIN295QXNRVkdwWVpCRWIwWGhKSE9LZW1zVkpMNTY0V1NQR3h0dFgtRWtxb2RMV2twMkhNWVB0NGlsazA4WUExakxuUUVLRnBjaml0OUxYR1FYaDfSAXBBVV95cUxOZ1NyYVRIT3hOcTM0cDRNYnhrQTBrSDdveUFzUVZHcFlaQkViMFhoSkhPS2Vtc1ZKTDU2NFdTUEd4dHRYLUVrcW9kTFdrcDJITVlQdDRpbGswOFlBMWpMblFFS0ZwY2ppdDlMWEdRWGg3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "종로소방서, 통일부 남부회담본부 유관기관 합동 재난대비 합동훈련 실시",
-          "source": "소방신문",
-          "date": "2026.10.30.(금) 11:08",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53c3ZhVThEZmdrQld6TGwzaFhxOFV0UmZyZzM2QUVHaVFIeWxSdWFoblIyX0xpNjI4M0JrbkZQcUpxcy00UnlNRWx4QmlFSFJzWnE0cjJyQU5qZnNybU9UY3NlZlA1UHBVeUZ3?oc=5",
           "region": "national"
         },
         {
@@ -472,7 +451,7 @@
           "title": "군산시 ㈜금호로지스, 사랑의 헌혈 캠페인 동참…생명 나눔 실천",
           "source": "문화매일신문",
           "date": "2026.10.30.(금) 08:47",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkaHJGVUtaYTJhZklvZmFRcVdCSXRzamVycUN3MkdxeE5UY3MwUU5IRHQtM2lHODNhSjBhWlNILTNJaGY5NUtOWExR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKZ0RMcG90bHlXVTVYSnB6cU53NTRmN0o5VHIwNmNrbTg2MzZFVWRab1RzRmZBY3I5VkhkLXFTdU0zUXVpSFQySHBoNA?oc=5",
           "region": "national"
         },
         {
@@ -487,6 +466,27 @@
           "source": "병원신문",
           "date": "2026.10.30.(금) 07:07",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pQUVUb01JOWxib2tOVWJ6X2xJOGtmSkVEYXJOT3hTYmNLZVhlRFBRXzhnOC1CcnMwZ0ZjWTA4cTNJOVpDbnNvN1U3aEJBUk02ZFlFQlo0d1pCenNrdXZDTjBwMVJIb3JXOVE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "KH한국건강관리협회 대전충남지부, 생명 나눔을 위한 ‘사랑의 헌혈’ 캠페인 실시",
+          "source": "굿처치뉴스",
+          "date": "2026.10.30.(금) 06:34",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04eHRnbDV0SWpMa1JvNUE2aUJzZ01ObVBFYVZxVTQ4U0I1cWllVmFwTjJYYjlYVDZsaHBEMVNoSXdyWXhXemN1bEo3N2VfVWo3d0lwQlZOblNTVElJYVhseFhB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "이제 공공장소에는 생명을 구할 수 있는 장비가 더 많이 있습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.10.30.(금) 02:51",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBINmItUDV4dHBEV3pyT1dtcjgyazJSb2ZfNWZZdHlWbEg3VGxmMW1oZGNodlFKRnd0MzhGQjFTUlBmVW5RY1pJNUZ5bmJqODR1YklTamlZRXZ6Tmt6V2o1UzZZYUxJSGVxLVVBWXljaEpMQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "부산시설공단, 심폐소생술 체험 1,100명 참여…11월 15일 마지막 교육",
+          "source": "뉴스타운",
+          "date": "2026.10.30.(금) 00:31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TdTBrbkZTeDdGb1c4dkRNSkhUN09ZaXo3T09sTXhpTFRzNV9xbGVBOGlBMWZyLWRlc202MUVQbTREdG5xdXk4N09ubEJpeTNHU2FVUEpTVUJsMlJsSzdMQ1ZJeGVxd3FoeHdTLQ?oc=5",
           "region": "national"
         }
       ],
