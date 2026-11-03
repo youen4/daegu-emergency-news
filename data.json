@@ -1,14 +1,77 @@
 {
-  "generatedAt": "2026-11-03T02:56:36.639887+00:00",
+  "generatedAt": "2026-11-03T10:59:43.613327+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "대구 서남부 `최후 방어선` 확보… 계명대 동산병원, 권역응급의료센터 출범",
+          "source": "경상매일신문",
+          "date": "2026.11.03.(화) 19:41",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04X3R3S29LQnRVTXBaYXBHRGFuQkRuYlEyOEZpMC1hTElPbGRnWGgwZ0RMcl9kQzMyQjg2dXdyNC0yVV9CVGZnS3l0UVNkbUlzU2NRNVNmMHd2bUZBeVVN?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "계명대 동산병원, 대구 권역응급의료센터 본격 가동",
+          "source": "SK브로드밴드 회사소개",
+          "date": "2026.11.03.(화) 17:59",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXOXZ6eUJJUXo3dDZTeVQwcnBhSEVMaFJXaGpVNnNOREItYkpJMTVHdFZ0cUhqQ0xHdXZkMUVvMUhMaWE5SEVfWGhIS1hrZEFmZmhGXzBDcl9vOTJ1ZXJ0ZVhRR2c1RXVIdDJrOEVEYTY?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "피자헛, 의정부성모병원 의료진에게 피자 100판 지원 - 머니투데이",
+          "source": "머니투데이",
+          "date": "2026.11.03.(화) 17:15",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0UExwZHl6WXZKaElWbW1OdmJGNGxFbGpPYzZWVUhxU2xsY2xpUTJ6Njl1ZUROQzRRcWVUZjJuWkxtYjA5NHhyOTV3WWVXTjlsVlN6QzFGMC1DdlZPN2lVVlFuQVh3bmZfWXJTSzRYb9IBb0FVX3lxTFA0UExwZHl6WXZKaElWbW1OdmJGNGxFbGpPYzZWVUhxU2xsY2xpUTJ6Njl1ZUROQzRRcWVUZjJuWkxtYjA5NHhyOTV3WWVXTjlsVlN6QzFGMC1DdlZPN2lVVlFuQVh3bmZfWXJTSzRYbw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "하중환 대구시의원, 필수의료·응급의료 개선 공로 계명대 동산병원 감사패",
+          "source": "www.hidomin.com",
+          "date": "2026.11.03.(화) 17:12",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jQ2NraDFRZ0JOd3pzSlI3UVpVQnBrN3pkRl93NmlrV1hidXNBNzY1MmlEeExJY0VPcjB4a2ZMTTVZMVl2WGZpYmxFeHRiZVZMdEpsSklXWFJsUGJEWmF2RkNiUDQwOFd3Z2c?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "진주 한일병원, 지역응급의료센터 지정...29년까지 새 3년 임기",
+          "source": "경남미디어",
+          "date": "2026.11.03.(화) 16:15",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QQVpxYnRDRzJfMUNrd0lLeDh5VkdsYkVRV2dudHVYX1h6aGlPZkg3TmlxdkJ0aTFwekJEd2pveVFIOFBQbXVxX01DOTNLYlpRMDJRMDNOYmFmdU5JdGkySko5RzA0RUExYmtn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세브란스병원, 서울 서북권 권역응급의료센터 개소…중증응급 진료 강화",
+          "source": "아시아투데이",
+          "date": "2026.11.03.(화) 15:58",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByTzNKRHdUTGt3ZG9RQjc1X3lTM1U5cFdBNl95UWllT1NCZ0xyTk5zOUlIYmNfNzk3eWhzZ1Vtb0ZXdXJJZXh4YVNwUWx5YkhBRktTUkJWYV95VVlhR2VFRFZOYTJWUl80OEk4UlZR?oc=5",
+          "region": "national"
+        },
+        {
           "title": "세브란스병원, 서울 서북권 권역응급의료센터 본격 가동",
-          "source": "의협신문",
-          "date": "2026.11.03.(화) 11:28",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbEpLMEpwVTdzT0Y4dk9WQTN4QldJZ2NxMS1SdkZlVVpUTXRiQV9uS3NSOWRHdFpiOU1RSl8wcFZxdWV4V2N1Y3Y4cDdIWjFqYnVtSUJFOUNiSVdPSllNcEg3U0xJT2FQc1V1blhrTk1mQQ?oc=5",
+          "source": "뉴데일리",
+          "date": "2026.11.03.(화) 15:13",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rRy1DVG1qVTIxbmhTTnNZaGRtempKNzBCdjNuZU9xal9RWG1nZV9GNjRJTFJFdzJ6cENLM3I0MHktcFZvUmZDbENrS2xxcWZhUVM1dWpYWHQyWVBJV3k2ZzB1c1BKMzFTX2swa0JUOVBKRlVwQ1NZUlhfY9IBgAFBVV95cUxNd3hmdzRBVWdXWEJzY2gwQ21MdC1VRzJUSTYtUzNnUG9mUFItMDNXWkd3T282ZzQ5M0JwZ2c0bExJZ3R4Q3hWbG5UVkVveXpHUEJJRVAwQnJ4ZFo4RU1feXJMblZtQjJHdloyQ2o0Z3EyeHlWeFFWd2JWN2dfakl5Rw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세브란스병원, 서울 서북권 권역응급의료센터 운영",
+          "source": "팍스메디컬뉴스",
+          "date": "2026.11.03.(화) 14:48",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV1BFaHJIaDh3c3ozM3ZZcERucjJ3Tkc3STJkUlNLMTB2QnM3aWFZODlVV0xXT2FvWFBzd2t5ZHJ5Q3JpcXdweXVrU1E1cUtmR3Z6MjFkNzdMNkZBR0ZmNnlndHdtLW5lYmJuNHFCbl8?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "응급실 '핑퐁' 막아라 … 세브란스, 서울 서북권 권역응급센터 지정",
+          "source": "뉴데일리",
+          "date": "2026.11.03.(화) 14:34",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMi1mckJOZnBaSldNSGgwQXhEWDBSNkJwS3VzX1ZUNmhwSUlyVzVWQjNPWDNFUTdVTWU3dVItXzFWTjUyREJMUGNyV2ZhMGVmaHV2SDJDT1NCaXFzdmVsQlpIdDlONlZfc1RXNGhpNmI5YU00LW1sQlhBVXVOd1hpMtIBgAFBVV95cUxPMi1mckJOZnBaSldNSGgwQXhEWDBSNkJwS3VzX1ZUNmhwSUlyVzVWQjNPWDNFUTdVTWU3dVItXzFWTjUyREJMUGNyV2ZhMGVmaHV2SDJDT1NCaXFzdmVsQlpIdDlONlZfc1RXNGhpNmI5YU00LW1sQlhBVXVOd1hpMg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세브란스병원 \"서울 서북권 권역응급의료센터로 신규 지정\"",
+          "source": "news.sbs.co.kr",
+          "date": "2026.11.03.(화) 14:27",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkI1YjlER0dsNEdERy00YWpLdTZNaWo3X2hERjZnanl3N05sWFVRRmNqcmthcThZdE9nbkJ6RmsxV2ZRUVpyaFIzSUZiN0ZsdjNJRXBKTzRtUkc4a2hSRjg2S19mUFc5aV9FQ1BPLTZGU3k0a255NmwxUk0xTmtWTVVwM0YtNDhLUEVlNGd3NA?oc=5",
           "region": "national"
         },
         {
@@ -22,7 +85,7 @@
           "title": "세브란스병원, '서울 서북권 권역응급의료센터'로 지정...119구급대 등 관계기관 협력 확대",
           "source": "팍스경제TV",
           "date": "2026.11.03.(화) 11:12",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZ0x5ZFlWYmFRa3ppekJoal9hdElGbDhycFdwWWZDeDh6UXNGQ2tDazlFUTNyNnpwQVZXalZKd1VodnpaalBNTUpuUDJ1YWYydFplaTZBM0NOT29kRTFDdjNEaXgxYlU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIMnBnNkhOTVJtUlhUbi1iWklMVTlNMW9XX3pMYldaMmZWWlg3T3pWWjNKcTFMT2VvWi0wdFZyTkpveHlmRHdJWTlqNXY2X0FvRWdJalZEa2tGbnBzOVRTeUpMTEI0c1Q2?oc=5",
           "region": "national"
         },
         {
@@ -40,34 +103,6 @@
           "region": "national"
         },
         {
-          "title": "세브란스병원, 서울 서북권 중증응급의료 거점으로…재난 대응체계 강화",
-          "source": "서울뉴스통신",
-          "date": "2026.11.03.(화) 10:45",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nQlhmdV9WX0hiakh3dzZMWGs2cW5lUmpyMzZGdFJJZHJrYV9iLWFuaGJ6RXVfZUo1Wm1teEdHNm9aQTZoV0M0VGgxbmZEVWQ4OW5lSUZlVU9UZ0lZMFdZZmViNS1VcHZjbkRv?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "세브란스병원 서북권 응급 거점 됐다…권역센터 개소",
-          "source": "서울경제TV",
-          "date": "2026.11.03.(화) 10:41",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IQnBTVVhpRjQ1eE1Bcklzd0ZqcGNqbXVFS1YtVGdEMnk1ekNRMmh4d0lkTFpRSVoyd0o5TkgwUGdZM0k3UEo1dFNmck54dXpPbU9JcmJVTTZSeGl5OVcwVk9TeHc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "세브란스병원, 서울 서북권 권역응급의료센터 개소…중증환자 치료체계 강화",
-          "source": "파이낸셜포스트",
-          "date": "2026.11.03.(화) 10:24",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03Q2FnTGFybUU0azVXcUg3VGw2T1ZJcE9kR0dyOWJIdTNYVzlva3EtSDBIbVZ0MFdnUWZ5TmVLOG9GQ0dfYmd4N2J3UEUySVFjcGhVX29mR2R6bWg3WUx6cjFQa3FTYlpUcm8tblVReENxdGRh?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "세브란스병원, 서울 서북권 중증응급환자 최종치료 맡는다",
-          "source": "간호사신문",
-          "date": "2026.11.03.(화) 10:16",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sTXBDR0U3SFZqWVVNcS1YNU9aZEZrdi1HWllrYmhmWEZrbW1oYUUwUlp6NG85UzJxLUR5WmE5SG5kU2dlX3dUOTZvTFNsMjl3Rml0YXVMdjVOVzZsdFg1R3JEbFJfUVlFakRPLXJ3?oc=5",
-          "region": "national"
-        },
-        {
           "title": "세브란스병원, 서울 서북권 권역응급의료센터 운영 개시 By EBN",
           "source": "Investing.com 한국어",
           "date": "2026.11.03.(화) 10:14",
@@ -75,24 +110,10 @@
           "region": "national"
         },
         {
-          "title": "세브란스병원, 권역응급의료센터 신규 지정…최종치료 역량 강화",
-          "source": "데일리안",
-          "date": "2026.11.03.(화) 09:59",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNS212ZXVLNjdJeG5zOHJiNjB2M1hZMGtkdE50VjUzYl93RlphTUtqOGpsemFrS2FHWHpkZ2NLWEM2ajVjT1dESUUwWF9vQVVURUNoeFp4R3cwNzQyRXlHMlU0MDhLMElHNzF5NWp2MDdoTVJxSUkxdy1zOUpqQW00RnFkWjM4b1lNbTM1YkVBN0JlaVEtRXhwcnVqaDluc05IVmplRGdwVTR5aElBY09rRE5pOXY3YzlfeElIemYtZnY5NFZTel92X3EydmMxOFZVTkZDeGRpYkFKenNmYkVCQm5sbU1KQTJCLWd6YVdOMjRuY29sMnJ6YksybHBzM1FGbjBpaXhHcHB6ODNLaXVYbUUzSXc5WnlMSGxqZFFaLVJWVnczQ0Q1VnBPU3NzQQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "세브란스병원, 서울 서북권 ‘권역응급의료센터’ 개소",
-          "source": "더바이오",
-          "date": "2026.11.03.(화) 09:48",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lRXlJYnRIaUxqQWVtWXNrNnQxNlNRUjJfUzdrVUtJYmhYdFF4bFNVYmdvM3N4LUlhSWlVVjNEdTk4TEY2alI1UXVrajd4RVJoQ0c4TEpoT09YMGszc1NBN0Z0R1BaRk1PRUZIOdIBcEFVX3lxTE0xOWJfMHVwa1p0Yjd6ZFc0dHZhS1R5a0d5N0JzTWM3S21FLVpvWkx1X2JRZzFscHR4Z1kzX2JoWFl4aF9QdEpCSC13WDVLR0RCdlc0M1BuUTFuUnFmX2JxUkd6aFRXazgwQTNQLS1odlA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "세브란스병원 \"서울 서북권 권역응급의료센터로 신규 지정\"",
-          "source": "연합뉴스",
-          "date": "2026.11.03.(화) 09:32",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEbU1abWxUN0EzWkZmQmxyQXFVUklhc1pLeXFWUkMyVmtfcDQwTldabkROb2hfeGVCamN5bUtVd1Jzdkt1TmRINkd2NG9Kb1lpaDd2azV1WmQyR1HSAWBBVV95cUxOcW1hRHlKNlBhamMyZVhZSktiZUNjdnB1YXpFbk5Oc3ZtMHhwRU8yRVFKS2lyb2hGRjZ6QVhrb3BDd0FMdF9ZUVZKRjJRQkVlRWFMRktHNXU4QTZhVmNvTHI?oc=5",
+          "title": "세브란스병원, 서울 서북권 권역응급의료센터 운영 본격화",
+          "source": "메디팜스투데이",
+          "date": "2026.11.03.(화) 10:04",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZmlOSkVBNjd5b2F4cUx4QlpRQ3NUaWFHaXpOSThnRGZESldqdi15X1JsWGNQUDZ5TFBlMW1aMW1zRVhIM1VjaTZFeGFURlo0aUx2NnpSeExOUGU0c0l5YUxnQ01zOWNr?oc=5",
           "region": "national"
         },
         {
@@ -101,13 +122,6 @@
           "date": "2026.11.03.(화) 09:16",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81eTlvTVdYN3FwYXhIYmV3eVl1elJic0pCWThmYWFra2lOWUNyYklYV0N6WlltWTRiUllVZjMxTDFjNUdjWHdVMG9ncDZfMkUxY3FfYU12Mml5Z05nRXVyZg?oc=5",
           "region": "national"
-        },
-        {
-          "title": "계명대 동산병원, 권역응급의료센터 개소…대구 서남부권 125만 명 응급의료 강화",
-          "source": "여성종합뉴스",
-          "date": "2026.11.03.(화) 09:12",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pYzJMVWw4ZnFiN2RlZVpzRFFnWmhoU0VuZGVxY1l4ZjYtcUE3bHFqVVdQZWtYYmlPRElQdkdXSmpuSXViVmNPN2ljeDVOS1FpN2hlNzYwTVlzWHBjUHJmTjVFUlh3OGlodWZ1bXVPRQ?oc=5",
-          "region": "daegu"
         },
         {
           "title": "세브란스병원, 서울 서북권 권역응급의료센터 개소 - 머니투데이",
@@ -120,29 +134,8 @@
           "title": "원주의료원, 지역응급의료센터 신규 지정",
           "source": "원주신문",
           "date": "2026.11.03.(화) 08:58",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wd0FScGdWY0lBUlNYWHJVUUMxbFNuazExcmk0YnNITHBpUDBhcmlNZjk2M3VOXzN3ZU55RGIxQlZ4NkNGbkpsUHdNODJtOG5QQWdXTlFTZzRCZ3F4R2hudDlqSkJvSjg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYV1FVb0EySjFVa2JxaHAxdm4xNThMQ3RJN0NxZEFubXU5bEY5N1JiOHhnU3d4OVhvajl5WEduR1pxOXY2WGhpdTBlQkdaelgtOEo0VFBnUVV4SjdKaWJFRGZLaWNzdUxD?oc=5",
           "region": "national"
-        },
-        {
-          "title": "하중환 대구시의원, 동산병원 권역응급의료센터 지정 공로 감사패 받아",
-          "source": "매일신문",
-          "date": "2026.11.02.(월) 19:05",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11aGViYnd4bkNFc3J2V0Q0cGxlUUtCQzl6b3BxSEIwMnRqUUIxU3dkR2VWTHBncUpVMHJLSldKb05oeGlQMEh3OTFXV3d4UFM1dGpUREJFa0huR2k1eHpmTGZR?oc=5",
-          "region": "daegu"
-        },
-        {
-          "title": "순천향대 천안병원, '권역응급의료센터 평가' 충청권 1위",
-          "source": "티제이비",
-          "date": "2026.11.02.(월) 16:03",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WeU5VdEV5SDg0OEdFbnZONlJrMUFCSTNoeWVuak4yT1k0OEtpbWVfZ2xMWmVDY1ZBOHRkU3loUjRSRVZQN2d4QVctckM2ZDZjZHJhemZvbWVQWVpy?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "계명대 동산병원, 권역응급의료센터 본격 가동…중증 응급환자 대응 강화",
-          "source": "경북매일",
-          "date": "2026.11.02.(월) 15:45",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pZDg4NDR3cktrZ3VXdXFkUmlwUXNDSEpyUlhGQVlldTEzWjJOZnRka1E2bkE4ZWxYbGY4U3Nmei1xWWVLUTVueEJnX29CMGMzRm1HR1ZNX19Fdw?oc=5",
-          "region": "daegu"
         }
       ],
       "error": null
@@ -156,24 +149,59 @@
       "label": "재난의료",
       "items": [
         {
-          "title": "세브란스병원, 서울 서북권 권역응급의료센터 본격 가동",
-          "source": "의협신문",
-          "date": "2026.11.03.(화) 11:28",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbEpLMEpwVTdzT0Y4dk9WQTN4QldJZ2NxMS1SdkZlVVpUTXRiQV9uS3NSOWRHdFpiOU1RSl8wcFZxdWV4V2N1Y3Y4cDdIWjFqYnVtSUJFOUNiSVdPSllNcEg3U0xJT2FQc1V1blhrTk1mQQ?oc=5",
+          "title": "세브란스병원, 서울 서북권 권역응급의료센터 개소…중증응급 진료 강화",
+          "source": "아시아투데이",
+          "date": "2026.11.03.(화) 15:58",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByTzNKRHdUTGt3ZG9RQjc1X3lTM1U5cFdBNl95UWllT1NCZ0xyTk5zOUlIYmNfNzk3eWhzZ1Vtb0ZXdXJJZXh4YVNwUWx5YkhBRktTUkJWYV95VVlhR2VFRFZOYTJWUl80OEk4UlZR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세브란스병원, 서울 서북권 권역응급의료센터 운영",
+          "source": "팍스메디컬뉴스",
+          "date": "2026.11.03.(화) 14:48",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV1BFaHJIaDh3c3ozM3ZZcERucjJ3Tkc3STJkUlNLMTB2QnM3aWFZODlVV0xXT2FvWFBzd2t5ZHJ5Q3JpcXdweXVrU1E1cUtmR3Z6MjFkNzdMNkZBR0ZmNnlndHdtLW5lYmJuNHFCbl8?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "응급실 '핑퐁' 막아라 … 세브란스, 서울 서북권 권역응급센터 지정",
+          "source": "뉴데일리",
+          "date": "2026.11.03.(화) 14:34",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMi1mckJOZnBaSldNSGgwQXhEWDBSNkJwS3VzX1ZUNmhwSUlyVzVWQjNPWDNFUTdVTWU3dVItXzFWTjUyREJMUGNyV2ZhMGVmaHV2SDJDT1NCaXFzdmVsQlpIdDlONlZfc1RXNGhpNmI5YU00LW1sQlhBVXVOd1hpMtIBgAFBVV95cUxPMi1mckJOZnBaSldNSGgwQXhEWDBSNkJwS3VzX1ZUNmhwSUlyVzVWQjNPWDNFUTdVTWU3dVItXzFWTjUyREJMUGNyV2ZhMGVmaHV2SDJDT1NCaXFzdmVsQlpIdDlONlZfc1RXNGhpNmI5YU00LW1sQlhBVXVOd1hpMg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세브란스, 서울 서북권 응급의료 패러다임 바꾼다",
+          "source": "데일리메디",
+          "date": "2026.11.03.(화) 12:01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xNk1wb1VvQ2FxUnctYWk0ejJxNHhaN1N0SWZJb1l6ejRuakFDeFh6b3lHdlZwbmZwcm5ZLVJMQ3cxTHd1Z3AtSERocmlnYTBJWXNWZExJOWxRYzZLVWZ4ZnFvTk9CR1BvMDR1M2dNeS1lalg2?oc=5",
           "region": "national"
         },
         {
           "title": "세브란스병원, 서울 서북권 권역응급의료센터 개소",
-          "source": "헬스미디어뉴스",
-          "date": "2026.11.03.(화) 10:52",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEN3FnY2VMeVVGc2hMelRVczBvLXk1QnNTVlhlWFJyT1N6Wmt0a1lvSXg4VDRoeFRGMThKcTYtWjdwcFlXeWZmQnpBdXVOamVxV01qYWh2TXJkcXU1eGNPTDZIeUlMa1FEMi1EVm5qSWZzZw?oc=5",
+          "source": "캔서앤서",
+          "date": "2026.11.03.(화) 11:34",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MSmlmdG15UnJpR1NWaWRhUngwOUZBV2FDbmZaT05EOTc3Q2t0a19fbWpzN1Y5Wmtmb1lzU3lWdFVIdjBGR20zZGFGX0FGSEdxNVlSVnAtb2VOam1MbWZ5RkZ3TUwzeDZZbjBsNjJWU18?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세브란스병원, 서울 서북권 권역응급의료센터 본격 가동",
+          "source": "의협신문",
+          "date": "2026.11.03.(화) 11:28",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TdHVRRllhLUtvUnFBOTR0cU1KSm9YY3BuRkFtRjZ5X3ZXZV9jVWZrb3ZsdjRUbWwtUVFuN0poMEVkVEFmbnRPVnAzVlY3b29OQVdCa3UzcmJHcThlY1luR1ZmNGI5alhOR1htVg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세브란스병원, 서울 서북권 권역응급의료센터 가동",
+          "source": "이투데이",
+          "date": "2026.11.03.(화) 10:50",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KT2ZNSFFUbnFzNG84Mm8xNU5ZOElyQWYxT3R3Szk3ZDhfZnZSMDlmdnFkQXZEUTM2MlJscDhmZHFpV3ZfTjhvMWlrdlhfX0J2MnFQanRReE1rTXNDYkE5Z3JXZDgtZ2dTTWZXeA?oc=5",
           "region": "national"
         },
         {
           "title": "세브란스병원, 서울 서북권 권역응급의료 거점 맡는다",
           "source": "보건신문",
           "date": "2026.11.03.(화) 10:47",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKSWZvdGJIbFU4aE9RZFRUWldyUU5iUVY1djJ6SjNRVTJieklFN0pZTDRtMU4wQXphY1g0cS1TamNEZ05vMGlaaFRvZF93Qkw2OHk4TmxQZXBOSUVLRWFPcnNtWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CRDNZVVI1a2YwNjZVeHBjQ0ZIM3ItMXNma3Itc20zNkRjdGZPQXJUUU9tazI1bUdyOXdhaE9oRWVERXFYY3ZQQjBtU2M2OHJnY1JybGpvUWFwZl9hRkMtSmFB?oc=5",
           "region": "national"
         },
         {
@@ -181,6 +209,13 @@
           "source": "서울뉴스통신",
           "date": "2026.11.03.(화) 10:45",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nQlhmdV9WX0hiakh3dzZMWGs2cW5lUmpyMzZGdFJJZHJrYV9iLWFuaGJ6RXVfZUo1Wm1teEdHNm9aQTZoV0M0VGgxbmZEVWQ4OW5lSUZlVU9UZ0lZMFdZZmViNS1VcHZjbkRv?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "세브란스병원 서북권 응급 거점 됐다…권역센터 개소",
+          "source": "서울경제TV",
+          "date": "2026.11.03.(화) 10:41",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IQnBTVVhpRjQ1eE1Bcklzd0ZqcGNqbXVFS1YtVGdEMnk1ekNRMmh4d0lkTFpRSVoyd0o5TkgwUGdZM0k3UEo1dFNmck54dXpPbU9JcmJVTTZSeGl5OVcwVk9TeHc?oc=5",
           "region": "national"
         },
         {
@@ -205,10 +240,10 @@
           "region": "national"
         },
         {
-          "title": "\"재난 의료 거점\"…세브란스, 응급의료센터 개소",
-          "source": "뉴시스",
-          "date": "2026.11.03.(화) 09:28",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTN1hPaDhfNGFBN3ZDaTFSai0tdmtNLUR4dHdEN1drTWwxNFpNZXo2VGJrbzhDdi1rdUE0MmZRRjVoMzFGQVVBcm5hbl9Oc3dnaHR6aWh3SXJiMUZqUEl5VmVKQmNNRXZlVHZNUlh3WWVHU1BmVFFGRNIBeEFVX3lxTFBTN1hPaDhfNGFBN3ZDaTFSai0tdmtNLUR4dHdEN1drTWwxNFpNZXo2VGJrbzhDdi1rdUE0MmZRRjVoMzFGQVVBcm5hbl9Oc3dnaHR6aWh3SXJiMUZqUEl5VmVKQmNNRXZlVHZNUlh3WWVHU1BmVFFGRA?oc=5",
+          "title": "세브란스병원, 서울 서북권 권역응급의료 책임진다…응급센터 개소",
+          "source": "뉴스1",
+          "date": "2026.11.03.(화) 09:32",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HbXNwandvX2F4Tnp2OEx6VVpfdzNteUhRMC1EY0o2X2p2U3lmU1FEbG82R0pxV2puUmJVajBGUUVHTmhTMXJseEJ2UUVER29GX0E?oc=5",
           "region": "national"
         },
         {
@@ -246,6 +281,13 @@
       "label": "소아응급의료",
       "items": [
         {
+          "title": "소아응급실 압수수색 논란에…경찰, 필수의료 수사 지침 마련",
+          "source": "헬스코리아뉴스",
+          "date": "2026.11.03.(화) 19:21",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83Qm50Ukgxbm5KQ2pwNlctQkNhVjMzeWtoTUw3VmpoRUtIWWZPUTh0YmEtQjlQcDE3VVJVcEU3QkllWDk0S1pGOWFHTTNndjFNWU5ub2haQkc5aFZSNjNkZjlFcTVVRlE?oc=5",
+          "region": "national"
+        },
+        {
           "title": "소아응급실 압수수색 후폭풍…센터장 사표에 수사 지침 논란",
           "source": "뉴스후플러스",
           "date": "2026.11.02.(월) 07:30",
@@ -265,6 +307,118 @@
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "“아빠 일어나요”…학교서 배운 CPR로 심정지 아버지 살린 중학생 아들",
+          "source": "경기일보",
+          "date": "2026.11.03.(화) 18:17",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53T0ZkekhZQnpNQ3NrSkZJUFdWVDJwOUZkX1lDSVlDcXkzWVRpOUhsRGxqcmx5eE53YmZ6OTZNOTBsWE15dnZMMmthZkNTSGVIS0EtRk9RTmRYUXc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한국타이어 금산공장, 겨울철 혈액 수급 위한 헌혈 동참",
+          "source": "충남일보",
+          "date": "2026.11.03.(화) 18:05",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EcEJJOHBKaE1kZWFpNDFHaXlOTUlEQ01OWTNtaDdyaFUxRXp6UHRpV3FaMk5COG1KQ0ItR1NGQ2NxWFhlOTQtYU85aWZ5UGtuMUtPd2N5bmdlRTJ6c2ZlaldXZUIxd0w5cTBENnlLai1hVDg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "원주시, 생명 나눔 헌혈 릴레이 캠페인 전개",
+          "source": "원주신문",
+          "date": "2026.11.03.(화) 18:03",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pXzdiaWNPcHFKQ1RqTmsxMld0c1dqZnYzSTJhTThoVUpxT2tfcjBDbUM4dEJKZUc2SGtVRjBNal9EMTY3Ml9pRkpvaEZOdlhPT3NsWjlGbEFucW9PamVlLVJNRXpCT0U?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "남서울대 생명 나눔...사진에 담은 봉사, 헌혈로 전한 사랑",
+          "source": "뉴스프리존",
+          "date": "2026.11.03.(화) 17:46",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nSnk3eGpyN2dpVVRJRjE0UkFKTTRwQWllWWl3SG1oTkJqTGlXSEh3VEZLcFR0bU5mSDZVSXFHNEEtN2xDYTh2ZjhCQmQ4eHRSS3Bodk5SNWgwbnZ1cFVJQjFuRFRSMkNVTFkwWmxrWFBGWjTSAXdBVV95cUxOdkRnVVcwVVZLbmhZRExSSnBPTHRuX2RXV3ZXN19JalFKc3d4OUFxeXpkMUtuRGhUT093SXNnOThCRjRYM2sxb1hzeHVlUzZlWXZIcEdBZnMtdTI3UUtjZVoyU2tHMTJNX0Z5dnFseExEcjlldHYwWQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "처방·조제 감시 '투약오류' 차단…환자안전에 병원약사 역할 입증",
+          "source": "메디소비자뉴스",
+          "date": "2026.11.03.(화) 17:42",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VZXhYbHdWdGJjRHM4c3RTbi1ZLXQwYno1V1JCbDlnV1Q4NHlKaHRXUlhMM1FqSWhZY0lUVUpoUFF0SUE2Zjk1STRqQXFRajM2N1J5WGJwVlBTekdxZFhZWGZyZnVvSVBXX2tIZW9zUXNKRFNxY3fSAXZBVV95cUxNVWV4WGx3VnRiY0RzOHN0U24tWS10MGJ6NVdSQmw5Z1dUODR5Smh0V1JYTDNRakloWWNJVFVKaFBRdElBNmY5NUk0akFxUWozNjdSeVhicFZQU3pHcWRYWVhmcmZ1b0lQV19rSGVvc1FzSkRTcWN3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[정읍소식]21·22일 늦가을 내장산 즐기는 '웰니스 페스타' 등",
+          "source": "뉴시스",
+          "date": "2026.11.03.(화) 17:19",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MaFFONTNwMWYzelVjNU11emFPMmpDS3JsLXhpeDFSYlVCWlFJRTNCcDU3VDFyS1VXRGk1QWd6bzRpNGlqUEVuVGs5T2FlSWJieTZEOXJPc3NZTjBuS3h2SzFUcUFoT2RsMnpDYk4wQTlvX3Jpb3Z2MNIBeEFVX3lxTE5MaFFONTNwMWYzelVjNU11emFPMmpDS3JsLXhpeDFSYlVCWlFJRTNCcDU3VDFyS1VXRGk1QWd6bzRpNGlqUEVuVGs5T2FlSWJieTZEOXJPc3NZTjBuS3h2SzFUcUFoT2RsMnpDYk4wQTlvX3Jpb3Z2MA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "제주은행, 20년 넘게 단체헌혈…올해도 83명 동참",
+          "source": "뉴스1",
+          "date": "2026.11.03.(화) 16:31",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xOFdhNE5LVjRzWHBEZ2ZKZGJfZHlTSVhwZWZkQ3FYRkNmRm95ZzJsQnNJZGthdHNpRUtxc2VwaS13cjFDU0RNWnNkU0c4anJ6?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "갑자기 쓰러진 아버지…중학생 아들이 심폐소생술로 살려",
+          "source": "연합뉴스",
+          "date": "2026.11.03.(화) 15:59",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zTzRqeldXc1dTODl4ODNHQjVFU3lHaDNGS24zWFFISmVBUW91dnUtMFkwbkFvcGowUWNsWGhvRXI5bzdmWXFfZGp2SFN6bHVRUWtqQ3RxTE9TVFnSAWBBVV95cUxPSzFkRDNWS2xuZ2ZiOUxLRWgwRThUcVIxU1BYQjJjdEIyc296Szg3UjM2Z2N6SHBlYlIxSF9RMERzZHZGNEFmbEN5S2E3Z1JCOTY2bFBSWEo5Mk1ibmNPVFk?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "\"대규모 통계조사 무사고 대기록\"…정읍시, 재정경제부장관 표창 '영예'",
+          "source": "더펜뉴스",
+          "date": "2026.11.03.(화) 15:45",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vbldWZ1VONlFoMlgyWUZsdmdTbFFpeG8xeXBsT09maklYQmtJQmp0WmFHTUphUDR2anowWUdYSzduY0djLVhGdXhKbDRfYlVzSnJnaXJpdGtuZ3lFNFE3a2N6SQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전북소방, “아빠, 일어나 제발...!”학교서 배운 심폐소생술로 아버지 살린 아들",
+          "source": "소방신문",
+          "date": "2026.11.03.(화) 15:19",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nbE9VakhCOVlmeFNVTkFrV2FXaUZ3TzVDY0RfUHpCMlNIa0xJbFJESGtPRVlvX25oX2g4NVhiZ0pkaDRuVjhtaG1ubWk0WEtjenlrZl9rM01SdkNmTXNURmpKQnBhZGdnZzU0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "원주시, '생명 나눔 헌혈 릴레이' 캠페인 전개…헌혈 참여 독려",
+          "source": "신아일보",
+          "date": "2026.11.03.(화) 15:16",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fRzA1VlZyOGR0dnlVVzdzZHhoN0R6V3M5a0JVazhWLWd0Uko0aUc3cFZ2VGFJZ2VSLTB3aXhhcXdqMWE0U2pBc1ZTUU5HZDIyZDlQdzVDRy1ZQTJZWmNOcEZSMk9xOFhQVGJxZE9uU0o?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "부산혈액원·부산항만공사, 생명나눔 헌혈문화 확산 업무협약",
+          "source": "국제신문",
+          "date": "2026.11.03.(화) 14:20",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3p2Q3BINV94SHQ3eWhxRE9GT3RaV1l1UUs5YTFRdmZxU2JEcGo1QS02VldMX3QyeHVFcmxYcWNWOWUyMlNfZGxiR28wbjlvVkhZNXdqLXRXSG03QVh5VnhRRDJKeEdtVG5hY2ZNUVZveDJaRVlGRmxCWk9ubEpFZEtkQlJrVEI1d0g0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "제주은행, 20년 넘게 이어온 생명나눔 실천 '귀감'",
+          "source": "삼다일보",
+          "date": "2026.11.03.(화) 14:20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRWW1tM2doWXpvRXNhLU85bGtsZ0EyM1gwNTlJRllYREs3b09PUWlyNmRxVTRnYlQ0U3JudzZsTFFGbDdFY0pOOW1tNzZCZUg1ajJIQ19PYU43QTF5ZzZxU2l0WWE2a2lSTnVYTg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "정읍시, 대규모 국가통계조사 우수기관 선정…재정경제부장관 표창",
+          "source": "전주일보",
+          "date": "2026.11.03.(화) 14:13",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LUkd3WFdITzVhZXE5TWx1UFdWSFBpUC1OTmhNZmtqLWF1WDBGb250UU1NemVlbjdIZTl6aTRxZ1FHeUQtNWRmeGtGQXNwSzRUdWhJNFA3dWVTMEpKYmQ4WVRtRFVBTGVqWFZR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "소방청, 11월 불조심 강조의 달 운영… 겨울철 화재예방 총력",
+          "source": "안전신문",
+          "date": "2026.11.03.(화) 13:25",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yVHR4Nk4tSENSNnRjblVPb1oyaG1QRVdkSld5aXNldjJBakhKTVI2b043WUloZE8zX3hVdFNnSFhrMDN6TlhHcmlXenJJNmllc3pmVWRDZWZ0T3ZQcndsNlptdFROU2pkNVpDS1lVSUE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“3개 국가통계조사 치렀는데 사고는 ‘0건’”…정읍시, 재정경제부장관 표창",
+          "source": "전북도민일보",
+          "date": "2026.11.03.(화) 13:20",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKVUxaRnEyUjhqNnN0ZWgtQ2I5U1dKOTlrOGFOY3RnZXF2eENDV0gwcWhaSjdDQUg2OU1uMU1sWkpEeFFoNjBKbEk4U01zYk5vY3AxUi1LZ1k4NDVSVkotZVZqaEpfQ2Zub0E?oc=5",
+          "region": "national"
+        },
         {
           "title": "정읍시, 대규모 통계조사 안전사고 없이 마쳐 재정경제부장관 표창",
           "source": "웹이코노미",
@@ -294,10 +448,45 @@
           "region": "national"
         },
         {
+          "title": "정읍시, 국가통계조사 유공 장관 표창",
+          "source": "전라일보",
+          "date": "2026.11.03.(화) 10:16",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ycnVXOUFGT01IMUxPSmJxZXhuc21FNkdUdFQzZlVpUU9jRUM2SEV2NFJfTl96SjF2LVk0ckFVWGUyV3FzYlBqWmx6aU9hOTFNNldMVVF2TTROMXE3WlUycFMwLXJsRklNZ21oRzduVG7SAXBBVV95cUxNcnJ1VzlBRk9NSDFMT0picWV4bnNtRTZHVHRUM2ZVaVFPY0VDNkhFdjRSX05fekoxdi1ZNHJBVVhlMldxc2JQalpsemlPYTkxTTZXTFVRdk00TjFxN1pVMnBTMC1ybEZJTWdtaEc3blRu?oc=5",
+          "region": "national"
+        },
+        {
           "title": "통계조사 3개, 안전사고 0건…정읍시 재정경제부장관 표창",
           "source": "전북제일신문",
           "date": "2026.11.03.(화) 09:59",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BX2ppZFliNzA4RzhwV1pIX2UzSnkyNXJ6ZW01R1FEZUxkLXJ6SlBBczFMYi02RnVjRTBsVHY4RmNYc05rcU1tT3ZsTVZTaVpfaW9nVFpjcFJfb1hlQjlFMzlaUFBXLU1venc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "강남구, 핼러윈 대비 클럽형 일반음식점 특별점검 ‘안전사고 제로’ 달성",
+          "source": "시정일보",
+          "date": "2026.11.03.(화) 09:53",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YRnRjX0RlNm9WZFlsSXl5ODVDX1RDMjB3LWVjXzlfSmcxM0wtOHFZWGt5WmYwMDM1TXhpbExjN3NlZjdXb29GNkN1TjJVcVVhTVJ0WTh0LTVWRE5tWF90YnZGNGFkbFdqRDh3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "안동산림항공관리소, 산불진화 역량 강화",
+          "source": "데일리대구경북뉴스",
+          "date": "2026.11.03.(화) 09:21",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SbGRZb1MyUHkxTjJnM3BPNkZHUFVwYkZEbnppdC1IQ3ljM3pteS1BdEQ0Z3V0bUhUenNLRGhXb3RVY3NCeExIa0VzUm93dGd0S19wbXI4ZXhhZlljdndwc01FR21kUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "홍성 바비큐축제, 안전사고 없이 마무리",
+          "source": "투데이충남",
+          "date": "2026.11.03.(화) 09:20",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52dVd3dE5ZMjkxSlZ0ODRQaE1Ma2c5WGpYY0xxdHVtMkxwRlFMU25ScHdxQUd3VVgwNG9iOUl1SjRzd1VZelZYZ1NyWmxPU0tNNmQzOEx1TEkxTkpzd2VGWlk2UGhKSHFMMVh6cENOSGFHQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "부산항만공사 ‘헌혈’ 약정… 긴급수혈 등 자발적 참여",
+          "source": "문화일보",
+          "date": "2026.11.03.(화) 09:18",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13OHNEMmI1SHotSHY1eUozeVUwNU1KUU9IbVVhcmVxWE5kS083S2dvaTVtSmtKUmxzZC1tWnJMYkg4czNwdlQyQXo4OGtEbW9j?oc=5",
           "region": "national"
         },
         {
@@ -315,164 +504,17 @@
           "region": "national"
         },
         {
+          "title": "강동구, 일터부터 가정까지 어르신 응급 상황 대응력 높인다!",
+          "source": "더뉴스코리아",
+          "date": "2026.11.03.(화) 08:46",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1udVdXdndfSldHLTdlQVFCbjYxbm1tZnBaNUw4MnNhTG9TM0U5SUowZWhSVEVjYXhIZkNDOUtKeE9hQmdjVXE4UFNR?oc=5",
+          "region": "national"
+        },
+        {
           "title": "한국타이어 '생명 나눔 헌혈 캠페인'으로 지역사회 공헌",
           "source": "뉴스1",
           "date": "2026.11.03.(화) 08:12",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0ZFRrSXRCbVRVN19yUzlWMnJWQnFkdXBmQTNkQnY5RHI2aUE0ZW1USlp0VVFPV0NFTmVXQUVLazc5dngtUkJPVXhGSjVOS0pHcDlrYjZ1MXdnNlNhQm53OA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "원주시, 유관기관과 함께 `생명 나눔 헌혈 릴레이` 캠페인 전개",
-          "source": "시사일보",
-          "date": "2026.11.03.(화) 07:57",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ydWVadjVuMmRQRzEzMlU0cG1LM2R3ZUJEdERnWWdieGNwMW9vUlVPajc5UkpXOUJKNE9wQWpLNk02RUVWbXZOa0UxTUY?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국타이어 대전·금산공장 헌혈 캠페인 펼쳐",
-          "source": "충청뉴스",
-          "date": "2026.11.03.(화) 00:51",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11cnM4MnFqLUpuOGpOWnBSSXk1cXBrTFRtbThjR1VMWDQ0cWw4VVBESWtLbFF5RXl3Si1CbGJmUE1nbHczSHJXNFVWLXowZWpGbzBpcExhUlYydVdqdHZjamxPMi1NS0NRWmwzRQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "‘골든타임을 시민의 손으로’ 나주소방서, 자동심장충격기 50대 설치 완료",
-          "source": "호남타임즈",
-          "date": "2026.11.02.(월) 22:41",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbHg4WFhmVTNqOHVQY0pPc0djb1lvWUdhZXVPWnV2Z0VZS1RWR0FZT2o0TUJSUXo1aDJDVEk2aTdrTl9uRmZ4dnNlc2xGU0tfTkFwUGRCQzhLYzF2TVZtZ1ZXSkhBMUZhWWY1UTN3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국타이어, 'ON(溫) 나눔 헌혈 캠페인' 진행",
-          "source": "대전일보",
-          "date": "2026.11.02.(월) 22:31",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EdEtCSzBuV01Eb1JtdWk4TWtiWDNGVDZBazBnbTZ3MzdrVkxjWUtyY0U4UVlqTkk3dXdtc2J4c0JBZGdVbmNEUGtIV3NNX0IwNkZCTU41QWxLZG5iOXNVREJRZXRocHJ4VnFpUG13Y01yUmvSAXNBVV95cUxORHRLQkswbldNRG9SbXVpOE1rYlgzRlQ2QWswZ202dzM3a1ZMY1lLcmNFOFFZak5JN3V3bXNieHNCQWRnVW5jRFBrSFdzTV9CMDZGQk1ONUFsS2RuYjlzVURCUWV0aHByeFZxaVBtd2NNclJr?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[포토] 한국타이어, ‘ON(溫) 나눔 헌혈 캠페인’ 진행",
-          "source": "금강일보",
-          "date": "2026.11.02.(월) 19:02",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3aDhzWi1Oa1Bub0RvcEJLTUQ4ZFFrc3RQeXlkNWcxeldMZmNldU56N3pWczVuLUloa3J1MW9WdjRHN0FtdUpGMGc1enROMms2UEVtTlA2em5maVJSQ21jd29pUk1hYUhLMEE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국타이어, 대전·금산공장서 헌혈 캠페인…생명 나눔 동참",
-          "source": "타임뉴스",
-          "date": "2026.11.02.(월) 18:36",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jTjdaUnI2cXZCZnM1eVN1YkxGQy1wMS1DMFAyZnc1SmJvUndQMGVoeVZKdHZNejk3ZWdNSXNNdUVoRU0xaU5ENTFWOXloZE5hX3lkcw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[게시판] 한국타이어 대전·금산 공장서 헌혈 캠페인",
-          "source": "연합뉴스",
-          "date": "2026.11.02.(월) 17:40",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcUNHS1hkb1Z4U21Sem8ydkRBbXMya0JyZ3MwdEVvTDlqbnczZi14WmFqM2J5M2NHU2hmV1hxeTZ0NXpDV2x2TUtzMElISER0b2UyZFRVdmlZWXfSAWBBVV95cUxNRXFjaVdxMy1McmlTTFo2YzlBMkNBdzUwd21PQ1ZFVFNpY1lNWXhCUFo5eXpXMElwY2VDeVpTSUZoMGNaSE1jcF9WSEFUX3duWWluTEc1T25aSl9xM0M3UmU?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "‘시민 손에 쥔 골든타임’ 나주소방서 AED 50대 설치",
-          "source": "전남타임스",
-          "date": "2026.11.02.(월) 17:37",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wc2IzRURwUzBkb1lDNU1OWnJYa08ySE85OXgzVmRuYklXTngyZkgxQzZfbWtSRjNzNGUzZ096NmwzNFBDVFRGVTQzMjVNOW1nQzVLRm02MGcxQXBDd3JrX0tTaHo3QQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "부산항만공사, 부산혈액원과 헌혈 약정 체결",
-          "source": "물류신문",
-          "date": "2026.11.02.(월) 17:35",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tYl8ybjIyd1dYb29scVFxWE5YMUtVeE1MdDVwZ05SNHR5ZUpveHRwOEVDZUtGbnEwS1A1WWcwUVBZU2Vyb0tQay10UUx1Q013YjdVSjhYb1RNVmFZY21YYmZ1UHNLMEh1aldV?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국타이어, ‘ON(溫) 나눔 헌혈 캠페인’",
-          "source": "충청타임즈",
-          "date": "2026.11.02.(월) 17:19",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlS1JQWWZxdHdMbHBaZzUwdDdVOG1LSXFnT0tVVWlWcGIzdVVTdVBEZWc2akZnQ1BQQkgzY21nWl80QU9INkY1N2ZXb0djUTI0Qkt4SXMxZ3FUaWxJbjdrRHJxbXhEb2Fq?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국타이어, 대전·금산공장서 '헌혈 캠페인' 진행",
-          "source": "중도일보",
-          "date": "2026.11.02.(월) 16:35",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDUWpRSFpqRzQzWkR6c1otZktCSkJ2NHJoSXRDdDZORlBVQlQ5T29ncHhFUHFCcGFnMzlWTjVUNDc2NmRrb2lxWG9pYWdlOWxTSmtvX1F0M0ZyQm90WllNbFdUNXo?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국타이어 대전·금산공장 임직원, 겨울 혈액난 앞두고 헌혈 동참",
-          "source": "국제뉴스",
-          "date": "2026.11.02.(월) 16:18",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rU21lREUzMHdJQkh2ME5tV1ptQjBCTUFTR0RoMllYOTFWU0ZfcGx5NmlNRTZSQmlFRTZPcnkza3VjQjdMLXZBMjhtS1NqSy1QWTRDUFFvWHIxa3Bac2s1U1RxNHhZVUx1dl8zVkhn?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국타이어 임직원, 대전·금산공장서 생명나눔 헌혈 동참",
-          "source": "디트NEWS24",
-          "date": "2026.11.02.(월) 16:10",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTY0M5SFNMX043ck1GYzUtd010eEFXY0dpNnVxZXlSMERFRW9tanNCZkthaUE5R3NyMm9OOXZHNmZrd1huSnZnYVlLVDRXeFFEWEF0S3BTaTlJa0ZjdWlRbHhtaWRrWUd5dXZz?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "‘18년간 헌혈 119번’ 김인회 인하대 로스쿨 교수…“건강 허락하는 한 계속”",
-          "source": "한겨레",
-          "date": "2026.11.02.(월) 15:41",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSOTNBZFdKaWU0UzJvYWV3aXdtelk0bFEyX2RzZnBRRS1Va2RYTk42VWdmakRrcEJRN3ZCdUxEWmtOZ19xQ2hJYWxfMGNoQXJHM3pWTjE4NE9wUjBTRXVobGI5VQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "성남도시개발공사, 사랑의 헌혈로 생명나눔 실천",
-          "source": "전국매일신문",
-          "date": "2026.11.02.(월) 14:25",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IWU94dVJZYUxBcHpVSy1kcWdWNFlvVlgtODMwNVZEU055ZDV0SE0tWGVjX1J6RjVzcmFFb3ZTWUd5T3FvQTBDWmNQX1ZLNWR1LW9BdkY1RndGWkdHcklwanFhUVVBZmNHNU9Feg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "서울 지하철 발빠짐 사고 5년간 436건…성신여대입구역 틈새 최대 28㎝",
-          "source": "더파워",
-          "date": "2026.11.02.(월) 14:06",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DUW1WS0VySmlwWXZYRW1FY0EtZXVZbnBQQ0JtQ3BaaWhhVjF5Y29xc0R2eldESGRYVmZYRHJBQzZoTnpHSkZ1d1hIVWRqNGxFS0dnc2tFYld6S21tZXJRRG0wRWRESnEtSDlRQWgyMkdmOFpOQkFCVkpFQ24wQQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "바르게살기운동 연천군협의회 청년회 헌혈 캠페인 펼쳐",
-          "source": "연천뉴스",
-          "date": "2026.11.02.(월) 12:33",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rX1A1dWVPODh1cjZlblVfMXJvYlFjcGFoVm9ybkpmQktsLWhGUTNpOTNSOGk4TV94SHJHOGlJbzJtR1dERGNyOHVHT1dCWWJTQ3YwVE5SQWFnRjNzSzg3S0x0eURZWVRrankzYnY5dw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "성남도시개발공사, 사랑의 헌혈 캠페인 펼쳐",
-          "source": "경인종합일보",
-          "date": "2026.11.02.(월) 10:41",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yS3Rrd0h6RUZsMWZTQWtpcVpuTENiSG53b2l5engzMUc3TThEU1ZqYy1BYjdKbUdSbDlxUE1BOE5WaWlsSHE0RVo3SFNjVzVrT013N0FPOV95T1FvSGJBcXh2djczTlp6bGhMZzRzYWtWUdIBckFVX3lxTE1yS3Rrd0h6RUZsMWZTQWtpcVpuTENiSG53b2l5engzMUc3TThEU1ZqYy1BYjdKbUdSbDlxUE1BOE5WaWlsSHE0RVo3SFNjVzVrT013N0FPOV95T1FvSGJBcXh2djczTlp6bGhMZzRzYWtWUQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "성남도시개발공사 헌혈 캠페인…백혈병어린이재단 기부",
-          "source": "일간경기",
-          "date": "2026.11.02.(월) 10:28",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqR0N5S280RWlYSXN5Y2JTYmt5aTYzb1N4RVliQmVoMnB3TzROR0RpMFhpOEVBX1g3R2hJTFY5b1NqbVBSYlFseVlKZ3RmcWRTVnJmNHNwU250N1JyS0pXdTFFRk1uV0N1?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "이인화 서울시의원, 지하철 발빠짐 사고 436건, 위험 구간 개선 시급",
-          "source": "이뉴스투데이",
-          "date": "2026.11.02.(월) 09:52",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnTnN1WXloeGk3aFdMa1dhNjNZVllGbldYWndvQ2U2N2FlSkR5akY0QjhpSmNPQTBJcnZ5XzJ4U3dKTldwMlFKd1laLW1XVmxfcWNyeFRUSXp3eWJhb2EzNHQyYVpJZzVsd1Q2RGhZeWJxWGd60gF0QVVfeXFMUGdOc3VZeWh4aTdoV0xrV2E2M1lWWUZuV1had29DZTY3YWVKRHlqRjRCOGlKY09BMElydnlfMnhTd0pOV3AyUUp3WVotbVdWbF9xY3J4VFRJend5YmFvYTM0dDJhWklnNWx3VDZEaFl5YnFYZ3o?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[부산 브리핑 모음(11월2일)] 부산항만공사, 헌혈 약정 체결… 지역 혈액수급 안정에 힘 보탠다 등",
-          "source": "대한경제",
-          "date": "2026.11.02.(월) 09:03",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oV0N2Q1FfdHJVQnNrSGFQSVRIWGRmMHFEZ0pPRlJKZ0h0VnhBVXFUdmZMQ2xIdmtUc1RxUkNZVTdCRnRLM2k3UURwZmt2RWhDNk92M1ZBc201RDFVWkFkUjRhVHV6aXFZdVljNDNqVFRPV29M?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "KH한국건강관리협회 대전충남지부, 생명 나눔을 위한 ‘사랑의 헌혈’ 캠페인 실시",
-          "source": "세종충청뉴스",
-          "date": "2026.11.02.(월) 05:36",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGWVN4SGZuZTRzbU5sUmF4dGRHODZOWUl0SjQzVFBJMXMxUy1wd21sZlRqS2FkVVRCY2pla0NPbHpGcWQxb0E0S19NemVMYzlJZEhHRFhMMFVKWGlBV3draVV1M2lubzliN1k40gFvQVVfeXFMUFU2RkQ2MlpkNE11NkFyNnRlWVl1NjFUaEZPdFJ5WkNVWTJvY0JzWkczOFZBWGQxQk9tUDJLZ3JlMi11RWdwdVdvRHJOeV9acWswSVduWmNiTlFVakU5LVhENWpNOHpBanhBUnQtTXg4?oc=5",
           "region": "national"
         }
       ],
