@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:04:55.006155+00:00",
+  "generatedAt": "2026-11-06T19:29:36.694051+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -9,6 +9,13 @@
           "source": "문화일보",
           "date": "2026.11.06.(금) 09:26",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wMkV4eHc4bFhkNmhFbFZzVm9NZ1FDSzdYN0pSeVl6eS00OG9uTnFSZ1BERm1qb0RJOE9uaGZ5U2U5NEJBbnhLNjNYdWladWhk?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "부산백병원, 최첨단 ‘광자계수 CT’ 도입⋯중증·응급의료 인프라 고도화",
+          "source": "코메디닷컴",
+          "date": "2026.11.06.(금) 09:21",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QdUVNWFRGeVNZZGlJa0k3eURvbHFQWndxa1lpc1Q5LXJDVVZoSE5TSk1wUXl5Mi04bGhvd0IxUmc1QQ?oc=5",
           "region": "national"
         },
         {
@@ -47,24 +54,10 @@
           "region": "national"
         },
         {
-          "title": "동부제일병원, 지역응급의료기관 재지정...2029년까지 24시간 응급진료 이어간다",
-          "source": "하이뉴스",
-          "date": "2026.11.04.(수) 15:50",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OUnRiT214OGVPQWtTMExjdnhkb29mR1ZDWWZSa3M2UVRjMnpJVE9fQmRTcHdFNTAwNDVyZVdhQllWSVNNdGU1ZFh2N2JUVWpXalRqazg5REtUQ3BnQkNqaE5nTXhQTGdBaVAyVjVFZzY0Z1dSdi1n?oc=5",
-          "region": "national"
-        },
-        {
           "title": "전북대병원, 권역응급의료센터 재지정에서 우수 성과",
           "source": "전라일보",
           "date": "2026.11.04.(수) 15:37",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3NGkyTGM1M3F1SGhSZ1NuT0ZtUEwxbnEtLURvQS1TVjI3Sy0zelN5RWg2OWZSc3lTZ1A0RXVsTDBWOUgxenE3VTk0UDllMXNWY1dRenlQbTF0Vkt6NWpMeU80blIxQXFoV0dDMVVLTTPSAXBBVV95cUxQNzRpMkxjNTNxdUhoUmdTbk9GbVBMMW5xLS1Eb0EtU1YyN0stM3pTeUVoNjlmUnN5U2dQNEV1bEwwVjlIMXpxN1U5NFA5ZTFzVmNXUXp5UG0xdFZLejVqTHlPNG5SMUFxaFdHQzFVS00z?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전북대병원, 권역응급의료센터 재지정 평가 전국 TOP 3",
-          "source": "전북제일신문",
-          "date": "2026.11.04.(수) 15:36",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RNkYxc0xwS19WY0wxUXFIb19MVjB3ZS0xNUliYkNFRjg5dlJOc3lDZHBmR0pBc2hzUVdOajR2VkxQcjVlSkpjUDRLRnVvZHE1Z1NYTGFlcUVwUk9QX0czTzFsVlBzMWJtZGc?oc=5",
           "region": "national"
         },
         {
@@ -120,7 +113,7 @@
           "title": "전북대병원, 복지부 권역응급의료센터 재지정 평가 전국 톱3",
           "source": "뉴시스",
           "date": "2026.11.04.(수) 14:11",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WMFRxdEVHV3doS0ZjVWdvaHRSNHVhdHA2MUZHTzhKbnN3WW9OemdpRUlNWHFuVmlraGw0YUZJZlNTZzU0djBKQ05QVEMzNHJ6dHJCTjBTckR2QWNqbmpKTzExdW9aMmt3LW5GU0VlYXZ3ZnRmVTVlcNIBeEFVX3lxTE5WMFRxdEVHV3doS0ZjVWdvaHRSNHVhdHA2MUZHTzhKbnN3WW9OemdpRUlNWHFuVmlraGw0YUZJZlNTZzU0djBKQ05QVEMzNHJ6dHJCTjBTckR2QWNqbmpKTzExdW9aMmt3LW5GU0VlYXZ3ZnRmVTVlcA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTTTNHOTJROFBwQWxHZE15Z3dlckptUmtPRmJWSW1LcG9oSVdqMW5sVmoyRFdXWmVaamplbXAyUGdXNDZMX3VmTzY0RGdyVTU3X1JuczBiZnUyTjBYMy0tTdIBeEFVX3lxTE5WMFRxdEVHV3doS0ZjVWdvaHRSNHVhdHA2MUZHTzhKbnN3WW9OemdpRUlNWHFuVmlraGw0YUZJZlNTZzU0djBKQ05QVEMzNHJ6dHJCTjBTckR2QWNqbmpKTzExdW9aMmt3LW5GU0VlYXZ3ZnRmVTVlcA?oc=5",
           "region": "national"
         },
         {
@@ -138,10 +131,17 @@
           "region": "national"
         },
         {
-          "title": "전북대병원 권역응급센터 재지정… 전국 TOP 3",
-          "source": "간호사신문",
-          "date": "2026.11.04.(수) 13:46",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53Q3AxME5sU0VXMndyM2NHSTVtdDdMWjNpdWtDUXlaVVVOTEJmZDRKdU5NX3RrVjhndmFMSl9aX2tlZmYyNmEzdGN4UDF3cnh2dzZMQW5nV21ocDQ1bHByVGY4S2VSMldURHVVU2l3?oc=5",
+          "title": "“응급·필수의료 개선 기여”…하중환 대구시의원, 계명대 동산병원 감사패",
+          "source": "서울신문",
+          "date": "2026.11.04.(수) 13:26",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JLXVTOVBWanpHWTF5WVctSEVWZHIwNVJucFc3R2s0NGQ4TEJYMnN4OVUtT0JMRGZWcTAtdDRsRVl4OWJ4VGREMk43N2xzWEZMdnhnSXVybw?oc=5",
+          "region": "daegu"
+        },
+        {
+          "title": "원광대학교병원, ‘원내 정부지정센터 및 공공보건의료 사업담당 인력 역량강화 교육’ 개최",
+          "source": "전민일보",
+          "date": "2026.11.04.(수) 12:34",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpRmI4TVNlVDNRbm9xZXVteldmaU9qeE5zLXVLYkV2VzVVNFdUWWNCaGlCWjkta01Nc29oQUo3OGQwZjFRTE5UZW1ONmJCaEFJM1RXQzVNcUxxcmxWNjY0OG5CQlNfdE9rTDc3Zw?oc=5",
           "region": "national"
         }
       ],
@@ -238,10 +238,24 @@
       "label": "기타",
       "items": [
         {
-          "title": "한종문 강원도의원, 농정국·농업기술원 행정사무감사서 농업인 안전관리정책 실효성 점검",
-          "source": "누리일보",
-          "date": "2026.11.06.(금) 19:30",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKMkNaOG1xaEc2Q1o0M2x5Q0l6OGlJb2J1UnNEVUt6WFMxdWhGejdjZkV1ZDZTVkxkYml3d3hvZHRCRzkzYU5XXzRsOFdoTEdJX1BoWnMwQU40YnRJ?oc=5",
+          "title": "유한양행, 2026 하반기 헌혈 캠페인…\"국가적 혈액 수급 안정화 기여\"",
+          "source": "아시아타임즈",
+          "date": "2026.11.07.(토) 02:28",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QWlI4ZktrMk40MlRRZXlGQ215WTVtVl91Q2dYb3Z5YTM5Nlp6R3BnWFZ2RmJKQWlCSjRwaE1PbTlvZVZiTFB6ZUkwTHVnM3BnZGxmNzFaQXV6V0d1bUE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "유한양행, 전 사업장서 암 환자 위한 헌혈 실시",
+          "source": "코리아리포트",
+          "date": "2026.11.06.(금) 22:11",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5scXRLc0lvTWNqNVFkaVowX21qYVR5NlE5VkFnZjdjTldGUTVFUGU2QXZTUGlramVjQVgyWmxWZUVjcmEtUTVZS2o1Yk95MUNTYWZfcmFFMU44TWo1QjNWOEh6QlRnS3R2YTJST3Fjbms?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "농업인 안전, 사고 원인 분석부터 현장 개선까지 체계적으로 관리해야",
+          "source": "서프라이즈뉴스",
+          "date": "2026.11.06.(금) 17:54",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uUzQxWmRnaDIyWmMzRU1sTm16OTcwNUZuWWFKY18zZmhwYXZCd0dkNGxURlVITnY2WWhwX3JSQlFUdURQckZkM3laaC16eTNjYWhWVE5IYWNuNW9XQkxOLXk2SWxhYVg0TS1TZnVVWQ?oc=5",
           "region": "national"
         },
         {
@@ -371,24 +385,10 @@
           "region": "national"
         },
         {
-          "title": "유한양행 \"생명 존중 가치 실천\"…전사 헌혈 캠페인 전개",
-          "source": "열린뉴스통신",
-          "date": "2026.11.06.(금) 12:42",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hbjBjRi1JUzZIZW1QZktOWVdhcHk2b3RPVHB4eDBmei1qZ09OWERybGVjM0w1amZod29qdHhyNEJUZXIxZDJGenVseUItWVZOODRkTHM0X0d6eHdnM0JHYmNiOWc0UQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "의왕시, 공무원 대상 심폐소생술 등 응급처치 교육 실시",
           "source": "경기평화신문",
           "date": "2026.11.06.(금) 11:56",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhQXo3M1NVdDJjTHdxMXdvcTlrc3RxX0M0bTF6QUk3bzB1Z19zblJGVGJyWEhYNFU5QmVvMnd2NmpaOHJYS1VxeE1n?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "유한양행, 전사 헌혈 캠페인 진행…소아암 환아 지원",
-          "source": "PRESS9",
-          "date": "2026.11.06.(금) 11:10",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGSDJlM3pHUFRJcldqSE12LTRVTlVLZnpJcVVpTHdwUnFCeTdtOFNMV25XMXU1S1hvd2prOGF1R19DbDVjRnJVYzZIUGh5QVRjTE9VbTRmMFlDSUU4cHBGdkNuMVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94bEVqblJCNWlDZ1ZITjdnSHF2SWlvU1FEQXBEWktwbF9zZkVORlAwSDVSWmhJTF94c3NGZk9tWUozRnhGei02cQ?oc=5",
           "region": "national"
         },
         {
@@ -434,17 +434,17 @@
           "region": "national"
         },
         {
+          "title": "옥천로컬푸드직매장, 응급환자 발생 대비 심폐소생술 교육 실시",
+          "source": "국제뉴스",
+          "date": "2026.11.06.(금) 09:03",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qRjl0cnJIa25CNHRBcVNwRnN0eGlHMEtnNU1DVDlXSmZVUE9NcG9XVWhnSG0wSURHWnozZExFeXdMS2habG9TdnFXSXc3b2dsUGdqLTRQeFdzdHkyOHJ3N2tKTVdXNkxIS2ZXWmNR?oc=5",
+          "region": "national"
+        },
+        {
           "title": "대한적십자사 서울지사, 서초구 18개 동 봉사원 재난대응 역량 강화",
           "source": "시정일보",
           "date": "2026.11.05.(목) 22:00",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrY3Nha2sxQnBLRUtxM2k5QlV2M01wTWFvbERrTjg2cnRLMjBHbXdBRlRkaG8yQ2hfejNaV3htalJpeGdmOE1LbENIVlVsOUFVVWhCbkd2eDVTRk9YbnFsOEVsYVVROHYxWkhN?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "식약처, 국제기구와 함께 식품 안전사고 위기대응 역량 강화",
-          "source": "일간대한뉴스",
-          "date": "2026.11.05.(목) 18:51",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tbVFxaEIxblhVT3ZpcDRNd0NveHc4NDF5UWRDVXpEWjcwMUpfdUhNNWx1WE9RMlBjZmowNG5MNWpwQXo3VTB5UVJmOEtEbm1Mek9VdGptcWwxT0llY0t5clE5amVyUTA?oc=5",
           "region": "national"
         }
       ],
