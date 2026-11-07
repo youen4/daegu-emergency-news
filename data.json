@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:29:36.694051+00:00",
+  "generatedAt": "2026-11-07T00:57:58.643163+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -103,6 +103,13 @@
           "region": "national"
         },
         {
+          "title": "전북대병원 \"권역응급의료센터 재지정 평가서 '전국 TOP 3' 성적\"",
+          "source": "라포르시안",
+          "date": "2026.11.04.(수) 14:49",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BWWs0MW90SzlyaUpzS0IxaUQ1LUsxVEIzeVdYc1ZuOUxWOWZBZEl6LVlRNDZmS1JqamFDcUd6dTBja1V2b2N6dFpJR2hGRm1TcjlyOUE5blA3dnZVUWdYSVBQSi16SlZnZ25JOA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "[전북소식] 전북대병원, 권역응급의료센터 재지정 평가서 전국 3위",
           "source": "연합뉴스",
           "date": "2026.11.04.(수) 14:21",
@@ -129,13 +136,6 @@
           "date": "2026.11.04.(수) 14:00",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13emdxVHNoM0x6RXMySFY3ekwxTWJ3RHlPN2tRbC1IeGJjb0VYNl9xMk1IdnF2Q2FBX0t2RjBkdVFXOXlBRFNwcjhVa3l2OHoxREh2dndWWjYtdU1TQ2djVGg2bGMzazNxZHI4?oc=5",
           "region": "national"
-        },
-        {
-          "title": "“응급·필수의료 개선 기여”…하중환 대구시의원, 계명대 동산병원 감사패",
-          "source": "서울신문",
-          "date": "2026.11.04.(수) 13:26",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JLXVTOVBWanpHWTF5WVctSEVWZHIwNVJucFc3R2s0NGQ4TEJYMnN4OVUtT0JMRGZWcTAtdDRsRVl4OWJ4VGREMk43N2xzWEZMdnhnSXVybw?oc=5",
-          "region": "daegu"
         },
         {
           "title": "원광대학교병원, ‘원내 정부지정센터 및 공공보건의료 사업담당 인력 역량강화 교육’ 개최",
@@ -175,13 +175,6 @@
           "date": "2026.11.04.(수) 14:42",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMjFPeEc1YkUwSi1wUWhrUllXM0hubzM4aXJUNkt5Q2ZrQ2diakJ1YzdNYXQ5c09kOXBxZTh6SVJxSENvd0M2WlRDQk9wTjBabEYxbHlEdjM1LUtxQlBWQXVpZjZNM1FnRDRZYk5id1o?oc=5",
           "region": "national"
-        },
-        {
-          "title": "[건강뉴스] 마포구, 임산부·영유아 영양관리 돕는 ‘영양플러스’ 연중 운영 外",
-          "source": "베이비뉴스",
-          "date": "2026.11.04.(수) 05:09",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42bXlidGZNUGJuN0lrOEFrM2dTRk1JUHV4TE1fQjZ0QjRCNUdfVWJrUGxMZmJzMWJHQ2M5aldRRHRNaXhDaDc5eWFxVktHb3ZZbzFOMmdFTENJcWVfdDlsQ0RqWW1IS1ItREdvNQ?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -211,10 +204,10 @@
           "region": "national"
         },
         {
-          "title": "젊은 의사들 흔들어 놓은 소아응급실 압수수색…필수의료도 '흔들'",
-          "source": "코리아헬스로그",
-          "date": "2026.11.05.(목) 09:23",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvQmxKbkhVaXZHUmVnLVMtX1hXVGNTZ3FlLVVFaWY5SXdFaVJkd01sOElxeFFkb0lRaTU4MlRNZVdHQmIwTWhtQ3MyRVNGX0x0QW1WQkxRWV9nYUo2c0x5SXlvSHdxM0dKWkVady1VTVJxQdIBdkFVX3lxTE95TVJkc3Jsd1A0d0VCTml6bHpza19PYjlMellWRTZrMGd6aVNlY0xaM2ZEVGs5aF8yME96ejVCcGJXcmItNUJJZ0ZQU3pES01ZOVlpM3lKQVdjbWI0Zks1UkpQYWZjeTQzUmphSmoxdGVrN2VfMkE?oc=5",
+          "title": "\"조용히 진로 바꿀 것\"…젊은 의사 흔들어 놓은 소아응급실 압수수색",
+          "source": "청년의사",
+          "date": "2026.11.05.(목) 06:46",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zOGxGcTVQRXM1XzgxSHZEeTBKaEFja0tVSjlyOWljVUg2eEZGdl9weG55LVEwZGw0SlpWLVJGVGo2Nzh5QzhCRWZRTnM0SE9UcEpEWHhpYnpTal8tUmpRUUpydmhFVEVhYmpISFRvMNIBc0FVX3lxTE1rRzl4RVRMdzFkR0h0R1VyZ1pMdGtMX0ZWTktWNndjRGxHSmRTYWlEVDVoY25nM2p6ZWZDU0RYV1doSFl4ZGpRbFZPTUJ5M04yVFVTbllxLUVZVHZGZVVYLWFIOG1CdnJ6MVBoZGx5UC0xWGs?oc=5",
           "region": "national"
         },
         {
@@ -249,6 +242,13 @@
           "source": "코리아리포트",
           "date": "2026.11.06.(금) 22:11",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5scXRLc0lvTWNqNVFkaVowX21qYVR5NlE5VkFnZjdjTldGUTVFUGU2QXZTUGlramVjQVgyWmxWZUVjcmEtUTVZS2o1Yk95MUNTYWZfcmFFMU44TWo1QjNWOEh6QlRnS3R2YTJST3Fjbms?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전북특별자치도혈액원, 생명사랑 헌혈릴레이 9천345명 참여",
+          "source": "전북도민일보",
+          "date": "2026.11.06.(금) 18:14",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yNjdPRUJMekE5QWtsSjJCYXU3bzVsbUMzX2NweElnbWViSUx2T1RiYUNuaVFFMW5NMEhraW5MMzBidUpCU2U0N3lqSU1Qa01PR2M2eE43LWgwelJST2t4dU9IcEhZSHVpNHE0?oc=5",
           "region": "national"
         },
         {
@@ -392,13 +392,6 @@
           "region": "national"
         },
         {
-          "title": "유한양행, 하반기 헌혈 캠페인에 임직원 60명 참여",
-          "source": "파이낸셜뉴스",
-          "date": "2026.11.06.(금) 10:53",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pZU5RN3QwYURyUG5XUWJ3ZURTWWZCZmphTWxuNG5VOFB0YjljN2pLVnBNalE5NnBDNFh5dnJXRnF4LVgyOXhDZ0drLURDRzNySTZ6bmNwMTJidw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "유한양행, 암환자 위한 '하반기 헌혈 캠페인' 전개",
           "source": "메디소비자뉴스",
           "date": "2026.11.06.(금) 10:50",
@@ -413,17 +406,17 @@
           "region": "national"
         },
         {
+          "title": "유한양행, 하반기 헌혈 캠페인에 임직원 60명 참여",
+          "source": "메디포뉴스",
+          "date": "2026.11.06.(금) 10:42",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qSG5QaUp0UEI0WjFZVDB2R0lSekJPdkszSW1kMUQ5SGY3ckpSQkxKdFpsMlBtNVVFa2p3SWJlX0JmazZzQ29BTUtKejE0QlVvckNELU9xdWJfZUM1dHFSVnZPZlE?oc=5",
+          "region": "national"
+        },
+        {
           "title": "유한양행, 전사 헌혈 캠페인 진행",
           "source": "e-의료정보",
           "date": "2026.11.06.(금) 10:38",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96a29MaEt0R25FT3hlZ2FrY2ZZczRpbjNiUDMzMW8yemhEMDlJT09NSmZ6UXZGRENFakc1WUtMYkhUaHNBb2ZtYzI4RnhKSVA4MW5FenJuNmVHZXRVT3NrblNLdmttTE1Od0hJ0gFvQVVfeXFMT2FNZ2dYQUtYRXJoTFJEeEJEeVF1UEtkbXpmMVpDdWlGYXVFUnl4V0dGdDU4NFotZTE4b3JiR3hiS3Zldkg1QnljME5SLXNESUlybnlDYkN5OTEtUW5MOTNKeUlSZkVEVDQtTkN4ZU9Z?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "바르게살기운동 안동시협의회 청년회, 생명나눔 헌혈 캠페인 펼쳐",
-          "source": "경상투데이",
-          "date": "2026.11.06.(금) 10:33",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aZnRtbWpUTllaVmFJU2xBQThFSkZZbmZIQi1OVS1nSUlYbHZIRXdHc2RLcFZaWkVxUUczNWhLODFLUFZnMVJTNWRUSkZXZVBQbDNJbFNpTmpFa20wQXpRelQzbVNHRGc?oc=5",
           "region": "national"
         },
         {
