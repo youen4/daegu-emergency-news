@@ -1,14 +1,21 @@
 {
-  "generatedAt": "2026-11-09T11:46:02.131284+00:00",
+  "generatedAt": "2026-11-09T22:28:47.728778+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
+          "title": "원주세브란스기독병원, 소방의 날 맞아 구급대원에 간식 전달",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026.11.09.(월) 21:06",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WOE5WNVpJTzVhYm9tYmRRbXhZSloyN2FZUDJ0WWx1RC1zNWNtMWNQYW10N0FLcnlrYldSbjAweWdZY1V4bUJfLTJaWGs5RGhCaVB6VQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "원주세브란스기독병원, 소방의 날 맞아 구급대원에 감사 전달",
           "source": "원주신문",
           "date": "2026.11.09.(월) 19:15",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzZyZm5Wb21fRU9oRmRITHU1Q2dTMVhva0RPRVhOU2hDZ1JuTGxIcTBMWlQyMEYwRnlRYUN5NlE1bTJ5djhWTTdaZkFXZF9QbHFLVHUzek5fRHZiclNLblVyWWtOMDA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBSE1uUjdITzhjYzJrMzRrYTJmS2pQdExEZUIzM3pKVGc4NGJHakc1VFNYM3ZLTkJLVnBxTWFSQkdXVWhGQnJfWGg0R3FMSHpnQW1mRExTbE1oM09Bd3h4MXZSZXQtSzBf?oc=5",
           "region": "national"
         },
         {
@@ -19,24 +26,10 @@
           "region": "national"
         },
         {
-          "title": "원주세브란스기독병원, '소방의 날' 맞아 구급대원에 감사 '행사'",
-          "source": "국제뉴스",
-          "date": "2026.11.09.(월) 17:02",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85c1J4Skl5RjVHZFhEbFhwYlRUUVk0Yk8wcmRfbnpkR3I5aVJfaVlOQVhUaVROVEp1c0plQnozVHdTVk1kdVlfOVhIU09EX1lJdjgwVGktUWh0M01FdHp4RmFET0tCTXBJNVlWcUZR?oc=5",
-          "region": "national"
-        },
-        {
           "title": "원주세브란스기독병원, 구급대원 노고 격려…간식 꾸러미 전달",
           "source": "간호사신문",
           "date": "2026.11.09.(월) 14:08",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aMjc1aW5FZ3hYcElIYUNKeHRub1J4cW1mdEJDR01yNEZBWnVVOUItWmNONFowanpkVFprMi1Jc1YwTXpIZWdLOGZzLTRyamhYeVN4b0xCMG9iRG5DQkhSWXBBYlRpWU9LT2xiWGJB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "소방의 날 맞아 구급대원에 감사 전해",
-          "source": "병원신문",
-          "date": "2026.11.09.(월) 13:54",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3OTNwVGN1QzZXVWwtdmh3S201dXpNQ1lGTzNBTmh6WDMxeTJjOXRVS1lYVW8tWU5QLXdqeE16MHh6YmJVb1JhN1M3aGZNMnBEUUJ1eUJBcEpNWXdTQXFGMDJyUFBLUjlHY3c?oc=5",
           "region": "national"
         },
         {
@@ -58,7 +51,15 @@
     },
     "er_runaround": {
       "label": "응급실 뺑뺑이",
-      "items": [],
+      "items": [
+        {
+          "title": "[특집] 개원 18주년 맞은 에스포항병원…응급실에서 수술실까지 30분…“골든타임 사수”",
+          "source": "경상매일신문",
+          "date": "2026.11.09.(월) 21:06",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80blBMNVZneWEzMFhsZ3VHWUctczAwTG9fcGlCNmswZEcxVTBvQldJUm80cnVQRUJ6dWRMYXB1RURUeWQyenFsMTBrOWxWcllheWFyckx0VHpRWTJEOTlV?oc=5",
+          "region": "national"
+        }
+      ],
       "error": null
     },
     "disaster": {
@@ -91,13 +92,6 @@
           "date": "2026.11.08.(일) 11:15",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53UFN3bHd4ekNybk5zeklWdjNERXU5S3JYRVdtZGFNV3JmNTZKX3hJY1RXQlpmbm1oaXhlZ1VKeUJHc2hfRVhHdERQRFE4VnVvR21QcVJBUmlmaGptZXBQdNIBeEFVX3lxTFBvWEVpbHR6S2poaTQ1TXJLbllvRHMza0xMeWo5TWFQZktxRUZsZjh1Z25rc2ppRGVGQ2tsNm9mcV9TTFJuTlRkalBtX0pieGxNRjZzbEQtLUNTRkw4d20zbW83c0taRWtteEttell2SkxNS1F0Rk12Yg?oc=5",
           "region": "national"
-        },
-        {
-          "title": "근무 조건에 쓰이는 카지노 칩 채용 용어",
-          "source": "www.zolotnit.ru",
-          "date": "2026.11.08.(일) 06:03",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZ0x5ZUtOYkFfWGtDUG1TM0RWdHF4WXY5ZEsyS216TlVWR240aXpPZEdYbFpLbmgzZ2l0ZERrakVKX3FkSG5oaWVsZU1oZEpzUzJnZG1EUV9Ddw?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -111,10 +105,24 @@
       "label": "기타",
       "items": [
         {
+          "title": "건보 대전세종충청지역본부, 지역사회와 ‘생명나눔 사랑의 헌혈’ 실천",
+          "source": "뉴스밴드",
+          "date": "2026.11.09.(월) 23:38",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GbnhBSjdIY3N0dno0VkFhclpFWGJsYmpnWUFsYmpYckVuT1NydmV4UlpXT1RqbnBZNVpXNV8tMzh4bC1xaWFIWVBIa1dvcVFRTDQ5WHVGOS1pQnd6UHJjZEFqNHV6R2Na?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "하후이탑 고등학교에서 심폐소생술(CPR) 교육을 실시하고 있습니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.11.09.(월) 22:07",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkJSc1ZLTHBzaUFQTzd5YTFYSHJsX00yQW53UFMtX2NDam1CRGJWb0t5WFRTQS1WMGkxLUhEOWtLdkxEWFhZenNXTG5CMUJmVEdnOXVkZlYzSUk1MjQ2Q0hHUF9fOTZacmMwTC1hczhwZnFpekthTW5zYlZaSGh4WUp1b2Z3RzZycmVjSTFoYUw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "금오공대, 헌혈 문화 확산에 적극 나서…HCN 캠페인에도 참여",
           "source": "핫콘뉴스",
-          "date": "2026.11.09.(월) 19:22",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YYks5bjVObGl3RHhDMWZIdzFHQU1MZWtyRGs1N1VGcHZheUt1SEViaGJnSkRBb092Z1MwUk5WMXFfTmxYcmVUcmNhdWtTRC1KM0F4Y3YxbGhMT0FvQWJfRFNwMVVYcjdPR0xocjN6TdIBb0FVX3lxTE5YYks5bjVObGl3RHhDMWZIdzFHQU1MZWtyRGs1N1VGcHZheUt1SEViaGJnSkRBb092Z1MwUk5WMXFfTmxYcmVUcmNhdWtTRC1KM0F4Y3YxbGhMT0FvQWJfRFNwMVVYcjdPR0xocjN6TQ?oc=5",
+          "date": "2026.11.09.(월) 19:05",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uWW1HRjBvelI0R2NmbmlhZGQ4MTcxNXg3blM1RVlJYWp2M1FZU2FpNm9rWUFUTTZDc1JOTUJlS3RncmdTaVdUV01jdy01cFE3aER4VER5LTJjeExCclJlUjdYOEo0MktGOXVF0gFvQVVfeXFMTlhiSzluNU5saXdEeEMxZkh3MUdBTUxla3JEazU3VUZwdmF5S3VIRWJoYmdKREFvT3ZnUzBSTlYxcV9ObFhyZVRyY2F1a1NELUozQXhjdjFsaExPQW9BYl9EU3AxVVhyN09HTGhyM3pN?oc=5",
           "region": "national"
         },
         {
@@ -132,17 +140,17 @@
           "region": "national"
         },
         {
+          "title": "제주도, 안전사고 재발 방지 총력…화학사고 대응체계 강화",
+          "source": "경기종합뉴스",
+          "date": "2026.11.09.(월) 18:15",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UVWdtdWJRRDhycTJxYXN6cktzNUh2LWlieU90TUFiODdHT0ZNbWdTeDR3T1BhYVpkZTkyc0VzVzlYS3RieHd3ZW1fUm9PY1RDREl6eThJa0hTSW9Ldm94bUJ0ZFR4Unc5RVYwQ0phZnBzWldX?oc=5",
+          "region": "national"
+        },
+        {
           "title": "“생명도 살리고 환경도 지키고”… 경남헌혈봉사회, 봉암수원지서 구슬땀",
           "source": "코리아이글뉴스",
           "date": "2026.11.09.(월) 17:25",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kYmV5aUxxNjVJTmZSaThqWno1VUJBc1JfUHpLZlZNMk9jd0R5YV9RcTNCaXM3b183ZmRvSGlnNHphLXdVMGdIdXNDdW9ad2pQaTN3WEpfU2JCdnBMTHdxVG1XUzRpN3FQMlhqY2hMSEVjT1E?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "건보 대전세종충청지역본부, 생명나눔 사랑의 헌혈 실천",
-          "source": "충청신문",
-          "date": "2026.11.09.(월) 17:24",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lYWJxVjJQeWY4OFpCLXY5UlFZMl9xNzNfVTJuUFJnVUJZWkE0LW1DZ29aZlZwMThSa2pDS3NTckhTQ3lvVkNjMC1fby1JdlhMQ0tXejFJbXl4d3ZKTUhiOGx4TEZJYVpHNkHSAW5BVV95cUxNdDFZT1lXR21MVTRMZ2d5V1ZVUFNIbTJtLTBYMm1UN3RMR1F0RlN0V1hYOFB6TFotNHNyYVh5V2JpM1d3alpscjZQTjhnMklBT3dVUXh5M3NFbUtlZG5QeHlBUmlhOHg1ZHp2U1VOdw?oc=5",
           "region": "national"
         },
         {
@@ -199,13 +207,6 @@
           "source": "문경시민신문",
           "date": "2026.11.09.(월) 14:12",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByUzNGdFhKNVZ4ckMyRnI3OWNndzgyMFNCTndiV2FuWmlHcUlVM05pS3BGTkNDMTQwNFBsRXFKYmRGcXNOWFpfUTRtUGY0UQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한국마사회, 6일간 안전문화 확산 캠페인 ‘세이프티 컬처 위크’ 개최",
-          "source": "매일일보",
-          "date": "2026.11.09.(월) 13:56",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUVd0M29BZ3FYU1BCMkpSdTZjRFotUE1NNWdxVkVQcUNKQ3U3V1ZwYXJnNDVReWZ4Z05ZcnBndjlKRWJGYTVOVnFIeHNrWkFpRDVTRk4wVFhBU3ZhcWZEWVlSS1Y?oc=5",
           "region": "national"
         },
         {
@@ -286,6 +287,13 @@
           "region": "national"
         },
         {
+          "title": "'블루아카' 5주년 페스티벌에 모인 선생님들, 헌혈로 사랑 나눔 동참",
+          "source": "데일리게임",
+          "date": "2026.11.08.(일) 15:15",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZW1qamRoVkFhMWlneDhNM2Nvbzh2a004R3hkUGd3QXFzLU5yMlRsT2RlNUxkaDEya1gweHhIbjZQUGJKUF9rUFJHbTl6eVJTb3ZfTEZvaHd3WWRQdFc1d2U1WUZESUNMbEl0QmhPVXhIcTZzdFl2RVlhVQ?oc=5",
+          "region": "national"
+        },
+        {
           "title": "유한양행, 전 사업장서 헌혈 캠페인…소아암 환아에 헌혈증 기부",
           "source": "매일일보",
           "date": "2026.11.08.(일) 10:39",
@@ -304,20 +312,6 @@
           "source": "뉴스1",
           "date": "2026.11.08.(일) 08:32",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42M0I3aXBPVnc4Rm51WjFZMkZKd2pzbnMwNWxHeTRKNk1HaDhuX3JuUG9qeEJwS2JpRDVoUG5za25vVkZZOWQ4dTQzekFRM0xsX1FDa09vR21mdUZ0VEVwdQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "옥천로컬푸드직매장, 고객 응급환자 발생 대비 심폐소생술 직원교육 실시",
-          "source": "내외뉴스통신",
-          "date": "2026.11.08.(일) 08:14",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xUTE4aERTREp1RXluZTN5OU0zWndrcXlWY2tkUDJ5bGsyZ0IzQVpHVGlaSEJDQXNncGtpc1VZVHB4VUhMTjZ4RXRETDR2czY2aDdtemxDNEdlbUFUZVVlUlctSk5HNHBVZzVHZtIBcEFVX3lxTE1zUVU1bXRnclBIUG52LUQ0cmk1NmVOWXhzdTEtRVRoaENYWFZKc1pJNlRtSlREaE5xZDI1M3RnYnMtRWl4U0t6c2tUUFdKZndNdVhWN0NYMEpwUHFkMFB0WkhqWGprbUR1MDg2TjFTRVY?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "부천시, 발주공사 현장 27개소 안전점검… 위험요인 사전 차단 > 뉴스 | 코리아저널",
-          "source": "www.koreajournal.co.kr",
-          "date": "2026.11.08.(일) 00:05",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jRzl3TDN3WjEzcDBWdjBDdkZQRlV3Z3kzZ2lwZ1VZLXJBajMzWHFKVlpXX2xFWl9OaElCbEpDUkVqUktGVFpKbTZPVmU5RFhTa2hwSGZzRkFST2NpeUpVdnoxcHowVHVqc2lJUkZNUS1NemluX3k4Q3R3?oc=5",
           "region": "national"
         }
       ],
