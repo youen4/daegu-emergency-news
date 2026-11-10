@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-09T22:28:47.728778+00:00",
+  "generatedAt": "2026-11-10T07:27:30.005925+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
         {
-          "title": "원주세브란스기독병원, 소방의 날 맞아 구급대원에 간식 전달",
-          "source": "MEDI:GATE NEWS",
-          "date": "2026.11.09.(월) 21:06",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WOE5WNVpJTzVhYm9tYmRRbXhZSloyN2FZUDJ0WWx1RC1zNWNtMWNQYW10N0FLcnlrYldSbjAweWdZY1V4bUJfLTJaWGs5RGhCaVB6VQ?oc=5",
+          "title": "소아전문권역응급의료센터 압수수색 사태를 보면서...",
+          "source": "의협신문",
+          "date": "2026.11.10.(화) 13:45",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWthWjBYTHdfQTN4eEdEUFlwdjFkMlRzdHlYUEFGQmFhMV9LMHpKUnJoTy1fb2lrNW5nQkhERkNuakx4WGFlbHRzR0ZQbXExMnFoLWdOU0F3S2Z6T3BNSE81ZnB6WF9TbHdRVTR0ZkozWVR6QjJFdEQwU3BIdmdWazNKX2Jqb3RfTDlJ?oc=5",
           "region": "national"
         },
         {
-          "title": "원주세브란스기독병원, 소방의 날 맞아 구급대원에 감사 전달",
-          "source": "원주신문",
-          "date": "2026.11.09.(월) 19:15",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBSE1uUjdITzhjYzJrMzRrYTJmS2pQdExEZUIzM3pKVGc4NGJHakc1VFNYM3ZLTkJLVnBxTWFSQkdXVWhGQnJfWGg0R3FMSHpnQW1mRExTbE1oM09Bd3h4MXZSZXQtSzBf?oc=5",
+          "title": "원주세브란스기독병원, 소방의 날 맞아 구급대원에 감사 전해",
+          "source": "메드월드뉴스",
+          "date": "2026.11.10.(화) 09:23",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94VzhpS3VNZ2M5RG5PUzQwSk5IQUNOOWNKdlB0cGhyQnVEdU1lZldySGpnLUYwaWVHUjZlNm9pZGlsUFhKVWhuTXp1U3B6LXBwZm9fNFRFdmJHVFdzZzhBTHpHcXRYQTVJeklOZw?oc=5",
           "region": "national"
         },
         {
@@ -30,20 +30,6 @@
           "source": "간호사신문",
           "date": "2026.11.09.(월) 14:08",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aMjc1aW5FZ3hYcElIYUNKeHRub1J4cW1mdEJDR01yNEZBWnVVOUItWmNONFowanpkVFprMi1Jc1YwTXpIZWdLOGZzLTRyamhYeVN4b0xCMG9iRG5DQkhSWXBBYlRpWU9LT2xiWGJB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "이형민 대한응급의학의사회 회장",
-          "source": "일요시사",
-          "date": "2026.11.09.(월) 13:25",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yRDRUR25BWFI1ZmpzSjh6R01DZjlLY0huU0lxX3RRdW9FTWNSWE15UUJmVjIxeU1fVlJrM3dGUlF2aE5HZjVDMlgwRkdkNHl0UkZlODNNUlJHT25uOG1NUTU5SzZGc3M?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "부산백병원, 비수도권 최초 '광자계수 CT' 도입...'권역응급의료센터' 본격 운영",
-          "source": "국제뉴스",
-          "date": "2026.11.07.(토) 14:11",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04dFcyT3piZWp2VHRZQXdOT1RIYmhOTzZmWkEwQXZoWC1QdC1neUM4STZrM1BHZlVTMEQ2bW9kUm5KWXF5QkJ6aXQwS05lUnJGRXA4NF9mQ3FybjNsNUNDRmJJV010b2lGMDAxN1Jn?oc=5",
           "region": "national"
         }
       ],
@@ -66,31 +52,59 @@
       "label": "재난의료",
       "items": [
         {
-          "title": "[서울대학교 의과대학 통일의학센터]제26회 통일 보건의료로 통하는 열린강좌 개최 안내",
-          "source": "서울대학교",
-          "date": "2026.11.09.(월) 16:49",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RMzNqNC02Y1owOVV0cXlhVTRmeGNMSU5nd1FQd0lUbE52TG9WaXFNb1NkM2lwRkR4em1PLWl4UDdzTkFBazFlcUhfdEFQVDI5RHViaFVKVVo3N0xWcDQ2WDdhb2o?oc=5",
+          "title": "전국 재난의료 인력 150명 천안 집결... 대형 재난 현장 대응훈련",
+          "source": "한국재난뉴스",
+          "date": "2026.11.10.(화) 15:47",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OSTloQzFFR1pZWmdHSGwtZUZ2QzR4Z3NkY0tsRGhKVmhDQWVFemtXaXV5TFNvcGFfaVBwR1pzQ1M2cHdMcm5lRGlCenNkUl80WU96V0xJU1kxNC1zbnMyblVObGhKc3VMblE?oc=5",
           "region": "national"
         },
         {
-          "title": "한파 보호망 더 촘촘히·제설 대응 더 신속히… 서울시, 겨울철 종합대책 추진",
-          "source": "국민기자뉴스",
-          "date": "2026.11.09.(월) 16:00",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OTTlHZk9kVnU3aXNqMkFySmd5WDhOdUdXd1pWQkFNTWFFTnNubVBNdGUtQlM1QWR1ckYwZDdpRHBiN0hnblF1V2pjZzhxaU9iRjVUTVZHQVBTMFhUaG1hb0Yxc9IBZ0FVX3lxTE5LeWswVS03ZnVOMUJOd0daOGhOdDFqWVVxNXRMbl9hVFVzQjZ5RnNJLXJmM25DTG9mNmpsOTA4aUV5SVkwS1hLX1lkeWp6T2ZPVThfeS1aYUJoRGlaVWFTSGNHMm9QTWM?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "서울시, 겨울철 한파쉼터 확대·제설시간 60분으로 단축",
-          "source": "천지일보",
-          "date": "2026.11.09.(월) 09:57",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dEtVYm9Wc09XeVFHNWp3X0lQcTRGUkw4UGpNYWRVYXFsbE9FVklscjE5RlA3ME9ZelNxQ2lDemVJTTU0YzBvcU4yMXk0MHFNd2lYZUM2RjlCemZ5Y0xiOTk2NHAtRHNGd2c?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "서울 한파 대피 '온기소' 첫 도입…이동노동자 쉼터 신설",
+          "title": "'보건소·병원·소방' 손발 맞춘다…재난응급의료 훈련대회",
           "source": "뉴시스",
-          "date": "2026.11.08.(일) 11:15",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53UFN3bHd4ekNybk5zeklWdjNERXU5S3JYRVdtZGFNV3JmNTZKX3hJY1RXQlpmbm1oaXhlZ1VKeUJHc2hfRVhHdERQRFE4VnVvR21QcVJBUmlmaGptZXBQdNIBeEFVX3lxTFBvWEVpbHR6S2poaTQ1TXJLbllvRHMza0xMeWo5TWFQZktxRUZsZjh1Z25rc2ppRGVGQ2tsNm9mcV9TTFJuTlRkalBtX0pieGxNRjZzbEQtLUNTRkw4d20zbW83c0taRWtteEttell2SkxNS1F0Rk12Yg?oc=5",
+          "date": "2026.11.10.(화) 15:11",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRTFkd01ESjlDdWV6Y20xc1RlOHRCbk40bklQU2xHanpkU3ZNWWtZZDdFU0dmUkx1NWliN3h0NW4wbDNWY0VCcENUczB4TlFNLUN5US1SdkJrQkZNdnpXTdIBeEFVX3lxTE1EQm9aaEYwWWtySko3d2ZoangwZ0tlVnFPejg4SXQtdXN4QmoxRThZWnBSMm1GdFo0YVgtbVZzY3hnOXk3S1plZGxBNk9Yd0xYcGhnSnN1VlFVbklsVnJtNFNoQXRwYjU2RjVVcS0wTXZrSl9lQlRIbg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전국 15개 시·도 '재난의료팀' 한자리에…'2026 재난응급의료 종합훈련' 개최",
+          "source": "BBS불교방송",
+          "date": "2026.11.10.(화) 14:45",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vb2N6U2hjVjVRRHg0bDNlSDRqWWVsT1NieEJLdFoyekY3bS1PSmw3TmloajI5dm5xNmdkd1VudGxXV3N1VlNsT21wT2RVdzl5VVc5enFRalJNR1lETm9aNHdzR2t5R1pFWV84?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대형 재난 대응역량 점검한다…11일까지 재난응급의료 종합훈련",
+          "source": "연합뉴스",
+          "date": "2026.11.10.(화) 14:14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jRU9IY2pXdHVVWDJyelA4dHlhWVhDV2I2ck5lMmtDYlpfWm9IUFhLWEpsWGJHeHFCZUl3VE9INExES2xORGZ3M2dCelR0NUNtcE11RUo2QVlUWm_SAWBBVV95cUxQcGZuR3R3WEx0d3N5WEJrel9RcW4wVGZJV1c1OWxGd2dQUjBxdUQ2WTE2dkVpd2JpNmhFT3ltcGdDMW1JaXVhQ0dJSDRjNU8xb2w3MkF4N0N3Z2NvVWpDR0I?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "간호사 포함 재난의료 인력 150명, 다수사상자 대응 실전훈련",
+          "source": "간호사신문",
+          "date": "2026.11.10.(화) 14:13",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85ZTY3OENqRWhOdUlvRjBERTNLTkpnUno5NVhvampiVm9SdHpjekpMR3h4bkUzVFpXT2E1aGFoVjhmOVBXN1dVWkRoVXBmQTRSMXZ3RHRyeW11ZE1oM0VPbUt1d2dPWm83M0dRcW93?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "‘2026년 재난응급의료 종합훈련대회’ 개최",
+          "source": "병원신문",
+          "date": "2026.11.10.(화) 14:02",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WTjBxZmt3MTFfMWF3RnMzUUxqYzY2cGxQZzZkZEJlaWNCQkRLVHdibUg3MXBqRUhkajE3TVNXQzJTNjJCTndmZ0VDYWwzNnFqS2NGdUZIMm9fRndvdC1MTHZ5ZXJuU0RoaFE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전국 재난의료 인력 150명 모여 대형 재난 대비 현장 대응 역랑 점검",
+          "source": "서울Pn",
+          "date": "2026.11.10.(화) 14:01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkbjRWUHNzQ0tFN1RfMjlYN0NBR2t1UXpRdVVUX3VjM0ZMSkhDaWV5N2dqOUNscHFfdTByb2NSZW5waGxiLVUtN1BCdEFBNjU0NUpYNC1Lc1lhR2Q3WlNNNm9B?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대형 재난 대비⋯전국 재난의료 인력 150명 합동훈련",
+          "source": "이투데이",
+          "date": "2026.11.10.(화) 13:47",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96Qk9yRklNUjBxTHVSSll2LUc5QjAtUWkxXzJyLWVzU3Q2UUlhRkZ3QTY3UjZPWklGS0J6ZXlLZXVET3N1dm1uV3J3WklMRXJFNW9rcA?oc=5",
           "region": "national"
         }
       ],
@@ -105,10 +119,108 @@
       "label": "기타",
       "items": [
         {
-          "title": "건보 대전세종충청지역본부, 지역사회와 ‘생명나눔 사랑의 헌혈’ 실천",
-          "source": "뉴스밴드",
-          "date": "2026.11.09.(월) 23:38",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GbnhBSjdIY3N0dno0VkFhclpFWGJsYmpnWUFsYmpYckVuT1NydmV4UlpXT1RqbnBZNVpXNV8tMzh4bC1xaWFIWVBIa1dvcVFRTDQ5WHVGOS1pQnd6UHJjZEFqNHV6R2Na?oc=5",
+          "title": "영월소방서, 고령자 맞춤형 심폐소생술 교육",
+          "source": "FPN-소방방재신문",
+          "date": "2026.11.10.(화) 15:30",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MQmdJOWJtSkY0U2t5YS1icENmSEo3bjNsX2kwWmhKOGxkdUd2S1dqTGtwZTdXNkpMaE5ad2dfY3RqOFgx?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "계양소방서, 의소대 대상 심폐소생술 전문교육",
+          "source": "FPN-소방방재신문",
+          "date": "2026.11.10.(화) 15:30",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9HXzhDYmlabFJmVjQzUHA3OUEyS3MxU1Rmb3NhV2lsQlRuSk5RUU9COWNaZWlrZS1nLTFYNEJLOG00b0tq?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "건보공단, 임직원 단체헌혈 실시…헌혈증서 기부로 생명나눔 실천",
+          "source": "간호사신문",
+          "date": "2026.11.10.(화) 15:23",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03aEM0dFlJVkg5R1BQOWZFVDhOdG1OT0Z3bUlpN082Vng0SU9MWFd1ZUoxS0pQNUNsZ2ZmdmpPYzd0c0tWNDFtcUhnck5uOWJhNVd6UHdEbzFBd1YwWGpyN1N0Q3Brci1CNkswZUtR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고양소방서, 어린이박물관서 소방안전체험…대피·심폐소생술 교육 실시",
+          "source": "메트로신문",
+          "date": "2026.11.10.(화) 14:04",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZHFhSk03N2JEMThETlB1MzlCQ1lZSE9NMUZxQjZ5VVdhS1dLSnY0QW95M2VNa0d4bjh6VDFiWmRUa0lDZ29GRjBHbEtPaXA0c2U5ZjFoRFlmLUFqNklkYw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "500세대 이상 아파트 국공립어린이집 의무 설치 완화",
+          "source": "서플 뉴스",
+          "date": "2026.11.10.(화) 12:35",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRFJWVXpkaDg2V2lWOVZjM2QwMTF5cEpsNVlyT3hycUdkZGxydFNrRHZrV25WUkZPR0o1Nmhmc1VJamhWc0xGUk5JQ1VMNVlELW9zLUl6VXJTNjFV?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한국남부발전 삼척빛드림본부, 삼척 화재 취약계층에 소화패치·일산화탄소 감지기 전달…소방의 날 맞아 빛드림본부 기부",
+          "source": "아주경제",
+          "date": "2026.11.10.(화) 11:48",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xYTJVVGxJSmlQdTUwN19uQTB5VnJBRE1aTWtaQ241bGlTNldocVZrLUFfNlF0d2N5RkpDRHpBNnBzemNibXZ3LUFvOVowaGNQeEZ5d0FyYmnSAVhBVV95cUxOMWEyVVRsSUppUHU1MDdfbkEweVZyQURNWk1rWkNuNWxpUzZXaHFWay1BXzZRdHdjeUZKQ0R6QTZwc3pjYm12dy1BbzlaMGhjUHhGeXdBcmJp?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "동서발전 당진본부, 사랑의 헌혈 캠페인으로 이웃사랑 실천 - 보도자료 | 기사",
+          "source": "더팩트",
+          "date": "2026.11.10.(화) 11:21",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1S0JjU0NkS1kzNDdtbGFrTFVjUWFUdWpFTVpWZFdHOWh6Y2xyRktmWG5pVWMzM2ZtcjUtYjBGamdIOUpTYkwydkd5WTBtNnVYaDJULVpFYU1DWHFKTzQw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "삼척소방서, 제64주년 소방의 날 기념식… 한국남부발전 삼척빛드림본부 지정기탁식 병행",
+          "source": "FPN-소방방재신문",
+          "date": "2026.11.10.(화) 11:00",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBUZ1Exc3VDMVMyZU8tYTY4YU01ZTdadDcwZVNUcFJuclpEYkNLeTJIZkFoNjZMQWdZblB6VUNadGNiaWQ0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경주시보건소, 심폐소생술 일반인 강사 양성 과정 운영",
+          "source": "경주시민신문",
+          "date": "2026.11.10.(화) 10:55",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81aWdkT0lfdk42QlVBeHc5NGc0SkZQaUtPUTFaNXllUzZXV0xJdExpR2ZKX0ZtTnYteFNOZDQ4R3BLVnhVZlgwMl9RbWpGYnAxMnJ1a1ZtM2dTT3M2MFVVQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "동서발전 당진발전본부 23년째 사랑의 헌혈…올해 210명 동참",
+          "source": "뉴스1",
+          "date": "2026.11.10.(화) 10:40",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhRThCSkUzYkVqT1J3RkNXb1ZkaDRYSXd5OS1fMWt6Z0o2YzQyQllseEF2WEZIRzJyX2I2bFFOWldCcDVzVktsUTIydDJnLUgtMGdxSVdpMFJhWTBsTndTSA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "나주소방서, 관광지ㆍ생활권에 AED 50대 설치",
+          "source": "FPN-소방방재신문",
+          "date": "2026.11.10.(화) 10:25",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KQ2dsX21oQmNYNERZNlFHX3FCaTdnMFMtUXpIaTA3MjI0eGhaWFBSSjVmQ01oMlo2XzVkTUhXcDJPdENzcFE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "당진발전본부, 사랑의 헌혈 캠페인으로 생명 나눔 실천",
+          "source": "뉴스홈(newshome)",
+          "date": "2026.11.10.(화) 10:21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FWDVMSmY0UVpmQlF4T1RybTVIZDFWYjk5Y29iT1BEVXpXbHZVXzNDbzF6Q0lJbFNtY0lBWkZRYXRpODR6MmlKT1U4UWtRbFMtXzVMa09SVkcwVGh6a25YVVFRZGNydE1CTkV6M3RB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "생명을 살리는 작은 나눔, 반려견 헌혈 문화 확산에 앞장서다",
+          "source": "CCBS뉴스",
+          "date": "2026.11.10.(화) 09:49",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RVW85MG9zaGE4WURnc2dDZTBfSi1UWnRPa2NpNlM4cWxOVmo2N2txeWRjWTdyNEFrOHRwS1pjV1g4UTdqRDQxc1pBcTR4WGs?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "당진발전본부, 23년째 단체헌혈…9일 54명 참여",
+          "source": "로컬투데이",
+          "date": "2026.11.10.(화) 08:43",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90RVZoZnZTMXRySjJETGo5UVJyZXZaSVp1N0JtaDBrS3VGMF80S0sxckZ5dk1HR29fUG9CSWg2aUwxNGF3dnFEaFl0SXE0QjRsQnRVM1g3cnhROTRxeXBMRGxSZEVOZHN5NmdYWk1SUm4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "이춘택병원, 임직원 자발적 참여 ‘사랑의 헌혈캠페인’ 진행",
+          "source": "의학신문",
+          "date": "2026.11.10.(화) 08:13",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hM2Z1cHZyN2htamJWOXJlY2xtQlg2WnV1RTY0Q0Job1ExLUVQMlkxTS1OZjYzSDgzWlV3MUpoTGUyMTdBWnA4Vm5tQzM1ZnJ2ODdMd2Nvc04tUDhCOFAyMmVBSE1hZnJuY3c?oc=5",
           "region": "national"
         },
         {
@@ -126,13 +238,6 @@
           "region": "national"
         },
         {
-          "title": "논산시, 헌혈 활성화 공로로 대한적십자사 감사패 수상",
-          "source": "뉴스티앤티",
-          "date": "2026.11.09.(월) 18:17",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oQUh2Q0xCSmNKUXBUVFktbV95Q0gwbVZOcFg4YTBzWlFCQnN1NTQ0eEJtOUNZLVJWREItM29XYWdHV1FlQ2JVeGJSa1BfTE10MDZIdEJMSGRSZ3YzQVNUMzR4Mkl2UUpsTlE?oc=5",
-          "region": "national"
-        },
-        {
           "title": "김해시, 중국 도자 연구기관과 협력 확대…시민 헌혈 캠페인도 개최",
           "source": "웹이코노미",
           "date": "2026.11.09.(월) 18:16",
@@ -144,13 +249,6 @@
           "source": "경기종합뉴스",
           "date": "2026.11.09.(월) 18:15",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UVWdtdWJRRDhycTJxYXN6cktzNUh2LWlieU90TUFiODdHT0ZNbWdTeDR3T1BhYVpkZTkyc0VzVzlYS3RieHd3ZW1fUm9PY1RDREl6eThJa0hTSW9Ldm94bUJ0ZFR4Unc5RVYwQ0phZnBzWldX?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“생명도 살리고 환경도 지키고”… 경남헌혈봉사회, 봉암수원지서 구슬땀",
-          "source": "코리아이글뉴스",
-          "date": "2026.11.09.(월) 17:25",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kYmV5aUxxNjVJTmZSaThqWno1VUJBc1JfUHpLZlZNMk9jd0R5YV9RcTNCaXM3b183ZmRvSGlnNHphLXdVMGdIdXNDdW9ad2pQaTN3WEpfU2JCdnBMTHdxVG1XUzRpN3FQMlhqY2hMSEVjT1E?oc=5",
           "region": "national"
         },
         {
@@ -182,24 +280,10 @@
           "region": "national"
         },
         {
-          "title": "김해시, 올해 네 번째 ‘사랑의 헌혈 행사’ 개최 응급 혈액 안정적 확보에 기여",
-          "source": "경남뉴스통신",
-          "date": "2026.11.09.(월) 14:52",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FQ3lqSXBRaDBrQldqU1RtdHYzUGgwbTZqRVVpU2Y0UkJ6em5LblMtQ19ZdUc2SmxkWG9vY0VVTUtMZXIyNHg1bmFKMXlpYkl5SjdVVy10NW01ZGhlRzNFWW4wN3RuRE1m0gFoQVVfeXFMTUVDeWpJcFFoMGtCV2pTVG10djNQaDBtNmpFVWlTZjRSQnp6bktuUy1DX1l1RzZKbGRYb29jRVVNS0xlcjI0eDVuYUoxeWliSXlKN1VXLXQ1bTVkaGVHM0VZbjA3dG5ETWY?oc=5",
-          "region": "national"
-        },
-        {
           "title": "\"어느덧 10년째 이어온 생명 나눔\"…수원 이춘택병원, 사랑의 헌혈캠페인",
           "source": "파이낸셜뉴스",
           "date": "2026.11.09.(월) 14:27",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XNVRLd1pMVXJiTUlRWTNSVkctV2RjdmRkNWprMzFCLWdac2ZTYWdMdGJ2SHVtQy00RWlpSkpOdlUzQV9kNVZTbW44WDdUR1lXeDdyYjlhUDV3UQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "건보공단 대전세종충청본부, 생명나눔 헌혈 행사 개최",
-          "source": "충청시사신문",
-          "date": "2026.11.09.(월) 14:27",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14M1ZVQzBjWVpZU0hfcEp4TXZwLXNJUjBnMXBsR1BwamlrcVgtN00yV0dpM2ZLZVpYV21Ra05ha2F5RUItN2p2RDZKSVloLU92b3BGek5kS00tcjFFSFJ0WmN1Z01meHVNNUVn?oc=5",
           "region": "national"
         },
         {
@@ -224,17 +308,10 @@
           "region": "national"
         },
         {
-          "title": "하남 윤슬중학교, 학부모 심폐소생술 및 응급처치 연수실시",
-          "source": "경기인터넷신문",
-          "date": "2026.11.09.(월) 12:25",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2RlRBMzFLYnVTZzlmWC1TRHViYWlENHZ0RU41UFJNcnFYM1Azb2llaHFDT01NelJmNDZSSzRIbWZNMWtaaVByWA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "달성소방서, 구지청소년 마을축제서 119 안심콜 홍보",
-          "source": "FPN-소방방재신문",
-          "date": "2026.11.09.(월) 11:49",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1Fa0ZybFdWZ25hRjRVWDAtb1pjVncyZ05iMmxYN0dSMzc5am1YTjdQM2pIYjJNOGZHWVJWQ2lXYkdLWjNh?oc=5",
+          "title": "국립소방연구원, 소방대원 안전사고 예방 논의…연구 세미나 진행",
+          "source": "뉴스1",
+          "date": "2026.11.09.(월) 12:00",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Yb0hBS1Y4NkJTWDlPcUwxVWhkendJUGR6endwQ0RUZjVISC1WODlUMS04UTR0VE5NMTA3YmxGZnVnektuQ0Nrbjd4U0NMWFRvUjNVakQxaEx0NEctZ2RvZC13?oc=5",
           "region": "national"
         },
         {
@@ -249,69 +326,6 @@
           "source": "뉴스타운",
           "date": "2026.11.09.(월) 09:12",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxNUJCVnBCZzVKZ29ld2RnRklfNmxGOW8tLVVJY2NxWmROc1Uxb2NrU1pCM1N6em45b3pyMndhSVVwZ1htSXFhWGd5MVR6c0dMTjRsS2JBaU14ZmFhUUZkaUxOb3JRNzk0TEE1Nm1B?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "유한양행, 2026년 하반기 헌혈 캠페인 전개",
-          "source": "일간투데이",
-          "date": "2026.11.09.(월) 09:10",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0YjlrTFdVR0NnRFREbkVhVEN0OFlqMUdmaHZsVml1TmYwRkxsRWZfTVVwV3J2MlZxZlUtTkZkckRKSG5DY0hBdzhxTXdfV0JqcldvMzJlaHhyeG5VdGdRdXo2S28zWkh6Ukow?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "아산시, 겨울철 공사장 안전사고 예방 총력",
-          "source": "메가충청뉴스",
-          "date": "2026.11.09.(월) 05:14",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RUVlJRGk1dVNOVloyYU9zMHhXQTFkM1c1UVpXRDBDeWtmcEt2a1doNlhXWUFzLS1EYWpxdGQ0QnlCd3JkY192QTM2OF9XZHdVWTJWT2VFNWdIa01rM01CTWR6UDBCWFJkb3NIYQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전북혈액원, 도민 생명사랑 헌혈릴레이 시상식",
-          "source": "전북중앙",
-          "date": "2026.11.09.(월) 01:01",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nVWxHOEUyQTUyczB1UVFtd0gtS0daeUNFRFFEZDcyeHpSRTZ0d09lNUMwTFEzRGN2NmhMdFV3VFJ5c3ZxblRfZ2NWWnhQeFFxOEZnRVJoMngzOHQzd1JRUWlMZ0ZPZVp5eHpN0gFrQVVfeXFMTmdVbEc4RTJBNTJzMHVRUW13SC1LR1p5Q0VEUURkNzJ4elJFNnR3T2U1QzBMUTNEY3Y2aEx0VXdUUnlzdnFuVF9nY1ZaeFB4UXE4RmdFUmgyeDM4dDN3UlFRaUxnRk9lWnl4ek0?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "유한양행, 소아암 환아 위한 전 사업장 ‘헌혈 캠페인’ 전개",
-          "source": "비즈월드",
-          "date": "2026.11.08.(일) 16:43",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBycW1nWm5TZGUzbGRTLXlxenBqWnZRTFNiRDg0QnV0NWNTYl9nWVdZOGFDaTBlMmxBYktjc09xaFZpNjJMOVlEY1llakZZemgyclFUbzR2cUp5UkdZVFZXX3I0aHEtd2w3emxj?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "마산제일고교 학생 187명, 생명 잇는 헌혈나눔 참여",
-          "source": "경남일보",
-          "date": "2026.11.08.(일) 16:20",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBta3dia25EVGtUZ0RfVm1zRFQxaUlndFRjNkllQ0tLS3gtMzB3czdUTU5BOXhVcm0wYVA0M09MWjQyQ2tqdWliS09oMXB0STBkVjJqOTFtOFQ2d3VPb2p1UzNJbVl4WmJIYmtJ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "'블루아카' 5주년 페스티벌에 모인 선생님들, 헌혈로 사랑 나눔 동참",
-          "source": "데일리게임",
-          "date": "2026.11.08.(일) 15:15",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZW1qamRoVkFhMWlneDhNM2Nvbzh2a004R3hkUGd3QXFzLU5yMlRsT2RlNUxkaDEya1gweHhIbjZQUGJKUF9rUFJHbTl6eVJTb3ZfTEZvaHd3WWRQdFc1d2U1WUZESUNMbEl0QmhPVXhIcTZzdFl2RVlhVQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "유한양행, 전 사업장서 헌혈 캠페인…소아암 환아에 헌혈증 기부",
-          "source": "매일일보",
-          "date": "2026.11.08.(일) 10:39",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56V2hpNXp5YV9lSkcydUowSTAtMnpMZ2pjOVMyZUFqN1hrSlpaV0hiVmFkVW5Ja0JXczd3MS1oV2wxMlFyajhzaWJLaFBudlR1R3g1MURXMGYtTXhvZTRvQXJUaFc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "바르게살기운동 안동시협의회 청년회, 생명나눔 헌혈 캠페인 펼쳐",
-          "source": "검경일보",
-          "date": "2026.11.08.(일) 08:59",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1bWRhbWxRZ0FQUVVpNkNRRFJMcEJSM3p4YWJCTEJKRktnUDVydDdFZVZGRW93ckJpQ250ckZlZGE3dU1fWHlncDdicXB4WlA0TU0xc1ltSWRuU0NjWEZEdGxjd0pKZw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "유한양행, 하반기 헌혈 캠페인 실시…소아암 환아 지원",
-          "source": "뉴스1",
-          "date": "2026.11.08.(일) 08:32",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42M0I3aXBPVnc4Rm51WjFZMkZKd2pzbnMwNWxHeTRKNk1HaDhuX3JuUG9qeEJwS2JpRDVoUG5za25vVkZZOWQ4dTQzekFRM0xsX1FDa09vR21mdUZ0VEVwdQ?oc=5",
           "region": "national"
         }
       ],
