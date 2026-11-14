@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-11-13T19:50:02.160975+00:00",
+  "generatedAt": "2026-11-14T01:28:36.956480+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "부천·인천 세종병원, 지역응급의료센터 3회 연속 재지정",
+          "source": "더팩트",
+          "date": "2026.11.13.(금) 06:44",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrQjJtTlNfUDZUeVVtRFVtVVN5eWs1RXZTR051ODlXZS1td0d6MHBKak94NHI2MGpGcnZ2MHZabzRrY0FWQWxTSGpjajI0Mnc1a0Y3N2ZjS0JFU3NDNlNTZFRkZWrSAWNBVV95cUxPYUJRMldibkJFd1dqVlVCWUtkdkVwVTNiNlR1NU1pUHBJY19EbjUyanVIMlN1bF9VOEg3LUd4Ul9LTlZfY0dQSGF3RU9Sa1FkRXlfMEEzdEN4TkZIMTVvb1pybk0?oc=5",
+          "region": "national"
+        },
         {
           "title": "전북대병원, 권역응급의료센터 '재지정'",
           "source": "더팩트",
@@ -65,6 +72,13 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "대전, 재난응급의료 종합훈련대회 전국 3위…대표팀 5년 연속 수상",
+          "source": "더퍼블릭",
+          "date": "2026.11.14.(토) 09:45",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10akM3b21Pb0RyaTQ4aEhSdG4tbkhGdTBUZlNjenpoX21yajREcHBEX2JKZjNhazhoRUpuR3B1SHBmTDBoSFN2WVNUMlRPMU10VG9HSlcwZzVPTnFuSWlfTjdLSUZXZmdNMDhN0gFvQVVfeXFMTnVLaWpxR2dTZDVBYzY1OC1MR0ZYYXpMQlBUMi1mbEcybmNpczZ0cHU0QklsSlFsbDM2RFRNQlh4YV81eE9fMHBvNmkyVmhscjBJdFY0TDlUbHNxLXpwTEN0WXN5akVnM3JJRGtOQ20w?oc=5",
+          "region": "national"
+        },
+        {
           "title": "화순소방서, 지역 응급의료체계 강화 공동 대응위한 간담회 개최",
           "source": "유스연합",
           "date": "2026.11.14.(토) 02:48",
@@ -107,13 +121,6 @@
           "region": "national"
         },
         {
-          "title": "대전시, 재난응급의료 종합훈련대회 전국 3위… 5년 연속 수상",
-          "source": "뉴스프리존",
-          "date": "2026.11.13.(금) 13:34",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96Qkt6R1ZEUEVUejJ0blltSHVOLWdHV0VhVW1rbm9YVkpiVnVjbEZxZG91T25ScjJVYkRiMEJUOEYwX1hBcGI1V3lQck4zcl9VY2FpMUpWc0tJb0cxUDNsbkpSc0hRS0daSE93Q0F3VkZvWW_SAXdBVV95cUxOZ2FJZDVuNzVvV09rYm5tUm9IZkZnekJYRkYtb25Tbm9CeXlteXpaRnVmdHloNDJpSFVVclRxVDhXZW5hVXQ4UlBTNVlRZUVWUkt4SGFiWFlacjRkS0RFWUhCQ1NKR3JUSUp2SlNaekd3NmxvTEFFMA?oc=5",
-          "region": "national"
-        },
-        {
           "title": "사천보건소, 2026 재난응급의료 훈련대회 전국 1위 최우수",
           "source": "프라임경제",
           "date": "2026.11.13.(금) 13:03",
@@ -142,13 +149,6 @@
           "region": "national"
         },
         {
-          "title": "사천시보건소, 재난응급의료 훈련 전국 1위",
-          "source": "브레이크뉴스",
-          "date": "2026.11.13.(금) 10:21",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sNnVIV09KaGdLblAzNXdwMzBES1FWaG8ybURrV28wRXNvYVBIV2FTWFhOdmc1cmlzRTFWYzVWNzcxdw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "대전시 재난응급의료 종합훈련대회 '보건복지부 장관상'…5년 연속 수상 - 머니투데이",
           "source": "머니투데이",
           "date": "2026.11.13.(금) 10:18",
@@ -160,13 +160,6 @@
           "source": "뉴스핌",
           "date": "2026.11.13.(금) 10:08",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xQlUwNVNkemJYWmFicDFEMHZFdkpMci14UUtFdTVfZHV2U0xGQ1dESlk1eDZua1hzLU9LNEFRSTlVY1FGbVlRRXlTaV9WQllXYnc5U1JSb3UyRzZD?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "재난응급의료 종합훈련대회 전국 3위…5년 연속 수상",
-          "source": "뉴스홈(newshome)",
-          "date": "2026.11.13.(금) 09:42",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hVjBFaXNFRWhxVGRiM2J1Wm9Jb0pZTUtqcnJiZ3FaZU1IZFNnZWZNSVlHNzJTR2ljY2dDc1dFT2laSktuX0xHdTNCSGFyQjlNWTFKVFl2NnlnZG5tQnJnMGlzTHBYbm9Ta2NtZ293?oc=5",
           "region": "national"
         },
         {
@@ -198,6 +191,20 @@
           "region": "national"
         },
         {
+          "title": "정읍 보건소, 전국 재난응급의료 훈련대회 수상",
+          "source": "서울일보",
+          "date": "2026.11.12.(목) 14:01",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zZDB4bi03VGZJN3hheHlfcGM5a2VFWDktbEVicGJiVjM1VFJpRkdhb2tVZkRDcm5NTHlhd3ZNNXljeTN1UURNTmFoRHNudFdsRkRYbTZBcGJkaGVJbnFlQzFBU0UwZV90Nlk00gFvQVVfeXFMTURaTkVWN3cwUTF0MUhBS1B1SlJNWlN2UGhsRzZZWkl3RFVteWYybTJjRDJIeWJCcVM2di1CU2twbktsd29DWFlYN2pBaFVqYnNkakJEaVdCQkVuTlNSUkwzVVZBbkJQd2FEY0p1M3lZ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경상국립대병원, 재난응급의료 종합훈련대회 ′최우수상′ 수상",
+          "source": "KPI뉴스",
+          "date": "2026.11.12.(목) 11:19",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wLXFVXzZEY1BjeFhHczkwWnNkZjN4NjFUbVBpZXZPSHJHTTVXSFJVN29rMDRaS2NnV2ttZ3hyZjJzd3RZQU9FZmc1YzJFeHdkcDI40gFTQVVfeXFMTjAtcVVfNkRjUGN4WEdzOTBac2RmM3g2MVRtUGlldk9IckdNNVdIUlU3b2swNFpLY2dXa21neHJmMnN3dFlBT0VmZzVjMkV4d2RwMjg?oc=5",
+          "region": "national"
+        },
+        {
           "title": "영광군, 재난의료 대응 공로 보건복지부장관 표창",
           "source": "매일일보",
           "date": "2026.11.12.(목) 09:44",
@@ -226,8 +233,15 @@
         {
           "title": "진해구, 안전∙민생∙복지 4개 분야 ‘2026년 동절기 종합대책’ 본격 추진",
           "source": "뉴스프리존",
-          "date": "2026.11.14.(토) 03:57",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtQjhEdU1GNkRNaFZGZ2ZKaFBmZ1dJRWVSREg3LWJzVkZ1dG9GVGgzclNWdm9JWFl2M0d0c01jYnRYVUtCVnlpa1F4MVkydXBHVGg5QV9HS3BGNVQ5R0hxQmlRT2FtVXoweGRPU0NKcFdEV0HSAXdBVV95cUxPMG1aT1pLYkhDbmV4d1hWLVpBMTd5ZFZpX3NLRHF6NEtCSGJoazEwaDVfZTd1SjA1MzRKN3Rkc0RxYW15ZkNFWDYyb0puajRuV0hpaUNpLWp4bUJWVXZGLW1MRlp3dkdrZkpqaFdMSUc5UUI3SzlrNA?oc=5",
+          "date": "2026.11.14.(토) 04:05",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wbVpPWktiSENuZXh3WFYtWkExN3lkVmlfc0tEcXo0S0JIYmhrMTBoNV9lN3VKMDUzNEo3dGRzRHFhbXlmQ0VYNjJvSm5qNG5XSGlpQ2ktanhtQlZVdkYtbUxGWnd2R2tmSmpoV0xJRzlRQjdLOWs00gF3QVVfeXFMTzBtWk9aS2JIQ25leHdYVi1aQTE3eWRWaV9zS0RxejRLQkhiaGsxMGg1X2U3dUowNTM0Sjd0ZHNEcWFteWZDRVg2Mm9Kbmo0bldIaWlDaS1qeG1CVlV2Ri1tTEZad3ZHa2ZKamhXTElHOVFCN0s5azQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한림대춘천성심병원, 생명나눔 헌혈행사 성료",
+          "source": "병원신문",
+          "date": "2026.11.14.(토) 02:34",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01YVhsSUVtdFVHcjBsYUViYUJWN1hlYXBXcUVXMXdTR08wcVZVY3ppUzB1d0w2Wk1mRzFLblJURHR0LVNnUlJJTFRqVEdrNG03cjZ5Zl9JcnY0WmZ1S3Etb2NiYkhRU0JjR0E?oc=5",
           "region": "national"
         },
         {
@@ -353,28 +367,7 @@
           "title": "부천시, 겨울철 안전사고 예방 위한 민관 합동 캠페인 실시",
           "source": "LG헬로비전",
           "date": "2026.11.13.(금) 13:11",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yRElrRDd2SXlBcFlrc19GUDhGM0RDbzB5Mkk0cHJsUzhHQmlfeU9hU05DOERUM0FGaHl2S1Q3aFZ1cjR2WFNEWTd0amZQRWFzS2FlbWJ1TDJxRXRMemVDVjVfU2tzcEhqcjMtVkVqVDVXd2c?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "구리시, 18일 '공직자와 함께하는 헌혈 행사' 개최…생명나눔 실천",
-          "source": "뉴스21 통신",
-          "date": "2026.11.13.(금) 12:22",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnVXBrNVlqSXh3THZDQ1gzMG5hRGRTemZKWFFROG5lXzM2eEtDRHd4anQ4ZnRMeVpKaVN6cFpHX0Iwd0FJLVNtdldGOEZpcEV2S08zUDVB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "20년 넘게 이어온 생명 나눔의 발자취… 포항제철소, 연말 혈액 수급 안정화 위한 상생 캠페인 전개",
-          "source": "청년투데이",
-          "date": "2026.11.13.(금) 11:07",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKZElrLUxqbGFtbHRuNy12WjNsdzNLSjdqWno5Vm9EbGhHM2xqWTRxbXRjMTRTX1ctU1B0MkFTdlgtMHlLa2RXZktjRkxFcEJVMnAwWTQ2REhsUEhoNnZlUUx2T2pkVmJ6TFE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "멕시카나 ‘치킨원정대’, 서울시립대서 헌혈 캠페인…참여자에 치킨 전달",
-          "source": "뷰어스",
-          "date": "2026.11.13.(금) 10:49",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TMzJRYTA4aTlVbUlHVXYzX3ZpaUZ4ZFpZRnFaU2NNMnpEbTlyZlJ2cFBGSEJaTl9naDlwWGVFNGZJX1NPdF9kbk51VWJXWmkzUXFER1RSTkc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yRElrRDd2SXlBcFlrc19GUDhGM0RDbzB5Mkk0cHJsUzhHQmlfeU9hU05DOERUM0FGaHl2S1Q3aFZ1cjR2WFNEWTd0amZQRWFzS2FlbWJ1TDJxRXRMemVDVjVfU2tzcEhqcjMtVkVqVDVXd2fSAXZBVV95cUxNOUJnVW1naE15OXhQN1pfVHhsZHNyN0VwRi1TTVUtMXNBMFJhTEFXa2hFVE1VaFBteTlrWTU2Uk1fUGhwb3IxS241aXhISUNXTnRsNlFtdXFEd1NJUGR0eWRRamRSV0w0b0I0cG1ia3VZTkViSHl3?oc=5",
           "region": "national"
         },
         {
@@ -388,7 +381,7 @@
           "title": "한강식품, 2026하반기'사랑의 헌혈'로 생명나눔 실천",
           "source": "농업인신문",
           "date": "2026.11.13.(금) 09:35",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SbV9iUVZHTVlaNWx2WkhObUpTSUxkZ1FPYkZJY19yRXFQMnI5dEFaUmwxbFZLZXQyVXRWdzdxUi1IUnJvSm5xX01RUWJDQXR4WWhHR0NUYmhlcUMyamppZjR4QXNJMmRMWUR1SWJB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41M0RGMHhIM0p2MTFSQ3h6WGlkZ2N6ek5ZbkljNEUwckw1emZHUVN4SzRPNUFZVHcwNHlzMHZ6NndGT0JxRUVHeTdPdDQ0T0VJM05qRnhONUVlWWp5ckRwS1psR1RzQ1pPeS1saA?oc=5",
           "region": "national"
         },
         {
@@ -431,6 +424,20 @@
           "source": "서울Pn",
           "date": "2026.11.13.(금) 03:58",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNHpuYkgxaFFLNldEQ0tORzNGWUdHd0FGYXFhMnNIckJwU3pnU1pqRnBZUVpSNlNfREZXdEtPd09UT2JySXc2bGVSWUF1bUpnRThobW5hT2xSZnhaRWpKRGxn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "안산소방 농협 직원 대상 심폐소생술 교육…응급상황 대응 역량 강화",
+          "source": "아주경제",
+          "date": "2026.11.12.(목) 21:09",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJckRZbDA0QXRaVHMtT3h4clVHOWdKc0ZKbTZpNjFEVDlORlgzeFR3OV9PdkVHbTZrbEdtUkw2eDJyaEdTN1dzaE1jckRJU1NqR0U3R0JxOWLSAVhBVV95cUxQSXJEWWwwNEF0WlRzLU94eHJVRzlnSnNGSm02aTYxRFQ5TkZYM3hUdzlfT3ZFR202a2xHbVJMNngycmhHUzdXc2hNY3JESVNTakdFN0dCcTli?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포항제철소, 연말 혈액난에 헌혈로 생명 나눔",
+          "source": "뉴데일리 대구경북",
+          "date": "2026.11.12.(목) 20:24",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfajRuRF9BbGd4OHN0djBiRkFYWWhxUklSRGVwS1B0V2NXcVZ5VS1adTF0UDhnS19nRlhyb0xlTVNiV1VyNVotMWhCeVZYd1JSeFNVOUJRQzVYdWxGbTNPUTMzWkhwUE5PbGw4MVRFSWp1c0o0WHFFdTk2UkI1SDjSAX9BVV95cUxQX2o0bkRfQWxneDhzdHYwYkZBWFlocVJJUkRlcEtQdFdjV3FWeVUtWnUxdFA4Z0tfZ0ZYcm9MZU1TYldVcjVaLTFoQnlWWHdSUnhTVTlCUUM1WHVsRm0zT1EzM1pIcFBOT2xsODFURUlqdXNKNFhxRXU5NlJCNUg4?oc=5",
           "region": "national"
         }
       ],
