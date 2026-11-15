@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:45:03.902564+00:00",
+  "generatedAt": "2026-11-15T16:25:51.307645+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -44,32 +44,73 @@
     },
     "er_runaround": {
       "label": "응급실 뺑뺑이",
-      "items": [
-        {
-          "title": "지난해 응급실 찾은 432만명…셋 중 한 명은 경증 : 건강",
-          "source": "재경일보",
-          "date": "2026.11.15.(일) 06:32",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vclBNZzZpSG53d3YxUjN5OXZDYmtVSjRfMFB0ZzZHZ3lsY0FLOWxFTXpwbmJIUFAyaEZobG05d0xndmxILWF6bm1BSQ?oc=5",
-          "region": "national"
-        }
-      ],
+      "items": [],
       "error": null
     },
     "disaster": {
       "label": "재난의료",
       "items": [
         {
-          "title": "대전시, 재난응급의료 종합훈련대회 전국 3위…장관상 수상",
-          "source": "충청매일",
-          "date": "2026.11.15.(일) 15:00",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QakVxQXlqVnFILThwSWdpcHN2LXRzbTNPZWdIZmJRaVJrR2F0VnI1Mm16dHNZbzhtRTNJQjlHMlVIcUppektiYXBsRS13SEUyUUNMdWt3Uzl5VFY4TlVNZ3MxaUhWcnotekE?oc=5",
+          "title": "“전국 재난의료 대응 역량 빛났다”…전남광주통합특별시, 재난의료챌린지 최우수상",
+          "source": "시사의창",
+          "date": "2026.11.15.(일) 21:57",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hbk9BeWJybU1MbGlhUkV1bFN1dkZxeVpLempCS0haamVBemlYLWY2cEhHa2dnclQ4dEd0WUl3eUpBaW5zblRYNDdwRjF6SGRXajQxSw?oc=5",
           "region": "national"
         },
         {
-          "title": "전남광주시, 재난의료챌린지 최우수상 수상",
-          "source": "전남인뉴스",
-          "date": "2026.11.15.(일) 13:32",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oYUZ0YXZ2VjIzSk9nSGF4R0ZRVFpZazNET2gwVTAtakYzMjdvY3hlZm1RVmszT1o4Xzd5eTJTR3BzRDVpRnFpMzhRbnFHRlZ2MldrS0VsX29SYXJ3UUFvSzIweUpwUDVNWUE?oc=5",
+          "title": "사천시보건소, 재난응급의료 대응 '1위'",
+          "source": "경남매일",
+          "date": "2026.11.15.(일) 21:01",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbGJRMHZIRzhPMEJiNWhDZ0txLVRYVWpMUF9POWNrUThPdGswdWRmcTBXM0FGMlNDelBYcG1fVVBSMkc1ZWpxOTlEQ0tVY1BabkxwenpJLVVGZmlHclJkWmdDYnlmaWdCMWc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전남광주통합특별시, 재난의료챌린지 최우수상 수상",
+          "source": "웹이코노미",
+          "date": "2026.11.15.(일) 18:44",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OcHFUazZiSjg4UEQ1d0E2QVZ6ZFZOV3lHTUNfZ2ZJTzc4elRGSmxrOXlWZ014NzdfdXBGSndtX3RLUkNoRzZ6a3lIY1ZWb29uX0xrV25DYS1zOHp3Sjl3dTNGSjYzbld0MjhrSXBZaG5odw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "충북도 한국원자력의학원 유치전 돌입",
+          "source": "충청타임즈",
+          "date": "2026.11.15.(일) 18:41",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wNUZFT0hpWlc5U2hTMnQ1Vjk2c1RRb21nMUg0ZEFDNXFRZGU2ZGJmQVVCSU5lQWVrYWxfN092emQ4Q1FVMjZIalcyOWVSbG41WGR2MGpXZnRnMDhPNm16RnQ2OWNuem1t?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전남광주통합특별시, 재난의료챌린지 최우수상",
+          "source": "세계로컬타임즈",
+          "date": "2026.11.15.(일) 17:20",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kMC1FS3JwdjhmQ3cyWUZwa3REWGM1OC1waEh1N1R0LVJDakZNb1hJbFpfQXFSbEkwRWJqYXVTbnBOanhEOTNnY2JaRkVDdjEtRUM0M0RxWG5CV3dFcHpRedIBXkFVX3lxTE5JQUdVMXBkS3d6NC1OcUZta0pSZ1VXdXB4ZFVIcmNoSXlRdVdmT3Qtbzg0VHU5SEdwTEQyYS1ibjJOeGJ3WV9fXzh6bUhnam0xcm1uc1lxX2hfZk9lRnc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "사천시보건소, 재난응급의료 종합훈련대회 종합부문 최우수상 수상",
+          "source": "https://www.newfilenews.com/",
+          "date": "2026.11.15.(일) 16:15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wV1JQZ0hOaXhlcGdwdGc0LTVEbEc4MHFpWVRIUkk4bUZaNGNhV0JlODNqUEFMYTFWb0Q1YmlPY0x0aTBFZlB4cmFHR2VGaWRKekVEZ0htRF84dVg2TkNsaDVRclVEQlFPZ2hWNzJB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전남광주통합특별시, 재난의료챌린지 전국 최우수상",
+          "source": "빛가람뉴스",
+          "date": "2026.11.15.(일) 15:57",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoRUNYRFNnaV9pTl82Sm0xR1lvTFdpVTBEeHBVcFFmM2pnOW1WLVh2YnNaTVpoaXhKTHpISDZLQU5EbENEMlB3M3JqZnlFanFvQng0MmIycE5HSVBwdEdoR2kyZnRpbVRpOTVr0gFvQVVfeXFMTkZaQmY0M1pLODNSTlRBdnFiNy04czZicFZISXpXeUtTYWx3ZlBrVGNkQzRjWXFSWWdIMG42dFVkX2VXdTBsVnVOVGVwejVlNGw4Q09TX0NoMmM3N01zakhaMmJpMmZoOTJMdnJvQVNR?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대전시 재난응급의료 훈련 전국 3위…5년 연속 수상",
+          "source": "대전일보",
+          "date": "2026.11.15.(일) 15:51",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QekdFclBjSmFKai1vaXJmN3ktTkRJS2RJZ2lOVmZNMk5OZFU0RkVIWlFlMG5PTURVNXh2RmNUbDJNa0w1Y0prTWdWSkNhSVN3QnZLcEhQNjlVUjhVNWdVQUpkdnFsRDdtQWJ1bHRPazZITkXSAXNBVV95cUxOUHpHRXJQY0phSmotb2lyZjd5LU5ESUtkSWdpTlZmTTJOTmRVNEZFSFpRZTBuT01EVTV4dkZjVGwyTWtMNWNKa01nVkpDYUlTd0J2S3BIUDY5VVI4VTVnVUFKZHZxbEQ3bUFidWx0T2s2SE5F?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대전시, 재난응급의료 종합훈련대회 전국 3위…장관상 수상",
+          "source": "충청매일",
+          "date": "2026.11.15.(일) 15:35",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWm5RSXhtLUhSeG02a1lFc3BOcDlOV2NTbTgxbzdvdGNMTkdJbGdnLTFFLXlrVDF3YXBuQWl6THpmZjNZdXhfZnBOYUl4WE9kZERLX1FUcE9RbUVSSVo0U0w2UDJlQ0ZVZEE?oc=5",
           "region": "national"
         },
         {
@@ -90,35 +131,7 @@
           "title": "[전남광주소식]재난응급의료 종합훈련대회 최우수상 등",
           "source": "뉴시스",
           "date": "2026.11.15.(일) 10:47",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wc3lkZ2gyeUNldzZ6WF9qSE5Za3VidFY0bjdiQ3hYVVQtRjNFSmtCdmVHME5QNnZkTlNVQnc4NUc2WEktTkZ4Ykp4OWpOa1UzdnRlRlRlX05GYVRzSFVuRtIBeEFVX3lxTE41dnJ2WmI3LVFBQ3J0OTZJZ2hQR2QzcTVPcnI1QlBub3cxcFM0Sl9leERpYTVwZ2NLZFk3dFBKY3docWtyUmJLVHk0X2sySXN3M19rWTI1M0ZMOU9aUUNjelM1N0pYRDItcHVoSmMtUkFwcm1SOWpPVQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "경상국립대병원 DMAT 참여 경남팀, 전국 최고 대응 역량 입증",
-          "source": "쿠키뉴스",
-          "date": "2026.11.15.(일) 00:29",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rVTY5eWZUd1FubUEwQ0U3MDFObHZEZlFyS0lSRlVjWGtPOE9HR0JKUHM2Z3RaSXRJdS1ZT0NLNVRteXN0TjdLY19uaFlSalNHc3ZFazRMS0VpQkxWZk92UEQyNA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전시, 재난응급의료 종합훈련대회 전국 3위…5년 연속 수상",
-          "source": "충청신문",
-          "date": "2026.11.14.(토) 11:18",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByazBTckRtWEFMXzhGQ0tPR1h4dExGTzE1ei11UExhMEFrTExHNnhDYTFDTjV6anR6dk1hUVdPcDhXRVFkZ0RvekVTQ21WVF9WaDBFd2tQT3ptMC1DMms1eUNEUk1QVmh6RmZMc1NR0gFuQVVfeXFMUHJrMFNyRG1YQUxfOEZDS09HWHh0TEZPMTV6LXVQTGEwQWtMTEc2eENhMUNONXpqdHp2TWFRV09wOFdFUWRnRG96RVNDbVZUX1ZoMEV3a1BPem0wLUMyazV5Q0RSTVBWaHpGZkxzU1E?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전, 재난응급의료 종합훈련대회 전국 3위…대표팀 5년 연속 수상",
-          "source": "더퍼블릭",
-          "date": "2026.11.14.(토) 09:55",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51S2lqcUdnU2Q1QWM2NTgtTEdGWGF6TEJQVDItZmxHMm5jaXM2dHB1NEJJbEpRbGwzNkRUTUJYeGFfNXhPXzBwbzZpMlZobHIwSXRWNEw5VGxzcS16cExDdFlzeWpFZzNySURrTkNtMNIBb0FVX3lxTE51S2lqcUdnU2Q1QWM2NTgtTEdGWGF6TEJQVDItZmxHMm5jaXM2dHB1NEJJbEpRbGwzNkRUTUJYeGFfNXhPXzBwbzZpMlZobHIwSXRWNEw5VGxzcS16cExDdFlzeWpFZzNySURrTkNtMA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[위클리오늘] 사천시보건소, 재난응급의료 종합훈련대회 전국 1위",
-          "source": "위클리오늘",
-          "date": "2026.11.13.(금) 19:03",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfXzBweFFKdHg1ZGtHdmxWbzJ6bEcweFFVX2dRRmR0X29rbHVKcDg3cExBVk1tWmVFWDc3WGpLSEdsTk5RLUp1RnpCMmVJZUlFMFhHb3pzTEhEeVlBSlMxQXpJeGxmaU9ZUno1enJR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41dnJ2WmI3LVFBQ3J0OTZJZ2hQR2QzcTVPcnI1QlBub3cxcFM0Sl9leERpYTVwZ2NLZFk3dFBKY3docWtyUmJLVHk0X2sySXN3M19rWTI1M0ZMOU9aUUNjelM1N0pYRDItcHVoSmMtUkFwcm1SOWpPVdIBeEFVX3lxTE41dnJ2WmI3LVFBQ3J0OTZJZ2hQR2QzcTVPcnI1QlBub3cxcFM0Sl9leERpYTVwZ2NLZFk3dFBKY3docWtyUmJLVHk0X2sySXN3M19rWTI1M0ZMOU9aUUNjelM1N0pYRDItcHVoSmMtUkFwcm1SOWpPVQ?oc=5",
           "region": "national"
         },
         {
@@ -126,13 +139,6 @@
           "source": "세이프투데이",
           "date": "2026.11.13.(금) 16:38",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LR19PdEN5ZVZTMURka2M2bDNhdUN3VGIxOWZNeFhNbGVoSW9wTEtoaFBMV0FBRWszSHBlZzZFcXg3aWZGUGFzVWJMckpoWlhMYWJtNTZnOGhscExVNy13RHpnUUtJQ1A3Zm9STEFn0gFuQVVfeXFMT0tHX090Q3llVlMxRGRrYzZsM2F1Q3dUYjE5Zk14WE1sZWhJb3BMS2hoUExXQUFFazNIcGVnNkVxeDdpZkZQYXNVYkxySmhaWExhYm01Nmc4aGxwTFU3LXdEemdRS0lDUDdmb1JMQWc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "대전 대덕구보건소, 전국 보건소 유일 ‘재난 대응 공로상’ 수상",
-          "source": "타임뉴스",
-          "date": "2026.11.13.(금) 15:50",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOZ3ltZnN1ckRaLXZFUGZPXzg2Y0paSkJRQlZvdktrQjRpUFZ0cGo1RUk3SnBtUEFGLTJpbHVXZXlzOHVhUk5zblhyWnFJXzJnQXVrdg?oc=5",
           "region": "national"
         },
         {
@@ -164,13 +170,6 @@
           "region": "national"
         },
         {
-          "title": "사천시, 재난응급의료 종합훈련대회 전국 1위",
-          "source": "세종충청뉴스",
-          "date": "2026.11.13.(금) 10:22",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxb3VmRWhRVFItZGNjQmFpd3d1LXdSQkhDVVRGdVlTdG1TTHptdTdrRTE1bU9xOTlUNTIyb0hfZjA4VU9kd0xNblFvYnNldktfOWxTcmVaYTBza1NFR0tuRTUyWXBqRGxkdVl3dUNQd9IBb0FVX3lxTFBxb3VmRWhRVFItZGNjQmFpd3d1LXdSQkhDVVRGdVlTdG1TTHptdTdrRTE1bU9xOTlUNTIyb0hfZjA4VU9kd0xNblFvYnNldktfOWxTcmVaYTBza1NFR0tuRTUyWXBqRGxkdVl3dUNQdw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "대전시 재난응급의료 종합훈련대회 '보건복지부 장관상'…5년 연속 수상 - 머니투데이",
           "source": "머니투데이",
           "date": "2026.11.13.(금) 10:18",
@@ -190,13 +189,6 @@
           "date": "2026.11.13.(금) 09:34",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNFZjSHlYR3g5WUcyZ3lSV25kZ1ZMTThBSGRONFhNOWtmd29OTHdWdXc2Nldyb2oxUm4tVVRpT2NSb29iZG9aMzNteDY3aWVjQjNfLThjQWw2Umc?oc=5",
           "region": "national"
-        },
-        {
-          "title": "사천시보건소, ‘2026년 재난응급의료 종합훈련대회’ 전국 1위…‘종합 최우수상’ 수상",
-          "source": "브릿지경제",
-          "date": "2026.11.13.(금) 09:30",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ybUQwTUNjbWJlc2FycGtaY2tseUhWYm02YnlqdjBhOE1iaUJYTWtNbFpHR05ZYXR4cmdvd3FZMDFkTERSczRic3g3aFBmR1RfY25hS1Q1VEtfQQ?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -210,13 +202,6 @@
           "date": "2026.11.14.(토) 18:06",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GbzBxMDRLWHYyWk44YnMxZjYxN3ltZHZ4aVRic0JscDJRajAtcXZWcUdLYVkyXzhwbWhYYmpQb01NeEVUemJEdHpBYlNZdDZ1T1lwckxUUldPRHZ0Q3ZnaTQxbXg0SzdYbnNfbHhB?oc=5",
           "region": "national"
-        },
-        {
-          "title": "비상시국 제주 산부인과 시스템 ... 제주도, 병원 5곳에 50억 쓴다",
-          "source": "제이누리",
-          "date": "2026.11.12.(목) 17:28",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VWnV2QjRXbXl3NS1EU29na3FMWEhHcjZwS0Y3RzVLRmdrZzJiV3pzaTF3cjZ6QnBvN1djRVpHOUpqZUlueGhpVzRXZ3FNRkU0WkVvYkpBMjZXQWtz?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -225,6 +210,48 @@
       "label": "기타",
       "items": [
         {
+          "title": "김건효씨, '헌혈 정년' 앞두고 마지막 생명나눔",
+          "source": "울산신문",
+          "date": "2026.11.15.(일) 21:44",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41aTFQWjhNTlFPdmh0XzVId1hhczNSVmZsSGhOOGs5TXpFaGVieFFaUmlYTUJ4SE5YWllfcldjbjRpRlVaYjdaOFRnN2NzZVlNcFBzWC1BRHNUTFVsQkNhMjZJMEMwMFdqbTB6WHdidEpaZ9IBckFVX3lxTE41aTFQWjhNTlFPdmh0XzVId1hhczNSVmZsSGhOOGs5TXpFaGVieFFaUmlYTUJ4SE5YWllfcldjbjRpRlVaYjdaOFRnN2NzZVlNcFBzWC1BRHNUTFVsQkNhMjZJMEMwMFdqbTB6WHdidEpaZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한림대춘천성심병원, 'We路캠페인 생명나눔 사랑의 헌혈행사' 및 '당뇨병 공개강좌' 개최",
+          "source": "컨슈머타임스",
+          "date": "2026.11.15.(일) 21:41",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHZmM2NkpVelVaV1FXVWpydnRTWVJkTzNDWUlER0hyVkhXQkRDYVZ1RGc3VzdZekJBbDhtVWk4Y0NHdjF6N1ZiMV8ydDUzdUV3OFoyUTBLajB2WmNEVGRLOTdveWJmNU9NZEE?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "지역 태권도 선수 치아 손상 예방·관리 힘써요",
+          "source": "경남매일",
+          "date": "2026.11.15.(일) 20:55",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OOTB1cjdGMDVvbi1UbFVLZmoxMW1GMHNDV2ZtNGg3YXVNbGE4TmU4c1Nac2FlLWY2NUZXV0NNbkE0OW1CVlUwaVJvaUhOT1EyTjY5Ylp4bW9GZzVibTZoR3RFNl8wT2ZW?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "남양주시, 헌혈문화 확산 공로로 적십자사 회장 표창패 수상",
+          "source": "팔당유역신문",
+          "date": "2026.11.15.(일) 19:22",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xalVJUW1NOEhHSVFvQWtvRmhtUlQ4Q1U0Tm9Xa2hndFoxZHBISkU2TXZZRnZuS1RtYUs3cHpkZTYzeFpFWTQ5SVB4UFdzYW9QVnk1ZlBzNWxWMHM3RHBYc2hVLWRxc2hWWDY4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "합천군 ‘생명나눔 헌혈의 날’ 운영",
+          "source": "경남도민신문",
+          "date": "2026.11.15.(일) 17:42",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EVVhzT3Q5M0wyRzkxMGw5bXFGYmJUckRQUm1IdjBUQzVTYXNhVGNlajk5cjh2SzhzNy00NEdOc2tSLUIwelVuRmJ1bUc3Znh2dk9CU1pkelJRalRnaUVyRjk0RFQtZnU2?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포항시, 농림어업총조사 우수기관 선정…재정경제부장관 기관 표창 수상",
+          "source": "한국시사경제",
+          "date": "2026.11.15.(일) 17:12",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibUdmdG43RUxGaXpyY0lYUEdwVVZZM2M3MXlWcExPZ0hGc2t3V0xGV0lydllBUEtLLURRcHpWOU8tSmxHdVc5clY2Q3VhV0gtV1FnZFFBa2NTLW1XUGE3RVFVcXVVMXF6YkE?oc=5",
+          "region": "national"
+        },
+        {
           "title": "부여국유림관리소, \"2026년 산림토목사업장 안전사고 대비 합동 모의훈련 실시\"",
           "source": "서울Pn",
           "date": "2026.11.15.(일) 15:02",
@@ -232,10 +259,10 @@
           "region": "national"
         },
         {
-          "title": "포항시, 농림어업총조사 우수기관 선정…재정경제부 장관 표창",
-          "source": "신아일보",
-          "date": "2026.11.15.(일) 14:50",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuVm8ybFktNzNpNkRlU2UtT3JrY0ZlbHlKbTNIWUJlQzJwcUg4TzRWemY1Y2tlUlZTdHhndUZ4VXctQ2M4VW93VmlMNkRjYXIyVTNzRC1fZThoNWQtNFNBVWMtakJRRTM1cFRSUEtqMHI?oc=5",
+          "title": "울산혈액원, 51년간 376회 헌혈 김건효 씨 ‘헌혈 졸업식’",
+          "source": "울산매일 - 울산최초, 최고의 조간신문",
+          "date": "2026.11.15.(일) 14:28",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LQmlvZnUzMkZvUWY0UV9CS01oT3cxWkNDX0hILXdENnVSZzRxdjRWLWdnZnpHYkxiWEhPM2hUZkRjUXNZWG45ODc1OHFiaUxTbDUyYTRBWWtlakt1NTgyRmIxYWZGQ19mWGfSAW5BVV95cUxNR2tqWTlBbEhuTUtlSHFHMEhlMXlubE5kbFZyal9tQ0oyZnFEUkd1dldmUmNSamZWMUNDaUJ1eFJTWTkwWlVLZkNfMXNyNDcxUG9sdUtZV1RwcUJxZWZ6czNGNlhDaXV3MFhnejdyZw?oc=5",
           "region": "national"
         },
         {
@@ -253,6 +280,13 @@
           "region": "national"
         },
         {
+          "title": "우체국 배달원 과로 없다더니 사고는 42% 급증…정부 노동시간 관리 ‘구멍’",
+          "source": "쿠키뉴스",
+          "date": "2026.11.15.(일) 06:48",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uZXJYci1SQVQ2TkJ0eWd0dlQ1N3RkclNvR3hpUmdNZU1RaEpTYXdqc3RsVVd5M201Nl9XVGdfWG9RQzNrVElxaFJfaEZHeHVjeW5YbW1iV0VDZktTSVExRnNzOA?oc=5",
+          "region": "national"
+        },
+        {
           "title": "엔하이픈, 헌혈 장려 캠페인 전개 “헌혈에도 동참”",
           "source": "JTBC",
           "date": "2026.11.15.(일) 05:54",
@@ -267,10 +301,17 @@
           "region": "national"
         },
         {
-          "title": "농림어업총조사 우수기관 선정…재정경제부장관 기관 표창 수상 > 뉴스",
-          "source": "대구경북일보",
-          "date": "2026.11.14.(토) 13:09",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSm9DRG5hTExuVWZfSUhGcHhmQk9wbWxrb0ZlQzdaV0d2NHpSQlpsLW1hdlRuSFVOU09pMlMyNC02QkUtMElleHkwU2xRdG1RY0NpR2E3aGtxREdxWklTVVUwcWJ1SXhYLV9tQzBZRDdSY193dG1rUVo0NElOUmFjbWdWYWVvdw?oc=5",
+          "title": "부산혈액원, 동의대학교 학생 헌혈 참여 활성화 나서",
+          "source": "인디포커스",
+          "date": "2026.11.14.(토) 13:19",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40Sllab3JkNVJ1MExhSXhudkswVjhGUFJLbGdWNnhtWW9sQjVEc1ctV2hUNHRrcXVUYmYyMG9qc2RXUGc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경주·포항 청년새마을연대, 소통과 연대로 지역사회 변화 이끈다",
+          "source": "서프라이즈뉴스",
+          "date": "2026.11.14.(토) 12:52",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdzR5OWNmRFBKUTc0czNYUVR3a1pBWUlKOU9GRnBUQ1RNYWd5bFN4TDRxbmt4TTJkRktuQ2x2QWJ5Rk5ZZ0REMlBEMGpGbFRGNk5udG5xU0FpOUhfdWlaS25oSU8zZENQeGUtZExB?oc=5",
           "region": "national"
         },
         {
@@ -281,17 +322,17 @@
           "region": "national"
         },
         {
-          "title": "진해구, 안전∙민생∙복지 4개 분야 ‘2026년 동절기 종합대책’ 본격 추진",
-          "source": "뉴스프리존",
-          "date": "2026.11.14.(토) 04:05",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wbVpPWktiSENuZXh3WFYtWkExN3lkVmlfc0tEcXo0S0JIYmhrMTBoNV9lN3VKMDUzNEo3dGRzRHFhbXlmQ0VYNjJvSm5qNG5XSGlpQ2ktanhtQlZVdkYtbUxGWnd2R2tmSmpoV0xJRzlRQjdLOWs00gF3QVVfeXFMTzBtWk9aS2JIQ25leHdYVi1aQTE3eWRWaV9zS0RxejRLQkhiaGsxMGg1X2U3dUowNTM0Sjd0ZHNEcWFteWZDRVg2Mm9Kbmo0bldIaWlDaS1qeG1CVlV2Ri1tTEZad3ZHa2ZKamhXTElHOVFCN0s5azQ?oc=5",
-          "region": "national"
-        },
-        {
           "title": "한림대춘천성심병원, 생명나눔 헌혈행사 성료",
           "source": "병원신문",
           "date": "2026.11.14.(토) 02:34",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01YVhsSUVtdFVHcjBsYUViYUJWN1hlYXBXcUVXMXdTR08wcVZVY3ppUzB1d0w2Wk1mRzFLblJURHR0LVNnUlJJTFRqVEdrNG03cjZ5Zl9JcnY0WmZ1S3Etb2NiYkhRU0JjR0E?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "포항시, 농림어업총조사 우수기관 선정…재정경제부 장관 표창 수상",
+          "source": "웹플러스뉴스",
+          "date": "2026.11.13.(금) 22:00",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wZElWVXlORVRPck0zNER5dGNVYV9WOG5PN1JhTXdjT3NsclU0ckF1bGxaNzhqUERSSV9ZY09XWDlYN0ZGZWtPZ2ZBdWdmVUZicl9UYi1wTHYydkxUR3RsaUZ2aVBsbjJnMDEw?oc=5",
           "region": "national"
         },
         {
@@ -302,10 +343,10 @@
           "region": "national"
         },
         {
-          "title": "포항시시설관리공단, 동절기 혈액 수급난 해소 위해 '사랑의 헌혈' 동참",
-          "source": "이로운넷",
-          "date": "2026.11.13.(금) 16:55",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92VTBQay1ia01yN3FpNkQ4aVk1ek9PWVFUYUMxcTZOUVo3ejFFbzFKLTZkREg2M0ppM3pMUk82end2RXlZSXJjWEF3YnYwYkxHa0VkTWR0bDBPckpxa3BrRl80akVjUQ?oc=5",
+          "title": "남양주시, 헌혈문화 확산 공로로 대한적십자사 회장 표창패 수상",
+          "source": "누리일보",
+          "date": "2026.11.13.(금) 18:50",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Z3hLMWswMVcxbm9yQklRZUVGZ3M1MzVaMGFTSjFnWDJRS25nX1UyRTF6VW1Va0pBazFRQWVqZ2oxODYweUtOeHktcXE1UnluWG95NjN6aW5tdHM?oc=5",
           "region": "national"
         },
         {
@@ -320,20 +361,6 @@
           "source": "메디칼업저버",
           "date": "2026.11.13.(금) 15:58",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kYjNvRWtqc3NVQ3F4MkxHZkMxWmJGSjdOLW9KNW9qZ2YtVjFZVGFUbU5LaGZXZER6MFYyQ2cxSE5YMURMbmFmYV8tS3lDb2VvV1J3c2ZSd0sxdDExem03dk1BZ2prSzVUUXhV?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[포항소식]포항시, 농림어업총조사 우수 기관에 선정 등",
-          "source": "뉴시스",
-          "date": "2026.11.13.(금) 15:42",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4WWhVVEl6LVJqVUwyalRFUnV3TUJiR0sxblFxMmFXRnA0a0xleEktbmFOdHBoanBuUXVXOWdQRzBQelB2RFdEOUpIeFh0ejR2V2gwR3M2amxSR2lrQ1VwZFdHM1EzSjBRY2V5MnFKVEpZSW9rdUhCMdIBeEFVX3lxTFB4WWhVVEl6LVJqVUwyalRFUnV3TUJiR0sxblFxMmFXRnA0a0xleEktbmFOdHBoanBuUXVXOWdQRzBQelB2RFdEOUpIeFh0ejR2V2gwR3M2amxSR2lrQ1VwZFdHM1EzSjBRY2V5MnFKVEpZSW9rdUhCMQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "합천군, 18일 군청 앞에서 ‘생명나눔 헌혈의 날’ 운영",
-          "source": "경남도민뉴스",
-          "date": "2026.11.13.(금) 15:30",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YWG5LdVpwMVZjb0EyWFZWQWhROElJaTM4X3h6ZmdWbnQ5eVcyRDhfMFd3bnZMRzZCZkVNRjlrNXdCSmdLc0lPdTNKSUJoaTIwVE12Q0FDWEx6YXpaVENGWUZINA?oc=5",
           "region": "national"
         },
         {
@@ -354,7 +381,7 @@
           "title": "권영진 의원 “의소대원 임명 시 범죄경력 검증 강화해야”",
           "source": "소방방재신문",
           "date": "2026.11.13.(금) 14:16",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxU1dOOGFfX3ExcmZKZDZUdzVQNU14T29GMHVJaFplejBUbllkdFM0OVRBdXFoV0tMc0t3QkltWkFJVFJLZVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE11VFl2XzFEMDdPc1A1WklJSGZhWGFDWVJ6cm02MXVHZ1h1M3JaNjNuME1YVnpieXFwVDZqbXk4S3FZM0l5?oc=5",
           "region": "national"
         },
         {
@@ -386,52 +413,10 @@
           "region": "national"
         },
         {
-          "title": "부천시, 겨울철 안전사고 예방 위한 민관 합동 캠페인 실시",
-          "source": "LG헬로비전",
-          "date": "2026.11.13.(금) 13:11",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yRElrRDd2SXlBcFlrc19GUDhGM0RDbzB5Mkk0cHJsUzhHQmlfeU9hU05DOERUM0FGaHl2S1Q3aFZ1cjR2WFNEWTd0amZQRWFzS2FlbWJ1TDJxRXRMemVDVjVfU2tzcEhqcjMtVkVqVDVXd2fSAXZBVV95cUxNOUJnVW1naE15OXhQN1pfVHhsZHNyN0VwRi1TTVUtMXNBMFJhTEFXa2hFVE1VaFBteTlrWTU2Uk1fUGhwb3IxS241aXhISUNXTnRsNlFtdXFEd1NJUGR0eWRRamRSV0w0b0I0cG1ia3VZTkViSHl3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "멕시카나 ‘치킨원정대’, 서울시립대서 헌혈 캠페인…참여자에 치킨 전달",
-          "source": "뷰어스",
-          "date": "2026.11.13.(금) 10:49",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TMzJRYTA4aTlVbUlHVXYzX3ZpaUZ4ZFpZRnFaU2NNMnpEbTlyZlJ2cFBGSEJaTl9naDlwWGVFNGZJX1NPdF9kbk51VWJXWmkzUXFER1RSTkc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "구리시, 18일 공직자·시민 참여 헌혈 행사...혈액 수급 안정화 나서",
-          "source": "경인매일",
-          "date": "2026.11.13.(금) 10:45",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94b3BCSnVsT3dvNW9Sa1JfS0xWakpkaHNsYW55YlpfLXVoNUdSelZsdWZnLXk4eFg5Qld1Q1F4M2c0Ukc3aVRQc0dQTkY2R1NuSVEtY3h1ZnlVZUQwNVlKMEhIZ09JSUtl?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "동대문구 전 직원 대상 심폐소생술 실습 교육 실시",
-          "source": "서울동북신문",
-          "date": "2026.11.13.(금) 10:02",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIQ3ZqM0NQR2dNMjJqM1hTR0NqMDZoRFBRWS0tbll1UHZJTUExRnJtbDhKVE1xOUtZMzNDaHJWMXFmRzZ0N2NKUDNGRnU2WFI5WElzaEZpRlVSekh0RW9wbDZYVDZVai1tV3ZEdw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한강식품, 2026하반기'사랑의 헌혈'로 생명나눔 실천",
-          "source": "농업인신문",
-          "date": "2026.11.13.(금) 09:35",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41M0RGMHhIM0p2MTFSQ3h6WGlkZ2N6ek5ZbkljNEUwckw1emZHUVN4SzRPNUFZVHcwNHlzMHZ6NndGT0JxRUVHeTdPdDQ0T0VJM05qRnhONUVlWWp5ckRwS1psR1RzQ1pPeS1saA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "한강식품, ‘사랑나눔 헌혈’ 캠페인으로 생명나눔 실천",
-          "source": "농업인신문",
-          "date": "2026.11.13.(금) 09:35",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZjRlYkduMUtVNXdtVEphLVhSS05VVjJQMVVMbERMQ1liSnczT0RRWmV4dzJPQ08xNjdVOW55Qlp1YWJWSzJMc0NlRnhKWkNOdjRhS3QzOE1kSWQ3N2tnbE55Vkg5SWlZWHE1ZHh3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "윤선희 서울시의원 “세종문화회관, 뒤에선 로펌에 ‘산재 배제’ 자문… 무대 사고 4건 출연자 탓 둔갑”",
-          "source": "메가경제",
-          "date": "2026.11.13.(금) 09:10",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UcmJBaFRpX2hTQmQ3ckgwSVpxc0pHRGx2NEFpbm1hOFVaUmJDVWREaGJFMXQtUkNQMTdBbC1HLTVScXltTG9zTTRhc3VUZWZhRHgxcjg2bVpYQ0NWUTZRMjlmVlVYdWlDbC1LV19PdzdxZ9IBckFVX3lxTE5UcmJBaFRpX2hTQmQ3ckgwSVpxc0pHRGx2NEFpbm1hOFVaUmJDVWREaGJFMXQtUkNQMTdBbC1HLTVScXltTG9zTTRhc3VUZWZhRHgxcjg2bVpYQ0NWUTZRMjlmVlVYdWlDbC1LV19PdzdxZw?oc=5",
+          "title": "제주사회서비스원, 직원 30여 명 대상 응급처치 교육…“골든타임 대응 역량 강화”",
+          "source": "뉴스N제주",
+          "date": "2026.11.13.(금) 11:43",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NFppQ2NDazdibVp6TXoxNHhZb3NrcnBzb3J3U3NvZHIxNnpOYmNtMDdZYUROZ0pvVkFlaVJSbGl3LUlXbUV5T2RaUS1GSXQwbktQamM0a056TTB4V1E1ZmxzdnY3T0ZnTE5mag?oc=5",
           "region": "national"
         }
       ],
