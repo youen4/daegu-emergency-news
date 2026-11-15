@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:25:51.307645+00:00",
+  "generatedAt": "2026-11-15T22:56:14.667114+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -9,6 +9,13 @@
           "source": "한겨레",
           "date": "2026.11.15.(일) 14:22",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MWJ0R3JPb21QVzJFWExMZklhakFILUd4aEEwWXRqbzJQS1BDenJ1bDNzWXFfYXBJNlNaemFBdUwxcTBPNk1Vdk96VDhHM25Mb0dOZkJEYllMdWFnTUJsN2FDcmdHQQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "“숨이 넘어가겠는데 받아줄 응급실이 없다”…환자는 병원 문 앞에서 왜 떠돌아야 하나",
+          "source": "서울경제",
+          "date": "2026.11.15.(일) 11:55",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HQkpKNUV2NFU4NE8tSC1LLW51akpzU3JVd2ltcmxZeVh0R1FQek9SV3U3MlFRQWlZREE1NTFURmUtZkZxTzJJTWIxaFc0VFZlZ2c?oc=5",
           "region": "national"
         },
         {
@@ -24,20 +31,6 @@
           "date": "2026.11.13.(금) 09:35",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03Z25HSS0zSURuZFk1M1hfQktUYmpkdVl4bmRRQi1mR1c5aDBDOTBDejJhQVgwX1ZQZk9JSnNtdk05NkU4MkF0Z2ZiWjFLLV91QU9sUFdLaGVOVmhTSE1jdklmcVlrb3o5THU5OF9kOXjSAXRBVV95cUxPSjJyeGsxQVhsTFZIZ09VdVFhMXlYUjJ1Ylo0SHRnVi1Wcl9VeWoyUWpNeGJtOFh5UWhtWFlxUXczMlJueUVYNF9UTjgtZll4UmsxSkRFS0dScExrLTdZTDVaRDZBaTBZcGtnMnpPWThZdXBOVw?oc=5",
           "region": "national"
-        },
-        {
-          "title": "부천·인천 세종병원, 지역응급의료센터 3회 연속 재지정",
-          "source": "더팩트",
-          "date": "2026.11.13.(금) 06:44",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrQjJtTlNfUDZUeVVtRFVtVVN5eWs1RXZTR051ODlXZS1td0d6MHBKak94NHI2MGpGcnZ2MHZabzRrY0FWQWxTSGpjajI0Mnc1a0Y3N2ZjS0JFU3NDNlNTZFRkZWrSAWNBVV95cUxPYUJRMldibkJFd1dqVlVCWUtkdkVwVTNiNlR1NU1pUHBJY19EbjUyanVIMlN1bF9VOEg3LUd4Ul9LTlZfY0dQSGF3RU9Sa1FkRXlfMEEzdEN4TkZIMTVvb1pybk0?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전북대병원, 권역응급의료센터 '재지정'",
-          "source": "더팩트",
-          "date": "2026.11.13.(금) 03:15",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xS2ZJUDZsamNqVEF2U3h6MEFpNk12OUJRQkdCOWcxWEFqQVFNSUhaRjBLaWk0Q1FsR0g5TTBCYmF2dGJpWWhfSGRGaWh5LTQwamVjR0dJSmdTTUQ5azdNWHdRYV80ejhseFR30gFqQVVfeXFMTU9CMy1pQzRrR2ViQ29FdjFjU3UtRmo0N3RmOXpxNHNJcjk1RG5pN05oR1A3S3pSN2NEZFVZeFNwbURYVFdmSU1CNkZ4S2xYalk2ZF92M2pIR1FDY2dZeFpvN0hmUkxQbjhJdw?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -51,10 +44,24 @@
       "label": "재난의료",
       "items": [
         {
+          "title": "전남광주특별시, ‘2026 재난응급의료 종합훈련대회’ 최우수상 수상",
+          "source": "브레이크뉴스",
+          "date": "2026.11.16.(월) 03:36",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wNjh6OTdKMHdhcmpJUDZKMGEwSzRUWndQTUR0N21PNW5OaWNBX18tekFjajNUQ19kWjRFU1V6VEluSzRSTXdPVw?oc=5",
+          "region": "national"
+        },
+        {
           "title": "“전국 재난의료 대응 역량 빛났다”…전남광주통합특별시, 재난의료챌린지 최우수상",
           "source": "시사의창",
           "date": "2026.11.15.(일) 21:57",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hbk9BeWJybU1MbGlhUkV1bFN1dkZxeVpLempCS0haamVBemlYLWY2cEhHa2dnclQ4dEd0WUl3eUpBaW5zblRYNDdwRjF6SGRXajQxSw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전남광주통합특별시, 재난의료챌린지 최우수상 수상",
+          "source": "데일리스포츠한국",
+          "date": "2026.11.15.(일) 21:09",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40TUNMNzlEbElKejRwS0hkUHJTd0lhM2hCWnZ3QjJPNHBaS3ItUEVXei1QbnljQVNWTVhOc05qTlFVUnBEMkFiUHFnMzlENk9pUDVyQk9LMEl6ZkhBVjBEdWpEWXMzVDdsMHdkTk9sRklfMTNNMjdXb0drZ9IBf0FVX3lxTE03YkhvM1pXZUZMbWVHNF8wc2stM1BWU1RtOTFSZ0xHQ2h0aHRXbWlWUlZwTXZ3Nnk1VWZZMElKb0JhdnhXakJTRnhBQkdrOHkwZGZzTTZxZ09FNHI4b1J6UmF4RDd0bC1ZOXZrRlZQRGRlZFhlWGdlNlJtT2JDSUE?oc=5",
           "region": "national"
         },
         {
@@ -65,24 +72,10 @@
           "region": "national"
         },
         {
-          "title": "전남광주통합특별시, 재난의료챌린지 최우수상 수상",
-          "source": "웹이코노미",
-          "date": "2026.11.15.(일) 18:44",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OcHFUazZiSjg4UEQ1d0E2QVZ6ZFZOV3lHTUNfZ2ZJTzc4elRGSmxrOXlWZ014NzdfdXBGSndtX3RLUkNoRzZ6a3lIY1ZWb29uX0xrV25DYS1zOHp3Sjl3dTNGSjYzbld0MjhrSXBZaG5odw?oc=5",
-          "region": "national"
-        },
-        {
           "title": "충북도 한국원자력의학원 유치전 돌입",
           "source": "충청타임즈",
           "date": "2026.11.15.(일) 18:41",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wNUZFT0hpWlc5U2hTMnQ1Vjk2c1RRb21nMUg0ZEFDNXFRZGU2ZGJmQVVCSU5lQWVrYWxfN092emQ4Q1FVMjZIalcyOWVSbG41WGR2MGpXZnRnMDhPNm16RnQ2OWNuem1t?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "전남광주통합특별시, 재난의료챌린지 최우수상",
-          "source": "세계로컬타임즈",
-          "date": "2026.11.15.(일) 17:20",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kMC1FS3JwdjhmQ3cyWUZwa3REWGM1OC1waEh1N1R0LVJDakZNb1hJbFpfQXFSbEkwRWJqYXVTbnBOanhEOTNnY2JaRkVDdjEtRUM0M0RxWG5CV3dFcHpRedIBXkFVX3lxTE5JQUdVMXBkS3d6NC1OcUZta0pSZ1VXdXB4ZFVIcmNoSXlRdVdmT3Qtbzg0VHU5SEdwTEQyYS1ibjJOeGJ3WV9fXzh6bUhnam0xcm1uc1lxX2hfZk9lRnc?oc=5",
           "region": "national"
         },
         {
@@ -114,17 +107,17 @@
           "region": "national"
         },
         {
+          "title": "전남광주통합특별시, 2026년 재난응급의료 종합훈련대회 재난의료챌린지 최우수상",
+          "source": "순천독립신문",
+          "date": "2026.11.15.(일) 14:17",
+          "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxOZzl2LVVuQmZKdFNXMzgwbTM2Z1p1R3k2OUlTYm1kTWhhcEFQaTVwZzJRTFE0Vmw2SHZsLWFkZWRrUUxZSFozSnY2TWdTZUFqUjNNczFzeXhNQm9MM2xKcUxBck53NzdGa3IzN2JOT21XZjJORlZPNHMtaE93b1Z2TmpBUlRXMkVyM281ZlQ5UnQ4SzlyVnJ4YlIzdnI3ZG1CeTBwSlNlR3B5YjdTYTlTMkFBbzVIYUVWVnpTUGVoaHEzcTVlOEJmalRyemVCRU9MMk52LUZoTzlfZXBCbkl4dVhuNm4xR2g2QkcydWxyOTBKWVNCREFPTGJmYjQ4S3owSTd4Uzh2a005NVp1WDMyZFc3bFREdEU0dGNhbld5REM4RGhhT3h5Q3BYQXdNcWxhNGg3cmx4eWRtcXJLTk4tTWFMY2wyNTRKN2xKc3N4OTJqS2ktUFRRZE85MEFNX0RPak5WTGFhWkQ4NXlJalhUTEkzOWI3dzVaelFScXhCX21raTlXbmdCcFNtYmlOTG50WVJmYXBOTnJJdGVRVEdlemRfcXRDc2NGczBfUEg1MnRFa2dpUjNMTGFPWkFYMnYzLUx4NmhhZnFVOUZ6Z1NIaHJfM3FmVGpXdlJnNzFUZWtzcV9tZ0NEUmVvbzJGT0JRUGtN?oc=5",
+          "region": "national"
+        },
+        {
           "title": "전남광주, 전국 재난의료챌린지서 최우수상",
           "source": "남도일보",
           "date": "2026.11.15.(일) 13:29",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMdFNBSkxjMi1Zb1hHTkhnNUpsUjhNb2NMQ2h0QnV3SGxVZFVrOTJtNFJWeG02c1RTRjRJcURMQzhHcVZ4YU95T3F5b0JNLVZkdFMxcjB6RjZuQ01YYjlfUC1xUk44Z0VUcWlIaVlRazbSAXBBVV95cUxQTHRTQUpMYzItWW9YR05IZzVKbFI4TW9jTENodEJ1d0hsVWRVazkybTRSVnhtNnNUU0Y0SXFETEM4R3FWeGFPeU9xeW9CTS1WZHRTMXIwekY2bkNNWGI5X1AtcVJOOGdFVHFpSGlZUWs2?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "충북, 한국원자력의학원 이전·철도망 확대로 재난 의료·관광 강화",
-          "source": "한국사회복지저널",
-          "date": "2026.11.15.(일) 12:27",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GcXdJYWlsMWVxNW1YaEo3LTdDUV9PMzhwVVlqYV9TS05WODFkNTBFOTRPSTNZeVJVYmxnQ1d1YnpkZDNGbUd2eTc5bzF4Z3g5LXJqMTIxcTNLV252YV9ZRUdEUk5OZ09Xdm9v?oc=5",
           "region": "national"
         },
         {
@@ -152,7 +145,7 @@
           "title": "사천보건소, 2026 재난응급의료 훈련대회 전국 1위 최우수",
           "source": "프라임경제",
           "date": "2026.11.13.(금) 13:03",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wemlmWVRDWHlDbDd3bW02eXBpUlRmdjVFRmZEZGg0eURMdFFUMlhuaUxtUGpXS0lNWk5GVXpYd1VTQmNPcXJ1d2tLMVlwMVBxeXd3bjcxbXBHb203QXVWMlEwcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80aUZsbEx5SlRaMGQ3VlZsY003OF82UExlMWJPbTNBVjd5OWo0OHZqN1pHYjktcXlUaGhWdWFZVGhLWUhMbV9pSU90RzBkZ0R3dlR2MkJoNjJaV1g3ak5nanc2aFhvTEhGbERkUEU2eFNVQQ?oc=5",
           "region": "national"
         },
         {
@@ -210,6 +203,20 @@
       "label": "기타",
       "items": [
         {
+          "title": "포항제철소, 22년째 이어온 ‘사랑의 헌혈’",
+          "source": "세계일보",
+          "date": "2026.11.16.(월) 06:00",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzZEhZMktHU2Zqa3ltMWZjMGNBUkVxUFBoZnFvajFmZFRjWGduOUxlWXE3MlVyWUFiUjllWnN1QmVqNEllWkFnX01NWlJPckN6SzRwdEp30gFUQVVfeXFMTm0taWlYQm1WVHl3eERpRk12YXBpWlJOY3NiRUFWcmx3eXRBTUV1Y0EzMExxdVFzLXhHNVNibGk5cmhQNDJwblV4MWxMdW1KRVdyNjFT?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "엔하이픈, 헌혈 장려 캠페인 전개 “헌혈에도 동참”",
+          "source": "JTBC",
+          "date": "2026.11.16.(월) 02:40",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XSm9sZE92RXNFaER6aTBYTkZQM2c5Tm9pNEd3UkNCYWVadDNURWZFbDliUlJlWnJNTWR1d3pNNWk3eDV5MXhlRG9hdzFNdmliY2g2RUhsMlhQdEQwcDZMVUlrVVloNV9pWlE?oc=5",
+          "region": "national"
+        },
+        {
           "title": "김건효씨, '헌혈 정년' 앞두고 마지막 생명나눔",
           "source": "울산신문",
           "date": "2026.11.15.(일) 21:44",
@@ -227,7 +234,14 @@
           "title": "지역 태권도 선수 치아 손상 예방·관리 힘써요",
           "source": "경남매일",
           "date": "2026.11.15.(일) 20:55",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OOTB1cjdGMDVvbi1UbFVLZmoxMW1GMHNDV2ZtNGg3YXVNbGE4TmU4c1Nac2FlLWY2NUZXV0NNbkE0OW1CVlUwaVJvaUhOT1EyTjY5Ylp4bW9GZzVibTZoR3RFNl8wT2ZW?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9leUVJdXFTUVpWUHkwVkpQN0kxdkNvcWZTdnl1bFNtNXFoWGlPejdWSHFPYTcyTHRtTG95OVluaDFSQzY2M1BXakYtOUxsUFV6U3haRG5uQmJGRmsyWk4xc1FwaEQ1cW1OM0E?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "보람할렐루야탁구단, 7회째 '사랑의 나눔' 헌혈 캠페인 진행",
+          "source": "잡포스트",
+          "date": "2026.11.15.(일) 20:54",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83bzJaODlQTl9RalAtNGdubGJoMW04MjM2ekJvOVZrNGJpdWl6YnlvekZwYS0zblkyZFpvdktqeE1SSXdTTEJIZUZqVkVhN19DYUdiTzdjQUFTMXlqOElKaVZzblVYbnM5Nm0zTG1YV0c3Z9IBckFVX3lxTE83bzJaODlQTl9RalAtNGdubGJoMW04MjM2ekJvOVZrNGJpdWl6YnlvekZwYS0zblkyZFpvdktqeE1SSXdTTEJIZUZqVkVhN19DYUdiTzdjQUFTMXlqOElKaVZzblVYbnM5Nm0zTG1YV0c3Zw?oc=5",
           "region": "national"
         },
         {
@@ -252,17 +266,17 @@
           "region": "national"
         },
         {
+          "title": "울산혈액원, 51년간 376회 헌혈 김건효 씨 ‘헌혈 졸업식’",
+          "source": "울산매일 - 울산최초, 최고의 조간신문",
+          "date": "2026.11.15.(일) 15:20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ha2pZOUFsSG5NS2VIcUcwSGUxeW5sTmRsVnJqX21DSjJmcURSR3V2V2ZSY1JqZlYxQ0NpQnV4UlNZOTBaVUtmQ18xc3I0NzFQb2x1S1lXVHBxQnFlZnpzM0Y2WENpdXcwWGd6N3Jn0gFuQVVfeXFMTUdralk5QWxIbk1LZUhxRzBIZTF5bmxOZGxWcmpfbUNKMmZxRFJHdXZXZlJjUmpmVjFDQ2lCdXhSU1k5MFpVS2ZDXzFzcjQ3MVBvbHVLWVdUcHFCcWVmenMzRjZYQ2l1dzBYZ3o3cmc?oc=5",
+          "region": "national"
+        },
+        {
           "title": "부여국유림관리소, \"2026년 산림토목사업장 안전사고 대비 합동 모의훈련 실시\"",
           "source": "서울Pn",
           "date": "2026.11.15.(일) 15:02",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EZzc4NTdwZE9xdW4ydFc2Q2FBQnJQMm5DQjhjN21XTWFFTHZ0cGFkUENXY2lOQkU5V2VyX2NSVG9XZm5zaTdySXBGREVSWktMVWw1bFhoVHdjeGxPVXFqczlB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "울산혈액원, 51년간 376회 헌혈 김건효 씨 ‘헌혈 졸업식’",
-          "source": "울산매일 - 울산최초, 최고의 조간신문",
-          "date": "2026.11.15.(일) 14:28",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LQmlvZnUzMkZvUWY0UV9CS01oT3cxWkNDX0hILXdENnVSZzRxdjRWLWdnZnpHYkxiWEhPM2hUZkRjUXNZWG45ODc1OHFiaUxTbDUyYTRBWWtlakt1NTgyRmIxYWZGQ19mWGfSAW5BVV95cUxNR2tqWTlBbEhuTUtlSHFHMEhlMXlubE5kbFZyal9tQ0oyZnFEUkd1dldmUmNSamZWMUNDaUJ1eFJTWTkwWlVLZkNfMXNyNDcxUG9sdUtZV1RwcUJxZWZ6czNGNlhDaXV3MFhnejdyZw?oc=5",
           "region": "national"
         },
         {
@@ -284,13 +298,6 @@
           "source": "쿠키뉴스",
           "date": "2026.11.15.(일) 06:48",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uZXJYci1SQVQ2TkJ0eWd0dlQ1N3RkclNvR3hpUmdNZU1RaEpTYXdqc3RsVVd5M201Nl9XVGdfWG9RQzNrVElxaFJfaEZHeHVjeW5YbW1iV0VDZktTSVExRnNzOA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "엔하이픈, 헌혈 장려 캠페인 전개 “헌혈에도 동참”",
-          "source": "JTBC",
-          "date": "2026.11.15.(일) 05:54",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XSm9sZE92RXNFaER6aTBYTkZQM2c5Tm9pNEd3UkNCYWVadDNURWZFbDliUlJlWnJNTWR1d3pNNWk3eDV5MXhlRG9hdzFNdmliY2g2RUhsMlhQdEQwcDZMVUlrVVloNV9pWlE?oc=5",
           "region": "national"
         },
         {
@@ -340,13 +347,6 @@
           "source": "뉴스21 통신",
           "date": "2026.11.13.(금) 21:41",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FN0hGb2k5RmtkMko2aGpnZzkyZFFCSzFYWWNhanJGNWcwcHl0b0Jrdk03QVY1YXNPLXhWOF9nVEJrWnVNc2thWUNwNG0xTUhHZ2UxM0JR?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "남양주시, 헌혈문화 확산 공로로 대한적십자사 회장 표창패 수상",
-          "source": "누리일보",
-          "date": "2026.11.13.(금) 18:50",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Z3hLMWswMVcxbm9yQklRZUVGZ3M1MzVaMGFTSjFnWDJRS25nX1UyRTF6VW1Va0pBazFRQWVqZ2oxODYweUtOeHktcXE1UnluWG95NjN6aW5tdHM?oc=5",
           "region": "national"
         },
         {
@@ -410,13 +410,6 @@
           "source": "메디포뉴스",
           "date": "2026.11.13.(금) 13:25",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBORllDT1A3R2ZON0RBVXdCZHlOcFd2WmVOMVY5RjBpMlUxcDYzOGF2ZmhEX1I2ck9ZQUdJYWU3cHloY2ZiZ05FcU10M1BrNHNTd3c4ZjJjSkpaQURUSGJDTmtBUTE?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "제주사회서비스원, 직원 30여 명 대상 응급처치 교육…“골든타임 대응 역량 강화”",
-          "source": "뉴스N제주",
-          "date": "2026.11.13.(금) 11:43",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NFppQ2NDazdibVp6TXoxNHhZb3NrcnBzb3J3U3NvZHIxNnpOYmNtMDdZYUROZ0pvVkFlaVJSbGl3LUlXbUV5T2RaUS1GSXQwbktQamM0a056TTB4V1E1ZmxzdnY3T0ZnTE5mag?oc=5",
           "region": "national"
         }
       ],
