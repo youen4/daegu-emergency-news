@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-11-25T19:23:47.896081+00:00",
+  "generatedAt": "2026-11-26T03:37:45.575630+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
       "items": [
+        {
+          "title": "응급환자 전원 초기 대응 표준화 논의…경남응급의료지원센터 워크숍",
+          "source": "간호사신문",
+          "date": "2026.11.26.(목) 10:39",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rbkNuUVJfWjRjZGw2YTZnNlRHQ2g2ME9tNWI4ZkF4LTJ3VWpLYmlDcXFVcHdvTFlCNXJwNUNZSDJYS0FhdFloMlNyR19Sd3VFa0VCUlhES1h1TGsyNWFFcTYtNUQtdkVOcUJ1dTh3?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "경남응급의료지원센터, 병원 간 응급환자 전원 표준화 논의",
+          "source": "메디포뉴스",
+          "date": "2026.11.26.(목) 08:12",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LYlpSaV82dU5KY3ROMm5QVXFXTUpzTlhYaHViSm90S2ZDOXdlVHRjQ1diLS1RM183cEVqNEZzTktMQmZGQmdORFV3a3VBSkplUndrVlZuOXFJeUU2ODEtb2s2eUs?oc=5",
+          "region": "national"
+        },
         {
           "title": "계명대 동산병원, 관상동맥우회술 적정성 평가 ‘1등급’ 획득",
           "source": "세명일보",
@@ -37,13 +51,6 @@
           "source": "후생신보",
           "date": "2026.11.25.(수) 10:04",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IeVRidXZrSnQweVZuSkZGck1Xd3pmZ0JteXJadW5Qd29uUFFzOEpYeXNLWk95MVlGdzBSV3l1WmowOURB?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "“30년 쌓은 신뢰, 지역의료 골든타임 지키겠다”",
-          "source": "데일리메디",
-          "date": "2026.11.25.(수) 06:25",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DZ2N2QU9sY3g4UkYwOGhFSUc0RTZ5VkE4SGZmeVJrZFhGM1dQQXhGX3ZTbUtMLWVBN0lreUUxWEc2OHh5dUY0ZzNlcktBRmJoTjlTZGtpVnotSHFjd19SNTItN21Jbk55Szhob0h4TGZPZUNa?oc=5",
           "region": "national"
         },
         {
@@ -108,20 +115,6 @@
           "date": "2026.11.23.(월) 13:06",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01UHhVc0R3MXg5ZjRfV2NBM25oaWg5bl8zRXFxVlc3SW9XaFBPaW9ieUdzYUZmaFlDUk1WbWxxaVFxam9vYWhlVG5lSUFFUmpVZmJJZ2R6NVkwY2pHNUE2ZW0tYmduUk9tSHJ5MXhta0NKUQ?oc=5",
           "region": "daegu"
-        },
-        {
-          "title": "수원 화홍병원, 수원출입국·외국인청과 취약계층 외국인 의료지원 업무협약 체결",
-          "source": "새수원신문",
-          "date": "2026.11.23.(월) 10:09",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZ3l0WG5vVWRKNW94ZXU4WUtYbGtjZUo3c2xPVE15cnBPTHNuZ0YwTTJpU3dXWkNqd2pad1ZWN3NTOWw1MXUxVkRoWjNFcFN0b01jUmJPaEhBOXRYMTRTWDNqSWJ6ZkFlQXc?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[동정] 고대 구로 노예천·조석우 교수, 서울시의회 의장 표창 수상",
-          "source": "메디칼업저버",
-          "date": "2026.11.23.(월) 08:53",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JalNycnlPbXE2ZUxMbVd4Qm9pQUt5NHhMek5tUi1NZFV0aUZ2dDd2amFkbzgtMjlza1ZudUpnZm80amduU3I5b2wwbmRVVnU4VWNDMFM1R2FfTzMzT3VBeVkweXRGWXhlWnN3?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -150,38 +143,24 @@
       "label": "재난의료",
       "items": [
         {
-          "title": "도로 살얼음으로 터널 안 연쇄 추돌·화재 올해 네 번째 레디 코리아 훈련 실시",
-          "source": "환경신문",
-          "date": "2026.11.25.(수) 22:30",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBWdHR3M2JPQWlIUHhNU2FCb2V0cmRpQTVFQWZaM3VDYm1LT0xvOGl6SnRxT2xYWF9WOXR1TF9pbk1UMG8?oc=5",
+          "title": "고양특례시 ‘2026 READY Korea 4차 훈련’ 성공적 마무리",
+          "source": "산경일보",
+          "date": "2026.11.26.(목) 11:26",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05RFdfSU1VTHdOamhFc2ZIMDlsSWMtV1QyZmJtWUd5UHY4NDRwVlBCbkQ5NjdtRWhhOG12dkJ1ZTYtNzBGV3R6U2JNTDdhTlY1eDFLckI3M3Fyam1jbWNMcmV3V2l0ZjNWM3Ywall2OFg?oc=5",
           "region": "national"
         },
         {
-          "title": "블랙아이스로 터널 안 연쇄 추돌·화재…관계기관 대응 역량 점검",
-          "source": "이데일리",
-          "date": "2026.11.25.(수) 17:00",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHFhbldVNlY0RGk4RGZiMmxJdmdVLWU3RU42dGhzQnJ3SDU0TUtMUmZEeXlXN055SEwxSy1QS09rMUxpRDNrejkxZ0ZWNl80a2cyQ3pFNF9BVV85SmxvYVBmeS10VFdBUzdSbktleXl5dFp2VGp3ZkhnUHRqX0VtTg?oc=5",
+          "title": "고양시, 터널 복합재난 대응훈련 실시",
+          "source": "잡포스트",
+          "date": "2026.11.26.(목) 10:18",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zc1FxZFFuUW9NNkJCd2J3ZnpGTmFtOU1CNkZuNjNWSEJFQmljM1UxRkZaMlMwV050dlBENEU1QjUxYTdNZXVtNHZHY0hydU1XMnFiWWlPYjJfWVhyUUlJT2xNM1Z0dnhWYUNXdGtrYm1pUdIBckFVX3lxTE0zc1FxZFFuUW9NNkJCd2J3ZnpGTmFtOU1CNkZuNjNWSEJFQmljM1UxRkZaMlMwV050dlBENEU1QjUxYTdNZXVtNHZHY0hydU1XMnFiWWlPYjJfWVhyUUlJT2xNM1Z0dnhWYUNXdGtrYm1pUQ?oc=5",
           "region": "national"
         },
         {
-          "title": "[르포]블랙아이스에 차량 40대 '쾅쾅', 터널엔 불길…아찔한 75분 - 머니투데이",
-          "source": "머니투데이",
-          "date": "2026.11.25.(수) 17:00",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zcEVyUmRUcThVMTZEdFotSFplRndlc0sySzhQYnZzMXBITXFSRUw1c2tibDZRWkhMM3VEN3dZZVV6Z2Y2OWZXeVRLdndoaGhhY3lGV3prelVQNWJqOGdGZHpBT3BQMzV1TmtpUGR4NNIBb0FVX3lxTE0zcEVyUmRUcThVMTZEdFotSFplRndlc0sySzhQYnZzMXBITXFSRUw1c2tibDZRWkhMM3VEN3dZZVV6Z2Y2OWZXeVRLdndoaGhhY3lGV3prelVQNWJqOGdGZHpBT3BQMzV1TmtpUGR4NA?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "행안부, 겨울철 대형 터널 사고 대응 훈련…블랙아이스 추돌 상황·화재 대응 점검",
-          "source": "이투데이",
-          "date": "2026.11.25.(수) 17:00",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wbDF6UkU5UlEwSjdpZ2ZxYWdUYm5zOGg3S0NLYUhxME5pVDBmbzJkSUEzR19uWXRKYWZkYnQ4ZjNmRjZUYWV0b0hqbU5KQkRscHZlZg?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "부산 전역서 방사능 재난 대응훈련",
-          "source": "https://www.bplusnews.com/",
-          "date": "2026.11.25.(수) 14:39",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rdWxfUXBuZ1ZlamJ5OEk1UTVyVUp1ZVZJZjEza1JHMkx4c29ETGVYR0RQbU9xQjI5Z1FPN3JmTFB0akRaYVNLWC04YlA1Y3h6NGlOeXJTcVV6VHRRbXZCcmo2WWltOWxuUlMw?oc=5",
+          "title": "고양시, ‘2026년 READY Korea 4차 훈련’ 통해 복합재난 대응 역량 강화",
+          "source": "이뉴스투데이",
+          "date": "2026.11.26.(목) 09:29",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzeXp4Y3dPOTlvdmRBNXB6STBJZGU1VzF4OGJoY0R5SnF6NkZvZy1qZkpCWlR6ZWE0cDVsOERfeW1hU19IdzBWSHNySnVBbGthNFR3VmtIWVQxQ3dVUGNGYk9JeEZDMS1Cc2JONkZMTE5ES1Vh0gF0QVVfeXFMUDN5enhjd085OW92ZEE1cHpJMElkZTVXMXg4YmhjRHlKcXo2Rm9nLWpmSkJaVHplYTRwNWw4RF95bWFTX0h3MFZIc3JKdUFsa2E0VHdWa0hZVDFDd1VQY0ZiT0l4RkMxLUJzYk42RkxMTkRLVWE?oc=5",
           "region": "national"
         },
         {
@@ -218,61 +197,53 @@
           "date": "2026.11.23.(월) 14:45",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWVd4cmdzT1VWa3lKS18yblZ0WjJydS1SOHdzR3dsdnQxQmpvZ09RTWlKd2szTXFDb0hzRjlkWEQ1UGp2OE1pdWczU3pTNjVvZEdseTFDVjVBLXI2SUF0aXhvRE9jMnVXQ1l2Q3l5Rnh3YjVvSHRtZEQ5TXZoR0JIQWhpSlFEbVA1czlz?oc=5",
           "region": "daegu"
-        },
-        {
-          "title": "[동정] 고려대 구로병원 노예천·조석우 교수, 서울특별시의회 의장 표창 수상",
-          "source": "재활뉴스",
-          "date": "2026.11.23.(월) 12:31",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nZXNqdHJzam1DbTlGdmMwM2lmSzZHUTNIZ1phejRYeGNZTmpUdExiN21zczVWZWpCTlNlVlREekFNRTg2aTg1NEk4OFBzaG8wNU5MbDQ2aGEzd19CR0hwcWR1ZWtCQ3psVWVF?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[동정]고려대학교 구로병원 응급의학과 노예천·조석우 교수, 서울시의회 의장 표창 수상",
-          "source": "데일리메디팜",
-          "date": "2026.11.23.(월) 10:23",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqaHd1TG1hTTZvdmd3QUtHS1EzYVVsV1JlMkJ6YXV6NE5fREplS0tKLVZodHVwMWZMZ3lmcGI0ZHR4STh3VXJqMjVuQktCY0dfcjBmVnM5UDk5bXlDbVBOS3ZQMkNvMktTVURndXVhdnM?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "노예천·조석우 고려대 구로병원 교수, 서울시의회 의장 표창",
-          "source": "주간한국",
-          "date": "2026.11.23.(월) 10:10",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yLXJxOGVUT1BzZGRHbmtYSU9WS3FuZ3h0ODRkcEItMEl1SWFSbjFkTE1CWi1mUGsxek9WUEtfVGdRd1FSblkxYl9WSkJESmlwY2NWS09uX2VjMzZ2OG1aWk5TYmZiMndxMDFQVFJUOTjSAXRBVV95cUxPTk0xby1pdzJqOVJJY3p2Q0tobU9pWmJyV1FaSmh0dHVEVENzaFJyVW9DTHBGMUV5YUlLNDlESThSbEtUSVdaZG5mZnE3NWR4d184TWhabzQyaE5ieDNTNThaUW10ek1KMkJDdmhmMS1xaUVGRw?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "장성군, 재난 상황 구명 시간 사수 ‘구슬땀’",
-          "source": "장성투데이",
-          "date": "2026.11.23.(월) 10:00",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMLWpOdjNCUDVOODlTVzF5X09adVhmX0k4cGdreDlDUzBrT0gzU1VuazE0Si1UX3VXZGZTMHViU1JPbkVSdWU1Rm9Famo3RndJTjRpdTJKdkk1NjVyWkNrRXBFNTMwSkdTdVZv?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "[한림대춘천성심병원] 대규모 재난 대비 훈련 실시",
-          "source": "병원신문",
-          "date": "2026.11.23.(월) 07:38",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91dVdOVUZGU2MzelJLVV83anJVcFFyczFuLWtvSG9RQ1FWTHRtQ0ZoUlBnWEFLZjUtMmRybTd3cTF5akZIcEhoNTZjMzBTTHUtSDZWSUpFYTF1T2drNC13TGhsY0FJak96Qnc?oc=5",
-          "region": "national"
         }
       ],
       "error": null
     },
     "pediatric": {
       "label": "소아응급의료",
-      "items": [
-        {
-          "title": "아주대병원 소아응급실 압수수색 보도를 보며",
-          "source": "제이누리",
-          "date": "2026.11.23.(월) 11:06",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlLUdCaWpOSXF5VFlpMkZSdk10aXhrbkZqdmtwN241c0NDNzNlSF9VZGZncnpDemdFNDA5NGdmeDhjU1ByYUw2STdQZDBpMnBaWGdtamoycWs4MEdY?oc=5",
-          "region": "national"
-        }
-      ],
+      "items": [],
       "error": null
     },
     "etc_misc": {
       "label": "기타",
       "items": [
+        {
+          "title": "구리시, 대한적십자사 창립 121주년 기념 '우수 헌혈 단체 감사패' 받아",
+          "source": "누리일보",
+          "date": "2026.11.26.(목) 12:11",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYNzhzQ3ZwUzFMOU5WYWxISGVGbUZDTFBJN3o1WmoxVWFJS2k1c2VEVFJSTVh5bVNrZXVoclZNZGppOC15N1lMVnVYWHFyMnV4cDF1ZjN0V3MxdENU?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "대동병원, 임직원 참여형 ‘생명나눔 챌린지’ 마무리… 헌혈문화 확산 노력",
+          "source": "가야일보",
+          "date": "2026.11.26.(목) 10:30",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wNTltOGJJRGQ2V19tdEpvQm5VNURYRkdzYzZwR3FlQ1lMRVRwY3M5VktiajhlYnhmM1JmdEJabmdzTU9LdU0tQ0ZEWDZRTG9kVVZmY2gzbVZIZlNaOFpCTG52YVFLV1NG?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "전국 템플스테이 사찰 165곳, 자동심장충격기 설치",
+          "source": "뉴시스",
+          "date": "2026.11.26.(목) 09:56",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5cERiNzlPSDktaFQ2NTI4amR3TDdFb05DV0dvbTR4bFJwd2tjSzU4c21ZUFNuSGxYbzhubkkzcFozNkZJWWQ3NEM0cjltSGthejE3Umt5T2x6RXUzNGdfSVN5Q0E3SFI4ODJSOXFsOTdGSTJqMGVIUNIBeEFVX3lxTFB5cERiNzlPSDktaFQ2NTI4amR3TDdFb05DV0dvbTR4bFJwd2tjSzU4c21ZUFNuSGxYbzhubkkzcFozNkZJWWQ3NEM0cjltSGthejE3Umt5T2x6RXUzNGdfSVN5Q0E3SFI4ODJSOXFsOTdGSTJqMGVIUA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "위코멧, ‘원 케어’로 B2B·B2G 시장 공략 본격화",
+          "source": "한스경제",
+          "date": "2026.11.26.(목) 08:33",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SSXFhYkJzZGhCMHZGbmdmMXRKWHRDeUhEQnFxTkY2REo5a2hLMV9FZXBWSllEMER3WXhBcklNa0FpQ0plSU1DTlowcWh5MFgydlhsZGc0LV9vZ1g1MlgtLXRKZ1VIbTgydlNJUnZOa9IBb0FVX3lxTE5SSXFhYkJzZGhCMHZGbmdmMXRKWHRDeUhEQnFxTkY2REo5a2hLMV9FZXBWSllEMER3WXhBcklNa0FpQ0plSU1DTlowcWh5MFgydlhsZGc0LV9vZ1g1MlgtLXRKZ1VIbTgydlNJUnZOaw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "나주교육빅뱅, 소중한 생명을 지키는 찰나! 학교 교직원 심폐소생술 교육 실시 > 뉴스",
+          "source": "더코리아",
+          "date": "2026.11.25.(수) 23:49",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfZ3RNUXR4YkRTTk00TkU0R1U0VllDSTN0eWVwbjM2bjBtMWFBVHlCeFZKdEdEalUzTmZROFNBS3dhR3lUamF3NUM2SQ?oc=5",
+          "region": "national"
+        },
         {
           "title": "울산 남구의회 김태훈 위원장, 심폐소생술 교육 확대와 자동심장충격기 관리 강조",
           "source": "웹이코노미",
@@ -281,31 +252,10 @@
           "region": "national"
         },
         {
-          "title": "홍천군, 생명나눔 헌혈 릴레이 개최…군민·공직자 동참",
-          "source": "뉴스티앤티",
-          "date": "2026.11.25.(수) 21:35",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GcEUybE1aUjc5N05UWllvcjJNSUpmMjdQX1hGOTNieWV5bGljcFhGT1ZPcWdnLTlMTDJFWEZzQ2dpQ2dMMXU1cXVzNzdiYlhEOVF1cHM2SC1RekVBaXJmMW02NlZFVkNqVWc?oc=5",
-          "region": "national"
-        },
-        {
           "title": "무안군, 11월 27일 '사랑의 헌혈' 행사 개최",
           "source": "전남인터넷신문",
           "date": "2026.11.25.(수) 20:48",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNaXhDQVBNTWxGWlRIMzNCSFp5cEdDNHJWS2VETVJwS0VBY3hrSDEtNW5YU2F5SUlPQldGRngwc21HLXdRT1Zyc3BkVHR3Y3F1Z1RnQjZ1Q09iN1ZK?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "용인특례시의회 문복위, 3개 구 보건소 감사…응급이송·난임 지원 점검",
-          "source": "비즈월드",
-          "date": "2026.11.25.(수) 20:31",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ma0t5S2JwdmxQT0FLeTdxR1ZMckFkRm5OU1V4T1Z4Z1BLYmlVWHRiS00yaTloZVpxMzNKRzg4NmRPRHFuSlNndE81Qkp1ZG8xOUtidnhIa0lkNkp0RDcxXzNRbkRrTThqN2V3?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "템플스테이 운영사찰 165곳에 AED 보급한다",
-          "source": "현대불교",
-          "date": "2026.11.25.(수) 19:00",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUQkJaZkxFY3ZBSzRXRGplQ2x6cHg4YkZlRlRUdkdzRVBOTHc5c1RnTVB3RGNCTTZ1ektkN004SHhIaDlpeVdOQ2hVaXNqSmNyUEo1Mm05V05xTmcyQUFBSkV5NWMzYlg4T1F3MVZjMA?oc=5",
           "region": "national"
         },
         {
@@ -320,13 +270,6 @@
           "source": "중부뉴스통신",
           "date": "2026.11.25.(수) 17:35",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xV2xNdWhKM2p1UW1Hb0dxMFdfN3htSFR0LXMtS094VjdGMFlleFJJc1FlQ2JiZDlqQTFCaEE5ZDN1emRXaU5PVXRNdVE5MHhKU05kV0ZTYmRTREN4eU1PYzhSQ25reFk2bnAzWXNYVQ?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "문화사업단, 템플스테이 사찰 자동심장충격기 설치",
-          "source": "법보신문",
-          "date": "2026.11.25.(수) 17:17",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lRi1OOGNibVlJRlBBQ3FOY2V5WF9YYlVvaURhY2NKblpOMUthaUw1VVY3TEdoaDVPMjNqUzBJaXgzYS1kLWRoS2lxdVR4c2lReXg5SzA4NU1TVmFPQ2FnU19DZkxYWXVR?oc=5",
           "region": "national"
         },
         {
@@ -386,17 +329,17 @@
           "region": "national"
         },
         {
-          "title": "공주소방서, 공주대와 심폐소생술·응급처치 교육 활성화 업무협약",
-          "source": "뉴스타운",
-          "date": "2026.11.25.(수) 13:45",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wbW1WUnVORGN0SC1MY1VuYWNEeVBxOHZQYUkwUDhJQzVKb3ppTjQ5VVlOQ2hlNE5feFFEMjdXRW9FZ2FxRkpyaTJKNURlRF96ZTE2WW9pTjFpcDVENWdNalNReHBOZENDSXZKYWFR?oc=5",
-          "region": "national"
-        },
-        {
           "title": "청주시 상당보건소, 하반기 응급처치 교육 실시",
           "source": "청주일보",
           "date": "2026.11.25.(수) 12:45",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SOUxXdmFYSm9YRGxfN3Z3NC1SVVFDZzZlRl81WDRPeVJqMlE5QVM3U0FILXhtalNRTTVmTFpkX3d3M2lPbUMwSmhLandnM1RpZVF5NUlSN1M0X0s3c0lCTzlaZWRKQ1pORzJj?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "홍천군, 생명나눔 실천‘헌혈 릴레이’행사 성료",
+          "source": "엔디엔뉴스",
+          "date": "2026.11.25.(수) 12:39",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xWW5HZXlRTDhrUnhBR2Qxc0RBZ016QXI2ZFl6dngxTUZpQXlwUlA4RmgzUFNpbzZxWHRCQnJmb3pnOGxYMmVDajVfVTZXOUtjLXVmWllNRkNfNTQzb2FPQUtyZVdkNHRYYjRzdXRyenY0d9IBckFVX3lxTE4xWW5HZXlRTDhrUnhBR2Qxc0RBZ016QXI2ZFl6dngxTUZpQXlwUlA4RmgzUFNpbzZxWHRCQnJmb3pnOGxYMmVDajVfVTZXOUtjLXVmWllNRkNfNTQzb2FPQUtyZVdkNHRYYjRzdXRyenY0dw?oc=5",
           "region": "national"
         },
         {
@@ -407,17 +350,17 @@
           "region": "national"
         },
         {
-          "title": "가스안전공사, 지역 혈액 수급 안정 기여 공로 적십자 감사패",
-          "source": "중앙뉴스",
-          "date": "2026.11.25.(수) 11:12",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kcUFUVXdaYWQyTThTUC1qTk5PMm5YUEF1dTRKSVRtRkk0MFdRMXdPeDF6Z2xwV25HWEFZYktRS3ZPaWtlM0huSlY3eHU0ZzNpWFFhMUI5ZkZ6bnViRFJoaDA2MFNYamJ1czhscjFzS1LSAXBBVV95cUxNZHFBVFV3WmFkMk04U1Atak5OTzJuWFBBdXU0SklUbUZJNDBXUTF3T3gxemdscFduR1hBWWJLUUt2T2lrZTNIbkpWN3h1NGczaVhRYTFCOWZGem51YkRSaGgwNjBTWGpidXM4bHIxc0tS?oc=5",
-          "region": "national"
-        },
-        {
           "title": "위코멧 '원 케어'로 B2B·B2G 시장 공략…'기업·기관 특화 응급 솔루션'",
           "source": "뉴스웍스",
           "date": "2026.11.25.(수) 11:11",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5keEo4dFgxbGZjaHNvT2xfal8zV1VMUktYZzJyVjlyZkUxOVlhODFNQTdEdHBHelZFbHZSb0JMdTB4dFJoTTBHOUxubUwyTzJzYmVsVzJuR0hiOUlwQ19MRG1kaHdfOHhvYVJQdXhDZ9IBc0FVX3lxTE1NZWhrSGIxNDVjYWg0eDl2SzMwa2Y4aDRmbVlxa3JNdC1iWDBKR0JXUXIwcGQ2NS1saHVxSVZ2aGdwY1gtOVg4WGVLNVZKdHVrczdyUnZkaWFOWFVrWGlQMDJ6bk45Qm5vLXRMellHLVhvM2s?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "가스안전공사, 지역 혈액 수급 안정 기여 공로 적십자 감사패",
+          "source": "중앙뉴스",
+          "date": "2026.11.25.(수) 10:38",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlcURBZWYxbU15ak9wc1VETFVmcGRqQzlSdjhadHl4bGtFRlhSZFEwRUgyNmhEQTRBSmJSRDRTX0d6eG5sS2t6UUNNdk5uUDVZTUpZSGFreHZBMms1Zmk0QURiRDY1aGxrcjBxYtIBcEFVX3lxTE1kcUFUVXdaYWQyTThTUC1qTk5PMm5YUEF1dTRKSVRtRkk0MFdRMXdPeDF6Z2xwV25HWEFZYktRS3ZPaWtlM0huSlY3eHU0ZzNpWFFhMUI5ZkZ6bnViRFJoaDA2MFNYamJ1czhscjFzS1I?oc=5",
           "region": "national"
         },
         {
@@ -439,13 +382,6 @@
           "source": "안전신문",
           "date": "2026.11.25.(수) 09:54",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQVYwWWVNV2xneFBlbjl1UEowc2tlSUJHZk91UGY2VDF2ZTQ0X3BHVkdVM0VVM2VOVFpsSTg3OTMwZGtUTVZvTmh3bkl1dFFQaExCOUZNcmN0NDhlUjhLOHRUbmpicGFQZjBPM2lZMW8?oc=5",
-          "region": "national"
-        },
-        {
-          "title": "홍천군, 생명나눔 실천‘헌혈 릴레이’행사 성료",
-          "source": "경기종합뉴스",
-          "date": "2026.11.25.(수) 09:53",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyUnVSTUNnRHJ0UUtQUVhaRTJqSk1iYVlpNEZGaHBaNy1IelFDN2RkWVFKX3d0WF9qWnhXR0toRGN6NHAxVnlYNXVOLVNaR2I5MVlxNHN2clpXV0JIQUczYWpJX3Nfb1AtUDFUN0ZvdjN3VDhL?oc=5",
           "region": "national"
         },
         {
