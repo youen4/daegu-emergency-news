@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:31:02.919863+00:00",
+  "generatedAt": "2026-11-28T07:59:35.041035+00:00",
   "categories": {
     "emergency_general": {
       "label": "응급의료 일반",
@@ -66,13 +66,6 @@
           "date": "2026.11.26.(목) 08:12",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LYlpSaV82dU5KY3ROMm5QVXFXTUpzTlhYaHViSm90S2ZDOXdlVHRjQ1diLS1RM183cEVqNEZzTktMQmZGQmdORFV3a3VBSkplUndrVlZuOXFJeUU2ODEtb2s2eUs?oc=5",
           "region": "national"
-        },
-        {
-          "title": "“강원·영동권 중증·응급환자 최종 거점병원 역할 더욱 강화하겠다”",
-          "source": "후생신보",
-          "date": "2026.11.25.(수) 10:04",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IeVRidXZrSnQweVZuSkZGck1Xd3pmZ0JteXJadW5Qd29uUFFzOEpYeXNLWk95MVlGdzBSV3l1WmowOURB?oc=5",
-          "region": "national"
         }
       ],
       "error": null
@@ -92,8 +85,44 @@
     },
     "disaster": {
       "label": "재난의료",
-      "items": [],
-      "error": "HTTP Error 429: Too Many Requests"
+      "items": [
+        {
+          "title": "국립소방병원 첫 소방의학 심포지엄…화재 노출부터 직무 복귀까지 논의",
+          "source": "메디포뉴스",
+          "date": "2026.11.27.(금) 11:06",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiajlaQ0NucnNOaE5MNzdVbEw1aDFlZENmZ2JYcmFfZDhYTHFIUUszcThQTHRPZW9GY0FDdTVRVFhPUS00Y2M3aTQtY0J1RUYtVFl0STU3M21adHFMVl9lMktacEs?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "서울대병원, 서울 필수의료 격차 줄일 진료권 협력 논의",
+          "source": "메디포뉴스",
+          "date": "2026.11.26.(목) 13:04",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnMEprLVFiMDFqbnJfZWhsZ3F0Rm5vUExyNkVkMHVvTEtoS1FCREtFbWxHelpqLVZUYXFvTkF0NUt3d2phbWVVYUppcWd6OUc0dE9vVHE3akFRLUpkNnB6SkVSUFA?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고양특례시 ‘2026 READY Korea 4차 훈련’ 성공적 마무리",
+          "source": "산경일보",
+          "date": "2026.11.26.(목) 11:26",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05RFdfSU1VTHdOamhFc2ZIMDlsSWMtV1QyZmJtWUd5UHY4NDRwVlBCbkQ5NjdtRWhhOG12dkJ1ZTYtNzBGV3R6U2JNTDdhTlY1eDFLckI3M3Fyam1jbWNMcmV3V2l0ZjNWM3Ywall2OFg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고양시, 터널 복합재난 대응훈련 실시",
+          "source": "잡포스트",
+          "date": "2026.11.26.(목) 10:18",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zc1FxZFFuUW9NNkJCd2J3ZnpGTmFtOU1CNkZuNjNWSEJFQmljM1UxRkZaMlMwV050dlBENEU1QjUxYTdNZXVtNHZHY0hydU1XMnFiWWlPYjJfWVhyUUlJT2xNM1Z0dnhWYUNXdGtrYm1pUdIBckFVX3lxTE0zc1FxZFFuUW9NNkJCd2J3ZnpGTmFtOU1CNkZuNjNWSEJFQmljM1UxRkZaMlMwV050dlBENEU1QjUxYTdNZXVtNHZHY0hydU1XMnFiWWlPYjJfWVhyUUlJT2xNM1Z0dnhWYUNXdGtrYm1pUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "고양시, ‘2026년 READY Korea 4차 훈련’ 통해 복합재난 대응 역량 강화",
+          "source": "이뉴스투데이",
+          "date": "2026.11.26.(목) 09:29",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzeXp4Y3dPOTlvdmRBNXB6STBJZGU1VzF4OGJoY0R5SnF6NkZvZy1qZkpCWlR6ZWE0cDVsOERfeW1hU19IdzBWSHNySnVBbGthNFR3VmtIWVQxQ3dVUGNGYk9JeEZDMS1Cc2JONkZMTE5ES1Vh0gF0QVVfeXFMUDN5enhjd085OW92ZEE1cHpJMElkZTVXMXg4YmhjRHlKcXo2Rm9nLWpmSkJaVHplYTRwNWw4RF95bWFTX0h3MFZIc3JKdUFsa2E0VHdWa0hZVDFDd1VQY0ZiT0l4RkMxLUJzYk42RkxMTkRLVWE?oc=5",
+          "region": "national"
+        }
+      ],
+      "error": null
     },
     "pediatric": {
       "label": "소아응급의료",
@@ -102,7 +131,7 @@
           "title": "병원서 숨지면 범죄인가",
           "source": "일요시사",
           "date": "2026.11.26.(목) 15:39",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBERnZDZmdpZEIxU2wybENpTWtuaWVHUnBQUm4yYzBMelh5azJOemI1S3U3S0FYX21NWXJUVG03YUpnRlFyMDUxNW5yODBJeWlDYjJGWmxEbWtXR1BkeThac3VR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjcXRpUlg5ZV9nektnMTBJdk9nUXFlREs0WU9JdWM3Ri03VWdYQlFGaW9JQ0FjNEdyREhKbXFKMzZLMnVLbW9BakpIeFlGVzVaeXBoZ0Rid1FKYWhfaWJneXo1MUQ?oc=5",
           "region": "national"
         }
       ],
@@ -110,8 +139,219 @@
     },
     "etc_misc": {
       "label": "기타",
-      "items": [],
-      "error": "HTTP Error 429: Too Many Requests"
+      "items": [
+        {
+          "title": "자발적인 헌혈을 통해 긍정적인 가치를 전파합니다.",
+          "source": "Vietnam.vn",
+          "date": "2026.11.28.(토) 15:16",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWc1aU9tZUg3UW5Ga2lGSjZoMGxGV2FKMEViUVYyUVV4dWZPRnYzVVh4VHZ6LTdQT19nYlZWYUF0UnNGNGl4TnVtUmx0RFVZbmR6WE40bHlqQmVXVGtPQWVITGZ6cFBzZ0RrMXNHNHZEVkM0SW81REh6UDFreEpvYmZweXNMR1ZGNXN4bTM4VQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "독감 확산에 헌혈 줄어…전남광주 혈액 수급 비상",
+          "source": "뉴시스",
+          "date": "2026.11.28.(토) 09:00",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUWQ1bEtZZS1LWS1FY20zckFhaXA0aEhmWF9BaDF6bzhSbmRVb1hKVW01WklzdTB3WjZLN1hsWFU0MEVacGZnSTQxM2QxeUJOb3dlU2c0cG1nY2c5MkFLQtIBeEFVX3lxTFBHSmJ5YWRrWGZyVXh0OGZZSjNYQTNEaENPNlZxeUp6MkctbWJlbVJfQmpFSENYX1FPME1sd05KbVY1RlpQVVVVUFZ4VkxLZmV4Nmh3ZWQ3U3gzNzRzbzZEYUQ4NU9KUktyRnF1RV9XZXVTdDBHYzRJeg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[사회공헌 Pick] 한국도로공사서비스·LH·고려아연, 헌혈 나눔·사할린 동포 주거 지원·장애인 예술인 고용",
+          "source": "라이센스뉴스",
+          "date": "2026.11.28.(토) 06:00",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5Ti15aG5fcVVsX01menJjbHhlZnFDMGJ5RDN0S0VMNnlCeURKc3VVb0FaUVVGY0FkTktyeDEtRkxvbU9CR25IcTFya1BxNHpmcHJMczFkNWJ0RlFtbWVCRmVsUEhlb2I2RS0w?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "무안군, 11월 27일 '사랑의 헌혈' 행사 개최 > 뉴스",
+          "source": "더코리아",
+          "date": "2026.11.27.(금) 23:10",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5maUNvaE95VmtFRk5LdlEteFhTWFIwQXk5RUc5VVNjbUZ1bjNZMGI3VkxaYkNJYnk3OWw3SzBnbldTQjhaWmhwNG5Ibw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "울릉군보건의료원, 심폐소생술 교육으로 응급대응 역량 강화",
+          "source": "웹이코노미",
+          "date": "2026.11.27.(금) 20:00",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yOU5ualNGNTZRWVFLWWp5aHJWbFg5QmhZc0xlOUw2Z21XRFJZUDYyTF9MYXdfTzZXaUVkMVp2LUJlMlZOazZnRWVvcHJGZWpVRkNmd3E4R0twdFZRendYYjJIYWZVWU1od1hEQVBlc2pKZw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "울릉군보건의료원, 심폐소생술(CPR) 교육으로 지역사회 응급대응 역량 강화",
+          "source": "타임뉴스",
+          "date": "2026.11.27.(금) 18:32",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldlVYS3Y3RmdLcmIzMnZHVEtUbklhamVDcmg1RUhONjRLdzR5YWtJdlZBckVQa1FneVE1SzBwdEZ5NmhzbFVVOWJvY1RiOTVES2xTRw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한국건강관리협회 부산동부검진센터(동래), 부산혈액원과 함께하는‘임직원 사랑의 헌혈봉사’실시",
+          "source": "국제신문",
+          "date": "2026.11.27.(금) 18:15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUFXNjJxQ3FUOVNTbkRrNWdoYlVHMXpiWm1GWktzbDBtSzRhOG1qS3NIekp6Yjl0X2Q1QUZJY09QckpQOFFjYk9LbWFmbXUwU29SMVdzR1dxOS1Gd0VPZkFDejQtbmdWOC1JNjJZeW43a3dpaU9UdHc1aUw5ZU9SRWVZRW9FQ2YyR1ZlanVqWlJ5T21F?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡 임직원 단체 헌혈…헌혈증 기부 예정",
+          "source": "르몽드디플로마티크",
+          "date": "2026.11.27.(금) 17:38",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5YTlmdGdCWmFfQWVoX1R3RzU2WFdSMnpHcENwVWRNRF9XZE9nYzI3dHRrbm4td2JkbkNyTVBfRUktUDFEZDBSUFhXZ0ZyV0F0bWpTQmx5NW1LeFZqS3RycVFBMHRwNlVMT1HSAW5BVV95cUxNd1liOGNFcnV5cDM2RC16aU81cU51SFI3ZkRwbnZ4QXpvUVU2NnJqZVh1b1RTejMtOHlLNE43QV9VYzl4bXFEcmhCdXVPVDRZa2tOOHlVWjFPUDdwNlVfVDdwelJQZXlROVZILUU3dw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 헌혈 캠페인으로 생명 나눔…헌혈증 기부 추진",
+          "source": "일요주간",
+          "date": "2026.11.27.(금) 16:23",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MSWdCQmpHaGM2bkV3ZWRPeDBrZldtZ0NyalpEaV9pbS0zb1pacUVIbUhFcW9SZmNtYTBSRUVCMUF5R1hVZERySWtlaVg3TlpwT0MtNjQ2czVTbUVKd1o0NGlIQ1NiUTBta2tzaWNRVVpiM0k?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "울릉군보건의료원, 군민 생명 지키는 '심폐소생술·AED' 응급처치 교육 실시",
+          "source": "뉴데일리 대구경북",
+          "date": "2026.11.27.(금) 15:44",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmRW5zRGxuTU5mYVN4OHk2NVgyY2hQZTUwTXRpMFFEbVNUSWd2VUtNdkhPeVk5YzA3Mk5iazlidmtKT2l5QVhuV2c1MjFRc1NlbFAyX096VXhGMlhoOHowQUFJZlFfTkpSQ09hemxoT3BVcWtMOXNaTmcwQVQxVzDSAX9BVV95cUxQZkVuc0Rsbk1OZmFTeDh5NjVYMmNoUGU1ME10aTBRRG1TVElndlVLTXZIT3lZOWMwNzJOYms5YnZrSk9peUFYbldnNTIxUXNTZWxQMl9PelV4RjJYaDh6MEFBSWZRX05KUkNPYXpsaE9wVXFrTDlzWk5nMEFUMVcw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "한국도로공사서비스 광주전남권역본부, 헌혈 13명 참여·헌혈증 17장 기부",
+          "source": "www.thepowernews.co.kr",
+          "date": "2026.11.27.(금) 15:02",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YU0RYT2o1bjBYVmZHbHJycUo3ajRlLTdTU3FCbDNpZEtDcG9XXzg5LWNyUzZmMmR4OFkyTEpkVjZ0X1dTcDFDb1ZHOHhiNkp2MEs2azd1R21QUTV5ZVRxMHBJSERscVVCRUd6dW9xOXVXREVnenlQalEzQ2M2UQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 한마음혈액원과 임직원 헌혈 봉사활동 진행",
+          "source": "헬로티",
+          "date": "2026.11.27.(금) 14:23",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51ak01emxCR1BqamRCdFpyU091QTBsT2JMZkVNN0gwSVlOQTh2Y0pMM1BjckEza1JORXR2MzhYZjZiamQ3V2J5WVJ6ZE5lR0p5bGRUM0pLbVVjWkxpRno4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "광주 신현초등학교, 생명을 살리는 소중한 첫걸음, 직접 몸으로 익힌다! 광주소방서 연계 '5학년 심폐소생술 안전교육' 진행",
+          "source": "뉴스라이트",
+          "date": "2026.11.27.(금) 13:50",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PWmRFMVhNX0NlcDhFQnNtazJUZ2RmeEFDT0JGdkRtZHlWZFpvN3lhSmE3UGN5cTdvZ1FnZENoaFRtYXFNSUthb25aTElpQVZZUmlLQ2YtemRsQUw5S1E0?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 단체 헌혈 캠페인 진행···“임직원과 함께하는 따뜻한 나눔“",
+          "source": "이뉴스투데이",
+          "date": "2026.11.27.(금) 12:20",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xSlNmTFBoc08weGtfNkcyc3dkZXVyc2dCRk1FUlZzanRkc0VWZlZuejBkakVyODZJTFZ6MUhjQm9ndWFmLVdEa291VGlXUjhvelBpOEtDRDZWZ09XNEVwZU9BNGMzaFd4T0J0MC16ZFPSAXRBVV95cUxPU0xKenItMElXV1J6b1E2NnZIbUFJcWJFSzRYQ3JRMG82bHJiMjJkUmwtTmJpbnpWa1hIYmxpeFVrZWg5NTNMUGs2YW05d19wa3JZR090c3BVbTV5VGVUdGZQdEZhVTNtQzZsVW55bjBnT2pmMg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 헌혈 캠페인…생명 나눔 실천",
+          "source": "백세시대",
+          "date": "2026.11.27.(금) 11:28",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZNnNKU0FWalBOUXNKbmp1c1ZXVkRJNU1naWRZSTU3YUhMN3NxRHR5bEotU1lRLWtfUWU1Y0VFbkptS2pRaS1WLTktQ3BPenQtNmI5ZTFBaDRPNHJjODhVOFctZmRKTkx3MzRV?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 헌혈 캠페인 진행…\"생명 살리는 따뜻한 나눔\"",
+          "source": "뉴스;트리",
+          "date": "2026.11.27.(금) 10:35",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pVWNfYlJzUDMxTWNyd0JyMGowZmhkdnVmTExvV1ROU2hCdDduTUVPdGExZ0ZrRGlfTGFSUVcxNl9zWW9wZ2ljSV9tUGJzaEtSWDY5b3FmNXoyeWtn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 헌혈 캠페인 진행…헌혈증 기부로 나눔 실천",
+          "source": "이지경제",
+          "date": "2026.11.27.(금) 10:27",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HVkFXZmk1ekI1RTV3ZEpMaldPMHhoZ1Q3aHZmMFdZa0dEQXotbXZEUHJKdHJuYmJJXzNnekMxanhEQTJuRkVQdGJqM3pTVEgzb0pXalk1OTBCbjdrNTZueDd5WS1aaFNTREMyY1Rn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 광진구서 임직원 단체 헌혈…헌혈증 기부",
+          "source": "브릿지경제",
+          "date": "2026.11.27.(금) 10:07",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qa29EMzJNNnE3OEY0WEF3WlhvYzZHZ1F6TmlfbE93cUFGVkRfQnlfZVpwNW9uaTd0Wmkta0pvUW84aFV4NG5JZktVbV9lX0hILV96UV9JZTUwUQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 헌혈 봉사활동 진행",
+          "source": "전자신문",
+          "date": "2026.11.27.(금) 10:06",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SMFZYbTRNWTc3Nl9IV3FMTWxZcFhpdzJuWUdrLV9sdHJhVE9UMF9aSFhjV3Z6dFM0OTBVaWN1elJSYk1RVTVwQnloWUN1UQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 참여 ‘생명나눔 헌혈 캠페인’ 전개",
+          "source": "뉴스케이프",
+          "date": "2026.11.27.(금) 09:52",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMkZHZ2NlbVBObkY4LWZxblpLOWh4TERTQXlUbmZMMGRiVW5oMFpRTUxCLXo3TWs4LWRybnQ0UGwxZEJZNXpKdFFINUxXSUJLRmN1d05VR05ZbjJBbVZUUUVKS0dsTFZYR2sxSTVB0gFwQVVfeXFMT1Z3RXF4OHlWaXlnNGdtTHNOWmQ0ZHVzaDFET05vWmp3cVpKQ3ZjbEdGSVpKR09TTll0VFpUaWdReFYzMmlhMjVhdnJpXzhZM1FsdGxUV1diYVBDVkk0ZFVNWE1SdnI5NDB2Q1hFU3g0Wg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 단체 헌혈 봉사…헌혈증 기부로 나눔 실천",
+          "source": "더트래커",
+          "date": "2026.11.27.(금) 09:40",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qNDdwbHFad1pTb2RlT3lTZDZ2RVNLUGw5VzhKX1JCcHFydXlPV2RrbnMzY09IZ0JtTkhaSkpVczBuMXJ0Tms0X3NkMUZLU01EX3NHNVIzUjI?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 참여 헌혈 봉사활동 진행",
+          "source": "BBS불교방송",
+          "date": "2026.11.27.(금) 09:36",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yX0NMcXlFR2haWG9fUF9zX2ZjWlJzRHlFeksxNExRNm1KclZpTTVQTjBVajA0cmZPb0R5Nlk4Nmh1UFdWYUNETk5KVTlnMldmc0lsZXV6Vk14VXhiSXhadWZaaUtxd21tS1Q4?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 참여 헌혈 캠페인 전개…생명나눔 실천",
+          "source": "스마트경제",
+          "date": "2026.11.27.(금) 09:35",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YNEdRcmVYVjNKVzI0dnVPSnV0R2xnX3ZRUHAxbWxVM0xXNFdvTUUzYUNuTXBZWmVQbkc5NHU4b0xJbjlBNzhROXdqRG9qR0NnSlY2a0F2UnFFVkt5blF3cmVDR2hBb3ZvcmFuSWpJRQ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡, 임직원 참여 단체 헌혈 캠페인 진행…헌혈증 기부 예정",
+          "source": "뉴스드림",
+          "date": "2026.11.27.(금) 09:19",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxMUVBWkNQeU5lQ2RCUlRaYzl3OEU0OVp6RlA5Rkc1SnhDaEphNDJxTUFFb0RiZ2VjTjJSRGpWZGNrTmxmU1E5THFlR01Bc3NRU1NqekRuRndSd1F3TXNWUmN0ZHA3cW02dGZj0gFuQVVfeXFMTkRyb1NKS3c3S0JfcDZvRUlHTDRlX0xoOFFCZ2dodnBYRmMwWlY4TDBiM3Z5WVYtcEc4LVZYWHh0WUZGazFzbjdCN3ZudUQtUUwxaFRvSEhsUzdCc2lPdUM1czl4RWlicnJfSzhnSGc?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "쿠팡 임직원, 단체 헌혈로 생명나눔 실천…헌혈증 기부도 추진",
+          "source": "워크투데이",
+          "date": "2026.11.27.(금) 09:15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VaXZLbUpFX19nZmJTcDF0TlJSdnl6aktiWGtwdHNDaUtHdW1TNHRpM1FIaXdMZjBIZVJDMGd4d0cxaVhieVJyRHJpaU5xZmdLN1NWREtmam95NEJ5aXZDM2ZaT0pzRUFfdVZJSg?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "[ESG] ﻿쿠팡, 임직원 헌혈 캠페인 전개",
+          "source": "비즈니스리포트",
+          "date": "2026.11.27.(금) 09:12",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhZENlMDRHMHdVb19mNmM4eTVvTHRtMDczWHRTeENoVmxxX2owRDYyLXo2czFtUXRUQ09CYklHenE1Ny1jcGtDOGtrTThoLWk2X1YtczBHM0RZTmFMY2FaVEVqcGpleV8yTGY0Wmk1Yw?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "수면·전신마취 중 사망사고…의원급도 '의무보고' 추진",
+          "source": "헬스경향",
+          "date": "2026.11.26.(목) 21:09",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sYXc4Ny1paVNyc2Uxb19sejFRUGwybEU1dC0yRzMzdFJSbzU4TklLNVpoaG4tUjZMUTFSa2trSndMS1F3MXlMa1M2OV9LOEpSRVFzY3J0TnR2TGRRVkt1MHI5eXh6aU9GQllZ?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "모든 의료기관 안전사고 의무보고 '환자기본법' 개정안 발의",
+          "source": "히트뉴스",
+          "date": "2026.11.26.(목) 20:44",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJSk05cFp2aWRXRWtVNmYxbUhkUFZjUXNLR2RSVWdZNDZWZ1pmRUdXaUw3YnVyaFk2bXE1Q1NveUIxTF9wY0xwWU5Kd0hja1Z5U3pTeTNKZTd6WHFDVTlyTEJtWTBNbFdYTGNn?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "소병훈, 수면·전신마취 중 사망사고 의무보고 추진… 의원급 의료기관까지 확대",
+          "source": "OhmyNews",
+          "date": "2026.11.26.(목) 17:28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDVHdLaThqSzBvSnMxSHpTMjZtelR5SUhyTWxMdjBPcFpZeU8yYUFUQ2Q3dzRRaWg1MkFnZ1d2bGV3QndtR2tmNDZRQnRILU9BaUt2RHFUT1RZeTZSUklFTTAtNHQyUlJmYWd1RFlVLVQ3TlRB?oc=5",
+          "region": "national"
+        },
+        {
+          "title": "유한양행, 2026 하반기 헌혈 캠페인 실시",
+          "source": "엠디저널",
+          "date": "2026.11.26.(목) 16:46",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNjlleFVyX0F5RS1yOVpRUU9yOTRXTk5BOG1GQTloMDNrQ3Axd3F1WWktUEpHdmM1Q0tuVHlZNDB6eEd2R09Zb3FFZnhfQzZDTDZ1NlBGeXRUSnJaOE4yU2FVM295UXhFTFE?oc=5",
+          "region": "national"
+        }
+      ],
+      "error": null
     }
   }
 }
